@@ -60,6 +60,7 @@ Combina las dos colecciones tipo Zotero en las listas
 
 Algunas inconsistencias:
 
+- Google API Forums envía a página de Contenido no disponible
 - No funciona combinar el filtro full con el filtro inauthor
 - En la búsqueda de web la búsqueda "inauthor:"Domingo+Faustino+Sarmiento"" muestra 74 resultados, pero la API:
  - No muestra el total de items de la búsqueda sino un número que parece arbitrario, 1000000
@@ -129,3 +130,15 @@ https://query.wikidata.org/
 #### URL dinámica para los records que tienen opción de "compra gratis" pero que dicen pdf = false
 
 https://books.google.com/books/download/[TITLE].pdf?id=[VOLUME_ID]&output=pdf
+
+#### Librería Python oficial de Google discovery API's
+
+https://github.com/googleapis/google-api-python-client
+
+# README.md notes
+
+## Setup
+1. Get API key from Bitwarden
+2. Store in password manager
+3. Create `.env` file: `API_KEY=your_key_here`
+
