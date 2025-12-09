@@ -93,6 +93,22 @@ class GoogleBooksToZoteroParser:
         # Fall back to infoLink
         return volume_info.get('infoLink', '')
     
+    def should_include_item(self, item: Dict) -> bool:
+        """Check if item meets inclusion criteria."""
+        access_info = item.get('accessInfo', {})
+        sale_info = item.get('saleInfo', {})
+        
+        # Check condition 1: PDF is available
+        pdf_info = access_info.get('pdf', {})
+        pdf_available = pdf_info.get('isAvailable', False)
+        
+        # Check condition 2: Saleability is FREE
+        saleability = sale_info.get('saleability', '')
+        is_free = saleability.upper() == 'FREE'
+        
+        # Include item if either condition is met
+        return pdf_available or is_free
+    
     def parse_item(self, item: Dict, index: int) -> Dict[str, str]:
         """Parse a single Google Books item to Zotero format."""
         volume_info = item.get('volumeInfo', {})
@@ -125,7 +141,7 @@ class GoogleBooksToZoteroParser:
             "ISSN": "",
             "DOI": "",
             "Url": self.get_url(item),
-            "Abstract Note": "",  # CHANGED: Leave empty
+            "Abstract Note": "",
             "Date": year,
             "Date Added": current_time,
             "Date Modified": current_time,
@@ -151,7 +167,7 @@ class GoogleBooksToZoteroParser:
             "Library Catalog": "",
             "Call Number": "",
             "Extra": "Venezuela",
-            "Notes": volume_info.get('description', ''),  # CHANGED: Map description to Notes
+            "Notes": volume_info.get('description', ''),
             "File Attachments": volume_info.get('imageLinks', {}).get('thumbnail', ''),
             "Link Attachments": "",
             "Manual Tags": "",
@@ -212,16 +228,25 @@ class GoogleBooksToZoteroParser:
         with open(json_file_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
         
-        # Parse all items
+        # Parse all items, filtering by criteria
         items = data.get('items', [])
         records = []
+        included_count = 0
+        excluded_count = 0
         
         for i, item in enumerate(items):
             try:
-                record = self.parse_item(item, i)
-                records.append(record)
+                # Check if item meets inclusion criteria
+                if self.should_include_item(item):
+                    record = self.parse_item(item, i)
+                    records.append(record)
+                    included_count += 1
+                else:
+                    excluded_count += 1
+                    print(f"Excluding item {i}: Doesn't meet PDF available or free saleability criteria")
             except Exception as e:
                 print(f"Error parsing item {i}: {e}")
+                excluded_count += 1
                 continue
         
         # Write to CSV with quoting to match the model
@@ -233,8 +258,9 @@ class GoogleBooksToZoteroParser:
             writer.writeheader()
             writer.writerows(records)
         
-        print(f"Successfully parsed {len(records)} items to {csv_file_path}")
-        return len(records)
+        print(f"Successfully parsed {included_count} items to {csv_file_path}")
+        print(f"Excluded {excluded_count} items that didn't meet criteria")
+        return included_count
 
 
 # Usage example
@@ -242,8 +268,8 @@ if __name__ == "__main__":
     parser = GoogleBooksToZoteroParser()
     
     # Example usage
-    input_json = "raw_gbooks_data/Francisco_de_Miranda-27068875-CONSOLIDATED_test.json"
-    output_csv = "zotero_output1.csv"
+    input_json = "raw_gbooks_data/Francisco_de_Miranda-27068875-CONSOLIDATED.json"
+    output_csv = "zotero_output.csv"
     
     # Parse the data
     count = parser.parse_json_to_csv(input_json, output_csv)
