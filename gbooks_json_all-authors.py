@@ -7,7 +7,7 @@ from datetime import datetime
 
 # ================= CONFIGURATION =================
 API_KEY = os.environ.get('GOOGLE_BOOKS_API_KEY')
-INPUT_JSON_FILE = 'venezuelan_authors_test.json'
+INPUT_JSON_FILE = 'venezuelan_authors.json'
 OUTPUT_BASE_DIR = 'raw_gbooks_data'
 DELAY_BETWEEN_AUTHORS = 5  # Seconds to wait after finishing one author
 DELAY_BETWEEN_PAGES = 0.3  # Seconds to wait between pagination requests for one author

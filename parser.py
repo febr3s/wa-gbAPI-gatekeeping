@@ -125,8 +125,8 @@ class GoogleBooksToZoteroParser:
             "ISSN": "",
             "DOI": "",
             "Url": self.get_url(item),
-            "Abstract Note": volume_info.get('description', ''),
-            "Date": year,  # Only year for Date field
+            "Abstract Note": "",  # CHANGED: Leave empty
+            "Date": year,
             "Date Added": current_time,
             "Date Modified": current_time,
             "Access Date": "",
@@ -151,7 +151,7 @@ class GoogleBooksToZoteroParser:
             "Library Catalog": "",
             "Call Number": "",
             "Extra": "Venezuela",
-            "Notes": "",
+            "Notes": volume_info.get('description', ''),  # CHANGED: Map description to Notes
             "File Attachments": volume_info.get('imageLinks', {}).get('thumbnail', ''),
             "Link Attachments": "",
             "Manual Tags": "",
@@ -242,8 +242,8 @@ if __name__ == "__main__":
     parser = GoogleBooksToZoteroParser()
     
     # Example usage
-    input_json = "raw_gbooks_data/Francisco_de_Miranda-27068875-CONSOLIDATED.json"
-    output_csv = "zotero_output.csv"
+    input_json = "raw_gbooks_data/Francisco_de_Miranda-27068875-CONSOLIDATED_test.json"
+    output_csv = "zotero_output1.csv"
     
     # Parse the data
     count = parser.parse_json_to_csv(input_json, output_csv)

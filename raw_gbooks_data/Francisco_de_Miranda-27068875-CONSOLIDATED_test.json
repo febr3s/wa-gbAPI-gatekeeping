@@ -1,0 +1,214 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20de%20Miranda\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20de%20Miranda\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20de%20Miranda\"&maxResults=20&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20de%20Miranda\"&maxResults=20&startIndex=40&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20de%20Miranda\"&maxResults=20&startIndex=60&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20de%20Miranda\"&maxResults=20&startIndex=80&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20de%20Miranda\"&maxResults=20&startIndex=100&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20de%20Miranda\"&maxResults=20&startIndex=120&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20de%20Miranda\"&maxResults=20&startIndex=140&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20de%20Miranda\"&maxResults=16&startIndex=140&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 156,
+  "_totalRequestsMade": 8,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ew55Oi_pUisC",
+      "etag": "7iOj9mXLdEc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ew55Oi_pUisC",
+      "volumeInfo": {
+        "title": "Escritos",
+        "authors": [
+          "Francisco de Miranda"
+        ],
+        "publisher": "Biblioteca Cervantes Virtual",
+        "description": "En esta obra se reúnen diversos textos de Francisco de Miranda, como la carta dirigida al rey Carlos III en 1785, la proclama fechada en Coro a 2 de agosto de 1806 (dirigida a los habitantes del continente americano) o la carta dirigida al ilustre cabildo y ayuntamiento de la ciudad de Buenos Aires en octubre de 1808.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788415348146"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8415348142"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 25,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ew55Oi_pUisC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ew55Oi_pUisC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ew55Oi_pUisC&printsec=frontcover&dq=inauthor:%22Francisco+de+Miranda%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ew55Oi_pUisC&dq=inauthor:%22Francisco+de+Miranda%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Escritos.html?hl=&id=ew55Oi_pUisC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Escritos-sample-epub.acsm?id=ew55Oi_pUisC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Escritos-sample-pdf.acsm?id=ew55Oi_pUisC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ew55Oi_pUisC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En esta obra se reúnen diversos textos de Francisco de Miranda, como la carta dirigida al rey Carlos III en 1785, la proclama fechada en Coro a 2 de agosto de 1806 (dirigida a los habitantes del continente americano) o la carta dirigida al ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G8dmAAAAMAAJ",
+      "etag": "2nD9piYXc2o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G8dmAAAAMAAJ",
+      "volumeInfo": {
+        "title": "El Colombiano de Francisco de Miranda y dos documentos americanistas",
+        "authors": [
+          "Pedro Grases"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173022966187"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "categories": [
+          "Colombiano"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=G8dmAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=G8dmAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=G8dmAAAAMAAJ&dq=inauthor:%22Francisco+de+Miranda%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=G8dmAAAAMAAJ&dq=inauthor:%22Francisco+de+Miranda%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Colombiano_de_Francisco_de_Miranda_y.html?hl=&id=G8dmAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G8dmAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9v0zQwAACAAJ",
+      "etag": "mLBII1pAhb4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9v0zQwAACAAJ",
+      "volumeInfo": {
+        "title": "Francisco de Miranda",
+        "subtitle": "el Precursor",
+        "authors": [
+          "Francisco Martínez Hoyos",
+          "Francisco de Miranda"
+        ],
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8484611280"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788484611288"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 189,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9v0zQwAACAAJ&dq=inauthor:%22Francisco+de+Miranda%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9v0zQwAACAAJ&dq=inauthor:%22Francisco+de+Miranda%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Francisco_de_Miranda.html?hl=&id=9v0zQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9v0zQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}
