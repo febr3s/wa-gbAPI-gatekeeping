@@ -135,6 +135,23 @@ https://books.google.com/books/download/[TITLE].pdf?id=[VOLUME_ID]&output=pdf
 
 https://github.com/googleapis/google-api-python-client
 
+##### json > csv equivalencies
+
+
+json > csv equivalencies
+
+volumeInfo:		authors:	> Author (separate with ; if it is more than one value)
+			language:	> Language
+			title: subtitle > Title (separate title and subtitle with :)
+			pageCount:	> NumPages
+			publishedDate:	> Date
+			thumbnail	> File Attachments
+			publisher	> publisher
+pdf:			downloadLink	> Url
+saleInfo:		buyLink		> Url (only if it says "pdf": { "isAvailable": false)
+		
+		
+
 # README.md notes
 
 ## Setup
