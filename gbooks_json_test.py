@@ -2,6 +2,7 @@ import os
 import requests
 import json
 from urllib.parse import quote
+import time  # For adding a delay between requests
 
 # 1. LOAD API KEY
 API_KEY = os.environ.get('GOOGLE_BOOKS_API_KEY')
@@ -22,87 +23,120 @@ except (KeyError, IndexError):
     print("ERROR: Could not find the third author's data in the JSON file.")
     exit()
 
-# 3. BASE URL COMPONENTS
+# 3. BASE SETUP
 encoded_author = quote(author_name)
+safe_name = author_name.replace(' ', '_')
 output_dir = 'raw_gbooks_data'
 os.makedirs(output_dir, exist_ok=True)
-safe_name = author_name.replace(' ', '_')
 
-# 4. PAGINATION LOGIC
+# 4. PAGINATION LOGIC - SINGLE FILE OUTPUT
+all_items = []
 max_results = 20
 start_index = 0
-request_count = 1
-all_files_exported = False
+request_count = 0
+request_urls = []  # To log all URLs, including rescue requests
+first_request_url = None
+initial_total_estimate = 0
 
-def save_data_file(data_to_save, count):
-    filename_counted = f"{output_dir}/{safe_name}-{author_viaf} ({count}).json"
-    with open(filename_counted, 'w', encoding='utf-8') as f:
-        json.dump(data_to_save, f, indent=2, ensure_ascii=False)
-    print(f"✅ Batch {count} saved to: {filename_counted}")
-    print(f"   Items in this batch: {len(data_to_save.get('items', []))}")
+print(f"Starting consolidated fetch for author: {author_name}")
+print("=" * 50)
 
-while not all_files_exported:
+while True:
+    request_count += 1
+    
     # Build the URL for the current request
     current_url = f'https://www.googleapis.com/books/v1/volumes?q=inauthor:"{encoded_author}"&maxResults={max_results}&startIndex={start_index}&key={API_KEY}'
+    request_urls.append(current_url)
     
-    print(f"\n--- Request #{request_count} (startIndex={start_index}) ---")
-    print(f"Requesting: {current_url[:100]}...")
+    if first_request_url is None:
+        first_request_url = current_url
     
-    response = requests.get(current_url)
-    current_data = response.json()
-    current_data['getRequest'] = current_url
+    print(f"Request #{request_count}: startIndex={start_index}")
     
-    current_total_items = current_data.get('totalItems', 0)
-    current_items_list = current_data.get('items', [])
-    current_items_count = len(current_items_list)
+    # Make the request with basic error handling
+    try:
+        response = requests.get(current_url)
+        response.raise_for_status()  # Raise an error for bad status codes (4xx, 5xx)
+        current_data = response.json()
+    except requests.exceptions.RequestException as e:
+        print(f"   ⚠️ Request failed: {e}. Skipping this batch.")
+        break  # Or implement a retry logic here
     
-    # RULE: If totalItems is 0, save and finish.
-    if current_total_items == 0:
-        print("   'totalItems' is 0.")
-        current_data['totalItems'] = 0
-        save_data_file(current_data, request_count)
-        print("Process finished (no results).")
-        all_files_exported = True
+    current_total_estimate = current_data.get('totalItems', 0)
+    current_items = current_data.get('items', [])
+    fetched_count = len(current_items)
+    
+    # Save the initial totalItems estimate from the very first response
+    if request_count == 1:
+        initial_total_estimate = current_total_estimate
+    
+    # TERMINATION RULE 1: totalItems is 0
+    if current_total_estimate == 0:
+        print("   'totalItems' is 0. Stopping.")
         break
     
-    # RULE: Handle Outcome 1 - Total items less than max results.
-    if current_total_items < max_results:
-        print(f"   'totalItems' ({current_total_items}) < 'maxResults' ({max_results}).")
-        print("   Making final request for remaining items...")
+    # BUG WORKAROUND: Items list is empty but totalItems > 0
+    if fetched_count == 0 and current_total_estimate > 0:
+        print(f"   ⚠️ BUG: No 'items' but 'totalItems'={current_total_estimate}. Attempting rescue...")
         
-        final_url = f'https://www.googleapis.com/books/v1/volumes?q=inauthor:"{encoded_author}"&maxResults={current_total_items}&startIndex={start_index}&key={API_KEY}'
-        final_response = requests.get(final_url)
-        final_data = final_response.json()
-        final_data['getRequest'] = final_url
-        final_data['totalItems'] = len(final_data.get('items', []))
+        # RESCUE REQUEST: Use totalItems as maxResults for this startIndex
+        rescue_url = f'https://www.googleapis.com/books/v1/volumes?q=inauthor:"{encoded_author}"&maxResults={current_total_estimate}&startIndex={start_index}&key={API_KEY}'
+        request_urls.append(rescue_url)  # Log the rescue attempt
+        print(f"   Rescue request: maxResults={current_total_estimate}")
         
-        save_data_file(final_data, request_count)
-        print("Process finished (final batch retrieved).")
-        all_files_exported = True
+        try:
+            rescue_response = requests.get(rescue_url)
+            rescue_data = rescue_response.json()
+            rescue_items = rescue_data.get('items', [])
+            
+            if rescue_items:
+                print(f"   ✓ Rescue successful, adding {len(rescue_items)} items.")
+                all_items.extend(rescue_items)
+            else:
+                print("   ✗ Rescue also returned no items.")
+        except requests.exceptions.RequestException as e:
+            print(f"   ✗ Rescue request failed: {e}")
+        
+        # After a rescue attempt (successful or not), this is the end.
         break
     
-    # RULE: Handle Outcome 2 - Items are present.
-    if current_items_count > 0:
-        current_data['totalItems'] = current_items_count
-        save_data_file(current_data, request_count)
-        
-        request_count += 1
-        start_index += max_results
-    else:
-        # Case where items list is empty but totalItems > 0.
-        print(f"   No 'items' in response, but 'totalItems' is {current_total_items}.")
-        print("   Skipping file export and moving to final batch logic...")
-        
-        print("   Making final request using 'totalItems' as maxResults...")
-        final_url = f'https://www.googleapis.com/books/v1/volumes?q=inauthor:"{encoded_author}"&maxResults={current_total_items}&startIndex={start_index}&key={API_KEY}'
-        final_response = requests.get(final_url)
-        final_data = final_response.json()
-        final_data['getRequest'] = final_url
-        final_data['totalItems'] = len(final_data.get('items', []))
-        
-        save_data_file(final_data, request_count)
-        print("Process finished (final batch retrieved after empty response).")
-        all_files_exported = True
+    # NORMAL CASE: Items were received
+    if fetched_count > 0:
+        print(f"   ✓ Fetched {fetched_count} items.")
+        all_items.extend(current_items)
+    
+    # TERMINATION RULE 2: Natural end of results (partial page)
+    if fetched_count < max_results:
+        print(f"   Partial page received. Assuming end of results.")
         break
+    
+    # PREPARE FOR NEXT ITERATION
+    start_index += max_results
+    
+    # Small delay to be polite to the API and avoid rate limits
+    time.sleep(0.1)
 
-print(f"\n🎯 All pages processed. Exported {request_count} file(s).")
+# 5. CREATE FINAL CONSOLIDATED DATA STRUCTURE
+print("\n" + "=" * 50)
+print("Building final consolidated output...")
+
+final_data = {
+    "getRequest": first_request_url,  # The very first request URL
+    "_requestUrls": request_urls,     # List of ALL URLs tried (for debugging)
+    "_totalQueriedItems": initial_total_estimate,  # totalItems from first response
+    "_totalFetchedItems": len(all_items),  # Actual number of items collected
+    "_totalRequestsMade": request_count,
+    "_batchSizeUsed": max_results,
+    "items": all_items  # All items from all successful batches
+}
+
+# 6. SAVE SINGLE OUTPUT FILE
+final_filename = f"{output_dir}/{safe_name}-{author_viaf}-CONSOLIDATED.json"
+with open(final_filename, 'w', encoding='utf-8') as f:
+    json.dump(final_data, f, indent=2, ensure_ascii=False)
+
+print(f"✅ FINAL FILE SAVED: {final_filename}")
+print(f"   Initial API estimate: {initial_total_estimate} items")
+print(f"   Successfully fetched: {len(all_items)} items")
+print(f"   Total HTTP requests: {request_count}")
+print("=" * 50)
