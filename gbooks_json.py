@@ -17,7 +17,7 @@ with open('venezuelan_authors_test.json', 'r', encoding='utf-8') as f:
 try:
     target_author = author_data['results']['bindings'][2]
     author_name = target_author['authorLabel']['value']
-    author_viaf = target_author.get('viaf', {}).get('value', 'NO_VIAF')  # Get VIAF or default
+    author_viaf = target_author.get('viaf', {}).get('value', 'NO_VIAF')
 except (KeyError, IndexError):
     print("ERROR: Could not find the third author's data in the JSON file.")
     exit()
@@ -31,17 +31,20 @@ print(f"Searching for author: {author_name}")
 response = requests.get(url)
 data = response.json()
 
-# 5. SAVE RAW RESPONSE TO FILE
-# Create directory if it doesn't exist
+# 5. ADD REQUEST URI AND ACTUAL ITEM COUNT
+data['getRequest'] = url  # Add just the URI string
+data['totalItems'] = len(data.get('items', []))
+
+# 6. SAVE RAW RESPONSE TO FILE
 output_dir = 'raw_gbooks_data'
 os.makedirs(output_dir, exist_ok=True)
 
-# Create a safe filename (replace spaces with underscores)
 safe_name = author_name.replace(' ', '_')
 filename = f"{output_dir}/{safe_name}-{author_viaf}.json"
 
 with open(filename, 'w', encoding='utf-8') as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
 
+# 7. PRINT CONFIRMATION
 print(f"✅ Raw data saved to: {filename}")
-print(f"   Total items found by API: {data.get('totalItems', 0)}")
+print(f"   Items in the saved file: {data['totalItems']}")

@@ -17,7 +17,7 @@ with open('venezuelan_authors_test.json', 'r', encoding='utf-8') as f:
 try:
     target_author = author_data['results']['bindings'][2]
     author_name = target_author['authorLabel']['value']
-    author_viaf = target_author.get('viaf', {}).get('value', 'NO_VIAF')  # Get VIAF or default
+    author_viaf = target_author.get('viaf', {}).get('value', 'NO_VIAF')
 except (KeyError, IndexError):
     print("ERROR: Could not find the third author's data in the JSON file.")
     exit()
@@ -29,19 +29,31 @@ url = f'https://www.googleapis.com/books/v1/volumes?q=inauthor:"{encoded_author}
 # 4. MAKE THE REQUEST
 print(f"Searching for author: {author_name}")
 response = requests.get(url)
-data = response.json()
+api_data = response.json()
 
-# 5. SAVE RAW RESPONSE TO FILE
-# Create directory if it doesn't exist
+# 5. CREATE NEW ORDERED DICTIONARY WITH getRequest FIRST
+final_data = {}
+final_data['getRequest'] = url
+final_data['kind'] = api_data.get('kind')
+final_data['totalItems'] = len(api_data.get('items', []))
+final_data['items'] = api_data.get('items', [])
+# Copy any other remaining fields
+for key, value in api_data.items():
+    if key not in final_data:
+        final_data[key] = value
+
+# 6. SAVE TO FILE - Using json.dumps with ensure_ascii=False
 output_dir = 'raw_gbooks_data'
 os.makedirs(output_dir, exist_ok=True)
 
-# Create a safe filename (replace spaces with underscores)
 safe_name = author_name.replace(' ', '_')
 filename = f"{output_dir}/{safe_name}-{author_viaf}.json"
 
 with open(filename, 'w', encoding='utf-8') as f:
-    json.dump(data, f, indent=2, ensure_ascii=False)
+    # json.dumps with ensure_ascii=False prevents escape sequences for quotes in URL
+    json_string = json.dumps(final_data, indent=2, ensure_ascii=False)
+    f.write(json_string)
 
+# 7. PRINT CONFIRMATION
 print(f"✅ Raw data saved to: {filename}")
-print(f"   Total items found by API: {data.get('totalItems', 0)}")
+print(f"   Items in the saved file: {final_data['totalItems']}")
