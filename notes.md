@@ -76,7 +76,7 @@ Algunas inconsistencias:
 ```
 SELECT DISTINCT ?author ?authorLabel ?date_of_death WHERE {
   ?author wdt:P31 wd:Q5;               # Instance of human
-          wdt:P27 wd:Q717;              # Country of citizenship (Vwnwzuela)
+          wdt:P27 wd:Q717;              # Country of citizenship (Venezuela)
           wdt:P570 ?date_of_death.     # Date of death
   FILTER(?date_of_death < "1965-01-01"^^xsd:dateTime)
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
