@@ -1,5 +1,6 @@
 import json
 import csv
+import re
 from datetime import datetime
 from typing import List, Dict, Any
 
@@ -80,11 +81,38 @@ class GoogleBooksToZoteroParser:
         
         return ""
     
+    def create_title_slug(self, title: str) -> str:
+        """Convert title to a slug for the PDF URL."""
+        if not title:
+            return ""
+        
+        # Convert to lowercase
+        slug = title.lower()
+        
+        # Replace spaces with underscores
+        slug = slug.replace(' ', '_')
+        
+        # Remove or replace special characters
+        slug = re.sub(r'[^\w\s-]', '', slug)  # Remove non-alphanumeric except spaces and hyphens
+        slug = re.sub(r'[-\s]+', '_', slug)   # Replace spaces and multiple hyphens with underscore
+        
+        # Remove leading/trailing underscores
+        slug = slug.strip('_')
+        
+        # Limit length (optional, but good for URLs)
+        if len(slug) > 100:
+            slug = slug[:100]
+        
+        return slug
+    
     def get_url(self, item: Dict) -> str:
         """Get URL based on availability."""
         volume_info = item.get('volumeInfo', {})
         access_info = item.get('accessInfo', {})
         sale_info = item.get('saleInfo', {})
+        
+        # Get volume ID
+        volume_id = item.get('id', '')
         
         # Check if PDF is available AND has downloadLink
         pdf_info = access_info.get('pdf', {})
@@ -99,11 +127,18 @@ class GoogleBooksToZoteroParser:
         if pdf_available and has_download_link:
             return pdf_info.get('downloadLink', '')
         
-        # Case 2: Saleability is FREE (PDF can be available or not)
-        elif is_free:
-            return sale_info.get('buyLink', volume_info.get('infoLink', ''))
+        # Case 2: PDF is FALSE but saleability is FREE - compose special URL
+        elif not pdf_available and is_free:
+            title = volume_info.get('title', '')
+            title_slug = self.create_title_slug(title)
+            
+            if title_slug and volume_id:
+                return f"https://books.google.com/books/download/{title_slug}.pdf?id={volume_id}&output=pdf"
+            else:
+                # Fallback to buyLink or infoLink
+                return sale_info.get('buyLink', volume_info.get('infoLink', ''))
         
-        # Case 3: Default (shouldn't reach here if filtering is correct)
+        # Case 3: Shouldn't reach here if filtering is correct, but provide fallback
         return volume_info.get('infoLink', '')
     
     def should_include_item(self, item: Dict, debug: bool = False) -> bool:

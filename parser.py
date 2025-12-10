@@ -130,6 +130,23 @@ class GoogleBooksToZoteroParser:
         # Include item if: (PDF available AND has downloadLink) OR (saleability is FREE)
         return (pdf_available and has_download_link) or is_free
     
+    def is_match(self, item: Dict, debug: bool = False) -> bool:
+        """
+        Check if item is a match - author must contain "Francisco de Miranda".
+        Other authors can also be present.
+        """
+        volume_info = item.get('volumeInfo', {})
+        authors = volume_info.get('authors', [])
+        
+        # Check if "Francisco de Miranda" is in the authors list
+        is_match = "Francisco de Miranda" in authors
+        
+        if debug:
+            print(f"  Authors: {authors}")
+            print(f"  Contains 'Francisco de Miranda': {is_match}")
+        
+        return is_match
+    
     def parse_item(self, item: Dict, index: int) -> Dict[str, str]:
         """Parse a single Google Books item to Zotero format."""
         volume_info = item.get('volumeInfo', {})
@@ -242,16 +259,16 @@ class GoogleBooksToZoteroParser:
         
         return record
     
-    def parse_json_to_csv(self, json_file_path: str, csv_file_path: str, debug: bool = False):
-        """Main function to parse JSON file and create CSV output."""
+    def parse_json_to_csv(self, json_file_path: str, matches_csv_path: str, non_matches_csv_path: str, debug: bool = False):
+        """Main function to parse JSON file and create two CSV outputs."""
         # Read JSON file
         with open(json_file_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
         
         # Parse all items, filtering by criteria
         items = data.get('items', [])
-        records = []
-        included_count = 0
+        matches_records = []
+        non_matches_records = []
         excluded_count = 0
         
         for i, item in enumerate(items):
@@ -261,10 +278,13 @@ class GoogleBooksToZoteroParser:
                 if debug:
                     print(f"\nChecking item {i}: {title}")
                 
-                # Check if item meets inclusion criteria
+                # First check: Does it meet inclusion criteria?
                 include_item = self.should_include_item(item, debug)
                 
                 if include_item:
+                    # Second check: Is it a match?
+                    is_a_match = self.is_match(item, debug)
+                    
                     record = self.parse_item(item, i)
                     
                     if debug:
@@ -275,30 +295,45 @@ class GoogleBooksToZoteroParser:
                         print(f"  Saleability FREE: {sale_info.get('saleability', '').upper() == 'FREE'}")
                         print(f"  Selected URL: {record['Url'][:100]}..." if len(record['Url']) > 100 else f"  Selected URL: {record['Url']}")
                     
-                    records.append(record)
-                    included_count += 1
+                    # Categorize based on match status
+                    if is_a_match:
+                        matches_records.append(record)
+                        if debug:
+                            print(f"  → ADDED TO MATCHES")
+                    else:
+                        non_matches_records.append(record)
+                        if debug:
+                            print(f"  → ADDED TO NON-MATCHES")
                 else:
                     if debug:
-                        print(f"  EXCLUDED - Doesn't meet criteria")
+                        print(f"  → EXCLUDED - Doesn't meet inclusion criteria")
                     excluded_count += 1
             except Exception as e:
                 print(f"Error parsing item {i}: {e}")
                 excluded_count += 1
                 continue
         
-        # Write to CSV with quoting to match the model
-        with open(csv_file_path, 'w', newline='', encoding='utf-8') as f:
-            # Use QUOTE_ALL to quote all fields
+        # Write matches to CSV
+        with open(matches_csv_path, 'w', newline='', encoding='utf-8') as f:
             writer = csv.DictWriter(f, fieldnames=self.csv_headers, 
                                    quoting=csv.QUOTE_ALL, 
                                    quotechar='"')
             writer.writeheader()
-            writer.writerows(records)
+            writer.writerows(matches_records)
+        
+        # Write non-matches to CSV
+        with open(non_matches_csv_path, 'w', newline='', encoding='utf-8') as f:
+            writer = csv.DictWriter(f, fieldnames=self.csv_headers, 
+                                   quoting=csv.QUOTE_ALL, 
+                                   quotechar='"')
+            writer.writeheader()
+            writer.writerows(non_matches_records)
         
         print(f"\n=== SUMMARY ===")
-        print(f"Successfully parsed {included_count} items to {csv_file_path}")
-        print(f"Excluded {excluded_count} items that didn't meet criteria")
-        return included_count
+        print(f"Matches: {len(matches_records)} items → {matches_csv_path}")
+        print(f"Non-matches: {len(non_matches_records)} items → {non_matches_csv_path}")
+        print(f"Excluded: {excluded_count} items (didn't meet inclusion criteria)")
+        return len(matches_records), len(non_matches_records)
 
 
 # Usage example
@@ -307,8 +342,11 @@ if __name__ == "__main__":
     
     # Example usage - add debug=True to see what's happening
     input_json = "raw_gbooks_data/Francisco_de_Miranda-27068875-CONSOLIDATED.json"
-    output_csv = "zotero_output.csv"
+    matches_csv = "matches_output.csv"
+    non_matches_csv = "non_matches_output.csv"
     
     # Parse the data with debugging
-    count = parser.parse_json_to_csv(input_json, output_csv, debug=True)
-    print(f"Processed {count} records")
+    match_count, non_match_count = parser.parse_json_to_csv(
+        input_json, matches_csv, non_matches_csv, debug=True
+    )
+    print(f"Processed {match_count} matches and {non_match_count} non-matches")
