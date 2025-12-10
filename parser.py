@@ -81,38 +81,58 @@ class GoogleBooksToZoteroParser:
         return ""
     
     def get_url(self, item: Dict) -> str:
-        """Get URL from pdf downloadLink or infoLink."""
+        """Get URL based on availability."""
         volume_info = item.get('volumeInfo', {})
         access_info = item.get('accessInfo', {})
+        sale_info = item.get('saleInfo', {})
         
-        # Check if PDF is available
+        # Check if PDF is available AND has downloadLink
         pdf_info = access_info.get('pdf', {})
-        if pdf_info.get('isAvailable') and 'downloadLink' in pdf_info:
+        pdf_available = pdf_info.get('isAvailable', False)
+        has_download_link = 'downloadLink' in pdf_info
+        
+        # Check saleability
+        saleability = sale_info.get('saleability', '')
+        is_free = saleability.upper() == 'FREE'
+        
+        # Case 1: PDF available with downloadLink
+        if pdf_available and has_download_link:
             return pdf_info.get('downloadLink', '')
         
-        # Fall back to infoLink
+        # Case 2: Saleability is FREE (PDF can be available or not)
+        elif is_free:
+            return sale_info.get('buyLink', volume_info.get('infoLink', ''))
+        
+        # Case 3: Default (shouldn't reach here if filtering is correct)
         return volume_info.get('infoLink', '')
     
-    def should_include_item(self, item: Dict) -> bool:
+    def should_include_item(self, item: Dict, debug: bool = False) -> bool:
         """Check if item meets inclusion criteria."""
         access_info = item.get('accessInfo', {})
         sale_info = item.get('saleInfo', {})
         
-        # Check condition 1: PDF is available
+        # Check condition 1: PDF is available AND has downloadLink
         pdf_info = access_info.get('pdf', {})
         pdf_available = pdf_info.get('isAvailable', False)
+        has_download_link = 'downloadLink' in pdf_info
         
         # Check condition 2: Saleability is FREE
         saleability = sale_info.get('saleability', '')
         is_free = saleability.upper() == 'FREE'
         
-        # Include item if either condition is met
-        return pdf_available or is_free
+        if debug:
+            print(f"  PDF isAvailable: {pdf_available}")
+            print(f"  Has downloadLink: {has_download_link}")
+            print(f"  Saleability: '{saleability}'")
+            print(f"  Is FREE: {is_free}")
+            print(f"  Should include: {(pdf_available and has_download_link) or is_free}")
+        
+        # Include item if: (PDF available AND has downloadLink) OR (saleability is FREE)
+        return (pdf_available and has_download_link) or is_free
     
     def parse_item(self, item: Dict, index: int) -> Dict[str, str]:
         """Parse a single Google Books item to Zotero format."""
         volume_info = item.get('volumeInfo', {})
-        access_info = item.get('accessInfo', {})
         
         # Format title with subtitle
         title = volume_info.get('title', '')
@@ -222,7 +242,7 @@ class GoogleBooksToZoteroParser:
         
         return record
     
-    def parse_json_to_csv(self, json_file_path: str, csv_file_path: str):
+    def parse_json_to_csv(self, json_file_path: str, csv_file_path: str, debug: bool = False):
         """Main function to parse JSON file and create CSV output."""
         # Read JSON file
         with open(json_file_path, 'r', encoding='utf-8') as f:
@@ -236,14 +256,31 @@ class GoogleBooksToZoteroParser:
         
         for i, item in enumerate(items):
             try:
+                title = item.get('volumeInfo', {}).get('title', f'Item {i}')
+                
+                if debug:
+                    print(f"\nChecking item {i}: {title}")
+                
                 # Check if item meets inclusion criteria
-                if self.should_include_item(item):
+                include_item = self.should_include_item(item, debug)
+                
+                if include_item:
                     record = self.parse_item(item, i)
+                    
+                    if debug:
+                        access_info = item.get('accessInfo', {})
+                        pdf_info = access_info.get('pdf', {})
+                        sale_info = item.get('saleInfo', {})
+                        print(f"  PDF available with downloadLink: {pdf_info.get('isAvailable', False) and 'downloadLink' in pdf_info}")
+                        print(f"  Saleability FREE: {sale_info.get('saleability', '').upper() == 'FREE'}")
+                        print(f"  Selected URL: {record['Url'][:100]}..." if len(record['Url']) > 100 else f"  Selected URL: {record['Url']}")
+                    
                     records.append(record)
                     included_count += 1
                 else:
+                    if debug:
+                        print(f"  EXCLUDED - Doesn't meet criteria")
                     excluded_count += 1
-                    print(f"Excluding item {i}: Doesn't meet PDF available or free saleability criteria")
             except Exception as e:
                 print(f"Error parsing item {i}: {e}")
                 excluded_count += 1
@@ -258,6 +295,7 @@ class GoogleBooksToZoteroParser:
             writer.writeheader()
             writer.writerows(records)
         
+        print(f"\n=== SUMMARY ===")
         print(f"Successfully parsed {included_count} items to {csv_file_path}")
         print(f"Excluded {excluded_count} items that didn't meet criteria")
         return included_count
@@ -267,10 +305,10 @@ class GoogleBooksToZoteroParser:
 if __name__ == "__main__":
     parser = GoogleBooksToZoteroParser()
     
-    # Example usage
+    # Example usage - add debug=True to see what's happening
     input_json = "raw_gbooks_data/Francisco_de_Miranda-27068875-CONSOLIDATED.json"
     output_csv = "zotero_output.csv"
     
-    # Parse the data
-    count = parser.parse_json_to_csv(input_json, output_csv)
+    # Parse the data with debugging
+    count = parser.parse_json_to_csv(input_json, output_csv, debug=True)
     print(f"Processed {count} records")
