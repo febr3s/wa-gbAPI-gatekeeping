@@ -1,0 +1,78 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Laudelino%20Mej%C3%ADas\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Laudelino%20Mej%C3%ADas\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "PdxbAAAAMAAJ",
+      "etag": "KCXVP/VIXco",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PdxbAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Remembranzas sobre el músico trujillano Laudelino Mejías",
+        "authors": [
+          "Laudelino Mejías",
+          "Gilberto Mejías Palazzi"
+        ],
+        "publisher": "Ediciones del Congreso de La Republica",
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173007416839"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "categories": [
+          "Band music"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PdxbAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PdxbAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PdxbAAAAMAAJ&dq=inauthor:%22Laudelino+Mej%C3%ADas%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PdxbAAAAMAAJ&dq=inauthor:%22Laudelino+Mej%C3%ADas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Remembranzas_sobre_el_m%C3%BAsico_trujillano.html?hl=&id=PdxbAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PdxbAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

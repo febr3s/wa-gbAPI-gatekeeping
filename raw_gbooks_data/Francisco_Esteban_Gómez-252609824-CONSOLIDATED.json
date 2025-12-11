@@ -1,0 +1,130 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20Esteban%20G%C3%B3mez\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20Esteban%20G%C3%B3mez\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 2,
+  "_totalFetchedItems": 2,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "RZkXAAAAIAAJ",
+      "etag": "x8Ka5jI8wrs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RZkXAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Historia de Margarita y Observaciones del general Francisco Esteban Gómez",
+        "authors": [
+          "Francisco Javier Yánes"
+        ],
+        "publishedDate": "1948",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105039344440"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 286,
+        "printType": "BOOK",
+        "categories": [
+          "Margarita Island (Venezuela)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RZkXAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RZkXAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RZkXAAAAIAAJ&dq=inauthor:%22Francisco+Esteban+G%C3%B3mez%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RZkXAAAAIAAJ&dq=inauthor:%22Francisco+Esteban+G%C3%B3mez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_de_Margarita_y_Observaciones_de.html?hl=&id=RZkXAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RZkXAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eFI-MwEACAAJ",
+      "etag": "S1+vzCwF+gM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eFI-MwEACAAJ",
+      "volumeInfo": {
+        "title": "El Leónidas de la República [i.e. Francisco Esteban Gómez]. (Discurso.) [With a Portrait.].",
+        "authors": [
+          "Jesús Antonio COVA",
+          "Francisco Esteban GÓMEZ"
+        ],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:560020739"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 18,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=eFI-MwEACAAJ&dq=inauthor:%22Francisco+Esteban+G%C3%B3mez%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eFI-MwEACAAJ&dq=inauthor:%22Francisco+Esteban+G%C3%B3mez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Le%C3%B3nidas_de_la_Rep%C3%BAblica_i_e_Franci.html?hl=&id=eFI-MwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eFI-MwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

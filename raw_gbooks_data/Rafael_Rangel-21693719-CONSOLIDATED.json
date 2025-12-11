@@ -1,0 +1,1953 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Rafael%20Rangel\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Rafael%20Rangel\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Rafael%20Rangel\"&maxResults=20&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Rafael%20Rangel\"&maxResults=12&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 32,
+  "_totalRequestsMade": 2,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "wLluBAAAQBAJ",
+      "etag": "lfJu8u3qrcM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wLluBAAAQBAJ",
+      "volumeInfo": {
+        "title": "Universidad 2.0",
+        "authors": [
+          "Rafael Rangel Sostmann"
+        ],
+        "publisher": "TAURUS",
+        "publishedDate": "2011-12-31",
+        "description": "El papel de las universidades en nuestra sociedad y su futuro en el desarrollo de la humanidad Una plataforma de reflexión para quienes están al frente de las instituciones. Ante las profundas transformaciones de nuestra sociedad, caracterizada, entre otros aspectos, por vivir un proceso de globalización en medio de la revolución digital, y por los desafíos que para el desarrollo plantea la nueva economía del conocimiento, la Universidad se ve obligada a redefinir la misión que debe desempeñar en la actualidad. Universidad 2.0 es la propuesta de un autor con la experiencia de ser rector durante 27 años de un importante sistema universitario. Según su autor, la misión de la universidad es convertirse en el motor del desarrollo económico, educativo y social; la generación del conocimiento necesario para resolver los grandes retos de desarrollo de nuestra realidad; el involucramiento social; el impulso de la equidad; así como el incremento de las oportunidades a fin de disminuir las brechas socioeconómicas.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786071134288"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6071134285"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 191,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.14.13.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wLluBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wLluBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wLluBAAAQBAJ&printsec=frontcover&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wLluBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wLluBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 29900,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 29900,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=wLluBAAAQBAJ&rdid=book-wLluBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 29900000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 29900000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Universidad_2_0-sample-epub.acsm?id=wLluBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Universidad_2_0-sample-pdf.acsm?id=wLluBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wLluBAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Universidad 2.0 es la propuesta de un autor con la experiencia de ser rector durante 27 años de un importante sistema universitario."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rylgAAAAMAAJ",
+      "etag": "Ob9tPs5SNVY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rylgAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Obesidad",
+        "subtitle": "ensayo de aplicación de métodos de computación en el análisis de una experiencia clínica",
+        "authors": [
+          "José Rafael Rangel R."
+        ],
+        "publishedDate": "1976",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023111865"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 86,
+        "printType": "BOOK",
+        "categories": [
+          "Obesity"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rylgAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rylgAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=rylgAAAAMAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rylgAAAAMAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obesidad.html?hl=&id=rylgAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rylgAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hDQzAAAACAAJ",
+      "etag": "mEcL2X1BsAI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hDQzAAAACAAJ",
+      "volumeInfo": {
+        "title": "Ten Fat Hens",
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0732328675"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780732328672"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Counting"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=hDQzAAAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hDQzAAAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ten_Fat_Hens.html?hl=&id=hDQzAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hDQzAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RLfSAAAAMAAJ",
+      "etag": "N6c0BJVYotE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RLfSAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Computer Control of a Temperature-relative Humidity Process",
+        "authors": [
+          "Rafael Rangel-Sostmann"
+        ],
+        "publishedDate": "1973",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89010732717"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 454,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RLfSAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RLfSAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=RLfSAAAAMAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RLfSAAAAMAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Computer_Control_of_a_Temperature_relati.html?hl=&id=RLfSAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RLfSAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0vrCCQAAQBAJ",
+      "etag": "9AGTX/oT4Zo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0vrCCQAAQBAJ",
+      "volumeInfo": {
+        "title": "Hipermídia e interdisciplinaridade na geração de conhecimento",
+        "authors": [
+          "Adriano Heemann",
+          "Alice Therezinha Cybis Pereira",
+          "Almiro Martins da Silva Neto",
+          "Ana Margarida Pisco Almeida",
+          "Antônio Carlos do Santos Souza",
+          "Antônio Carlos Valença",
+          "Berenice Santos Gonçalves",
+          "Bruno Carvalho de Melo Rodrigues",
+          "Carla da Silva Flor",
+          "Cláudia Regina Batista",
+          "Daniela Satomi Saito",
+          "Elisa Maria Pivetta",
+          "Erivaldo de Jesus Marinho",
+          "Evaldinolia Gilbertoni Moreira",
+          "Gabriela Fantini",
+          "Guilherme Philippe Garcia Ferreira",
+          "Heitor Pinheiro de Rezende",
+          "Jeane Silva Ferreira",
+          "Juliana Saldanha Romanus",
+          "Juliane Vargas Nunes",
+          "Leonardo C. C. Mendes",
+          "Leonardo Rodrigues Caixeta",
+          "Luiz Cláudio Machado dos Santos",
+          "Luiz Salomão Ribas Gomez",
+          "Luzia Emanuelle R. V. da Silva",
+          "Maicon Bernert Puppi",
+          "Marcelo Vera Cruz Diniz",
+          "Mischel Carmen Neyra Belderrain",
+          "Rafael Rangel Szillat",
+          "Raul Inácio Busarello",
+          "Rosane de Fátima Antunes Obregon",
+          "Sérgio Souza Costa",
+          "Spartacus Silva Souza",
+          "Stephania Padovani",
+          "Tarcísio Vanzin",
+          "Teruyuki Morita",
+          "Vania Ribas Ulbricht",
+          "Viviane Helena Kuntz"
+        ],
+        "publisher": "Pimenta Cultural",
+        "publishedDate": "2015-06-02",
+        "description": "O conhecimento externado nos capítulos desta publicação é oriundo de diferentes perspectivas metodológicas, uma característica marcante e rica da abordagem interdisciplinar. Na primeira seção da obra, são enfocados questionamentos de grande atualidade sobre games e pensamento computacional, sobre o auxílio para o ensino-aprendizagem da linguagem de sinais e sobre a manifestação da transmídia. A segunda parte do livro explora a aplicação de mapas cognitivos e o estudo metódico da acessibilidade a surdos. A terceira seção é reservada a pesquisas com grande potencial de aplicação prática propiciada pelos ambientes virtuais de aprendizagem. Em seguida, a quarta parte do livro explica diretrizes de acessibilidade para objetos de aprendizagem na Web e apresenta estudos sobre o acesso móvel. Para contribuir com este corpo de estudos, o design de hipermídia e interface é explicado de modo claro e crítico na quinta e última seção.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788566832273"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8566832272"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 434,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0vrCCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0vrCCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=0vrCCQAAQBAJ&printsec=frontcover&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0vrCCQAAQBAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hiperm%C3%ADdia_e_interdisciplinaridade_na_g.html?hl=&id=0vrCCQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Hiperm%C3%ADdia_e_interdisciplinaridade_na_g-sample-pdf.acsm?id=0vrCCQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0vrCCQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "O conhecimento externado nos capítulos desta publicação é oriundo de diferentes perspectivas metodológicas, uma característica marcante e rica da abordagem interdisciplinar."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bqNytwAACAAJ",
+      "etag": "bZ6LacwVIp8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bqNytwAACAAJ",
+      "volumeInfo": {
+        "title": "La produccion de biologicos esenciales por el Instituto Nacional de Higiene \"Rafael Rangel\" sus perspectivas en el corto, mediano y largo plazo",
+        "authors": [
+          "Venezuela. Ministerio de Sanidad y Asistencia Social. Instituto Nacional de Higiene \"Rafael Rangel.\"",
+          "Convenio Hipolito Unanue"
+        ],
+        "publishedDate": "1987",
+        "description": "El documento detalla informacion sobre: 1. Consideraciones generales, 2. Diagnostico de la situacion de la produccion, 3. Planes, objetivos, estrategias, prioridades en la produccion de biologicos. Actividades en ejecucion y previstas realizar en el corto, mediano y largo plazo, 4. Relacion de los planes para la produccion de biologicos con los planes nacionales de desarrollo y de salud, 5. Necesidades y posibilidades de acciones comunes entre paises, 6. Necesidades de financiamiento, 7. Comentarios finales.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:69843154"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 19,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=bqNytwAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=bqNytwAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_produccion_de_biologicos_esenciales_p.html?hl=&id=bqNytwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bqNytwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Relacion de los planes para la produccion de biologicos con los planes nacionales de desarrollo y de salud, 5. Necesidades y posibilidades de acciones comunes entre paises, 6. Necesidades de financiamiento, 7. Comentarios finales."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SBVctwAACAAJ",
+      "etag": "R+OZ88SETWA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SBVctwAACAAJ",
+      "volumeInfo": {
+        "title": "Rafael Rangel",
+        "subtitle": "en la memoria colectiva trujillana",
+        "authors": [
+          "Jhonny Suárez",
+          "Elina Rojas"
+        ],
+        "publishedDate": "2009",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9801112603"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789801112600"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 75,
+        "printType": "BOOK",
+        "categories": [
+          "Medical parasitology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SBVctwAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SBVctwAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rafael_Rangel.html?hl=&id=SBVctwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SBVctwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j-e9uwEACAAJ",
+      "etag": "WEKUbUDV0M0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j-e9uwEACAAJ",
+      "volumeInfo": {
+        "title": "El Entramado",
+        "authors": [
+          "Rafael Rangel-Aldao"
+        ],
+        "publishedDate": "2018-08-31",
+        "description": "República de Caribe, 2003. Un ex militar elegido democráticamente gobierna al país bajo la seductora trampa de una seudo Revolución que daría paso a una nueva República para el progreso de los más necesitados. El dictador secuestra al país entero de la mano de un grupo de bioterroristas para cambiar la geopolítica mundial planificando una serie de atentados contra objetivos diplomáticos, militares, museísticos y la extorsión a distintos jefes de Estado del planeta. La trama devela, sin embargo, cómo una cofradía mundial de científicos logra el apoyo de agentes de espionajes, diplomáticos, políticos y académicos, para resolver la amenaza mundial. En este contexto de ambiciones políticas y juegos de poder, se mueven varios personajes: el burgomaestre de la capital, que con su muerte da pie a un entramado de bioterrorismo internacional; Ucrania, la diplomática mujer que pone el elemento sorpresa en toda la trama; el cronista, que se vale de un conocimiento cercano a las incógnitas del poder corporativo, científico y tecnológico, para describir en detalle cómo se produce la defensa de la empresa privada más amenazada en el país, sin ceder a las pretensiones extorsionistas del poder. El Entramado es una novela llena de aventuras, reflexión sobre el poder, las intrigas científicas y el terrorismo tecnológico.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1719891265"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781719891264"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 397,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=j-e9uwEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=j-e9uwEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Entramado.html?hl=&id=j-e9uwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j-e9uwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Rafael Rangel-Aldao nos ofrece en &quot;El entramado&quot; una historia para disfrutar en primera fila."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bm6TAQAACAAJ",
+      "etag": "kZueieoimNw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bm6TAQAACAAJ",
+      "volumeInfo": {
+        "title": "De las redes de información celular a la medicina molecular digital",
+        "authors": [
+          "Rafael Rangel-Aldao"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:849500749"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 11,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=bm6TAQAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=bm6TAQAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_las_redes_de_informaci%C3%B3n_celular_a_l.html?hl=&id=bm6TAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bm6TAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9ousnQEACAAJ",
+      "etag": "5mWFRnVwqZ8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9ousnQEACAAJ",
+      "volumeInfo": {
+        "title": "El ciudadano licenciado Rafael Rangel, Gobernador constitucional interino del Estado Libre y Soberano de Guanajuato, a los habitantes del mismo, sabed: que el H. Congreso del Estado se ha servido dirigirme el siguiente Decreto Numero 233",
+        "authors": [
+          "Guanajuato (Mexico : State)",
+          "Rafael Rangel",
+          "Guanajuato (Mexico : State). Poder Ejecutivo. Secretaria General"
+        ],
+        "publishedDate": "1939",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:62504154"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "categories": [
+          "Finance, Public"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9ousnQEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9ousnQEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_ciudadano_licenciado_Rafael_Rangel_Go.html?hl=&id=9ousnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9ousnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mdAqtwAACAAJ",
+      "etag": "NJgL0DIxZtQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mdAqtwAACAAJ",
+      "volumeInfo": {
+        "title": "Medicamentos esenciales, biologicos y vacunas: informe anual",
+        "authors": [
+          "Venezuela. Ministerio de Sanidad y Asistencia Social. Instituto Nacional de Higiene \"Rafael Rangel.\""
+        ],
+        "publishedDate": "1993",
+        "description": "El documento detalla el informe sobre el desarrollo de programas, planes de accion, logros y avances coherentes con las estrategias establecidas; el cronograma de actividades; las conclusiones de la mesa redonda: criterios de armonizacion del sistema de registro y control en la subregion andina; los formatos de registro andino de medicamentos esenciales comunes; asi como informacion de la junta revisora del pacto subregional andino: proposicion del punto focal de Venezuela.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:69843163"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mdAqtwAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mdAqtwAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Medicamentos_esenciales_biologicos_y_vac.html?hl=&id=mdAqtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mdAqtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El documento detalla el informe sobre el desarrollo de programas, planes de accion, logros y avances coherentes con las estrategias establecidas; el cronograma de actividades; las conclusiones de la mesa redonda: criterios de armonizacion ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2RWftwAACAAJ",
+      "etag": "OoQu87aB0n4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2RWftwAACAAJ",
+      "volumeInfo": {
+        "title": "Etiologia de ciertas anemias graves de Venezuela",
+        "subtitle": "communiccion ?",
+        "authors": [
+          "Rafael Rangel",
+          "Laboratorio del hospital Vargas"
+        ],
+        "publishedDate": "1903",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:493638164"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2RWftwAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2RWftwAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Etiologia_de_ciertas_anemias_graves_de_V.html?hl=&id=2RWftwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2RWftwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sBFFGwAACAAJ",
+      "etag": "NqaFQaP+yuw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sBFFGwAACAAJ",
+      "volumeInfo": {
+        "title": "Instructivo de laboratorio de sistemas lógicos de control",
+        "authors": [
+          "Rafael Rangel Sostmann",
+          "J. Eugenio García G.",
+          "Instituto Tecnológico y de Estudios Superiores de Monterrey. Departamento de Ingeniería Térmica, Fluidos y de Control"
+        ],
+        "publishedDate": "1970",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55743007"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=sBFFGwAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=sBFFGwAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Instructivo_de_laboratorio_de_sistemas_l.html?hl=&id=sBFFGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sBFFGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "426ErgEACAAJ",
+      "etag": "MToRCK4WagU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/426ErgEACAAJ",
+      "volumeInfo": {
+        "title": "Mi pasión por la educación",
+        "subtitle": "relatos para un entrevistador",
+        "authors": [
+          "Rafael Rangel Sostmann",
+          "Antonio Murray"
+        ],
+        "publishedDate": "2012",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6079124890"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786079124892"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 460,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=426ErgEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=426ErgEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mi_pasi%C3%B3n_por_la_educaci%C3%B3n.html?hl=&id=426ErgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=426ErgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YcLlGwAACAAJ",
+      "etag": "QNN3luKsYbc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YcLlGwAACAAJ",
+      "volumeInfo": {
+        "title": "Decir y hacer",
+        "authors": [
+          "José Rafael Rangel R."
+        ],
+        "publishedDate": "1985",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:91212872"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 246,
+        "printType": "BOOK",
+        "categories": [
+          "Medicine"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YcLlGwAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YcLlGwAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Decir_y_hacer.html?hl=&id=YcLlGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YcLlGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oJJVtAEACAAJ",
+      "etag": "+yIwytcbwtc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oJJVtAEACAAJ",
+      "volumeInfo": {
+        "title": "Ciencia y política en la Venezuela de principios de siglo",
+        "authors": [
+          "Marcel Roche"
+        ],
+        "publishedDate": "1978",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1025755059"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=oJJVtAEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=oJJVtAEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ciencia_y_pol%C3%ADtica_en_la_Venezuela_de_p.html?hl=&id=oJJVtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oJJVtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nT4pAQAACAAJ",
+      "etag": "e7A70sCsXvc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nT4pAQAACAAJ",
+      "volumeInfo": {
+        "title": "Gente de Ayer y de Hoy al Servicio de la Salud",
+        "authors": [
+          "Instituto Nacional de Higiene Rafael Rangel"
+        ],
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9800753427"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789800753422"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 79,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nT4pAQAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nT4pAQAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gente_de_Ayer_y_de_Hoy_al_Servicio_de_la.html?hl=&id=nT4pAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nT4pAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "B7MRswEACAAJ",
+      "etag": "+522KfOTDBI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B7MRswEACAAJ",
+      "volumeInfo": {
+        "title": "Nota preliminar sobre la peste boba y la desrengadera de los equídeos de los Llanos de Venezuela",
+        "subtitle": "(tripanosomiasis)",
+        "publishedDate": "1905",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:912180041"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=B7MRswEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=B7MRswEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nota_preliminar_sobre_la_peste_boba_y_la.html?hl=&id=B7MRswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B7MRswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oJaArgEACAAJ",
+      "etag": "8bKP9OM1FhQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oJaArgEACAAJ",
+      "volumeInfo": {
+        "title": "Introducción a los circuitos lógicos de control",
+        "authors": [
+          "Rafael Rangel Sostmann",
+          "Roberto N. Paez G.",
+          "Instituto Tecnológico y de Estudios Superiores de Monterrey"
+        ],
+        "publishedDate": "1975",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:906790896"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 401,
+        "printType": "BOOK",
+        "categories": [
+          "Control"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=oJaArgEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=oJaArgEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Introducci%C3%B3n_a_los_circuitos_l%C3%B3gicos_d.html?hl=&id=oJaArgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oJaArgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LuDEZwEACAAJ",
+      "etag": "cxq7gEw3KWE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LuDEZwEACAAJ",
+      "volumeInfo": {
+        "title": "Introduccion a los circuitos logicos de control",
+        "authors": [
+          "Rafael Rangel Sostmann",
+          "Roberto N. Paez G.",
+          "Instituto Tecnológico y de Estudios Superiores de Monterrey"
+        ],
+        "publishedDate": "1976",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:689544175"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 401,
+        "printType": "BOOK",
+        "categories": [
+          "Automatic control"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=LuDEZwEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LuDEZwEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Introduccion_a_los_circuitos_logicos_de.html?hl=&id=LuDEZwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LuDEZwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i4TzMgEACAAJ",
+      "etag": "H7qwdoGMeEQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i4TzMgEACAAJ",
+      "volumeInfo": {
+        "title": "Trabajos científicos",
+        "subtitle": "compilación del Dr. Blas Bruni Celli",
+        "authors": [
+          "Rafael Rangel",
+          "Blas Bruni Celli"
+        ],
+        "publishedDate": "1960",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:14594344"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=i4TzMgEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=i4TzMgEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Trabajos_cient%C3%ADficos.html?hl=&id=i4TzMgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i4TzMgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qeTxGwAACAAJ",
+      "etag": "rFwr31DLgfo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qeTxGwAACAAJ",
+      "volumeInfo": {
+        "title": "Estudios moleculares sobre el receptor de AMP ciclico del tripanozoma cruzi",
+        "authors": [
+          "Rafael Rangel Aldao"
+        ],
+        "publishedDate": "1984",
+        "description": "Como parte de nuestros estudios sobre las senales intracelulares potencialmente importantes, para la diferenciacion celular del Trypanosoma cruzi, determinados varias de las propiedades de las proteinas ligantes de AMP ciclico (cAMP) de epimastigotes asi como su posible asociacion con proteinas quinasas dependientes de nicleoticos ciclicos. Los resultados senalan lo siguiente: (1) La actividad ligante de cAMP en extractos crudos de T. cruzi, subestima hasta por 10 veces cuando se comparan los valores obtenidos por el metodo de Gilman que es el mas generalmente utilizado, en relacion a los resultados de la tecnica de Doskeland y Ueland. Una respuesta similar a la T. cruzi tambien se obtuvo con la actividad ligante de cAMP presente en homogenizados de otros Tripanosomatidae, tales como T. brucei, L. tropica, y C. luciliae. Este comportamiento distingue a las proteinas ligantes de cAMP de Tripanosomatidae de sus contraparte de otros eucariotes inferiores o superioes, cuyas actividades son subestimadas solo 2 veces(AU).",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:69690513"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 166,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qeTxGwAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qeTxGwAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estudios_moleculares_sobre_el_receptor_d.html?hl=&id=qeTxGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qeTxGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Como parte de nuestros estudios sobre las señales intracelulares potencialmente importantes, para la diferenciacion celular del Trypanosoma cruzi, determinados varias de las propiedades de las proteinas ligantes de AMP ciclico (cAMP) de ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AeJ9AQAACAAJ",
+      "etag": "88rwQ/X/T+k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AeJ9AQAACAAJ",
+      "volumeInfo": {
+        "title": "Efectos de la mojabilidad o adherencia en el desplazamiento inestable entre dos fluidos inmiscibles en un medio poroso vía simulaciones montecarlo tipo DLA. Revistas Científicas y Humanísticas. 15(1), 2007",
+        "authors": [
+          "Rafael Rangel"
+        ],
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:951198563"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 11,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=AeJ9AQAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=AeJ9AQAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Efectos_de_la_mojabilidad_o_adherencia_e.html?hl=&id=AeJ9AQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AeJ9AQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tBDWZwEACAAJ",
+      "etag": "CS5kT5otGH0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tBDWZwEACAAJ",
+      "volumeInfo": {
+        "title": "Instructivo de laboratorio de teoria del control",
+        "authors": [
+          "Rafael Rangel Sostmann",
+          "Instituto Tecnológico y de Estudios Superiores de Monterrey"
+        ],
+        "publishedDate": "1968",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:689544011"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 70,
+        "printType": "BOOK",
+        "categories": [
+          "Control automático"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tBDWZwEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=tBDWZwEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Instructivo_de_laboratorio_de_teoria_del.html?hl=&id=tBDWZwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tBDWZwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Wq5A0AEACAAJ",
+      "etag": "7OdTJ2ELJDg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Wq5A0AEACAAJ",
+      "volumeInfo": {
+        "title": "De las redes de información celular a la medicina molecular digital. Revista Colombiana de Biotecnología, 10 , 64-74",
+        "authors": [
+          "Rafael Rangel-Aldao"
+        ],
+        "publishedDate": "2009",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1403144482"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=Wq5A0AEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Wq5A0AEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_las_redes_de_informaci%C3%B3n_celular_a_l.html?hl=&id=Wq5A0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Wq5A0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JGerAAAACAAJ",
+      "etag": "HdQjaXns6HI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JGerAAAACAAJ",
+      "volumeInfo": {
+        "title": "Los retos del sistema educativo mexicano",
+        "authors": [
+          "Rafael Rangel Sostmann",
+          "Fundación ICA (México)"
+        ],
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9687508507"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789687508504"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 12,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JGerAAAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JGerAAAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_retos_del_sistema_educativo_mexicano.html?hl=&id=JGerAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JGerAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8yVdPQAACAAJ",
+      "etag": "EzPh/LkIeac",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8yVdPQAACAAJ",
+      "volumeInfo": {
+        "title": "Whiskers & Kisses",
+        "subtitle": "A Picture Frame Book",
+        "publisher": "Intervisual/Piggy Toes",
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1888443138"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781888443134"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8yVdPQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8yVdPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=8yVdPQAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8yVdPQAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Whiskers_Kisses.html?hl=&id=8yVdPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8yVdPQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dqRurgEACAAJ",
+      "etag": "GGzG0Fw95s4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dqRurgEACAAJ",
+      "volumeInfo": {
+        "title": "Sistemas lógicos de control",
+        "authors": [
+          "Rafael Rangel Sostmann",
+          "Instituto Tecnológico y de Estudios Superiores de Monterrey"
+        ],
+        "publishedDate": "1970*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:906200591"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Control"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=dqRurgEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dqRurgEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sistemas_l%C3%B3gicos_de_control.html?hl=&id=dqRurgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dqRurgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "E57lHAAACAAJ",
+      "etag": "kpxzjrSbvBw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/E57lHAAACAAJ",
+      "volumeInfo": {
+        "title": "Guia de procedimientos tecnicos y operacionales para el diagnostico, tratamiento, vigilancia y control de la leptospirosis en Venezuela",
+        "authors": [
+          "Instituto Nacional de Higiene Rafael Rangel",
+          "Organizacion Panamericana de la Salud"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:70017298"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 75,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=E57lHAAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=E57lHAAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Guia_de_procedimientos_tecnicos_y_operac.html?hl=&id=E57lHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=E57lHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r-pAOAAACAAJ",
+      "etag": "xZKWKZkcnFc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r-pAOAAACAAJ",
+      "volumeInfo": {
+        "title": "Regulation of Phosphorylation of CAMP-dependent Protein Kinase from Bovine Cardiac Muscle",
+        "authors": [
+          "Rafael Rangel-Aldao"
+        ],
+        "publishedDate": "1977",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:13284540"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 246,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=r-pAOAAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=r-pAOAAACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Regulation_of_Phosphorylation_of_CAMP_de.html?hl=&id=r-pAOAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r-pAOAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gIvfMgEACAAJ",
+      "etag": "3oiTconleRY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gIvfMgEACAAJ",
+      "volumeInfo": {
+        "title": "Trabajos Científicos. Compilación Del Dr. Blas Bruni Celli. [With Plates, Including a Portrait.].",
+        "authors": [
+          "Rafael RANGEL",
+          "Blas BRUNI CELLI"
+        ],
+        "publishedDate": "1960",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:504454938"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=gIvfMgEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=gIvfMgEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Trabajos_Cient%C3%ADficos_Compilaci%C3%B3n_Del_D.html?hl=&id=gIvfMgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gIvfMgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "df56tAEACAAJ",
+      "etag": "0oZJLIgRim4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/df56tAEACAAJ",
+      "volumeInfo": {
+        "title": "Realidade Aumentada - Ferramenta Interativa para aprender LIBRAS",
+        "subtitle": "Um portal acadêmico para o incentivo do aprendizado da língua de sinais. Uma nova forma divertida e dinâmica.",
+        "authors": [
+          "Rafael Rangel Szillat"
+        ],
+        "publishedDate": "2017-07-19",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3330197781"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783330197787"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=df56tAEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=df56tAEACAAJ&dq=inauthor:%22Rafael+Rangel%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Realidade_Aumentada_Ferramenta_Interativ.html?hl=&id=df56tAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=df56tAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

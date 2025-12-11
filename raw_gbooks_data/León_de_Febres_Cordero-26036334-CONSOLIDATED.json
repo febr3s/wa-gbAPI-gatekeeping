@@ -1,0 +1,130 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Le%C3%B3n%20de%20Febres%20Cordero\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Le%C3%B3n%20de%20Febres%20Cordero\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 2,
+  "_totalFetchedItems": 2,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "utJB8cf9W78C",
+      "etag": "kaN+L6s7bPg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/utJB8cf9W78C",
+      "volumeInfo": {
+        "title": "Manifiesto en que se vindica á la división restauradora que á las órdenes del ciudadano esclarecido abrió la campaña en 1849",
+        "authors": [
+          "León de Febres Cordero"
+        ],
+        "publishedDate": "1850",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044079134102"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.8.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=utJB8cf9W78C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=utJB8cf9W78C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=utJB8cf9W78C&printsec=frontcover&dq=inauthor:%22Le%C3%B3n+de+Febres+Cordero%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=utJB8cf9W78C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=utJB8cf9W78C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=utJB8cf9W78C&rdid=book-utJB8cf9W78C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Manifiesto_en_que_se_vindica_%C3%A1_la_divis.epub?id=utJB8cf9W78C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=utJB8cf9W78C&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WhkIHAAACAAJ",
+      "etag": "Fe1TmYQlc4s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WhkIHAAACAAJ",
+      "volumeInfo": {
+        "title": "El general Cordero ante sus conciudadanos",
+        "authors": [
+          "León de Febres Cordero"
+        ],
+        "publishedDate": "1847",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55785853"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WhkIHAAACAAJ&dq=inauthor:%22Le%C3%B3n+de+Febres+Cordero%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WhkIHAAACAAJ&dq=inauthor:%22Le%C3%B3n+de+Febres+Cordero%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_general_Cordero_ante_sus_conciudadano.html?hl=&id=WhkIHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WhkIHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

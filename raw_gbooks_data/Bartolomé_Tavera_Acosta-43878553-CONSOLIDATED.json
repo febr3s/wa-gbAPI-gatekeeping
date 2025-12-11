@@ -1,0 +1,2478 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Bartolom%C3%A9%20Tavera%20Acosta\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Bartolom%C3%A9%20Tavera%20Acosta\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Bartolom%C3%A9%20Tavera%20Acosta\"&maxResults=20&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Bartolom%C3%A9%20Tavera%20Acosta\"&maxResults=20&startIndex=40&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Bartolom%C3%A9%20Tavera%20Acosta\"&maxResults=3&startIndex=40&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 43,
+  "_totalRequestsMade": 3,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "zegKAQAAIAAJ",
+      "etag": "NmcQlEdkIt8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zegKAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Historia de Carúpano",
+        "authors": [
+          "Bartolomé Tavera-Acosta"
+        ],
+        "publishedDate": "1969",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105035587448"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 388,
+        "printType": "BOOK",
+        "categories": [
+          "Carúpano (Venezuela)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zegKAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zegKAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=zegKAQAAIAAJ&printsec=frontcover&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zegKAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zegKAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=zegKAQAAIAAJ&rdid=book-zegKAQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Historia_de_Car%C3%BApano.epub?id=zegKAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zegKAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uUgzAQAAIAAJ",
+      "etag": "XlPDdruRFYY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uUgzAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Rionegro",
+        "subtitle": "reseña etnográfica, histórica y geográfica del Territorio Amazonas",
+        "authors": [
+          "Bartolomé Tavera-Acosta"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B722120"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 460,
+        "printType": "BOOK",
+        "categories": [
+          "Amazonas (Venezuela : Territory)."
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uUgzAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uUgzAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=uUgzAQAAIAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=uUgzAQAAIAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rionegro.html?hl=&id=uUgzAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uUgzAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7Mt6AAAAMAAJ",
+      "etag": "XmXYNONTTKU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7Mt6AAAAMAAJ",
+      "volumeInfo": {
+        "title": "Anales de Guayana",
+        "authors": [
+          "Bartolomé Tavera-Acosta"
+        ],
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023468797"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 408,
+        "printType": "BOOK",
+        "categories": [
+          "Bolívar (Venezuela : State)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7Mt6AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7Mt6AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7Mt6AAAAMAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7Mt6AAAAMAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anales_de_Guayana.html?hl=&id=7Mt6AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7Mt6AAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Agm0KSa7cuEC",
+      "etag": "eA4lZQXxhsM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Agm0KSa7cuEC",
+      "volumeInfo": {
+        "title": "Amazonas; memoria de 1900-1901 ...",
+        "authors": [
+          "Bartolomé Tavera-Acosta"
+        ],
+        "publishedDate": "1901",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "YALE:39002085766237"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Agm0KSa7cuEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Agm0KSa7cuEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Agm0KSa7cuEC&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Agm0KSa7cuEC&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Amazonas_memoria_de_1900_1901.html?hl=&id=Agm0KSa7cuEC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Agm0KSa7cuEC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8VlCAQAAMAAJ",
+      "etag": "X085RVkdLUc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8VlCAQAAMAAJ",
+      "volumeInfo": {
+        "title": "La monarquía colombiana",
+        "subtitle": "Ciudad Bolivar",
+        "authors": [
+          "Bartolomé Tavera-Acosta"
+        ],
+        "publishedDate": "1912",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112055286394"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 62,
+        "printType": "BOOK",
+        "categories": [
+          "Colombia"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8VlCAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8VlCAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8VlCAQAAMAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8VlCAQAAMAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_monarqu%C3%ADa_colombiana.html?hl=&id=8VlCAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8VlCAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GVQ_AAAAIAAJ",
+      "etag": "mlp2fA8IWGU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GVQ_AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Páginas de historia nacional",
+        "subtitle": "homenaje en el primer centenario de la batalla de Ayacucho",
+        "authors": [
+          "Bartolomé Tavera-Acosta"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B144431"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.9.9.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GVQ_AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GVQ_AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GVQ_AAAAIAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GVQ_AAAAIAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/P%C3%A1ginas_de_historia_nacional.html?hl=&id=GVQ_AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GVQ_AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7R7HugEACAAJ",
+      "etag": "/PwCOBjxKvU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7R7HugEACAAJ",
+      "volumeInfo": {
+        "title": "En El Sur: (Dialectos Indígenas De Venezuela)",
+        "authors": [
+          "Bartolome Tavera-Acosta"
+        ],
+        "publisher": "Wentworth Press",
+        "publishedDate": "2018-07-29",
+        "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0270997849"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780270997842"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 426,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7R7HugEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7R7HugEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7R7HugEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7R7HugEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/En_El_Sur_Dialectos_Ind%C3%ADgenas_De_Venezu.html?hl=&id=7R7HugEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7R7HugEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bqBgAAAAIAAJ",
+      "etag": "EBhjItQe/4U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bqBgAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Los petroglifos de Venezuela",
+        "authors": [
+          "Bartolomé Tavera-Acosta"
+        ],
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3425078"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "categories": [
+          "Indigenas de Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bqBgAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bqBgAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=bqBgAAAAIAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=bqBgAAAAIAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_petroglifos_de_Venezuela.html?hl=&id=bqBgAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bqBgAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sxTVAAAAMAAJ",
+      "etag": "6lSl19vFDRk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sxTVAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Historia de Carúpano",
+        "authors": [
+          "Bartolomé Tavera-Acosta"
+        ],
+        "publishedDate": "1948",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:32000004959658"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 222,
+        "printType": "BOOK",
+        "categories": [
+          "Carúpano (Venezuela)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sxTVAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sxTVAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=sxTVAAAAMAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=sxTVAAAAMAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_de_Car%C3%BApano.html?hl=&id=sxTVAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sxTVAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JJfyRNbbWkgC",
+      "etag": "/1rCuev8W6Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JJfyRNbbWkgC",
+      "volumeInfo": {
+        "title": "Venezuela pre-coloniana",
+        "subtitle": "contribución al estudio de las analogías míticas, idiomáticas y religiosas de los aborígenes vezolanos [!] con los del continente asiático",
+        "authors": [
+          "Bartolomé Tavera-Acosta"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCR:31210017248822"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 354,
+        "printType": "BOOK",
+        "categories": [
+          "Comparative linguistics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JJfyRNbbWkgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JJfyRNbbWkgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JJfyRNbbWkgC&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JJfyRNbbWkgC&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Venezuela_pre_coloniana.html?hl=&id=JJfyRNbbWkgC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JJfyRNbbWkgC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lYVwQwAACAAJ",
+      "etag": "UYwET/7vg7o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lYVwQwAACAAJ",
+      "volumeInfo": {
+        "title": "En el Sur (dialectos indígenas de Venezuela), por B. Tavera-Acosta,...",
+        "authors": [
+          "Bartolomé Tavera-Acosta"
+        ],
+        "publishedDate": "1907",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458205870"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 414,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lYVwQwAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lYVwQwAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/En_el_Sur_dialectos_ind%C3%ADgenas_de_Venezu.html?hl=&id=lYVwQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lYVwQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OTM2MwEACAAJ",
+      "etag": "sxVnMhjUaqQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OTM2MwEACAAJ",
+      "volumeInfo": {
+        "title": "Introducción a Un Análisis de Los Petroglifos Venezolanos de B. Tavera-Acosta",
+        "authors": [
+          "Miguel ACOSTA SAIGNES",
+          "Bartolomé TAVERA-ACOSTA"
+        ],
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:504523149"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=OTM2MwEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=OTM2MwEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Introducci%C3%B3n_a_Un_An%C3%A1lisis_de_Los_Petr.html?hl=&id=OTM2MwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OTM2MwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1CdEQwAACAAJ",
+      "etag": "zc11e+fsTJU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1CdEQwAACAAJ",
+      "volumeInfo": {
+        "title": "Anales de Guyana, por B. Tavera-Acosta...",
+        "authors": [
+          "Bartolomé Tavera-Acosta"
+        ],
+        "publishedDate": "1905",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458205862"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1CdEQwAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1CdEQwAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anales_de_Guyana_por_B_Tavera_Acosta.html?hl=&id=1CdEQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1CdEQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2Q5ulgEACAAJ",
+      "etag": "H76uIIKJwHY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2Q5ulgEACAAJ",
+      "volumeInfo": {
+        "title": "A traves de la historia de Venezuela ...",
+        "authors": [
+          "Bartolomé Tavera-Acosta"
+        ],
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:17020186"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2Q5ulgEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2Q5ulgEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_traves_de_la_historia_de_Venezuela.html?hl=&id=2Q5ulgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2Q5ulgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wmE0QwAACAAJ",
+      "etag": "CQGDinQ8pIM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wmE0QwAACAAJ",
+      "volumeInfo": {
+        "title": "Atabapo. El Caucho en Venezuela, por B. Tavera-Acosta",
+        "authors": [
+          "Bartolomé Tavera-Acosta"
+        ],
+        "publishedDate": "1903",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458205866"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wmE0QwAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wmE0QwAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Atabapo_El_Caucho_en_Venezuela_por_B_Tav.html?hl=&id=wmE0QwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wmE0QwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pOOYGwAACAAJ",
+      "etag": "kDnlKEd54HI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pOOYGwAACAAJ",
+      "volumeInfo": {
+        "title": "La batalla de Boyacá y su trascendencia política en la América hispana",
+        "subtitle": "Conferencia leida por su autor en la fiesta infantil celebrada en el Consulado general de Colombia, en la tarde del 7 de agosto de 1919, en memoración del primer centenario de la inmortal jornada",
+        "authors": [
+          "Bartolomé Tavera-Acosta"
+        ],
+        "publishedDate": "1919",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:40950907"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 17,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=pOOYGwAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=pOOYGwAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_batalla_de_Boyac%C3%A1_y_su_trascendencia.html?hl=&id=pOOYGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pOOYGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8Y4vzwEACAAJ",
+      "etag": "Ryi43IMRizY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8Y4vzwEACAAJ",
+      "volumeInfo": {
+        "title": "A través de la historia de Venezuela",
+        "authors": [
+          "Bartolomé Tavera-Acosta"
+        ],
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318135966"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 283,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8Y4vzwEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8Y4vzwEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_trav%C3%A9s_de_la_historia_de_Venezuela.html?hl=&id=8Y4vzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8Y4vzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zMTsMgEACAAJ",
+      "etag": "u8IAQCKu9oc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zMTsMgEACAAJ",
+      "volumeInfo": {
+        "title": "Rionegro. Reseña Etnográfica, Histórica Y Geográfica Del Territorio Amazonas. Tercera Edición",
+        "authors": [
+          "Bartolomé TAVERA-ACOSTA"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:504549333"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 309,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=zMTsMgEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zMTsMgEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rionegro_Rese%C3%B1a_Etnogr%C3%A1fica_Hist%C3%B3rica.html?hl=&id=zMTsMgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zMTsMgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RE2iPgAACAAJ",
+      "etag": "B6E8KFEUEwA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RE2iPgAACAAJ",
+      "volumeInfo": {
+        "title": "Bolívar, símbolo de gloria",
+        "authors": [
+          "Bartolomé Tavera Acosta"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253127421"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 46,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RE2iPgAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RE2iPgAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bol%C3%ADvar_s%C3%ADmbolo_de_gloria.html?hl=&id=RE2iPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RE2iPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yi_AnQEACAAJ",
+      "etag": "1kNtFZMsYiY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yi_AnQEACAAJ",
+      "volumeInfo": {
+        "title": "Páginas historiales",
+        "authors": [
+          "Bartolomé Tavera-Acosta"
+        ],
+        "publishedDate": "1919",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:48259084"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 78,
+        "printType": "BOOK",
+        "categories": [
+          "Bolivar, Simon - Conmemoraciones"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yi_AnQEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yi_AnQEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/P%C3%A1ginas_historiales.html?hl=&id=yi_AnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yi_AnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R3y2HAAACAAJ",
+      "etag": "QKaioaUvB4s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R3y2HAAACAAJ",
+      "volumeInfo": {
+        "title": "Sobre el error histórico de una pictografía",
+        "authors": [
+          "Bartolomé Tavera Acosta"
+        ],
+        "publishedDate": "1919",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:26150789"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 18,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=R3y2HAAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=R3y2HAAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sobre_el_error_hist%C3%B3rico_de_una_pictogr.html?hl=&id=R3y2HAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R3y2HAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Gb9amwEACAAJ",
+      "etag": "QxbP7wnjDj0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Gb9amwEACAAJ",
+      "volumeInfo": {
+        "title": "En el sur",
+        "subtitle": "(dialectos indigenas de Venezuela)",
+        "authors": [
+          "Bartolomé Tavera Acosta"
+        ],
+        "publishedDate": "1907",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:162464870"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 410,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Gb9amwEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Gb9amwEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/En_el_sur.html?hl=&id=Gb9amwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Gb9amwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bAPrAQAACAAJ",
+      "etag": "XXRLWi5hcAs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bAPrAQAACAAJ",
+      "volumeInfo": {
+        "title": "Un dogma histórico que va deshaciéndose ...",
+        "authors": [
+          "Bartolomé Tavera-Acosta",
+          "Otto von Buchwald"
+        ],
+        "publishedDate": "1923",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:15637308"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 10,
+        "printType": "BOOK",
+        "categories": [
+          "Atacameno language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=bAPrAQAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=bAPrAQAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Un_dogma_hist%C3%B3rico_que_va_deshaci%C3%A9ndos.html?hl=&id=bAPrAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bAPrAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vBXpMgEACAAJ",
+      "etag": "z/no9Su3Ngw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vBXpMgEACAAJ",
+      "volumeInfo": {
+        "title": "Rionegro. (Viajes, Observaciones, Etc.).",
+        "authors": [
+          "Bartolomé TAVERA-ACOSTA"
+        ],
+        "publishedDate": "1906",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:504549326"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 149,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=vBXpMgEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vBXpMgEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rionegro_Viajes_Observaciones_Etc.html?hl=&id=vBXpMgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vBXpMgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4K6mbwAACAAJ",
+      "etag": "+9+Y7vX6lQE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4K6mbwAACAAJ",
+      "volumeInfo": {
+        "title": "Historia de Carupano",
+        "authors": [
+          "Bartolomé Tavera Acosta"
+        ],
+        "publishedDate": "1948",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:48361573"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": [
+          "Carúpano (Venezuela)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4K6mbwAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4K6mbwAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_de_Carupano.html?hl=&id=4K6mbwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4K6mbwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ta5znQEACAAJ",
+      "etag": "ASSWINXcJLI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ta5znQEACAAJ",
+      "volumeInfo": {
+        "title": "Nuevos vocabularios de dialectos indígenas de Venezuela",
+        "authors": [
+          "Bartolomé Tavera-Acosta"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:61226036"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "categories": [
+          "Indians of South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Ta5znQEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Ta5znQEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nuevos_vocabularios_de_dialectos_ind%C3%ADge.html?hl=&id=Ta5znQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ta5znQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "N-u2HwAACAAJ",
+      "etag": "KhY4cwY9X40",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N-u2HwAACAAJ",
+      "volumeInfo": {
+        "title": "Apuntes para la historia",
+        "authors": [
+          "Bartolomé Tavera-Acosta"
+        ],
+        "publishedDate": "1903",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12646227"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=N-u2HwAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=N-u2HwAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Apuntes_para_la_historia.html?hl=&id=N-u2HwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N-u2HwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q6J9zwEACAAJ",
+      "etag": "//V6pu+KDSM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q6J9zwEACAAJ",
+      "volumeInfo": {
+        "title": "La Guerra Universal",
+        "subtitle": "Cuarte parte",
+        "authors": [
+          "Bartolomé Tavera Acosta"
+        ],
+        "publishedDate": "1917",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1348936653"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=q6J9zwEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=q6J9zwEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Guerra_Universal.html?hl=&id=q6J9zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q6J9zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ROeNoAEACAAJ",
+      "etag": "HXk4gYJlHR4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ROeNoAEACAAJ",
+      "volumeInfo": {
+        "title": "Rio negro",
+        "subtitle": "reseña etnográfica, histórica y geográfica del Territorio Amazonas",
+        "authors": [
+          "Bartolomé Tavera-Acosta"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9801402784"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789801402787"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 284,
+        "printType": "BOOK",
+        "categories": [
+          "Amazonas (Venezuela)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ROeNoAEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ROeNoAEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rio_negro.html?hl=&id=ROeNoAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ROeNoAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "51tuAQAACAAJ",
+      "etag": "AsfycAjaIPo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/51tuAQAACAAJ",
+      "volumeInfo": {
+        "title": "El caucho en Venezuela",
+        "authors": [
+          "Bartolomé Tavera-Acosta"
+        ],
+        "publishedDate": "1903",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:968799874"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "categories": [
+          "Hevea"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=51tuAQAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=51tuAQAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_caucho_en_Venezuela.html?hl=&id=51tuAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=51tuAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lNLztgAACAAJ",
+      "etag": "0mViy2zItWw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lNLztgAACAAJ",
+      "volumeInfo": {
+        "title": "Los Petroglifos de Venezuela. Prólogo de Miguel Acosta Saignes",
+        "authors": [
+          "B. Tavera Acosta",
+          "Miguel Acosta Saignes"
+        ],
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459754584"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 105,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lNLztgAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lNLztgAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_Petroglifos_de_Venezuela_Pr%C3%B3logo_de.html?hl=&id=lNLztgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lNLztgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Kp0lzQEACAAJ",
+      "etag": "xSyDQ+IMzyM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Kp0lzQEACAAJ",
+      "volumeInfo": {
+        "title": "Analisis de los petroglifos venezolos",
+        "authors": [
+          "Bartolomé Tavera Acosta"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:661220148"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=Kp0lzQEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Kp0lzQEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Analisis_de_los_petroglifos_venezolos.html?hl=&id=Kp0lzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Kp0lzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "z6NomQEACAAJ",
+      "etag": "Y+Ml4QvCvho",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z6NomQEACAAJ",
+      "volumeInfo": {
+        "title": "Las provincias orientales de Venezuela en la primera república ...",
+        "authors": [
+          "B. Tavera-Acosta"
+        ],
+        "publishedDate": "1923",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:15056327"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 44,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=z6NomQEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=z6NomQEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_provincias_orientales_de_Venezuela_e.html?hl=&id=z6NomQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=z6NomQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jKIR0AEACAAJ",
+      "etag": "C17o8OtnzS4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jKIR0AEACAAJ",
+      "volumeInfo": {
+        "title": "La guerra universal",
+        "subtitle": "Segunda parte",
+        "authors": [
+          "Bartolomé Tavera Acosta"
+        ],
+        "publishedDate": "1915",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1389713767"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jKIR0AEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jKIR0AEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_guerra_universal.html?hl=&id=jKIR0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jKIR0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AR3MQwAACAAJ",
+      "etag": "eS/u6UEmNx4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AR3MQwAACAAJ",
+      "volumeInfo": {
+        "title": "La Guerra universal...",
+        "authors": [
+          "Bartolomé Tavera-Acosta"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:464995027"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=AR3MQwAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=AR3MQwAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Guerra_universal.html?hl=&id=AR3MQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AR3MQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vOXMuQEACAAJ",
+      "etag": "0w9TaHFNL/0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vOXMuQEACAAJ",
+      "volumeInfo": {
+        "title": "El caucho en Venezuela (Atabapo)",
+        "authors": [
+          "Bartolomé Tavera-Acosta"
+        ],
+        "publishedDate": "1903",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1044628263"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "categories": [
+          "Rubber industry and trade"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vOXMuQEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vOXMuQEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_caucho_en_Venezuela_Atabapo.html?hl=&id=vOXMuQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vOXMuQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "t2ZxYgEACAAJ",
+      "etag": "mVYgxXniD4k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t2ZxYgEACAAJ",
+      "volumeInfo": {
+        "title": "Lo histórico",
+        "subtitle": "sucesos de la guerra federal en el oriente de Venezuela",
+        "authors": [
+          "Bartolomé Tavera-Acosta"
+        ],
+        "publishedDate": "1907",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:22971802"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 33,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=t2ZxYgEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=t2ZxYgEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lo_hist%C3%B3rico.html?hl=&id=t2ZxYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t2ZxYgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aZ9ZmwEACAAJ",
+      "etag": "mNoKQzgwK9Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aZ9ZmwEACAAJ",
+      "volumeInfo": {
+        "title": "A Través de la Historia de Venezuela",
+        "authors": [
+          "Bartolomé TAVERA-ACOSTA"
+        ],
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:504549255"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=aZ9ZmwEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=aZ9ZmwEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Trav%C3%A9s_de_la_Historia_de_Venezuela.html?hl=&id=aZ9ZmwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aZ9ZmwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JUT_MgEACAAJ",
+      "etag": "5y9Mf1kWNA8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JUT_MgEACAAJ",
+      "volumeInfo": {
+        "title": "Anales de Guayana. [With Illustrations.].",
+        "authors": [
+          "Bartolomé TAVERA-ACOSTA"
+        ],
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:504549270"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=JUT_MgEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JUT_MgEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anales_de_Guayana_With_Illustrations.html?hl=&id=JUT_MgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JUT_MgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BCwIPwAACAAJ",
+      "etag": "6XBFEMN8Co0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BCwIPwAACAAJ",
+      "volumeInfo": {
+        "title": "Nuevos vocabularios de dialecos indígenas de Venezuela",
+        "authors": [
+          "Bartolomé Tavera Acosta"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:254422807"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=BCwIPwAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BCwIPwAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nuevos_vocabularios_de_dialecos_ind%C3%ADgen.html?hl=&id=BCwIPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BCwIPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "t384PQAACAAJ",
+      "etag": "OozAZNMCtyg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t384PQAACAAJ",
+      "volumeInfo": {
+        "title": "De la guerra universal",
+        "authors": [
+          "Bartolomé Tavera Acosta"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:26150759"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 142,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=t384PQAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=t384PQAACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_la_guerra_universal.html?hl=&id=t384PQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t384PQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hikMMwEACAAJ",
+      "etag": "e677JXOvA50",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hikMMwEACAAJ",
+      "volumeInfo": {
+        "title": "Los Petroglifos de Venezuela, Etc. [With Plates.].",
+        "authors": [
+          "Bartolomé TAVERA-ACOSTA"
+        ],
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:504549317"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 105,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=hikMMwEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hikMMwEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_Petroglifos_de_Venezuela_Etc_With_Pl.html?hl=&id=hikMMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hikMMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BY_-MgEACAAJ",
+      "etag": "+DhcF27wFL0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BY_-MgEACAAJ",
+      "volumeInfo": {
+        "title": "Historia de Carúpano. Segunda Edición, Etc. [With a Portrait.].",
+        "authors": [
+          "Bartolomé TAVERA-ACOSTA"
+        ],
+        "publishedDate": "1947",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:504549297"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=BY_-MgEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BY_-MgEACAAJ&dq=inauthor:%22Bartolom%C3%A9+Tavera+Acosta%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_de_Car%C3%BApano_Segunda_Edici%C3%B3n_E.html?hl=&id=BY_-MgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BY_-MgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

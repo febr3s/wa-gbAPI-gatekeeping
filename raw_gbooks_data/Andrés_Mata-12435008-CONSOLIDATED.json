@@ -1,0 +1,1872 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Andr%C3%A9s%20Mata\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Andr%C3%A9s%20Mata\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Andr%C3%A9s%20Mata\"&maxResults=20&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Andr%C3%A9s%20Mata\"&maxResults=10&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 30,
+  "_totalRequestsMade": 2,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "dpCkBgAAQBAJ",
+      "etag": "q/bmBHu4wg8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dpCkBgAAQBAJ",
+      "volumeInfo": {
+        "title": "Una Ventana a Nuestro Interior",
+        "subtitle": "Inteligencia Emocional",
+        "authors": [
+          "Andrés Mata"
+        ],
+        "publisher": "AuthorHouse",
+        "publishedDate": "2015-02-06",
+        "description": "Andrs Mata es un escritor, compositor y motivador. El ha desarrollado su propia visin del mundo laboral, corporativo y empresarial. Tambin es Autor de varios Libros, Audios y DVDS de motivacin y crecimiento personal. Su tesn y perspicacia lo han llevado a investigar cientos de obras de relaciones humanas, psicologa, crecimiento personal, motivacin y todo lo que tiene que ver con el desarrollo interno y el comportamiento humano. Imparte conferencias en organizaciones filantrpicas, iglesias, en organizaciones de educacin financiera y desarrollo empresarial. Su misin es educar contra los cuatro enemigos ms letales del ser humano que son: la ignorancia, la pobreza, la mediocridad y la comodidad. Sus obras proveen informacin valiosa que despierta el diamante interno de cada individuo y los lleva a descubrir su mximo potencial. Su perspicacia y sentido comn hace que los conceptos difciles y complicados sean fciles de comprender, con ejemplos censillos y llenos de significado. Que pueden escucharse o leerse en poco tiempo pero pueden traer cambios en las personas que duran toda la vida.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781496968050"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1496968050"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 60,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dpCkBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dpCkBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=dpCkBgAAQBAJ&printsec=frontcover&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dpCkBgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dpCkBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 16541,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 12406,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=dpCkBgAAQBAJ&rdid=book-dpCkBgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 16541000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 12406000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Una_Ventana_a_Nuestro_Interior-sample-epub.acsm?id=dpCkBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Una_Ventana_a_Nuestro_Interior-sample-pdf.acsm?id=dpCkBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dpCkBgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Andrs Mata es un escritor, compositor y motivador."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Yso-AAAAIAAJ",
+      "etag": "9ZY9qX0nFew",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Yso-AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Arias sentimentales, y otros poemas",
+        "authors": [
+          "Andrés Mata"
+        ],
+        "publishedDate": "1942",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B160702"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 186,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Yso-AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Yso-AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Yso-AAAAIAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Yso-AAAAIAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arias_sentimentales_y_otros_poemas.html?hl=&id=Yso-AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Yso-AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o5IeCAAAQBAJ",
+      "etag": "1TkW4Xsh7f4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o5IeCAAAQBAJ",
+      "volumeInfo": {
+        "title": "Emergiendo Del Pantano",
+        "subtitle": "Inteligencia Emocional",
+        "authors": [
+          "Andrés Mata"
+        ],
+        "publisher": "AuthorHouse",
+        "publishedDate": "2015-04-08",
+        "description": "Este libro fue escrito con principios slidos de relaciones humanas, de motivacin y con principios bsicos de psicologa. Descubrirs los ingredientes fiables que forman relaciones profundas, slidas y permanentes. Los ingredientes que le dan sentido a la vida y hacen germinar las relaciones y el xito personal, son cualidades que no nacen por casualidad hay que construirlas y hacerlas florecer. Esta obra te ayuda a descubrir tus talentos y desarrollars la habilidad en el arte para tratar e influir en los dems.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781496974082"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1496974085"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 62,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=o5IeCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=o5IeCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=o5IeCAAAQBAJ&printsec=frontcover&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=o5IeCAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=o5IeCAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 16541,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 12406,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=o5IeCAAAQBAJ&rdid=book-o5IeCAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 16541000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 12406000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Emergiendo_Del_Pantano-sample-epub.acsm?id=o5IeCAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Emergiendo_Del_Pantano-sample-pdf.acsm?id=o5IeCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o5IeCAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Este libro fue escrito con principios slidos de relaciones humanas, de motivacin y con principios bsicos de psicologa."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p640AAAAIAAJ",
+      "etag": "O55wVElB9Fk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p640AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Idilio trágico ...",
+        "authors": [
+          "Andrés Mata"
+        ],
+        "publishedDate": "1898",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3630978"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": [
+          "Modernismo"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.9.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p640AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p640AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=p640AAAAIAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=p640AAAAIAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Idilio_tr%C3%A1gico.html?hl=&id=p640AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p640AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XUFTAAAAMAAJ",
+      "etag": "piVofk7aZ1w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XUFTAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Poesías completas",
+        "authors": [
+          "Andrés Mata"
+        ],
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024439025"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XUFTAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XUFTAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=XUFTAAAAMAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=XUFTAAAAMAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas_completas.html?hl=&id=XUFTAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XUFTAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BwNUOwAACAAJ",
+      "etag": "Ya+hABj/G0I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BwNUOwAACAAJ",
+      "volumeInfo": {
+        "title": "Pentélicas",
+        "authors": [
+          "Andrés A. Mata"
+        ],
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9802340561"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789802340569"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 122,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BwNUOwAACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BwNUOwAACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pent%C3%A9licas.html?hl=&id=BwNUOwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BwNUOwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gIlTAAAAMAAJ",
+      "etag": "IvF2GVaQA3k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gIlTAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Desgracia y felicidad",
+        "authors": [
+          "Andrés Mata"
+        ],
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023795465"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 146,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuelan fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gIlTAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gIlTAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=gIlTAAAAMAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=gIlTAAAAMAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Desgracia_y_felicidad.html?hl=&id=gIlTAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gIlTAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KjBS5zEfRzQC",
+      "etag": "3cXMvURXBFE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KjBS5zEfRzQC",
+      "volumeInfo": {
+        "title": "Jornadas científicas sobre cerámica y vidrio",
+        "authors": [
+          "Andrés Mata Arjona"
+        ],
+        "publisher": "Universidad de Oviedo",
+        "publishedDate": "1981",
+        "description": "La edición de esta monografía tiene como objetivo recoger y dar forma a las ideas expuestas durante las sesiones científicas organizadas por la sección de ciencia básica de la Sociedad Española de Cerámica y Vidrio, para que puedan ser transmitidas a los investigadores que se interesan en esta rama de la ciencia. Los trabajos presentados versaron desde la mineralogía de las arcillas, tema de gran interés práctico para un mejor conocimiento de las materias primas, al estudio de las propiedades cristaloquímicas, termodinámicas, mecánicas y ópticas de los sistemas de óxidos refractarios, cuyo contenido y desarrollo es mucho más teórico y complejo. Interés especial merece el nuevo campo de los materiales petrúrgicos por las posibilidades que abre para la cerámica del futuro próximo.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8474680506"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788474680508"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 344,
+        "printType": "BOOK",
+        "categories": [
+          "Technology & Engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.10.10.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KjBS5zEfRzQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KjBS5zEfRzQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=KjBS5zEfRzQC&printsec=frontcover&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KjBS5zEfRzQC&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jornadas_cient%C3%ADficas_sobre_cer%C3%A1mica_y.html?hl=&id=KjBS5zEfRzQC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Jornadas_cient%C3%ADficas_sobre_cer%C3%A1mica_y-sample-pdf.acsm?id=KjBS5zEfRzQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KjBS5zEfRzQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La edición de esta monografía tiene como objetivo recoger y dar forma a las ideas expuestas durante las sesiones científicas organizadas por la sección de ciencia básica de la Sociedad Española de Cerámica y Vidrio, para que puedan ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EytCAAAAYAAJ",
+      "etag": "DdNLBpaSW70",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EytCAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Algunos poemas",
+        "authors": [
+          "Andrés Mata"
+        ],
+        "publishedDate": "1965",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173026634076"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 28,
+        "printType": "BOOK",
+        "categories": [
+          "Poetry, Venezuelan"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EytCAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EytCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EytCAAAAYAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EytCAAAAYAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Algunos_poemas.html?hl=&id=EytCAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EytCAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SeKaG56ZmH0C",
+      "etag": "aLgL/FN3LGw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SeKaG56ZmH0C",
+      "volumeInfo": {
+        "title": "Defectos reticulares y movilidad protónica en la bohemita",
+        "authors": [
+          "Andrés Mata Arjona"
+        ],
+        "publishedDate": "1977",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112072853523"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 84,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SeKaG56ZmH0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SeKaG56ZmH0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SeKaG56ZmH0C&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SeKaG56ZmH0C&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Defectos_reticulares_y_movilidad_prot%C3%B3n.html?hl=&id=SeKaG56ZmH0C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SeKaG56ZmH0C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ud3DQwAACAAJ",
+      "etag": "7sc4CxFq9Zc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ud3DQwAACAAJ",
+      "volumeInfo": {
+        "title": "Pentélicas",
+        "subtitle": "[Poesias]",
+        "authors": [
+          "Andrés A. Mata"
+        ],
+        "publishedDate": "1896",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432617148"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 177,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Ud3DQwAACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Ud3DQwAACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pent%C3%A9licas.html?hl=&id=Ud3DQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ud3DQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K_00QwAACAAJ",
+      "etag": "VYNAXE9KuA8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K_00QwAACAAJ",
+      "volumeInfo": {
+        "title": "Selección de poesias de Andrés Mata",
+        "authors": [
+          "Andrés Mata"
+        ],
+        "publishedDate": "1932",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432617146"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=K_00QwAACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=K_00QwAACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Selecci%C3%B3n_de_poesias_de_Andr%C3%A9s_Mata.html?hl=&id=K_00QwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K_00QwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "B8-KHAAACAAJ",
+      "etag": "/ofUazDyJFs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B8-KHAAACAAJ",
+      "volumeInfo": {
+        "title": "Para Andrés Mata",
+        "subtitle": "homenaje del Comité pro-Centenario de Andrés Mata : [en el centenario de su nacimiento].",
+        "publishedDate": "1970",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55364172"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=B8-KHAAACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=B8-KHAAACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Para_Andr%C3%A9s_Mata.html?hl=&id=B8-KHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B8-KHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MGxnYgEACAAJ",
+      "etag": "7qqxFXfgCYM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MGxnYgEACAAJ",
+      "volumeInfo": {
+        "title": "Obra poética [de] Andrés Mata",
+        "authors": [
+          "Andrés A. Mata",
+          "Pedro García Lopenza"
+        ],
+        "publishedDate": "1970",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:223079865"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 300,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=MGxnYgEACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=MGxnYgEACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obra_po%C3%A9tica_de_Andr%C3%A9s_Mata.html?hl=&id=MGxnYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MGxnYgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iL5VzQEACAAJ",
+      "etag": "Uw6NN+L9c2w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iL5VzQEACAAJ",
+      "volumeInfo": {
+        "title": "Memorias incompletas de Andrés Mata de la Torre",
+        "subtitle": "la historia de la popular canción \"La Burgalesa\"",
+        "authors": [
+          "Andrés Mata de la Torre"
+        ],
+        "publishedDate": "2017",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8469729659"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788469729656"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=iL5VzQEACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=iL5VzQEACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias_incompletas_de_Andr%C3%A9s_Mata_de.html?hl=&id=iL5VzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iL5VzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AYI1zwEACAAJ",
+      "etag": "nF0J8g2trgU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AYI1zwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta 1911 jun. 9, Francia? a Andrés Mata",
+        "authors": [
+          "Rubén Darío"
+        ],
+        "publishedDate": "1911",
+        "description": "Le ofrece trabajo como cronista en la revista \"Mundial\".",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1317996624"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=AYI1zwEACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=AYI1zwEACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_1911_jun_9_Francia_a_Andr%C3%A9s_Mata.html?hl=&id=AYI1zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AYI1zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Le ofrece trabajo como cronista en la revista &quot;Mundial&quot;."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ed8eAQAAIAAJ",
+      "etag": "bbnTU4E8SW8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ed8eAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Obra poética",
+        "authors": [
+          "Andrés Mata"
+        ],
+        "publishedDate": "1970",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105034868070"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 330,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ed8eAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ed8eAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ed8eAQAAIAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ed8eAQAAIAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obra_po%C3%A9tica.html?hl=&id=ed8eAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ed8eAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GwkyzwEACAAJ",
+      "etag": "dgMAhQo5x0I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GwkyzwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta , 1911 mar. 17 Caracas, Venezuela a Rubén Darío",
+        "authors": [
+          "Andrés Mata"
+        ],
+        "publishedDate": "1911",
+        "description": "Propuesta económica con respecto a la publicación de artículos de R. Darío.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318724291"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GwkyzwEACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GwkyzwEACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_1911_mar_17_Caracas_Venezuela_a_Ru.html?hl=&id=GwkyzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GwkyzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Propuesta económica con respecto a la publicación de artículos de R. Darío."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GhixvwEACAAJ",
+      "etag": "lRBggrlN+bs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GhixvwEACAAJ",
+      "volumeInfo": {
+        "title": "Idilio trágico",
+        "subtitle": "poema",
+        "authors": [
+          "Andrés Mata"
+        ],
+        "publishedDate": "1898",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:733554528"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GhixvwEACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GhixvwEACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Idilio_tr%C3%A1gico.html?hl=&id=GhixvwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GhixvwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JHGazwEACAAJ",
+      "etag": "/vCS3U3EW8c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JHGazwEACAAJ",
+      "volumeInfo": {
+        "title": "Poesías escogidas",
+        "authors": [
+          "Andrés Mata"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1025757353"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JHGazwEACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JHGazwEACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas_escogidas.html?hl=&id=JHGazwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JHGazwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RGCqPAAACAAJ",
+      "etag": "G16KJC9IlgQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RGCqPAAACAAJ",
+      "volumeInfo": {
+        "title": "Prototipo de bibliotecas públicas",
+        "authors": [
+          "España. Ministerio de Cultura"
+        ],
+        "publishedDate": "1995-01-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8481811033"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788481811032"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 137,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RGCqPAAACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RGCqPAAACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Prototipo_de_bibliotecas_p%C3%BAblicas.html?hl=&id=RGCqPAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RGCqPAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qePuzwEACAAJ",
+      "etag": "ZB8lH80FqJ4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qePuzwEACAAJ",
+      "volumeInfo": {
+        "title": "9 [i. e. Nueve] días de un viaje por las minas",
+        "subtitle": "del diario de un reportero",
+        "authors": [
+          "Alfredo Medrano",
+          "Alsán",
+          "Andrés Mata",
+          "Blai Bonet",
+          "Carl Arne Hartman",
+          "Fernando Arbeláez",
+          "Luis Barrios Cruz",
+          "Rubén Sabah"
+        ],
+        "publishedDate": "1965",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:68138004"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Catalan poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qePuzwEACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qePuzwEACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/9_i_e_Nueve_d%C3%ADas_de_un_viaje_por_las_mi.html?hl=&id=qePuzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qePuzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IpmGAQAACAAJ",
+      "etag": "jgEvRxmYo64",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IpmGAQAACAAJ",
+      "volumeInfo": {
+        "title": "Sobre la constitución química de los catalizadores, SiO2-Al2O3",
+        "authors": [
+          "Andrés Mata Arjona"
+        ],
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:954085572"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=IpmGAQAACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=IpmGAQAACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sobre_la_constituci%C3%B3n_qu%C3%ADmica_de_los_c.html?hl=&id=IpmGAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IpmGAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FZ7ejwEACAAJ",
+      "etag": "8B44cQa7iNQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FZ7ejwEACAAJ",
+      "volumeInfo": {
+        "title": "Sobre la constitución química de los catalizadores",
+        "subtitle": "Si02-Al20",
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:934075361"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=FZ7ejwEACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=FZ7ejwEACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sobre_la_constituci%C3%B3n_qu%C3%ADmica_de_los_c.html?hl=&id=FZ7ejwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FZ7ejwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "20xNzQEACAAJ",
+      "etag": "nPoYB1Vk+fE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/20xNzQEACAAJ",
+      "volumeInfo": {
+        "title": "Lo que aconteció en Villímar por la gripe española en octubre de 1918",
+        "authors": [
+          "Andrés Mata de la Torre"
+        ],
+        "publishedDate": "2018",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8409046903"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788409046904"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=20xNzQEACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=20xNzQEACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lo_que_aconteci%C3%B3_en_Vill%C3%ADmar_por_la_gr.html?hl=&id=20xNzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=20xNzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wBAzzwEACAAJ",
+      "etag": "QlFHiD9jBNM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wBAzzwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta , 1906 abr. 6 Caracas, Venezuela a Rubén Darío",
+        "authors": [
+          "Andrés Mata"
+        ],
+        "publishedDate": "1906",
+        "description": "Propuesta económica por su colaboración en \"El Constitucional\".",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318143072"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wBAzzwEACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wBAzzwEACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_1906_abr_6_Caracas_Venezuela_a_Rub.html?hl=&id=wBAzzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wBAzzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Propuesta económica por su colaboración en &quot;El Constitucional&quot;."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_MbCPAAACAAJ",
+      "etag": "Jz/emNzzz8g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_MbCPAAACAAJ",
+      "volumeInfo": {
+        "title": "Responsabilidad Social Empresarial en Las Américas",
+        "authors": [
+          "Andrés Mata"
+        ],
+        "publishedDate": "2003",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9806666003"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789806666009"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 318,
+        "printType": "BOOK",
+        "categories": [
+          "Social responsibility of business"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_MbCPAAACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_MbCPAAACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Responsabilidad_Social_Empresarial_en_La.html?hl=&id=_MbCPAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_MbCPAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0TURHAAACAAJ",
+      "etag": "byx4B/0aSNo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0TURHAAACAAJ",
+      "volumeInfo": {
+        "title": "Selección de poesías",
+        "authors": [
+          "Andrés Mata",
+          "C. Ayala D."
+        ],
+        "publishedDate": "1932",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:48063986"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0TURHAAACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0TURHAAACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Selecci%C3%B3n_de_poes%C3%ADas.html?hl=&id=0TURHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0TURHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MIYIGwAACAAJ",
+      "etag": "jCEUMmMByRg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MIYIGwAACAAJ",
+      "volumeInfo": {
+        "title": "Arias sentimentales",
+        "authors": [
+          "Andrés Mata"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:92206766"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=MIYIGwAACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=MIYIGwAACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arias_sentimentales.html?hl=&id=MIYIGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MIYIGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VKYuJwAACAAJ",
+      "etag": "PiBuqw7iW50",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VKYuJwAACAAJ",
+      "volumeInfo": {
+        "title": "La Diferencia Entre la Gente de éxito y la Común",
+        "authors": [
+          "Andrés Mata G."
+        ],
+        "publisher": "Cbh Books",
+        "publishedDate": "2007-01-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1598350366"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781598350364"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 145,
+        "printType": "BOOK",
+        "categories": [
+          "Success"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VKYuJwAACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VKYuJwAACAAJ&dq=inauthor:%22Andr%C3%A9s+Mata%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Diferencia_Entre_la_Gente_de_%C3%A9xito_y.html?hl=&id=VKYuJwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VKYuJwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

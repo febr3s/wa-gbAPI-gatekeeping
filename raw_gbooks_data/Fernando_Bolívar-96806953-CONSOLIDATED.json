@@ -1,0 +1,130 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Fernando%20Bol%C3%ADvar\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Fernando%20Bol%C3%ADvar\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 2,
+  "_totalFetchedItems": 2,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "XxXfvQEACAAJ",
+      "etag": "91La1mSgc5Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XxXfvQEACAAJ",
+      "volumeInfo": {
+        "title": "Concept art",
+        "subtitle": "Proyecto Visor : desarrollo gráfico de un videojuego",
+        "authors": [
+          "Darío Fernando Bolívar Gómez"
+        ],
+        "publishedDate": "2016",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9588785960"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789588785967"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 75,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=XxXfvQEACAAJ&dq=inauthor:%22Fernando+Bol%C3%ADvar%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=XxXfvQEACAAJ&dq=inauthor:%22Fernando+Bol%C3%ADvar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Concept_art.html?hl=&id=XxXfvQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XxXfvQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tzLstgAACAAJ",
+      "etag": "tEg9sKUSRwU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tzLstgAACAAJ",
+      "volumeInfo": {
+        "title": "Exploración sanitaria de Las Varas, Compostela, Nayarit",
+        "authors": [
+          "Luis Fernando Bolívar Terrazas"
+        ],
+        "publishedDate": "1948",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:19585289"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 33,
+        "printType": "BOOK",
+        "categories": [
+          "Las Varas (Nayarit, Mexico)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tzLstgAACAAJ&dq=inauthor:%22Fernando+Bol%C3%ADvar%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=tzLstgAACAAJ&dq=inauthor:%22Fernando+Bol%C3%ADvar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Exploraci%C3%B3n_sanitaria_de_Las_Varas_Comp.html?hl=&id=tzLstgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tzLstgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

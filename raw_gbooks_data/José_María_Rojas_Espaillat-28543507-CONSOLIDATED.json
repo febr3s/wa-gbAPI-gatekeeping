@@ -1,0 +1,71 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Mar%C3%ADa%20Rojas%20Espaillat\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Mar%C3%ADa%20Rojas%20Espaillat\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "BKDhzAEACAAJ",
+      "etag": "03Jg4ATv2mg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BKDhzAEACAAJ",
+      "volumeInfo": {
+        "title": "Academia Venezolana Correspondiente",
+        "subtitle": "discurso inaugural, su crítica y su defensa",
+        "authors": [
+          "Academia Venezolana Correspondiente de la Real Española",
+          "Antonio Guzmán Blanco"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:776469150"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 211,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BKDhzAEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Rojas+Espaillat%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BKDhzAEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Rojas+Espaillat%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Academia_Venezolana_Correspondiente.html?hl=&id=BKDhzAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BKDhzAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

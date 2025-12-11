@@ -1,0 +1,3361 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Manuel%20Antonio%20Carre%C3%B1o\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Manuel%20Antonio%20Carre%C3%B1o\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Manuel%20Antonio%20Carre%C3%B1o\"&maxResults=20&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Manuel%20Antonio%20Carre%C3%B1o\"&maxResults=20&startIndex=40&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Manuel%20Antonio%20Carre%C3%B1o\"&maxResults=17&startIndex=40&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 57,
+  "_totalRequestsMade": 3,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "1jhcAAAAcAAJ",
+      "etag": "Nb6cYJCC3GA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1jhcAAAAcAAJ",
+      "volumeInfo": {
+        "title": "Manual de Urbanidad y Buenas Maneras, etc",
+        "authors": [
+          "Manuel Antonio CARREÑO"
+        ],
+        "publishedDate": "1857",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BL:A0018617789"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 342,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1jhcAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1jhcAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1jhcAAAAcAAJ&printsec=frontcover&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1jhcAAAAcAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1jhcAAAAcAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=1jhcAAAAcAAJ&rdid=book-1jhcAAAAcAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Manual_de_Urbanidad_y_Buenas_Maneras_etc.epub?id=1jhcAAAAcAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1jhcAAAAcAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cxINAAAAYAAJ",
+      "etag": "zm4iWoixN0E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cxINAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Compendio del Manual de urbanidad y buenas maneras",
+        "subtitle": "Arreglado [por el mismo] para el uso de las escuelas de ambos sexos",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1860",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044024515587"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.4.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cxINAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cxINAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cxINAAAAYAAJ&printsec=frontcover&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=cxINAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cxINAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=cxINAAAAYAAJ&rdid=book-cxINAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Compendio_del_Manual_de_urbanidad_y_buen.epub?id=cxINAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Compendio_del_Manual_de_urbanidad_y_buen.pdf?id=cxINAAAAYAAJ&hl=&output=pdf&sig=ACfU3U2_5Qj_A-UyeP9ljeXMie-deqCc3g&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cxINAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s5bWuQEACAAJ",
+      "etag": "oR15movg97U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s5bWuQEACAAJ",
+      "volumeInfo": {
+        "title": "Compendio del Manual de urbanidad y buenas maneras de Manuel Antonio Carreño,.",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1875",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1042441759"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "categories": [
+          "Etiquette"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=s5bWuQEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=s5bWuQEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Compendio_del_Manual_de_urbanidad_y_buen.html?hl=&id=s5bWuQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s5bWuQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aA-uuAAACAAJ",
+      "etag": "QZmI9MXJK3c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aA-uuAAACAAJ",
+      "volumeInfo": {
+        "title": "Compendio del Manual de urbanidad y buenas maneras",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1965",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:642855380"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 107,
+        "printType": "BOOK",
+        "categories": [
+          "Etiquette"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=aA-uuAAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=aA-uuAAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Compendio_del_Manual_de_urbanidad_y_buen.html?hl=&id=aA-uuAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aA-uuAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pqoLv6xBO4kC",
+      "etag": "MsRbPVmPnAU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pqoLv6xBO4kC",
+      "volumeInfo": {
+        "title": "El Manual de Carreno",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publisher": "El Nacional",
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9806423844"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789806423848"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "categories": [
+          "Courtesy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pqoLv6xBO4kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pqoLv6xBO4kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=pqoLv6xBO4kC&printsec=frontcover&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=pqoLv6xBO4kC&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Manual_de_Carreno.html?hl=&id=pqoLv6xBO4kC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/El_Manual_de_Carreno-sample-pdf.acsm?id=pqoLv6xBO4kC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pqoLv6xBO4kC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G1RZAAAAMAAJ",
+      "etag": "NBuW1oJcy1k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G1RZAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Urbanidad",
+        "subtitle": "compendio del Manual de urbanidad y buenas maneras : arreglado para el uso de las escuelas de ambos sexos",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1961",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173011875760"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "categories": [
+          "Courtesy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=G1RZAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=G1RZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=G1RZAAAAMAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=G1RZAAAAMAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Urbanidad.html?hl=&id=G1RZAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G1RZAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eAY-AQAAMAAJ",
+      "etag": "OgFFExnLuMg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eAY-AQAAMAAJ",
+      "volumeInfo": {
+        "title": "Nuevo manual de urbanidad y buenas maneras",
+        "subtitle": "para uso de la juventud de ambos sexos, en la escuela y en el hogar ...",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1901",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "SRLF:A0000914184"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 360,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eAY-AQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eAY-AQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=eAY-AQAAMAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eAY-AQAAMAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nuevo_manual_de_urbanidad_y_buenas_maner.html?hl=&id=eAY-AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eAY-AQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5i5cAAAAcAAJ",
+      "etag": "4tr6TXSDlyI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5i5cAAAAcAAJ",
+      "volumeInfo": {
+        "title": "Compendio del Manual de Urbanidad y Buenas Maneras de M. A. Carreño ... arreglado por el mismo, etc",
+        "authors": [
+          "Manuel Antonio CARREÑO"
+        ],
+        "publishedDate": "1857",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BL:A0018617559"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5i5cAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5i5cAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5i5cAAAAcAAJ&printsec=frontcover&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=5i5cAAAAcAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5i5cAAAAcAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=5i5cAAAAcAAJ&rdid=book-5i5cAAAAcAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Compendio_del_Manual_de_Urbanidad_y_Buen.epub?id=5i5cAAAAcAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5i5cAAAAcAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "f-KsbwAACAAJ",
+      "etag": "gD2qLAs8rcY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f-KsbwAACAAJ",
+      "volumeInfo": {
+        "title": "Manual de Carreño",
+        "subtitle": "Manual de urbanidad y buenas maneras",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9561208814"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789561208810"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 213,
+        "printType": "BOOK",
+        "categories": [
+          "Etiquette"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=f-KsbwAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=f-KsbwAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_Carre%C3%B1o.html?hl=&id=f-KsbwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f-KsbwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yqtQAAAAMAAJ",
+      "etag": "QRlnqQPvCZk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yqtQAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Manual de urbanidad y buenas maneras para uso de la juventud de ambos sexos",
+        "subtitle": "Precedido de un breve tratado sobre los deberes morales del hombre",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1957",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173025332300"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 516,
+        "printType": "BOOK",
+        "categories": [
+          "Etiquette"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yqtQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yqtQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yqtQAAAAMAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yqtQAAAAMAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_urbanidad_y_buenas_maneras_par.html?hl=&id=yqtQAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yqtQAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eLv3swEACAAJ",
+      "etag": "WXv4iLGUkGA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eLv3swEACAAJ",
+      "volumeInfo": {
+        "title": "Manual de urbanidad y buenas maneras",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55257357"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=eLv3swEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eLv3swEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_urbanidad_y_buenas_maneras.html?hl=&id=eLv3swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eLv3swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mFIvzwEACAAJ",
+      "etag": "NU5CZA2atg4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mFIvzwEACAAJ",
+      "volumeInfo": {
+        "title": "Compendio de manual de urbanidad y buenas maneras",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318219459"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mFIvzwEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mFIvzwEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Compendio_de_manual_de_urbanidad_y_buena.html?hl=&id=mFIvzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mFIvzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "13kjzQEACAAJ",
+      "etag": "EeeNeud10Fc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/13kjzQEACAAJ",
+      "volumeInfo": {
+        "title": "Manual de urbanidad y buenas maneras para uso de la juventud de ambos sexos ...",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:933952403"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 388,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=13kjzQEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=13kjzQEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_urbanidad_y_buenas_maneras_par.html?hl=&id=13kjzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=13kjzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A4ObmgEACAAJ",
+      "etag": "B2/Hc+N8V2w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A4ObmgEACAAJ",
+      "volumeInfo": {
+        "title": "Compendio del manual de urbanidad y buenas maneras",
+        "subtitle": "para el uso de las escuelas de ambos sexos",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1900",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651349910"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=A4ObmgEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=A4ObmgEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Compendio_del_manual_de_urbanidad_y_buen.html?hl=&id=A4ObmgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A4ObmgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wLWDzwEACAAJ",
+      "etag": "QXSMlvRCKxI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wLWDzwEACAAJ",
+      "volumeInfo": {
+        "title": "Compendio Del Manual De Urbanidad Y Buenas Maneras: Arreglado [por El Mismo] Para El Uso De Las Escuelas De Ambos Sexos...",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publisher": "Legare Street Press",
+        "publishedDate": "2022-10-26",
+        "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the \"public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1015444202"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781015444201"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wLWDzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wLWDzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wLWDzwEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wLWDzwEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Compendio_Del_Manual_De_Urbanidad_Y_Buen.html?hl=&id=wLWDzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wLWDzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the &quot;public domain in the United States of America, and possibly other nations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jMl9PgAACAAJ",
+      "etag": "vB/eL6vnRDo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jMl9PgAACAAJ",
+      "volumeInfo": {
+        "title": "Manual de urbanidad y buenas maneras : para uso de la juventud de ambos sexos, precedido de un buen breve tratado sobre los deberes morales del hombre",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1880",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:20149678"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 388,
+        "printType": "BOOK",
+        "categories": [
+          "Etiqueta - Manuales"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=jMl9PgAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jMl9PgAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_urbanidad_y_buenas_maneras_par.html?hl=&id=jMl9PgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jMl9PgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "33FPnQEACAAJ",
+      "etag": "k4Db7ESVvXs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/33FPnQEACAAJ",
+      "volumeInfo": {
+        "title": "Manual de urbanidad y buenas maneras",
+        "subtitle": "para uso de la juventud de ambos sexos ... precidido de un breve tratado sobre los deberes morales del hombre",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1976",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:20149678"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 388,
+        "printType": "BOOK",
+        "categories": [
+          "Etiquette"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=33FPnQEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=33FPnQEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_urbanidad_y_buenas_maneras.html?hl=&id=33FPnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=33FPnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7M8pnwEACAAJ",
+      "etag": "Tns9pFjMOYs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7M8pnwEACAAJ",
+      "volumeInfo": {
+        "title": "Manual de urbanidad y buenas maneras para uso de la juventud ambos sexos ...",
+        "subtitle": "precedido de un breve tratado sobre los deberes morales del hombre",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1854",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:26268709"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 322,
+        "printType": "BOOK",
+        "categories": [
+          "Etiquette"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7M8pnwEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7M8pnwEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_urbanidad_y_buenas_maneras_par.html?hl=&id=7M8pnwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7M8pnwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dpmVwAEACAAJ",
+      "etag": "ii74bW4M5GE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dpmVwAEACAAJ",
+      "volumeInfo": {
+        "title": "Compendio del manual de Urbanidad y buenas maneras",
+        "subtitle": "Arreglado por él mismo para uso de las escuelas de ambos sexos",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:981352885"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=dpmVwAEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dpmVwAEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Compendio_del_manual_de_Urbanidad_y_buen.html?hl=&id=dpmVwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dpmVwAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yzMncAAACAAJ",
+      "etag": "wUtTD4QDw3M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yzMncAAACAAJ",
+      "volumeInfo": {
+        "title": "Manual de urbanidad y buenas maneras",
+        "subtitle": "de consulta indispensable para niños, jóvenes y adultos",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9583000213"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789583000218"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Etiquette"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yzMncAAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yzMncAAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_urbanidad_y_buenas_maneras.html?hl=&id=yzMncAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yzMncAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Algunos temas que contiene: Deberes morales del hombre; de los deberes para con dios; Los regalos; De los deberes para con la sociedad; Deberes para con nuestros padres; Deberes para con la patria; Deberes para con nuestros semejantes; De ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EjhKAAAACAAJ",
+      "etag": "Xkp68HwotSI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EjhKAAAACAAJ",
+      "volumeInfo": {
+        "title": "Manual de Carreño",
+        "subtitle": "urbanidad y buenas maneras",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9562401510"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789562401517"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "categories": [
+          "Etiquette"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EjhKAAAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EjhKAAAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_Carre%C3%B1o.html?hl=&id=EjhKAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EjhKAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jy9WAAAAcAAJ",
+      "etag": "enS+l2C8ELE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jy9WAAAAcAAJ",
+      "volumeInfo": {
+        "title": "Catecismo razonado, historico i dogmatico, redactado segun los catecismos de Aymé, de Fleury i de la diocesis de Paris; ... Traducido al Castellano por M. A. Carreño i M. Urbaneja. [The dedication signed, M. Chiari.]",
+        "authors": [
+          "abbé Thérou"
+        ],
+        "publishedDate": "1858",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BL:A0017434350"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 186,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jy9WAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jy9WAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=jy9WAAAAcAAJ&printsec=frontcover&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jy9WAAAAcAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jy9WAAAAcAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=jy9WAAAAcAAJ&rdid=book-jy9WAAAAcAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Catecismo_razonado_historico_i_dogmatico.epub?id=jy9WAAAAcAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Catecismo_razonado_historico_i_dogmatico.pdf?id=jy9WAAAAcAAJ&hl=&output=pdf&sig=ACfU3U35V26xGVU8EdAV71ZMfU63MhPcCw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jy9WAAAAcAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xpNdAAAAcAAJ",
+      "etag": "kfDS8EBGqFY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xpNdAAAAcAAJ",
+      "volumeInfo": {
+        "title": "Hacienda pública",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1859",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BL:A0018927714"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 58,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xpNdAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xpNdAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=xpNdAAAAcAAJ&printsec=frontcover&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xpNdAAAAcAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xpNdAAAAcAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=xpNdAAAAcAAJ&rdid=book-xpNdAAAAcAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Hacienda_p%C3%BAblica.epub?id=xpNdAAAAcAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xpNdAAAAcAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uhuMAQAACAAJ",
+      "etag": "CgFZTwHNCMw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uhuMAQAACAAJ",
+      "volumeInfo": {
+        "title": "Compendio del manual del urbanidad y buenas maneras de Manuel Antonio Carreño",
+        "subtitle": "Arreglado por él mismo para el uso de las escuelas de ambos sexos",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1859",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:957236639"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "categories": [
+          "Divorce suits"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=uhuMAQAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=uhuMAQAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Compendio_del_manual_del_urbanidad_y_bue.html?hl=&id=uhuMAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uhuMAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3oHJYgEACAAJ",
+      "etag": "DmibcTRdUI8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3oHJYgEACAAJ",
+      "volumeInfo": {
+        "title": "Compendio del manual de urbanidad y buenas maneras de Manuel Antonio Carreño, arreglado por el mismo para el uso de las escuelas de ambos sexos",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1898",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:433824698"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 135,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3oHJYgEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3oHJYgEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Compendio_del_manual_de_urbanidad_y_buen.html?hl=&id=3oHJYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3oHJYgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pCs9QwAACAAJ",
+      "etag": "OeQSh6lAcFA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pCs9QwAACAAJ",
+      "volumeInfo": {
+        "title": "Manual de urbanidad y buenas maneras, para uso de la juventud de ambos sexos, en la cual se encuentran las principales reglas de civilidad y etiqueta que deben observarse en las diversas situaciones sociales, precedido de un breve tratado sobre los deberes morales del hombre, por Manuel Antonio Carreño. Cuarta edicion...",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1867",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:457293863"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 330,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=pCs9QwAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=pCs9QwAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_urbanidad_y_buenas_maneras_par.html?hl=&id=pCs9QwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pCs9QwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CAdBQwAACAAJ",
+      "etag": "WFniqdXFxv0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CAdBQwAACAAJ",
+      "volumeInfo": {
+        "title": "Compendio del manual de urbanidad y buenas maneras de Manuel Antonio Carreño, arreglado por el mismo para uso de las escuelas de ambos sexos. Cuarta edicion cuidadosamente revisada y correjida",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1867",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:457293858"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 121,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=CAdBQwAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CAdBQwAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Compendio_del_manual_de_urbanidad_y_buen.html?hl=&id=CAdBQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CAdBQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3a06tAEACAAJ",
+      "etag": "suR4NcXvZHE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3a06tAEACAAJ",
+      "volumeInfo": {
+        "title": "Compendio del Manual de urbanidad y buenas maneras de Manuel Antonio Carreño",
+        "subtitle": "arreglado por el mismo para el uso de las escuelas de ambos sexos y adoptado en las Escuelas Públicas de Buenos Aires",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1896",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:971732672"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3a06tAEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3a06tAEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Compendio_del_Manual_de_urbanidad_y_buen.html?hl=&id=3a06tAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3a06tAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ME0vzwEACAAJ",
+      "etag": "BYiq58VwsA4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ME0vzwEACAAJ",
+      "volumeInfo": {
+        "title": "Manual de urbanidad según la doctrina de Carreño, para la instrucción pública",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1866",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318700266"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 46,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ME0vzwEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ME0vzwEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_urbanidad_seg%C3%BAn_la_doctrina_d.html?hl=&id=ME0vzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ME0vzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AjOTrgEACAAJ",
+      "etag": "rmR4pq/Ubu0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AjOTrgEACAAJ",
+      "volumeInfo": {
+        "title": "Manual de urbanidad",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "2002",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:907009359"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=AjOTrgEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=AjOTrgEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_urbanidad.html?hl=&id=AjOTrgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AjOTrgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2DSGrgEACAAJ",
+      "etag": "9l/nQUJK4NM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2DSGrgEACAAJ",
+      "volumeInfo": {
+        "title": "Manual de Urbanidad y Buenas Costumbres",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:906777067"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2DSGrgEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2DSGrgEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_Urbanidad_y_Buenas_Costumbres.html?hl=&id=2DSGrgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2DSGrgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TLsKzQEACAAJ",
+      "etag": "WbJj2c0BZX4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TLsKzQEACAAJ",
+      "volumeInfo": {
+        "title": "Manual de urbanidad y buenas maneras, para el uso de la juventud de ambos sexos ... precedido de un breve tratado sobre los deberes morales del hombre",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1895",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:932413975"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 388,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TLsKzQEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TLsKzQEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_urbanidad_y_buenas_maneras_par.html?hl=&id=TLsKzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TLsKzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "25VkwgEACAAJ",
+      "etag": "WZ7JJw3HHac",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/25VkwgEACAAJ",
+      "volumeInfo": {
+        "title": "Manual de urbanidad y buenas maneras",
+        "subtitle": "de consulta indespensable para niños, jóvenes y adultos",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1980",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:8335904"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "categories": [
+          "Etiquette"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=25VkwgEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=25VkwgEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_urbanidad_y_buenas_maneras.html?hl=&id=25VkwgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=25VkwgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DGVh0QEACAAJ",
+      "etag": "S1/VZdpAgBM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DGVh0QEACAAJ",
+      "volumeInfo": {
+        "title": "Manual de urbanidad y buenas maneras",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "195?",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55268639"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DGVh0QEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DGVh0QEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_urbanidad_y_buenas_maneras.html?hl=&id=DGVh0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DGVh0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2FelswEACAAJ",
+      "etag": "LNiKCIdTJ+c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2FelswEACAAJ",
+      "volumeInfo": {
+        "title": "Manual de urbanidad y buenas maneras para uso de la juventud de ambos sexos",
+        "subtitle": "en el cual se encuentran las principales reglas de civilidad y etiqueta que deben observarse en las diversas situaciones sociales : precedido de un breve tratado sobre los deberes morales del hombre",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1964",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651245737"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 443,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2FelswEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2FelswEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_urbanidad_y_buenas_maneras_par.html?hl=&id=2FelswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2FelswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "II22AQAACAAJ",
+      "etag": "v3eAbsj+19o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/II22AQAACAAJ",
+      "volumeInfo": {
+        "title": "Manual de urbanidad y buenas maneras para uso de la juventud de ambos sexos",
+        "subtitle": "en la cual se encuentran las principales reglas de civilidad y etiqueta que deben observarse en las diversas situaciones sociales, procedido de un breve tratado sobre los deberes morales del hombre",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:970478940"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 383,
+        "printType": "BOOK",
+        "categories": [
+          "Etiquette"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=II22AQAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=II22AQAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_urbanidad_y_buenas_maneras_par.html?hl=&id=II22AQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=II22AQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hsKz0AEACAAJ",
+      "etag": "AZS6FDaitDk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hsKz0AEACAAJ",
+      "volumeInfo": {
+        "title": "Urbanidad",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:777888014"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hsKz0AEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hsKz0AEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Urbanidad.html?hl=&id=hsKz0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hsKz0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KraWtAEACAAJ",
+      "etag": "1tby1hA3pgw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KraWtAEACAAJ",
+      "volumeInfo": {
+        "title": "Nuevo compendio del manual de urbanidad y buenas maneras",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1906",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:971689784"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 130,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=KraWtAEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KraWtAEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nuevo_compendio_del_manual_de_urbanidad.html?hl=&id=KraWtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KraWtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "77zrzgEACAAJ",
+      "etag": "DB/Qjdsz8Eo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/77zrzgEACAAJ",
+      "volumeInfo": {
+        "title": "Manual de urbanidad y buenas maneras para uso de la juventud de ambos sexos, en el cual se encuentran las principales reglas de civilidad y etiqueta que deben observarse ...",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1293358146"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 388,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=77zrzgEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=77zrzgEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_urbanidad_y_buenas_maneras_par.html?hl=&id=77zrzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=77zrzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "73GttAEACAAJ",
+      "etag": "rQDXFbQSD8M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/73GttAEACAAJ",
+      "volumeInfo": {
+        "title": "Compendio del manual de urbanidad y buenas maneras ; arreglado por el mismo para uso de las escuelas de ambos sexos",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1968",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:838511723"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 110,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=73GttAEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=73GttAEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Compendio_del_manual_de_urbanidad_y_buen.html?hl=&id=73GttAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=73GttAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JfHUswEACAAJ",
+      "etag": "oTOAX8lPw1w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JfHUswEACAAJ",
+      "volumeInfo": {
+        "title": "Manual de urbanidad y buenas maneras",
+        "subtitle": "para uso de la juventud de ambos sexos, en el cual se encuentran las principales reglas de civilidad y etiqueta que deben observarse en las diversas situaciones sociales : precedida de un breve tratado sobre los deberes morales del hombre",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1972",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651245741"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 443,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JfHUswEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JfHUswEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_urbanidad_y_buenas_maneras.html?hl=&id=JfHUswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JfHUswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0oompwAACAAJ",
+      "etag": "nIRHeidd5TU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0oompwAACAAJ",
+      "volumeInfo": {
+        "title": "Manual de urbanidad y buenas maneras",
+        "subtitle": "de consulta indespensable para niños, jóvenes y adultos",
+        "authors": [
+          "Manuel Antonio Carreño",
+          "Pilar Merrill"
+        ],
+        "publishedDate": "1980*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:20791750"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "categories": [
+          "Etiquette"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0oompwAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0oompwAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_urbanidad_y_buenas_maneras.html?hl=&id=0oompwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0oompwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IeFYXwAACAAJ",
+      "etag": "CA6Uoq9OFIY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IeFYXwAACAAJ",
+      "volumeInfo": {
+        "title": "Manual de urbanidad y buenas maneras para uso de la juventud de ambos sexos ... precedidio de un breve tratado sobre los deberes morales del hombre",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1854",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:36948286"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 322,
+        "printType": "BOOK",
+        "categories": [
+          "Etiquette"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=IeFYXwAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=IeFYXwAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_urbanidad_y_buenas_maneras_par.html?hl=&id=IeFYXwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IeFYXwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HvVbzgEACAAJ",
+      "etag": "CurHFhE5SHk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HvVbzgEACAAJ",
+      "volumeInfo": {
+        "title": "Manual de Urbanidad y buenas masseras para uso de la juventud de Ambos sexos",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1881",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1243944245"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 6,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HvVbzgEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HvVbzgEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_Urbanidad_y_buenas_masseras_pa.html?hl=&id=HvVbzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HvVbzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "c39TwAEACAAJ",
+      "etag": "GCE/jWaL8A0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/c39TwAEACAAJ",
+      "volumeInfo": {
+        "title": "Manual de urbanidad y buenas maneras",
+        "subtitle": "arreglado para los colegios de las Esclavas del Sagrado Corazón de Jesús",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1890",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1078156298"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 55,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=c39TwAEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=45&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=c39TwAEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_urbanidad_y_buenas_maneras.html?hl=&id=c39TwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=c39TwAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7UAQcgAACAAJ",
+      "etag": "qr18WEypLYo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7UAQcgAACAAJ",
+      "volumeInfo": {
+        "title": "Compendo del manual de urbanidad y buenas maneras",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1903",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431907110"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 111,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7UAQcgAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=46&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7UAQcgAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Compendo_del_manual_de_urbanidad_y_buena.html?hl=&id=7UAQcgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7UAQcgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dWVFuAEACAAJ",
+      "etag": "5c+BOSNodz4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dWVFuAEACAAJ",
+      "volumeInfo": {
+        "title": "Manual de urbanidad y buenas maneras",
+        "subtitle": "Para uso de la juventud de ambos sexos. En el cual se encuentran las principales reglas de civilidad y etiqueta... Precedido de un breve tratado Sobre los deberes morales del hombre",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1036674725"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 443,
+        "printType": "BOOK",
+        "categories": [
+          "Etiquette for children and teenagers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=dWVFuAEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=47&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dWVFuAEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_urbanidad_y_buenas_maneras.html?hl=&id=dWVFuAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dWVFuAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bpGKswEACAAJ",
+      "etag": "B7i2vQLcHFA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bpGKswEACAAJ",
+      "volumeInfo": {
+        "title": "Nuevo compendio del Manual de urbanidad y buenas maneras",
+        "subtitle": "Para el uso de las escuelas de ambos sexos",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:991902174"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 131,
+        "printType": "BOOK",
+        "categories": [
+          "Etiquette"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=bpGKswEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=48&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=bpGKswEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nuevo_compendio_del_Manual_de_urbanidad.html?hl=&id=bpGKswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bpGKswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EgHztwAACAAJ",
+      "etag": "ubvC3hx31qA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EgHztwAACAAJ",
+      "volumeInfo": {
+        "title": "Urbanidad e higiene",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55268736"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EgHztwAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=49&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EgHztwAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Urbanidad_e_higiene.html?hl=&id=EgHztwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EgHztwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "td4PxQEACAAJ",
+      "etag": "N2UDqezfRHA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/td4PxQEACAAJ",
+      "volumeInfo": {
+        "title": "Manual de Urbanidad Y Buenas Maneras, Para Uso de la Juventud de Ambos Sexos;",
+        "subtitle": "En El Cual Se Encuentran Las Principales Reglas de Civilidad Y Etiqueta Que Deben Observarse en Las Diversas Situaciones Sociales; Precedido de Un Breve Tratado Sobres Los Deberes Morales Del Hombre",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1868",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1097485734"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 322,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=td4PxQEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=50&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=td4PxQEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_Urbanidad_Y_Buenas_Maneras_Par.html?hl=&id=td4PxQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=td4PxQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rTvoGwAACAAJ",
+      "etag": "z0R24mCSsfs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rTvoGwAACAAJ",
+      "volumeInfo": {
+        "title": "Compendio del manual de urbanidad y buenas maneras ... para uso de las escuelas de ambos sexos",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1894",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:29989394"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 114,
+        "printType": "BOOK",
+        "categories": [
+          "Etiquette"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=rTvoGwAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=51&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rTvoGwAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Compendio_del_manual_de_urbanidad_y_buen.html?hl=&id=rTvoGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rTvoGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PYZSngEACAAJ",
+      "etag": "6b4ZyPgpz70",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PYZSngEACAAJ",
+      "volumeInfo": {
+        "title": "Manual de urbanidad y buenas maneras para uso de la juventud de ambos sexos",
+        "subtitle": "en el cual se encuentran las principales reglas de civilidad y etiqueta quedeben [sic] observarse en las diversas situaciones sociales ...",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1887",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:851034286"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 388,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PYZSngEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=52&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PYZSngEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_urbanidad_y_buenas_maneras_par.html?hl=&id=PYZSngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PYZSngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CwcpHQAACAAJ",
+      "etag": "j7pqiK6HQpc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CwcpHQAACAAJ",
+      "volumeInfo": {
+        "title": "Libro segundo de lectura, para las escuelas municipales del Estado de Jalisco",
+        "subtitle": "moral y urbanidad",
+        "authors": [
+          "Jalisco (Mexico). Junta Directora de Estudios",
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1869",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:5032503"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 88,
+        "printType": "BOOK",
+        "categories": [
+          "Children"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=CwcpHQAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=53&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CwcpHQAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Libro_segundo_de_lectura_para_las_escuel.html?hl=&id=CwcpHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CwcpHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DAcpHQAACAAJ",
+      "etag": "zbsG9IxbAdw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DAcpHQAACAAJ",
+      "volumeInfo": {
+        "title": "Libro segundo de lectura para las escuelas municipales del Estado de Jalisco",
+        "subtitle": "moral y urbanidad",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1881",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:38962369"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "categories": [
+          "Children"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DAcpHQAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=54&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DAcpHQAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Libro_segundo_de_lectura_para_las_escuel.html?hl=&id=DAcpHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DAcpHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UL5SHQAACAAJ",
+      "etag": "3FaahDsOi3A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UL5SHQAACAAJ",
+      "volumeInfo": {
+        "title": "Método para estudiar la lengua latina",
+        "authors": [
+          "Jean Louis Burnouf"
+        ],
+        "publishedDate": "1849",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:31736446"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 397,
+        "printType": "BOOK",
+        "categories": [
+          "Latin language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=UL5SHQAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=55&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=UL5SHQAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/M%C3%A9todo_para_estudiar_la_lengua_latina.html?hl=&id=UL5SHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UL5SHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WNdMGwAACAAJ",
+      "etag": "iJSilXk+NcE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WNdMGwAACAAJ",
+      "volumeInfo": {
+        "title": "Nuevo manual de urbanidad y buenas maneras para uso de la juventud de ambos sexos ... con un breve tratado sobre los deberes morales",
+        "authors": [
+          "Manuel Antonio Carreño"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:16705016"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 337,
+        "printType": "BOOK",
+        "categories": [
+          "Etiquette"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WNdMGwAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=56&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WNdMGwAACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nuevo_manual_de_urbanidad_y_buenas_maner.html?hl=&id=WNdMGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WNdMGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fpgywQEACAAJ",
+      "etag": "mFXQruo3MAY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fpgywQEACAAJ",
+      "volumeInfo": {
+        "title": "Hacienda Pública. [A Pamphlet on the Reorganization of the Department of Finance.].",
+        "authors": [
+          "Manuel Antonio CARREÑO"
+        ],
+        "publishedDate": "1859",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:559282753"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=fpgywQEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&cd=57&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fpgywQEACAAJ&dq=inauthor:%22Manuel+Antonio+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hacienda_P%C3%BAblica_A_Pamphlet_on_the_Reor.html?hl=&id=fpgywQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fpgywQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

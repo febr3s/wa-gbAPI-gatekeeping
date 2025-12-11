@@ -1,0 +1,1917 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juan%20Lovera\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juan%20Lovera\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juan%20Lovera\"&maxResults=20&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juan%20Lovera\"&maxResults=13&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 33,
+  "_totalRequestsMade": 2,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "4-pcAAAAMAAJ",
+      "etag": "JPm8rT+RyUk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4-pcAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Juan Lovera y su tiempo",
+        "authors": [
+          "Juan Lovera"
+        ],
+        "publishedDate": "1981",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173008582877"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "categories": [
+          "Painters"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4-pcAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4-pcAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4-pcAAAAMAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4-pcAAAAMAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Juan_Lovera_y_su_tiempo.html?hl=&id=4-pcAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4-pcAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K9psAAAAMAAJ",
+      "etag": "KELcDrIglUM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K9psAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Exposición permanente de carácter histórico",
+        "subtitle": "independencia de los países bolivarianos, 1810-1830",
+        "authors": [
+          "Yaracuy (Venezuela). Secretaría de Cultura. Centro de Historia"
+        ],
+        "publishedDate": "1981",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059172132826285"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "categories": [
+          "Revolutionaries"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=K9psAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=K9psAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=K9psAAAAMAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=K9psAAAAMAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Exposici%C3%B3n_permanente_de_car%C3%A1cter_hist.html?hl=&id=K9psAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K9psAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YBYrAQAAMAAJ",
+      "etag": "fHBi9s6XGAs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YBYrAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Colección diplomática medieval del Alcalá la Real",
+        "authors": [
+          "Carmen Juan y Lovera"
+        ],
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89034602144"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 148,
+        "printType": "BOOK",
+        "categories": [
+          "Alcalá la Real (Spain)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YBYrAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YBYrAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YBYrAQAAMAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YBYrAQAAMAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Colecci%C3%B3n_diplom%C3%A1tica_medieval_del_Alc.html?hl=&id=YBYrAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YBYrAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5drotgAACAAJ",
+      "etag": "Lkj40E2xQdI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5drotgAACAAJ",
+      "volumeInfo": {
+        "title": "Juan Lovera",
+        "authors": [
+          "Museo de Bellas Artes (Caracas)",
+          "Alfredo Boulton"
+        ],
+        "publishedDate": "1961*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:66083617"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5drotgAACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5drotgAACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Juan_Lovera.html?hl=&id=5drotgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5drotgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nPJwtwAACAAJ",
+      "etag": "zUy1pMHC5ps",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nPJwtwAACAAJ",
+      "volumeInfo": {
+        "title": "Juan Lovera 1778-1978",
+        "authors": [
+          "Juan Lovera",
+          "Galería de Arte Nacional (Venezuela)"
+        ],
+        "publishedDate": "1978",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:773211310"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nPJwtwAACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nPJwtwAACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Juan_Lovera_1778_1978.html?hl=&id=nPJwtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nPJwtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-C0eMwEACAAJ",
+      "etag": "K4kydIo5JOo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-C0eMwEACAAJ",
+      "volumeInfo": {
+        "title": "Juan Lovera. (Exposición Organizada Con Motivo Del Sesquicentenario de la Independencia de Venezuela.) [A Catalogue. With Reproductions.].",
+        "authors": [
+          "Museos Nacionales (CARACAS). Museo de Bellas Artes",
+          "Juan LOVERA"
+        ],
+        "publishedDate": "1961",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:558811457"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=-C0eMwEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-C0eMwEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Juan_Lovera_Exposici%C3%B3n_Organizada_Con_M.html?hl=&id=-C0eMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-C0eMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-u7sHAAACAAJ",
+      "etag": "nlM4XjguNpY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-u7sHAAACAAJ",
+      "volumeInfo": {
+        "title": "Juan Lovera",
+        "authors": [
+          "Juan Lovera"
+        ],
+        "publishedDate": "1978",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:81783221"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-u7sHAAACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-u7sHAAACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Juan_Lovera.html?hl=&id=-u7sHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-u7sHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FSdjywAACAAJ",
+      "etag": "ruu3x74YSkc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FSdjywAACAAJ",
+      "volumeInfo": {
+        "title": "Juan Lovera",
+        "subtitle": "Museo de Bellas Artes, Caracas",
+        "authors": [
+          "Juan Lovera",
+          "Museo de Bellas Artes (Venezuela)"
+        ],
+        "publishedDate": "1950",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:83627445"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=FSdjywAACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=FSdjywAACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Juan_Lovera.html?hl=&id=FSdjywAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FSdjywAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SHQutAEACAAJ",
+      "etag": "cpMO5CIQb6s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SHQutAEACAAJ",
+      "volumeInfo": {
+        "title": "Despierta Tu Felicidad",
+        "subtitle": "10 Principios de Felicidad Que le Aprendí a Mi Perro",
+        "authors": [
+          "JUAN CAMILO. LOVERA"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-10-06",
+        "description": "El resultado de haber viajado por m�s de 18 pa�ses investigando �Qu� nos hace felices a los seres humanos? Un libro totalmente accionable y lleno de ejercicios aprendidos en 4 continentes.Una gu�a divertida y f�cil para convertirse en una persona m�s feliz en solo unos d�as.�Est�s luchando para encontrar la Felicidad en tu vida?�Te gustar�a disfrutar de una Felicidad profunda y verdadera?El n�mero de pacientes diagnosticados con depresi�n incrementa aproximadamente en 20%cada a�o. A nivel mundial, m�s de 300 millones de personas en todas las edades sufrendepresi�n.La Felicidad es diferente para todos nosotros. Con Despierta tu Felicidad descubrir�s c�modespertar tu propia Felicidad sin hacer grandes esfuerzos.Este libro te dar� 32 ejercicios para que f�cilmente transformes tu vida para bien.Aprender�s a disfrutar de tus ma�anas, mejorar tus relaciones, dominar tus emociones, viviren el presente, superar tus dificultades y vivir tu vida al m�ximo.Vivir feliz 100% del tiempo no es f�cil. Juan Camilo Lovera ha viajado a m�s de 18 paises encuatro continentes. En este libro, te mostrar� los principios espirituales que ha aprendidopara que t� puedas disfrutar de una vida m�s Feliz.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1978179421"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781978179424"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 270,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SHQutAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SHQutAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SHQutAEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SHQutAEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Despierta_Tu_Felicidad.html?hl=&id=SHQutAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SHQutAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Con Despierta tu Felicidad descubrir s c modespertar tu propia Felicidad sin hacer grandes esfuerzos.Este libro te dar  32 ejercicios para que f cilmente transformes tu vida para bien.Aprender s a disfrutar de tus ma anas, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lnBezwEACAAJ",
+      "etag": "y4PtGhvLoeA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lnBezwEACAAJ",
+      "volumeInfo": {
+        "title": "Transmisión de imágenes en redes ATM.",
+        "authors": [
+          "Juan Lovera Encalada",
+          "Universidad de Tarapacá. Departamento de Electrónica"
+        ],
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1341660356"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lnBezwEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lnBezwEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Transmisi%C3%B3n_de_im%C3%A1genes_en_redes_ATM.html?hl=&id=lnBezwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lnBezwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L85dHQAACAAJ",
+      "etag": "Wec+mE+3x28",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L85dHQAACAAJ",
+      "volumeInfo": {
+        "title": "Juan Lovera",
+        "subtitle": "Exposición organizada con motivo del sesquicentenario de la independencia de Venezuela",
+        "authors": [
+          "Museo de Bellas Artes (Venezuela)"
+        ],
+        "publishedDate": "1961*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:35862379"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 21,
+        "printType": "BOOK",
+        "categories": [
+          "Painting, Venezuelan"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=L85dHQAACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=L85dHQAACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Juan_Lovera.html?hl=&id=L85dHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L85dHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5rspzgEACAAJ",
+      "etag": "VM6uSDBI06Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5rspzgEACAAJ",
+      "volumeInfo": {
+        "title": "La Mafia de Los Cursos Online",
+        "subtitle": "Nuevo Método Paso a Paso para Crear y Vender Tu Primer Curso Online Probado Por Emprendedores con Resultados Extraordinarios",
+        "authors": [
+          "Juan Lovera"
+        ],
+        "publishedDate": "2021-01-10",
+        "description": "sadasds",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798589000054"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 250,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5rspzgEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5rspzgEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Mafia_de_Los_Cursos_Online.html?hl=&id=5rspzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5rspzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "sadasds"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "H43oOwAACAAJ",
+      "etag": "WBOhrgYwPUE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/H43oOwAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso de ingreso de doña Carmen Juan Lovera en el Instituto de Estudios Giennenses",
+        "subtitle": "Alcalá la Real, noviembre de 1997",
+        "authors": [
+          "Carmen Juan Lovera",
+          "Juan Higueras Maldonado"
+        ],
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432157157"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 45,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=H43oOwAACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=H43oOwAACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_de_ingreso_de_do%C3%B1a_Carmen_Juan.html?hl=&id=H43oOwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=H43oOwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "P_EwywEACAAJ",
+      "etag": "kIpzuDrJv+U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P_EwywEACAAJ",
+      "volumeInfo": {
+        "title": "En el aniversario del famoso escultor alcalaíno Pablo de Rojas",
+        "authors": [
+          "Francisco Martín Rosales"
+        ],
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1123775661"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=P_EwywEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=P_EwywEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/En_el_aniversario_del_famoso_escultor_al.html?hl=&id=P_EwywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P_EwywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bqfLjwEACAAJ",
+      "etag": "eqck3kuQsAA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bqfLjwEACAAJ",
+      "volumeInfo": {
+        "title": "Nuevos y muy importantes datos sobre Juan Martínez Montañés",
+        "authors": [
+          "Instituto de Estudios Giennenses"
+        ],
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:934332507"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 55,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=bqfLjwEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=bqfLjwEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nuevos_y_muy_importantes_datos_sobre_Jua.html?hl=&id=bqfLjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bqfLjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MsuljwEACAAJ",
+      "etag": "+hqg43WMdFY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MsuljwEACAAJ",
+      "volumeInfo": {
+        "title": "Nueve documentos inéditos de la época de Juan I de Castilla (Archivo Municipal de Alcalá la Real)",
+        "authors": [
+          "Universidad de Buenos Aires. Facultad de Filosofía y Letras"
+        ],
+        "publishedDate": "1986",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:934340067"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 21,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=MsuljwEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=MsuljwEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nueve_documentos_in%C3%A9ditos_de_la_%C3%A9poca.html?hl=&id=MsuljwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MsuljwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fPLJswEACAAJ",
+      "etag": "HrdNekthJoI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fPLJswEACAAJ",
+      "volumeInfo": {
+        "title": "Iglesia abacial de Santa María de la Mota de Alcalá la Real",
+        "subtitle": "la pulchra ignota",
+        "authors": [
+          "Carmen Juan Lovera"
+        ],
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8400039025"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788400039028"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 163,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fPLJswEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fPLJswEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Iglesia_abacial_de_Santa_Mar%C3%ADa_de_la_Mo.html?hl=&id=fPLJswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fPLJswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Z3u-DAEACAAJ",
+      "etag": "s7BtnJ+R5WY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Z3u-DAEACAAJ",
+      "volumeInfo": {
+        "title": "Las cofradías de Jesús de Nazareno en la Abadía de Alcalá la Real",
+        "authors": [
+          "Congregación Hermanas Hospitalarias de Jesús Nazareno (Córdoba)"
+        ],
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:934340075"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 4,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Z3u-DAEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Z3u-DAEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_cofrad%C3%ADas_de_Jes%C3%BAs_de_Nazareno_en.html?hl=&id=Z3u-DAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Z3u-DAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WXyhjwEACAAJ",
+      "etag": "265wSLwNOFY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WXyhjwEACAAJ",
+      "volumeInfo": {
+        "title": "Don Alonso de Burgos, Abad de Alcalá la Real",
+        "subtitle": "(1480-1499)",
+        "authors": [
+          "Real Cofradía de Nuestra Señora de las Mercedes (Alcalá la Real)"
+        ],
+        "publishedDate": "1990",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:934339889"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WXyhjwEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WXyhjwEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Don_Alonso_de_Burgos_Abad_de_Alcal%C3%A1_la.html?hl=&id=WXyhjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WXyhjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PReljwEACAAJ",
+      "etag": "M5s5PdulhN8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PReljwEACAAJ",
+      "volumeInfo": {
+        "title": "Don Juan Valera ante la restauración",
+        "authors": [
+          "Instituto de Estudios Giennenses"
+        ],
+        "publishedDate": "1975",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:934339635"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 61,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PReljwEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PReljwEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Don_Juan_Valera_ante_la_restauraci%C3%B3n.html?hl=&id=PReljwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PReljwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LCIuywEACAAJ",
+      "etag": "vQ08Mpj/tz0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LCIuywEACAAJ",
+      "volumeInfo": {
+        "title": "Martínez Montañes \"El Dios de la madera\"",
+        "authors": [
+          "Carmen Juan Lovera"
+        ],
+        "publishedDate": "1977",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1123770285"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=LCIuywEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LCIuywEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mart%C3%ADnez_Monta%C3%B1es_El_Dios_de_la_madera.html?hl=&id=LCIuywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LCIuywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AKdw0QEACAAJ",
+      "etag": "XSA2D9lVbdE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AKdw0QEACAAJ",
+      "volumeInfo": {
+        "title": "Origen andaluz de Juan Ruiz Arcipreste de Hita",
+        "authors": [
+          "Carmen Juan Lovera",
+          "Francisco Toro Ceballos"
+        ],
+        "publishedDate": "1995",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8489014000"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788489014008"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=AKdw0QEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=AKdw0QEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Origen_andaluz_de_Juan_Ruiz_Arcipreste_d.html?hl=&id=AKdw0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AKdw0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tuH0zgEACAAJ",
+      "etag": "e1fC3nngGBw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tuH0zgEACAAJ",
+      "volumeInfo": {
+        "title": "Nota , 1982 en. 7, Alcalá la Real, a Jorge Guillén",
+        "authors": [
+          "Carmen Juan Lovera"
+        ],
+        "publishedDate": "1982",
+        "description": "Envío de un artículo propio Incluye además, la fotocopia del artículo, titulado \"Luis Rosales, García Lorca y el Arcipreste de Hita\", publicado en \"Ideal\", el 12 de julio de 1980",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1294924805"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tuH0zgEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=tuH0zgEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nota_1982_en_7_Alcal%C3%A1_la_Real_a_Jorge_G.html?hl=&id=tuH0zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tuH0zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Envío de un artículo propio Incluye además, la fotocopia del artículo, titulado &quot;Luis Rosales, García Lorca y el Arcipreste de Hita&quot;, publicado en &quot;Ideal&quot;, el 12 de julio de 1980"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QfipjwEACAAJ",
+      "etag": "UUVT5s2GkJo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QfipjwEACAAJ",
+      "volumeInfo": {
+        "title": "Los abades medievales alcalainos",
+        "subtitle": "la Abadía de Santa María La Mayor de Patronato Regio",
+        "authors": [
+          "Real Cofradía de Nuestra Señora de las Mercedes (Alcalá la Real)"
+        ],
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:934340035"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=QfipjwEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=QfipjwEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_abades_medievales_alcalainos.html?hl=&id=QfipjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QfipjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rJgMkAEACAAJ",
+      "etag": "sXu+gJb0Spk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rJgMkAEACAAJ",
+      "volumeInfo": {
+        "title": "La pintura del Siglo XVI en Alcalá la Real",
+        "publishedDate": "1978",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:934327847"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=rJgMkAEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rJgMkAEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_pintura_del_Siglo_XVI_en_Alcal%C3%A1_la_R.html?hl=&id=rJgMkAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rJgMkAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aljujgEACAAJ",
+      "etag": "YDy3paa37Dc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aljujgEACAAJ",
+      "volumeInfo": {
+        "title": "Del mayorazgo de Mohernando al Condado de Humanes",
+        "subtitle": "conexiones con castillo de Locubín y Alcalá la Real",
+        "authors": [
+          "María Teresa Murcia Cano"
+        ],
+        "publishedDate": "2015",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8460674614"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788460674610"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=aljujgEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=aljujgEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Del_mayorazgo_de_Mohernando_al_Condado_d.html?hl=&id=aljujgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aljujgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VCaUjwEACAAJ",
+      "etag": "RzfSBJPPzuo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VCaUjwEACAAJ",
+      "volumeInfo": {
+        "title": "Alcalá la Real",
+        "subtitle": "año 1630 : exorcismo contra las plagas del campo : el fraile Francisco de Bustos y devoción Santa Ana",
+        "authors": [
+          "Jaén (Provincia). Diputación"
+        ],
+        "publishedDate": "199?",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:934334468"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 4,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VCaUjwEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VCaUjwEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Alcal%C3%A1_la_Real.html?hl=&id=VCaUjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VCaUjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CgbFDAEACAAJ",
+      "etag": "esy7Q5MsVB0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CgbFDAEACAAJ",
+      "volumeInfo": {
+        "title": "La Abadía de Alcalá La Real, cuna de la imaginería barroca andaluza",
+        "subtitle": "(conferencia de inauguración de las II Jornadas de Historia en la Abadía)",
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:934332501"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 21,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=CgbFDAEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CgbFDAEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Abad%C3%ADa_de_Alcal%C3%A1_La_Real_cuna_de_la.html?hl=&id=CgbFDAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CgbFDAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JIOFjwEACAAJ",
+      "etag": "hsMnw30MCxU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JIOFjwEACAAJ",
+      "volumeInfo": {
+        "title": "Estampas de la vida de Juan Martínez Montañés",
+        "subtitle": "(desde su bautizo en Alcalá la Real a su tumba en Sevilla)",
+        "authors": [
+          "María Teresa Murcia Cano"
+        ],
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:934332601"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 276,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JIOFjwEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JIOFjwEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estampas_de_la_vida_de_Juan_Mart%C3%ADnez_Mo.html?hl=&id=JIOFjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JIOFjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fbnHswEACAAJ",
+      "etag": "cU3hFRcJ6+U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fbnHswEACAAJ",
+      "volumeInfo": {
+        "title": "Awaken Your Happiness",
+        "subtitle": "10 Happiness Principles I Learned from My Dog",
+        "authors": [
+          "Juan Camilo Lovera"
+        ],
+        "publishedDate": "2017-04-19",
+        "description": "How to be happy? What is happiness?Are you struggling to find happiness in your life?Would you like to enjoy a real and deep happiness? The number of patients diagnosed with depression increases by approximately 20% per year. Globally, more than 300 million people of all ages suffer from depression. Happiness is different for all of us. With Awaken your Happiness you will discover how to spark your own happiness without making great efforts. This book will provide you with 32 exercises to easily transform your life for the better. You will learn to enjoy your mornings, improve your relationships, master your emotions, live in the present, overcome your difficulties and live your life to the fullest. Living happy 100% of the time is not easy. Juan Camilo Lovera has traveled to more than 18 countries in four continents. In this book, he will show you the spiritual principles he has learned so you can enjoy a happier life.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "154548208X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781545482087"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 250,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fbnHswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fbnHswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=fbnHswEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fbnHswEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Awaken_Your_Happiness.html?hl=&id=fbnHswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fbnHswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Happiness is different for all of us. With Awaken your Happiness you will discover how to spark your own happiness without making great efforts. This book will provide you with 32 exercises to easily transform your life for the better."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fIpYtAEACAAJ",
+      "etag": "E8midDnuDIU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fIpYtAEACAAJ",
+      "volumeInfo": {
+        "title": "Santa Ana Triple de Alcalá la Real",
+        "subtitle": "posible obra de J. Martínez Montañés",
+        "authors": [
+          "Carmen Juan Lovera"
+        ],
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8400039025"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788400039028"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 138,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fIpYtAEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fIpYtAEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Santa_Ana_Triple_de_Alcal%C3%A1_la_Real.html?hl=&id=fIpYtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fIpYtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QflAzwEACAAJ",
+      "etag": "2fIa5CLV62I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QflAzwEACAAJ",
+      "volumeInfo": {
+        "title": "Hermandad entre Alcalá la Real y Priego (1345)",
+        "authors": [
+          "Carmen Juan Lovera"
+        ],
+        "publishedDate": "19??",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1322845783"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 7,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=QflAzwEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=QflAzwEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hermandad_entre_Alcal%C3%A1_la_Real_y_Priego.html?hl=&id=QflAzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QflAzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iDf5jwEACAAJ",
+      "etag": "K0zCyu59ciE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iDf5jwEACAAJ",
+      "volumeInfo": {
+        "title": "Abades alcalainos de la primera mitad del siglo XVI (continuación)",
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:934339993"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=iDf5jwEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=iDf5jwEACAAJ&dq=inauthor:%22Juan+Lovera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Abades_alcalainos_de_la_primera_mitad_de.html?hl=&id=iDf5jwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iDf5jwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

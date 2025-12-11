@@ -1,0 +1,728 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Santiago%20Mari%C3%B1o\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Santiago%20Mari%C3%B1o\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 12,
+  "_totalFetchedItems": 12,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "lqNcAAAAcAAJ",
+      "etag": "px+u2U3VJlM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lqNcAAAAcAAJ",
+      "volumeInfo": {
+        "title": "Justicia y gratitud hacia el benemerito de la patria Jeneral S. Mariño",
+        "authors": [
+          "Santiago MARIÑO"
+        ],
+        "publishedDate": "1831",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BL:A0018636279"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lqNcAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lqNcAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lqNcAAAAcAAJ&printsec=frontcover&dq=inauthor:%22Santiago+Mari%C3%B1o%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=lqNcAAAAcAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lqNcAAAAcAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=lqNcAAAAcAAJ&rdid=book-lqNcAAAAcAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Justicia_y_gratitud_hacia_el_benemerito.epub?id=lqNcAAAAcAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lqNcAAAAcAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qYRuAAAAMAAJ",
+      "etag": "79BpH8Id6bw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qYRuAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Ideario del general Santiago Mariño",
+        "authors": [
+          "Santiago Mariño"
+        ],
+        "publishedDate": "1987",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000001001167"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 62,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qYRuAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qYRuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qYRuAAAAMAAJ&dq=inauthor:%22Santiago+Mari%C3%B1o%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qYRuAAAAMAAJ&dq=inauthor:%22Santiago+Mari%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ideario_del_general_Santiago_Mari%C3%B1o.html?hl=&id=qYRuAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qYRuAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PF5WDwAAQBAJ",
+      "etag": "lOhZLo6K4+A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PF5WDwAAQBAJ",
+      "volumeInfo": {
+        "title": "UF0011 - Poda e injerto de frutales",
+        "authors": [
+          "Sergio López del Pino",
+          "Santiago Mariño Bobo",
+          "Renato Álvarez Marín",
+          "Manuel López Huertas"
+        ],
+        "publisher": "Editorial Elearning, S.L.",
+        "publishedDate": "2015-05-15",
+        "description": "Esta publicación está dirigida a aquellas personas que estén interesadas en formarse dentro del área de Agraria ya que conforma una parte del Certificado de Profesionalidad de (AGAF0108)-Fruticultura. Se definirán las principales especies frutales cultivadas y describirán las técnicas de poda, conducción e injerto, efectuando las operaciones culturales necesarias en un caso práctico, aplicando las medidas de prevención de riesgos laborales y normativa medioambiental.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 402,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PF5WDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PF5WDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PF5WDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Santiago+Mari%C3%B1o%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PF5WDwAAQBAJ&dq=inauthor:%22Santiago+Mari%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/UF0011_Poda_e_injerto_de_frutales.html?hl=&id=PF5WDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/UF0011_Poda_e_injerto_de_frutales-sample-epub.acsm?id=PF5WDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/UF0011_Poda_e_injerto_de_frutales-sample-pdf.acsm?id=PF5WDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PF5WDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Esta publicación está dirigida a aquellas personas que estén interesadas en formarse dentro del área de Agraria ya que conforma una parte del Certificado de Profesionalidad de (AGAF0108)-Fruticultura."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CrhBswEACAAJ",
+      "etag": "CcLaLcCTIGs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CrhBswEACAAJ",
+      "volumeInfo": {
+        "title": "Taller y equipos de tracción",
+        "authors": [
+          "Santiago Mariño Bobo"
+        ],
+        "publishedDate": "2017",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8491710361"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788491710363"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 250,
+        "printType": "BOOK",
+        "categories": [
+          "Technology & Engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=CrhBswEACAAJ&dq=inauthor:%22Santiago+Mari%C3%B1o%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CrhBswEACAAJ&dq=inauthor:%22Santiago+Mari%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Taller_y_equipos_de_tracci%C3%B3n.html?hl=&id=CrhBswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CrhBswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7CT8MgEACAAJ",
+      "etag": "n5zumrzaSzU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7CT8MgEACAAJ",
+      "volumeInfo": {
+        "title": "Síntesis biográfica del General Santiago Mariño, etc. [With a portrait.].",
+        "authors": [
+          "Ramón AZPURUA",
+          "Santiago MARIÑO"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:557608893"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=7CT8MgEACAAJ&dq=inauthor:%22Santiago+Mari%C3%B1o%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7CT8MgEACAAJ&dq=inauthor:%22Santiago+Mari%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/S%C3%ADntesis_biogr%C3%A1fica_del_General_Santia.html?hl=&id=7CT8MgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7CT8MgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tl60PgAACAAJ",
+      "etag": "NzorqKxH6e0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tl60PgAACAAJ",
+      "volumeInfo": {
+        "title": "Manifiesto que hace el general Mariño de su conducta pública en el período de las convulciones que experimentó el orden politico en el Departamento de Maturín",
+        "authors": [
+          "Santiago Mariño"
+        ],
+        "publishedDate": "1828",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:237325753"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 19,
+        "printType": "BOOK",
+        "categories": [
+          "Maturín (Venezuela)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tl60PgAACAAJ&dq=inauthor:%22Santiago+Mari%C3%B1o%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=tl60PgAACAAJ&dq=inauthor:%22Santiago+Mari%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifiesto_que_hace_el_general_Mari%C3%B1o_d.html?hl=&id=tl60PgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tl60PgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "44ZkMwEACAAJ",
+      "etag": "jTlYrXQXkXg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/44ZkMwEACAAJ",
+      "volumeInfo": {
+        "title": "The Initiation of General Santiago Mariño of Venezuela Into Freemasonry at Port of Spain, Trinidad",
+        "authors": [
+          "Lionel Augustine Seemungal",
+          "Santiago Mariño"
+        ],
+        "publishedDate": "1980*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:781853196"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 12,
+        "printType": "BOOK",
+        "categories": [
+          "Freemasonry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=44ZkMwEACAAJ&dq=inauthor:%22Santiago+Mari%C3%B1o%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=44ZkMwEACAAJ&dq=inauthor:%22Santiago+Mari%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Initiation_of_General_Santiago_Mari.html?hl=&id=44ZkMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=44ZkMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h_hlHwAACAAJ",
+      "etag": "nVn1TPb5VJo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h_hlHwAACAAJ",
+      "volumeInfo": {
+        "title": "Documentos militares y politicos relativos á la campaña de vanguardia ...",
+        "authors": [
+          "Santiago Mariño"
+        ],
+        "publishedDate": "1870",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:23073525"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=h_hlHwAACAAJ&dq=inauthor:%22Santiago+Mari%C3%B1o%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=h_hlHwAACAAJ&dq=inauthor:%22Santiago+Mari%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Documentos_militares_y_politicos_relativ.html?hl=&id=h_hlHwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h_hlHwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TTL_zQEACAAJ",
+      "etag": "1g19CDp/atA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TTL_zQEACAAJ",
+      "volumeInfo": {
+        "title": "Reloving 2. 0",
+        "subtitle": "¡una Ruta para Rescatar Tu Relación de Pareja, y Mantenerla Sana y Gratificante!",
+        "authors": [
+          "Santiago Mariño Charria"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2020-10-07",
+        "description": "Luego de 20 años de llevar un matrimonio aparentemente normal, de repente nuestra relación estalló en crisis. Sin darnos cuenta, durante años se habían acumulado capas y capas de presión por cosas que nunca nos dijimos y nunca resolvimos. Y fue tan poderoso el estallido, que no había reversa y nuestra relación estaba muriendo. No somos la primera pareja que ha llegado a ese punto, pero sí somos de las pocas que a pesar eso, hemos logrado darle un reinicio tan radical a nuestra relación, que la elevamos a un nivel incluso mejor que cuando estábamos recién casados.Fue tan poderosa la experiencia y el aprendizaje que esta nos dejó, que desde mi visión de coach sentí que debía compartirlo y así ayudar a otras parejas que pasan por una situación similar, o que quieran evitarla. Eso es este libro; Reloving 2.0, un mapa para ti y para tu pareja en el que a través de un camino guiado podrán descubrirse y descubrir aquello que los hace fuertes y los mantiene felizmente unidos.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798692344632"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TTL_zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TTL_zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TTL_zQEACAAJ&dq=inauthor:%22Santiago+Mari%C3%B1o%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TTL_zQEACAAJ&dq=inauthor:%22Santiago+Mari%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Reloving_2_0.html?hl=&id=TTL_zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TTL_zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Eso es este libro; Reloving 2.0, un mapa para ti y para tu pareja en el que a través de un camino guiado podrán descubrirse y descubrir aquello que los hace fuertes y los mantiene felizmente unidos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xld7AAAACAAJ",
+      "etag": "dO8Wqbj107Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xld7AAAACAAJ",
+      "volumeInfo": {
+        "title": "Malestar laboral en profesores",
+        "authors": [
+          "María José Santiago Mariño",
+          "José Manuel Otero-López"
+        ],
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8484915336"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788484915331"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 331,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=xld7AAAACAAJ&dq=inauthor:%22Santiago+Mari%C3%B1o%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=xld7AAAACAAJ&dq=inauthor:%22Santiago+Mari%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Malestar_laboral_en_profesores.html?hl=&id=xld7AAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xld7AAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A_B_PgAACAAJ",
+      "etag": "kh6lP9F/9pQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A_B_PgAACAAJ",
+      "volumeInfo": {
+        "title": "El general Mariño á sus compatriotas",
+        "authors": [
+          "Santiago Mariño"
+        ],
+        "publishedDate": "1831",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:237325872"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 60,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=A_B_PgAACAAJ&dq=inauthor:%22Santiago+Mari%C3%B1o%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=A_B_PgAACAAJ&dq=inauthor:%22Santiago+Mari%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_general_Mari%C3%B1o_%C3%A1_sus_compatriotas.html?hl=&id=A_B_PgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A_B_PgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fOQYzQEACAAJ",
+      "etag": "XOrdlDvwvWA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fOQYzQEACAAJ",
+      "volumeInfo": {
+        "title": "Mariño Y Las Guerras Civiles. [With Plates.].",
+        "authors": [
+          "Caracciolo PARRA PÉREZ"
+        ],
+        "publishedDate": "1959",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:563611054"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=fOQYzQEACAAJ&dq=inauthor:%22Santiago+Mari%C3%B1o%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fOQYzQEACAAJ&dq=inauthor:%22Santiago+Mari%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mari%C3%B1o_Y_Las_Guerras_Civiles_With_Plate.html?hl=&id=fOQYzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fOQYzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

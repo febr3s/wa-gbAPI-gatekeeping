@@ -1,0 +1,67 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Pedro%20Manuel%20Rojas\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Pedro%20Manuel%20Rojas\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "m4pBcgAACAAJ",
+      "etag": "Twza6eLUle0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m4pBcgAACAAJ",
+      "volumeInfo": {
+        "title": "Constitución del estado soberano de Zamora",
+        "subtitle": "sancionada por la Asamblea Constituyente en la ciudad de Barinas a 3 de octubre de 1864, 1o. de la ley y 6o. de la federacion",
+        "authors": [
+          "Zamora (Venezuela : State)",
+          "Pedro Manuel Rojas"
+        ],
+        "publishedDate": "1864",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:612789516"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 27,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=m4pBcgAACAAJ&dq=inauthor:%22Pedro+Manuel+Rojas%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=m4pBcgAACAAJ&dq=inauthor:%22Pedro+Manuel+Rojas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Constituci%C3%B3n_del_estado_soberano_de_Zam.html?hl=&id=m4pBcgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m4pBcgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

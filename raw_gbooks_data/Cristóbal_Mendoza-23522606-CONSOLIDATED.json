@@ -1,0 +1,1405 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Crist%C3%B3bal%20Mendoza\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Crist%C3%B3bal%20Mendoza\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Crist%C3%B3bal%20Mendoza\"&maxResults=20&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Crist%C3%B3bal%20Mendoza\"&maxResults=3&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 23,
+  "_totalRequestsMade": 2,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "dEJsAAAAMAAJ",
+      "etag": "4+QCOlW4rno",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dEJsAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Escritos del doctor Cristóbal Mendoza (1772-1829)",
+        "subtitle": "edición conmemorativa del bicentenario del nacimiento del primer presidente de la República de Venezuela",
+        "authors": [
+          "Cristóbal Mendoza"
+        ],
+        "publishedDate": "1972",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018490957"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 276,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dEJsAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dEJsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=dEJsAAAAMAAJ&printsec=frontcover&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dEJsAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dEJsAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=dEJsAAAAMAAJ&rdid=book-dEJsAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Escritos_del_doctor_Crist%C3%B3bal_Mendoza_1.epub?id=dEJsAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dEJsAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sukPAQAAMAAJ",
+      "etag": "H/c+UNbh1B0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sukPAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Tres discursos para el bicentenario de Ciudad Bolívar",
+        "authors": [
+          "Cristóbal L. Mendoza"
+        ],
+        "publishedDate": "1964",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000120134386"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": [
+          "Ciudad Bolívar (Venezuela)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sukPAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sukPAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=sukPAQAAMAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=sukPAQAAMAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tres_discursos_para_el_bicentenario_de_C.html?hl=&id=sukPAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sukPAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5kjaEAAAQBAJ",
+      "etag": "eqQEMYbgIjk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5kjaEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Labour Immigration in Southern Europe",
+        "subtitle": "African Employment in Iberian Labour Markets",
+        "authors": [
+          "Cristobal Mendoza"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2018-05-08",
+        "description": "This title was first published in 2003. Research on migration into southern Europe has paid little consideration to the ways of incorporating immigrants into labour markets and the impact these foreign-born workers have on local labour markets. Neither has much attention been given to the character of labour markets that enables these workers to find a job. This book fills that gap by exploring case studies of African employment in Spain and Portugal. Using cross-border perspectives, this book provides in-depth analysis of common trends across borders, such as immigrant employment in manual, low-skilled jobs, uneven immigrant involvement in labour markets, and the impact of national characteristics, economies and political environments. The result is a study which should be useful for migration specialists, economic geographers and labour market analysts alike.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781351774635"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1351774638"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 290,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5kjaEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5kjaEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=5kjaEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=5kjaEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5kjaEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 214610,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 164441,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=5kjaEAAAQBAJ&rdid=book-5kjaEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 214610000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 164441000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Labour_Immigration_in_Southern_Europe-sample-epub.acsm?id=5kjaEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Labour_Immigration_in_Southern_Europe-sample-pdf.acsm?id=5kjaEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5kjaEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Neither has much attention been given to the character of labour markets that enables these workers to find a job. This book fills that gap by exploring case studies of African employment in Spain and Portugal."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3GPQjwEACAAJ",
+      "etag": "s7l+8UtLuSA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3GPQjwEACAAJ",
+      "volumeInfo": {
+        "title": "La periferia metropolitana",
+        "subtitle": "entre la ciudad prometida y un lugar para habitar en la Ciudad de México",
+        "authors": [
+          "Alicia Lindón Villoria",
+          "Cristóbal Mendoza"
+        ],
+        "publishedDate": "2015",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "849784985X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788497849852"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+          "City planning"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3GPQjwEACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3GPQjwEACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_periferia_metropolitana.html?hl=&id=3GPQjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3GPQjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La quatrième de couverture indique : &quot;Este libro se interroga acerca de la periferia metropolitana, y por ello ofrece reflexiones sobre la ciudad y la expansión urbana."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mLtuAQAACAAJ",
+      "etag": "ps50sc0XFdA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mLtuAQAACAAJ",
+      "volumeInfo": {
+        "title": "Escritos del Libertador",
+        "subtitle": "Documentos no. 1314-1738 : 26 diciembre 1815 - 29 diciembre 1816",
+        "authors": [
+          "Simón Bolívar"
+        ],
+        "publishedDate": "1973",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:492709529"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 496,
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mLtuAQAACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mLtuAQAACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Escritos_del_Libertador.html?hl=&id=mLtuAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mLtuAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a96G0AEACAAJ",
+      "etag": "+VeaSEYC4Us",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a96G0AEACAAJ",
+      "volumeInfo": {
+        "title": "Sociodemografía y migración transnacional México-Estados Unidos",
+        "subtitle": "aportes para una reflexión teórica",
+        "authors": [
+          "Cristóbal Mendoza"
+        ],
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1120359338"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=a96G0AEACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=a96G0AEACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sociodemograf%C3%ADa_y_migraci%C3%B3n_transnacio.html?hl=&id=a96G0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a96G0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XpKzAQAACAAJ",
+      "etag": "VGSHUv1CrzI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XpKzAQAACAAJ",
+      "volumeInfo": {
+        "title": "Circuitos y espacios transnacionales en la migración entre México y Estados Unidos",
+        "subtitle": "aportes de una encuesta de flujos",
+        "authors": [
+          "Cristóbal Mendoza Pérez"
+        ],
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:847518445"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 109,
+        "printType": "BOOK",
+        "categories": [
+          "Demography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=XpKzAQAACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=XpKzAQAACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Circuitos_y_espacios_transnacionales_en.html?hl=&id=XpKzAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XpKzAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "E4obswEACAAJ",
+      "etag": "q5mIhwteB5Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/E4obswEACAAJ",
+      "volumeInfo": {
+        "title": "Documentos ilustrativos de la conferencia de Guayaquil",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:911775331"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 9,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=E4obswEACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=E4obswEACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Documentos_ilustrativos_de_la_conferenci.html?hl=&id=E4obswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=E4obswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vDv7twAACAAJ",
+      "etag": "O74QCxFHufg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vDv7twAACAAJ",
+      "volumeInfo": {
+        "title": "Escritos del Libertador",
+        "subtitle": "26 diciembre 1815-29 diciembre 1816. Documentos no. 1314-1738",
+        "authors": [
+          "Simón Bolívar",
+          "Cristóbal Mendoza",
+          "Sociedad Bolivariana de Venezuela"
+        ],
+        "publishedDate": "1973",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:711956213"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 496,
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vDv7twAACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vDv7twAACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Escritos_del_Libertador.html?hl=&id=vDv7twAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vDv7twAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HEhgMwEACAAJ",
+      "etag": "iW62ytbQmkw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HEhgMwEACAAJ",
+      "volumeInfo": {
+        "title": "Sociodemografía y migración transnacional México-Estados Unidos",
+        "subtitle": "aportes para una reflexión teórica",
+        "authors": [
+          "Cristobal Mendoza Pérez"
+        ],
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:803521672"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HEhgMwEACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HEhgMwEACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sociodemograf%C3%ADa_y_migraci%C3%B3n_transnacio.html?hl=&id=HEhgMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HEhgMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XO0YuAAACAAJ",
+      "etag": "cc8zEUN0Mak",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XO0YuAAACAAJ",
+      "volumeInfo": {
+        "title": "Escritos del Libertador",
+        "subtitle": "1o enero - 12 diciembre 1817. Documentos no. 1739-1970",
+        "authors": [
+          "Simón Bolívar",
+          "Cristóbal Mendoza",
+          "Sociedad Bolivariana de Venezuela"
+        ],
+        "publishedDate": "1974",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:711956214"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 437,
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=XO0YuAAACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=XO0YuAAACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Escritos_del_Libertador.html?hl=&id=XO0YuAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XO0YuAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BLLgoAEACAAJ",
+      "etag": "sZxxVhYtJ70",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BLLgoAEACAAJ",
+      "volumeInfo": {
+        "title": "Escritos del Libertador",
+        "subtitle": "Documentos no 2291-2582, 1o noviembre-30 diciembre 1817",
+        "authors": [
+          "Simón Bolívar",
+          "Cristobal Mendoza",
+          "Sociedad Bolivariana de Venezuela"
+        ],
+        "publishedDate": "1976",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:864254778"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 439,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BLLgoAEACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BLLgoAEACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Escritos_del_Libertador.html?hl=&id=BLLgoAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BLLgoAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Pkhd0AEACAAJ",
+      "etag": "Amk9w0y9BGU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Pkhd0AEACAAJ",
+      "volumeInfo": {
+        "title": "Mujeres expatriadas en México: trabajo, hogar y vida cotidiana",
+        "authors": [
+          "Anna Ortiz Guitart",
+          "Cristóbal Mendoza"
+        ],
+        "publishedDate": "2007",
+        "description": "En este artículo se presentan los resultados de una investigación llevada a cabo con un grupo de mujeres expatriadas españolas residentes en la Ciudad de México. Desde una perspectiva de género, se analizan las experiencias laborales, así como las prácticas cotidianas y espaciales, de un grupo de mujeres de alta califi cación que \"acompañan\" a sus esposos (o parejas) en el proceso migratorio. Particularmente, se examina cómo se articulan las relaciones de género y las estrategias de negociación dentro de las familias con relación a la nueva posición en el trabajo y en el hogar de estas mujeres.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1407275282"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Pkhd0AEACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Pkhd0AEACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mujeres_expatriadas_en_M%C3%A9xico_trabajo_h.html?hl=&id=Pkhd0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Pkhd0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En este artículo se presentan los resultados de una investigación llevada a cabo con un grupo de mujeres expatriadas españolas residentes en la Ciudad de México."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J0MxvwEACAAJ",
+      "etag": "vnQ+biR8PE4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J0MxvwEACAAJ",
+      "volumeInfo": {
+        "title": "La Vivienda en los barrios del Besós",
+        "authors": [
+          "Cristóbal Mendoza"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1061525331"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 13,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=J0MxvwEACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=J0MxvwEACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Vivienda_en_los_barrios_del_Bes%C3%B3s.html?hl=&id=J0MxvwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J0MxvwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yAbZPwAACAAJ",
+      "etag": "aQfniD8zo5o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yAbZPwAACAAJ",
+      "volumeInfo": {
+        "title": "Inmigracion laboral africana en la Peninsula Iberica",
+        "authors": [
+          "Cristóbal Mendoza"
+        ],
+        "publisher": "Miguel Angel Porrua",
+        "publishedDate": "2009",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6074010544"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786074010541"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 315,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yAbZPwAACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yAbZPwAACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Inmigracion_laboral_africana_en_la_Penin.html?hl=&id=yAbZPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yAbZPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Uw5oQwAACAAJ",
+      "etag": "VJ21VUwUyOA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Uw5oQwAACAAJ",
+      "volumeInfo": {
+        "title": "Impresiones y apreciaciones de un juez de llegadas publicadas en la revista hípica \"Bridas\"",
+        "authors": [
+          "Cristóbal Mendoza B."
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459473109"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 23,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Uw5oQwAACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Uw5oQwAACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Impresiones_y_apreciaciones_de_un_juez_d.html?hl=&id=Uw5oQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Uw5oQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZONd0AEACAAJ",
+      "etag": "n4NdoHuF3U4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZONd0AEACAAJ",
+      "volumeInfo": {
+        "title": "La emergencia de la migración internacional en la periferia empobrecida de la ciudad de México: Valle de Chalco-Solidaridad, Estado de México",
+        "authors": [
+          "Cristóbal Mendoza Pérez"
+        ],
+        "publishedDate": "2009",
+        "description": "Este artículo estudia la migración a Estados Unidos de los residentes en Valle de Chalco-Solidaridad, Estado de México. Aquí se presentan datos de una encuesta representativa de hogares levantada en este municipio en abril y mayo de 2007. Estos datos cuantitativos se complementan con información procedente de entrevistas a profundidad con jefes de hogares, a quienes se seleccionó a partir del trabajo de encuesta. Teóricamente, el artículo se basa en la literatura sociodemográfica que ha apuntado un cambio de perfil migratorio a Estados Unidos. En este nuevo perfil se subraya, entre otros, el carácter cada vez más urbano de la emigración mexicana, la incorporación de la mujer a los flujos migratorios y el mayor nivel educativo de los migrantes. Entre los resultados, resalta la gran incidencia de la migración internacional en los hogares chalquenses, una elevada tasa de retorno y una dispersión notable de destinos en Estados Unidos, lo cual se relaciona con la pobreza y la alta precariedad laboral que sufren estos migrantes, tanto en México como en ese país.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1407216302"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZONd0AEACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZONd0AEACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_emergencia_de_la_migraci%C3%B3n_internaci.html?hl=&id=ZONd0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZONd0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Este artículo estudia la migración a Estados Unidos de los residentes en Valle de Chalco-Solidaridad, Estado de México."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7hBAnQAACAAJ",
+      "etag": "Y4y8o+SVmCU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7hBAnQAACAAJ",
+      "volumeInfo": {
+        "title": "The Role of the State in Influencing African Labour Outcomes in Spain and Portugal",
+        "authors": [
+          "Cristóbal Mendoza"
+        ],
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:702162744"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "categories": [
+          "Africa"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=7hBAnQAACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7hBAnQAACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Role_of_the_State_in_Influencing_Afr.html?hl=&id=7hBAnQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7hBAnQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jBiOnAEACAAJ",
+      "etag": "Tm/aTNa8Hio",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jBiOnAEACAAJ",
+      "volumeInfo": {
+        "title": "Escritos del Libertador",
+        "subtitle": "Documentos no. 1739-1970 : 1o enero - 12 diciembre 1817",
+        "authors": [
+          "Simón Bolívar"
+        ],
+        "publishedDate": "1974",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253605476"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 437,
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jBiOnAEACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jBiOnAEACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Escritos_del_Libertador.html?hl=&id=jBiOnAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jBiOnAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AHo4twAACAAJ",
+      "etag": "6XLiYMxB0ig",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AHo4twAACAAJ",
+      "volumeInfo": {
+        "title": "New Labour Inflows in Southern Europe",
+        "subtitle": "African Employment in Iberian Labour Markets",
+        "authors": [
+          "Cristóbal Mendoza",
+          "King's College London. Department of Geography"
+        ],
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:729578456"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 704,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=AHo4twAACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=AHo4twAACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/New_Labour_Inflows_in_Southern_Europe.html?hl=&id=AHo4twAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AHo4twAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YaneHwAACAAJ",
+      "etag": "C33yYwmVIz4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YaneHwAACAAJ",
+      "volumeInfo": {
+        "title": "African Immigrant Workers in Spanish Agriculture",
+        "authors": [
+          "Keith Hoggart",
+          "Cristóbal Mendoza",
+          "University of California, San Diego. Center for Comparative Immigration Studies"
+        ],
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:135610581"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 21,
+        "printType": "BOOK",
+        "categories": [
+          "Africa"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=YaneHwAACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YaneHwAACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/African_Immigrant_Workers_in_Spanish_Agr.html?hl=&id=YaneHwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YaneHwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SRJe0AEACAAJ",
+      "etag": "0zYRfF3qtLA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SRJe0AEACAAJ",
+      "volumeInfo": {
+        "title": "El espacio fronterizo en la articulación de espacios sociales trasnacionales: reflexión teórica y apuntes empíricos",
+        "authors": [
+          "Cristóbal Mendoza Pérez"
+        ],
+        "publishedDate": "2007",
+        "description": "La discusión sobre el lugar y el espacio es un tema pendiente en la literatura de migraciones. Desde una perspectiva tradicional, las migraciones internacionales se han entendido en términos bipolares, entre un lugar de origen y uno de destino y a través de esquemas de adaptación/integración/asimilación de los inmigrantes en los países de llegada. El enfoque trasnacional aplicado al estudio de las migraciones, que ciertamente constituye un reto a esta concepción rígida de los procesos migratorios, elimina en la práctica las referencias de carácter geográfico, ya que las migraciones se producen en espacios sociales y culturales sin base territorial. El artículo reflexiona sobre la articulación del espacio fronterizo, entendido como las ciudades fronterizas del norte de México, en la construcción de espacios sociales trasnacionales, a partir de la Encuesta sobre Migración a la Frontera Norte (EMIF).",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1407218389"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SRJe0AEACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SRJe0AEACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_espacio_fronterizo_en_la_articulaci%C3%B3.html?hl=&id=SRJe0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SRJe0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La discusión sobre el lugar y el espacio es un tema pendiente en la literatura de migraciones."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KqFbMwEACAAJ",
+      "etag": "p1MNv9Du8UM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KqFbMwEACAAJ",
+      "volumeInfo": {
+        "title": "La Mobilitat dels estrangers en les empreses transnacionals",
+        "subtitle": "les empreses alemanyes de dos sectors econòmics a Catalunya",
+        "authors": [
+          "Cristóbal Mendoza"
+        ],
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:803259368"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "ca",
+        "previewLink": "http://books.google.com.co/books?id=KqFbMwEACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KqFbMwEACAAJ&dq=inauthor:%22Crist%C3%B3bal+Mendoza%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Mobilitat_dels_estrangers_en_les_empr.html?hl=&id=KqFbMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KqFbMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

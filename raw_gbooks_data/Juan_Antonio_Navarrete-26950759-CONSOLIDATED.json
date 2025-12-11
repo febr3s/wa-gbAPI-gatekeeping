@@ -1,0 +1,352 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juan%20Antonio%20Navarrete\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juan%20Antonio%20Navarrete\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 6,
+  "_totalFetchedItems": 6,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "PzVKAAAAYAAJ",
+      "etag": "2kGStjruptE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PzVKAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Arca de letras y teatro universal",
+        "authors": [
+          "Juan Antonio Navarrete"
+        ],
+        "publishedDate": "1993",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173002055289"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 852,
+        "printType": "BOOK",
+        "categories": [
+          "Medicine"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PzVKAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PzVKAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PzVKAAAAYAAJ&dq=inauthor:%22Juan+Antonio+Navarrete%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PzVKAAAAYAAJ&dq=inauthor:%22Juan+Antonio+Navarrete%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arca_de_letras_y_teatro_universal.html?hl=&id=PzVKAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PzVKAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pdgeAQAAIAAJ",
+      "etag": "YGIjcRCp89Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pdgeAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Paginas escogidas",
+        "authors": [
+          "Juan Antonio Navarrete"
+        ],
+        "publishedDate": "1973",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105037012106"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pdgeAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pdgeAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=pdgeAQAAIAAJ&dq=inauthor:%22Juan+Antonio+Navarrete%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=pdgeAQAAIAAJ&dq=inauthor:%22Juan+Antonio+Navarrete%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Paginas_escogidas.html?hl=&id=pdgeAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pdgeAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nAY0zwEACAAJ",
+      "etag": "VtQxM3v+/Yc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nAY0zwEACAAJ",
+      "volumeInfo": {
+        "title": "Arca De Las Letras Y Teatro Universal. (Estudio Preliminar Por Jose Antonio Calcano).",
+        "authors": [
+          "Juan Antonio Navarrete (B. 1749)"
+        ],
+        "publishedDate": "1962",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:66032296"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 198,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nAY0zwEACAAJ&dq=inauthor:%22Juan+Antonio+Navarrete%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nAY0zwEACAAJ&dq=inauthor:%22Juan+Antonio+Navarrete%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arca_De_Las_Letras_Y_Teatro_Universal_Es.html?hl=&id=nAY0zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nAY0zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b9PztgAACAAJ",
+      "etag": "u7nYPBznmQE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b9PztgAACAAJ",
+      "volumeInfo": {
+        "title": "Arca de letras y Teatro universal",
+        "authors": [
+          "Juan Antonio Navarrete (O.F.M., Le P.)"
+        ],
+        "publishedDate": "1962",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:460578781"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 199,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=b9PztgAACAAJ&dq=inauthor:%22Juan+Antonio+Navarrete%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=b9PztgAACAAJ&dq=inauthor:%22Juan+Antonio+Navarrete%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arca_de_letras_y_Teatro_universal.html?hl=&id=b9PztgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b9PztgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3R_sjgEACAAJ",
+      "etag": "u9mNTjB671o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3R_sjgEACAAJ",
+      "volumeInfo": {
+        "title": "Sistema mecanizado de información para el tratamiento de expedientes en el Departamento de Actividades Industriales del Excelentísimo Ayuntamiento de Sevilla",
+        "subtitle": "Proyecto Fin de Carrera",
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:928919296"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3R_sjgEACAAJ&dq=inauthor:%22Juan+Antonio+Navarrete%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3R_sjgEACAAJ&dq=inauthor:%22Juan+Antonio+Navarrete%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sistema_mecanizado_de_informaci%C3%B3n_para.html?hl=&id=3R_sjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3R_sjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PpRfQwAACAAJ",
+      "etag": "rnOG2nzVRQw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PpRfQwAACAAJ",
+      "volumeInfo": {
+        "title": "Prevención de incendios y evacuación",
+        "authors": [
+          "Myriam González Peña",
+          "Juan Antonio Navarrete Zambrana",
+          "Antonio Resa Martos"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:434359298"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PpRfQwAACAAJ&dq=inauthor:%22Juan+Antonio+Navarrete%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PpRfQwAACAAJ&dq=inauthor:%22Juan+Antonio+Navarrete%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Prevenci%C3%B3n_de_incendios_y_evacuaci%C3%B3n.html?hl=&id=PpRfQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PpRfQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

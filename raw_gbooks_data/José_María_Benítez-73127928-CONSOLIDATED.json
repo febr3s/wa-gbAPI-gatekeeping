@@ -1,0 +1,2223 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Mar%C3%ADa%20Ben%C3%ADtez\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Mar%C3%ADa%20Ben%C3%ADtez\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Mar%C3%ADa%20Ben%C3%ADtez\"&maxResults=20&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Mar%C3%ADa%20Ben%C3%ADtez\"&maxResults=18&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 38,
+  "_totalRequestsMade": 2,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "cHVA2kh9YpoC",
+      "etag": "DUd5vO0CrRI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cHVA2kh9YpoC",
+      "volumeInfo": {
+        "title": "La cuestion de Roma",
+        "subtitle": "consideraciones publicadas en el Pabellon nacional en defensa del poder temporal de la Santa Sede",
+        "authors": [
+          "José María Benítez Caballero"
+        ],
+        "publishedDate": "1866",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BNC:1001701584"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 68,
+        "printType": "BOOK",
+        "categories": [
+          "Popes"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cHVA2kh9YpoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cHVA2kh9YpoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cHVA2kh9YpoC&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=cHVA2kh9YpoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cHVA2kh9YpoC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=cHVA2kh9YpoC&rdid=book-cHVA2kh9YpoC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/La_cuestion_de_Roma.epub?id=cHVA2kh9YpoC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/La_cuestion_de_Roma.pdf?id=cHVA2kh9YpoC&hl=&output=pdf&sig=ACfU3U386aqQMDA5rSB55vhuO6xcSOlODA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cHVA2kh9YpoC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "E1MOAAAAIAAJ",
+      "etag": "6ynIga5jidM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/E1MOAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Gesto de hierro",
+        "authors": [
+          "José María Benítez"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105008542669"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.9.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=E1MOAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=E1MOAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=E1MOAAAAIAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=E1MOAAAAIAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gesto_de_hierro.html?hl=&id=E1MOAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=E1MOAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XVgrAAAAIAAJ",
+      "etag": "gGfB8UHSYb4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XVgrAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Lo que vío mi gato",
+        "authors": [
+          "José María Benítez"
+        ],
+        "publishedDate": "1949",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105008512274"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 70,
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XVgrAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XVgrAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=XVgrAAAAIAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=XVgrAAAAIAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lo_que_v%C3%ADo_mi_gato.html?hl=&id=XVgrAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XVgrAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HcJNAQAAIAAJ",
+      "etag": "FTYIW8FeHFA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HcJNAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Modernización del poder judicial",
+        "subtitle": "proyecto de informatización de la Corte Suprema de Justicia del Paraguay, Datacort : Escuela Judicial : Consejo de la Judicatura",
+        "authors": [
+          "Ramiro Barboza"
+        ],
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105061790239"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 122,
+        "printType": "BOOK",
+        "categories": [
+          "Courts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HcJNAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HcJNAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HcJNAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HcJNAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Modernizaci%C3%B3n_del_poder_judicial.html?hl=&id=HcJNAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HcJNAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_toSAAAAYAAJ",
+      "etag": "2zcA+H3vzkQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_toSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Ciudad ...",
+        "authors": [
+          "José María Benítez"
+        ],
+        "publishedDate": "1942",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173025516802"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_toSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_toSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_toSAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_toSAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ciudad.html?hl=&id=_toSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_toSAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EfNOAAAACAAJ",
+      "etag": "eTHgj/TagHQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EfNOAAAACAAJ",
+      "volumeInfo": {
+        "title": "Nombres de la banda sonora",
+        "subtitle": "diccionario de compositores cinematográficos",
+        "authors": [
+          "José María Benítez",
+          "Luis Miguel Carmona"
+        ],
+        "publishedDate": "1996-01-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8492161507"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788492161508"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "categories": [
+          "Cinematografía"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EfNOAAAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EfNOAAAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nombres_de_la_banda_sonora.html?hl=&id=EfNOAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EfNOAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jNxVAAAAMAAJ",
+      "etag": "qrcienhoS14",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jNxVAAAAMAAJ",
+      "volumeInfo": {
+        "title": "José Vicente Villada : héroe y constructor",
+        "authors": [
+          "José María Benítez"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018731361"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 70,
+        "printType": "BOOK",
+        "categories": [
+          "Governors"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jNxVAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jNxVAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jNxVAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jNxVAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jos%C3%A9_Vicente_Villada_h%C3%A9roe_y_construct.html?hl=&id=jNxVAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jNxVAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JHwrywEACAAJ",
+      "etag": "2ieNHuPHUz4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JHwrywEACAAJ",
+      "volumeInfo": {
+        "title": "Curriculum vitae de José María Benítez-Sidón y Arias",
+        "authors": [
+          "Estación Experimental de Aula Dei"
+        ],
+        "publishedDate": "1981",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1123416446"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JHwrywEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JHwrywEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Curriculum_vitae_de_Jos%C3%A9_Mar%C3%ADa_Ben%C3%ADte.html?hl=&id=JHwrywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JHwrywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XF5AAAAAYAAJ",
+      "etag": "4fXznFTxxtY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XF5AAAAAYAAJ",
+      "volumeInfo": {
+        "title": "La voz de mi tiempo",
+        "authors": [
+          "José María Benítez"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173026932132"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 60,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XF5AAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XF5AAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=XF5AAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=XF5AAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_voz_de_mi_tiempo.html?hl=&id=XF5AAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XF5AAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rj4XywEACAAJ",
+      "etag": "CDeib+OafP0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rj4XywEACAAJ",
+      "volumeInfo": {
+        "title": "Expediente personal de José María Benítez-Sidón y Arias. EEAD 1976-1985",
+        "authors": [
+          "Estación Experimental de Aula Dei"
+        ],
+        "publishedDate": "1975",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1123991174"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=rj4XywEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rj4XywEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Expediente_personal_de_Jos%C3%A9_Mar%C3%ADa_Ben.html?hl=&id=rj4XywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rj4XywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Wg6fPQAACAAJ",
+      "etag": "wQ0jmWMHPmA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Wg6fPQAACAAJ",
+      "volumeInfo": {
+        "title": "La risa dormida",
+        "authors": [
+          "Fernando Almena",
+          "Chema Benítez"
+        ],
+        "publisher": "ALHAMBRA",
+        "publishedDate": "2003",
+        "description": "Lengua castellana.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8420540226"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788420540221"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Wg6fPQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Wg6fPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Wg6fPQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Wg6fPQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_risa_dormida.html?hl=&id=Wg6fPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Wg6fPQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Lengua castellana."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cNJpAQAACAAJ",
+      "etag": "9s395QGwkOc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cNJpAQAACAAJ",
+      "volumeInfo": {
+        "title": "Encaminamiento adaptativo en redes ad hoc mediante el algoritmo Ant Colony Optimization",
+        "authors": [
+          "José María Benítez Escario"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:954087300"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cNJpAQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cNJpAQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Encaminamiento_adaptativo_en_redes_ad_ho.html?hl=&id=cNJpAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cNJpAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y0vYcQAACAAJ",
+      "etag": "4MtKit5oR2k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y0vYcQAACAAJ",
+      "volumeInfo": {
+        "title": "Solicitud que los ciudadanos Dr. José Ma. Benítez y Antonio Campos de la Vega elevaron al gobierno sobre una carcel penitenciaria en esta ciudad",
+        "authors": [
+          "José María Benítez",
+          "Antonio Campos de la Vega"
+        ],
+        "publishedDate": "1849",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:433759635"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 10,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=y0vYcQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=y0vYcQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Solicitud_que_los_ciudadanos_Dr_Jos%C3%A9_Ma.html?hl=&id=y0vYcQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y0vYcQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cFsAywEACAAJ",
+      "etag": "SxL4d31Oq/k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cFsAywEACAAJ",
+      "volumeInfo": {
+        "title": "Memoria Anteproyecto del Trabajo de Investigación a realizar",
+        "authors": [
+          "Estación Experimental de Aula Dei"
+        ],
+        "publishedDate": "1981",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1123254462"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cFsAywEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cFsAywEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memoria_Anteproyecto_del_Trabajo_de_Inve.html?hl=&id=cFsAywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cFsAywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Co6RswEACAAJ",
+      "etag": "RiOpxGRbykU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Co6RswEACAAJ",
+      "volumeInfo": {
+        "title": "Computación Emergente Y Auto-organización Aplicada Al Diseño de Algoritmos Bio-inspirados de Búsqueda Heurística",
+        "authors": [
+          "José María Benítez Escario"
+        ],
+        "publishedDate": "2015",
+        "description": "El presente trabajo de tesis doctoral se enmarca dentro de los métodos de búsqueda heurística en Inteligencia Artificial. Más concretamente se ha centrado en el diseño de algoritmos utilizando una perspectiva de computación emergente y auto-organización. El diseño se inspira en las capacidades de auto-organización de las colonias de insectos. Esta auto-organización consiste en ajustar la conducta en función de la respuesta obtenida al realizar una acción en un determinado entorno. Este mismo esquema se ha trasladado a un algoritmo de búsqueda: las acciones serían la generación de soluciones y el entorno sería el problema que se desea resolver. De este modo se consigue que el algoritmo se auto-organice según el estado de la búsqueda. El punto de partida ha sido un sistema multi-agente: la meta-heurística Ant Colony Optimisation. La cual ha sido modificada para aplicar un enfoque clásico de Inteligencia Artificial: búsquedas en espacios de estados. Los agentes del sistema operan de manera asíncrona. De este modo, se reduce la influencia a la que se ve sometido cada agente, lo cual se traduce en un mejor proceso de búsqueda, al reducirse el riesgo de estancarse por una pérdida de diversidad. Además, se ha desarrollado una dinámica auto-organizativa para regular la población de agentes. Esta dinámica de población permite mantener un equilibrio en la búsqueda mediante el balance de la población de agentes tanto en tamaño como en composición. Estas técnicas de diseño permiten disminuir el número de parámetros del algoritmo. Todo este conjunto de ideas se materializan en la implementación de un nuevo algoritmo: Ant Colony Extended, el cual ha obtenido buenos resultados en problemas de búsqueda y optimización muy diferentes tales como el problema del viajante de comercio (TSP), problemas clásicos de programación genética, y planificación-optimización de maniobras para barcos.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1026063500"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=Co6RswEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Co6RswEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Computaci%C3%B3n_Emergente_Y_Auto_organizaci.html?hl=&id=Co6RswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Co6RswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El presente trabajo de tesis doctoral se enmarca dentro de los métodos de búsqueda heurística en Inteligencia Artificial."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KdVR0QEACAAJ",
+      "etag": "iVj2fkILKTY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KdVR0QEACAAJ",
+      "volumeInfo": {
+        "title": "Ciudad",
+        "subtitle": "novela",
+        "authors": [
+          "José María Benítez"
+        ],
+        "publishedDate": "1942",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:248630390"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=KdVR0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KdVR0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ciudad.html?hl=&id=KdVR0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KdVR0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2stNMwEACAAJ",
+      "etag": "9SOQZG970Q4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2stNMwEACAAJ",
+      "volumeInfo": {
+        "title": "Lo que vío mi gato y otros relatos",
+        "authors": [
+          "José María Benítez",
+          "María de Lourdes Franco Bagnouls",
+          "Edgar Campos Herrera"
+        ],
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6070226461"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786070226465"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 198,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2stNMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2stNMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lo_que_v%C3%ADo_mi_gato_y_otros_relatos.html?hl=&id=2stNMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2stNMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TDtVxgEACAAJ",
+      "etag": "QQthFkXxmc4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TDtVxgEACAAJ",
+      "volumeInfo": {
+        "title": "Enciclopedia gráfica Canarias",
+        "authors": [
+          "José María Benítez Toledo"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:929362961"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TDtVxgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TDtVxgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Enciclopedia_gr%C3%A1fica_Canarias.html?hl=&id=TDtVxgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TDtVxgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ThlRewAACAAJ",
+      "etag": "cP+D0zB2IQY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ThlRewAACAAJ",
+      "volumeInfo": {
+        "title": "Informe sobre la Biblioteca Nacional. Año de 1862",
+        "authors": [
+          "José María Benítez"
+        ],
+        "publishedDate": "1866",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651374936"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 11,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ThlRewAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ThlRewAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Informe_sobre_la_Biblioteca_Nacional_A%C3%B1.html?hl=&id=ThlRewAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ThlRewAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7cbZXwAACAAJ",
+      "etag": "eo9B3+travo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7cbZXwAACAAJ",
+      "volumeInfo": {
+        "title": "Mérida-- por naturaleza",
+        "subtitle": "aves y espacios naturales de Mérida y su entorno",
+        "authors": [
+          "Jesús Valiente",
+          "José María Benítez"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:733841843"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7cbZXwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7cbZXwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/M%C3%A9rida_por_naturaleza.html?hl=&id=7cbZXwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7cbZXwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aZIumgEACAAJ",
+      "etag": "ThrLQZZ7qHE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aZIumgEACAAJ",
+      "volumeInfo": {
+        "title": "Guía de instrucción práctica para los jueces de paz",
+        "authors": [
+          "José María Cabral",
+          "Luís María Benítez Riera",
+          "Universidad Católica Nuestra Señora de la Asunción (Asunción). Centro Interdisciplinario de Derecho Social y Economía Política"
+        ],
+        "publishedDate": "1993",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253839825"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=aZIumgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=aZIumgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gu%C3%ADa_de_instrucci%C3%B3n_pr%C3%A1ctica_para_los.html?hl=&id=aZIumgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aZIumgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mhzPZwEACAAJ",
+      "etag": "sGR/iNjdU1M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mhzPZwEACAAJ",
+      "volumeInfo": {
+        "title": "Gesto de hierbo",
+        "authors": [
+          "José María Benítez"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:689543168"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mhzPZwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mhzPZwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gesto_de_hierbo.html?hl=&id=mhzPZwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mhzPZwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rERztAEACAAJ",
+      "etag": "yns6VZNgKxE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rERztAEACAAJ",
+      "volumeInfo": {
+        "title": "Lo que vió mi gato",
+        "authors": [
+          "José María Benítez"
+        ],
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651209192"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 54,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=rERztAEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rERztAEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lo_que_vi%C3%B3_mi_gato.html?hl=&id=rERztAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rERztAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RrdTGQAACAAJ",
+      "etag": "2Q/1w86qXLg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RrdTGQAACAAJ",
+      "volumeInfo": {
+        "title": "Una política española del petróleo",
+        "authors": [
+          "José M. Benítez Toledo"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:42048993"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 229,
+        "printType": "BOOK",
+        "categories": [
+          "Petroleum"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RrdTGQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RrdTGQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Una_pol%C3%ADtica_espa%C3%B1ola_del_petr%C3%B3leo.html?hl=&id=RrdTGQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RrdTGQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "btR8AQAACAAJ",
+      "etag": "e64azO8RzHY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/btR8AQAACAAJ",
+      "volumeInfo": {
+        "title": "Las Islas Canarias",
+        "subtitle": "(de \"Saudades da terra\")",
+        "authors": [
+          "Gaspar Frutuoso"
+        ],
+        "publishedDate": "1964",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431736184"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 194,
+        "printType": "BOOK",
+        "categories": [
+          "Canary Islands"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=btR8AQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=btR8AQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_Islas_Canarias.html?hl=&id=btR8AQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=btR8AQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WjZvPQAACAAJ",
+      "etag": "jcZk+jbcvts",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WjZvPQAACAAJ",
+      "volumeInfo": {
+        "title": "Macaulay Culkin",
+        "subtitle": "retratos",
+        "authors": [
+          "José María Benítez"
+        ],
+        "publishedDate": "1994-11-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8481350192"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788481350197"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 60,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WjZvPQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WjZvPQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Macaulay_Culkin.html?hl=&id=WjZvPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WjZvPQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EWmSXwAACAAJ",
+      "etag": "BMVNGZS2h4Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EWmSXwAACAAJ",
+      "volumeInfo": {
+        "title": "Solicitud que los ciudadanos Dr. José María Benítez y Antonio Campos de la Vega elevaron al gobierno del Estadoi impetrando para construir con oblaciones voluntarias una carcel penitenciaria en esta ciudad",
+        "subtitle": "licencia concedida para este fin por el mismo gobierno y bases a que debe sujetarse la Junta Directiva de la obra",
+        "authors": [
+          "José María Benítez",
+          "Antonio Campos de la Vega"
+        ],
+        "publishedDate": "1849",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:733627226"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 10,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EWmSXwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EWmSXwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Solicitud_que_los_ciudadanos_Dr_Jos%C3%A9_Ma.html?hl=&id=EWmSXwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EWmSXwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NR5WvwEACAAJ",
+      "etag": "G8ljKAMOSE8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NR5WvwEACAAJ",
+      "volumeInfo": {
+        "title": "El lisiado trágico ; apuntes sobre la interesante e íntima vida",
+        "authors": [
+          "José María Benítez"
+        ],
+        "publishedDate": "1932",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:970569913"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NR5WvwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NR5WvwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_lisiado_tr%C3%A1gico_apuntes_sobre_la_int.html?hl=&id=NR5WvwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NR5WvwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i_vaXwAACAAJ",
+      "etag": "Y226IYztTS8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i_vaXwAACAAJ",
+      "volumeInfo": {
+        "title": "Guía de campo de las aves de la campiña sur de Extremadura",
+        "authors": [
+          "Jesús Valiente",
+          "José María Benítez"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8469182242"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788469182246"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=i_vaXwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=i_vaXwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gu%C3%ADa_de_campo_de_las_aves_de_la_campi%C3%B1.html?hl=&id=i_vaXwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i_vaXwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-GDOZwEACAAJ",
+      "etag": "+jphB5U9wgs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-GDOZwEACAAJ",
+      "volumeInfo": {
+        "title": "Medallones cívicos",
+        "authors": [
+          "José María Benítez"
+        ],
+        "publishedDate": "1968",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651260082"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 62,
+        "printType": "BOOK",
+        "categories": [
+          "Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-GDOZwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-GDOZwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Medallones_c%C3%ADvicos.html?hl=&id=-GDOZwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-GDOZwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VArHtgAACAAJ",
+      "etag": "Cmq4wycIVaQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VArHtgAACAAJ",
+      "volumeInfo": {
+        "title": "Solicitud que los ciudadanos dr. Jose Maria Benitez y Antonio Campos de la Vega elevaron al gobierno del estado, impetrando permiso para construir con oblaciones voluntarias una carcel penitenciaria en esta ciudad",
+        "subtitle": "Licencia concedida para este fin por el mismo gobierno y bases á que debe sujetarse la Junta Directiva de la obra",
+        "authors": [
+          "José María Benítez",
+          "Antonio Campos de la Vega"
+        ],
+        "publishedDate": "1849",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:20129108"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 10,
+        "printType": "BOOK",
+        "categories": [
+          "Toluca (Mexico : City)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VArHtgAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VArHtgAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Solicitud_que_los_ciudadanos_dr_Jose_Mar.html?hl=&id=VArHtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VArHtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0jkEMwEACAAJ",
+      "etag": "k3natAFJj3Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0jkEMwEACAAJ",
+      "volumeInfo": {
+        "title": "Los caminos del agua romana",
+        "subtitle": "senderos del patrimonio emeritense",
+        "authors": [
+          "Miguel Alba",
+          "Santiago Feijoo",
+          "José María Benítez"
+        ],
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:776603839"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0jkEMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0jkEMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_caminos_del_agua_romana.html?hl=&id=0jkEMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0jkEMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OnX3pwAACAAJ",
+      "etag": "pO4OxQsxBrA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OnX3pwAACAAJ",
+      "volumeInfo": {
+        "title": "El lisiado trágico",
+        "subtitle": "apuntes sobre la interesante e íntima vida",
+        "authors": [
+          "José María Benítez"
+        ],
+        "publishedDate": "1932",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:20648882"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=OnX3pwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=OnX3pwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_lisiado_tr%C3%A1gico.html?hl=&id=OnX3pwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OnX3pwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r-AtngAACAAJ",
+      "etag": "3r8nRbTcuzk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r-AtngAACAAJ",
+      "volumeInfo": {
+        "title": "Planificación de maniobras para barcos autónomos mediante sistemas bioinspirados",
+        "authors": [
+          "José María Benítez Escario"
+        ],
+        "publishedDate": "2009",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:954089850"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 85,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=r-AtngAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=r-AtngAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Planificaci%C3%B3n_de_maniobras_para_barcos.html?hl=&id=r-AtngAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r-AtngAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0U4DywEACAAJ",
+      "etag": "HwFestZJn+E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0U4DywEACAAJ",
+      "volumeInfo": {
+        "title": "Estudio de la variabilidad de las poblaciones de Dactylis glomerata, espontáneas en la Cuenca media del Ebro. Memoria",
+        "authors": [
+          "Estación Experimental de Aula Dei"
+        ],
+        "publishedDate": "1978",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1123976247"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0U4DywEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0U4DywEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estudio_de_la_variabilidad_de_las_poblac.html?hl=&id=0U4DywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0U4DywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RMUrywEACAAJ",
+      "etag": "teqnvLb+A1g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RMUrywEACAAJ",
+      "volumeInfo": {
+        "title": "Memoria del trabajo realizado durante el año 1978-1979 por el Becario del C.S.I.C.",
+        "authors": [
+          "Estación Experimental de Aula Dei"
+        ],
+        "publishedDate": "1979",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1123979214"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RMUrywEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RMUrywEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memoria_del_trabajo_realizado_durante_el.html?hl=&id=RMUrywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RMUrywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DaocHAAACAAJ",
+      "etag": "ljcBDQdKYtU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DaocHAAACAAJ",
+      "volumeInfo": {
+        "title": "Divo Josepho cui justi nomen praeclarum dedit sapientia aeterna Josephus Maria Benitez medicinae atque chirurgiae publicus professor hocce laudis theorema medicam petiturus lauream lubenti animo D. ...",
+        "authors": [
+          "José María Benítez"
+        ],
+        "publishedDate": "1825",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:37499593"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "la",
+        "previewLink": "http://books.google.com.co/books?id=DaocHAAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DaocHAAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Divo_Josepho_cui_justi_nomen_praeclarum.html?hl=&id=DaocHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DaocHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GChdzwEACAAJ",
+      "etag": "L21Y8wOqEO4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GChdzwEACAAJ",
+      "volumeInfo": {
+        "title": "Catalunya a l'epoca moderna",
+        "subtitle": "Recerques d'historia cultural i religiosa",
+        "authors": [
+          "Miguel Batllori"
+        ],
+        "publishedDate": "1971",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431423368"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "ca",
+        "previewLink": "http://books.google.com.co/books?id=GChdzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GChdzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Ben%C3%ADtez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Catalunya_a_l_epoca_moderna.html?hl=&id=GChdzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GChdzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

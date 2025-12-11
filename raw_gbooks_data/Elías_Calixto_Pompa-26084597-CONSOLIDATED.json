@@ -1,0 +1,559 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"El%C3%ADas%20Calixto%20Pompa\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"El%C3%ADas%20Calixto%20Pompa\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 9,
+  "_totalFetchedItems": 9,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "YNseAQAAIAAJ",
+      "etag": "RG8UDhFDCuA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YNseAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Prosa y poesía de Elías Calixto Pompa",
+        "authors": [
+          "Elías Calixto Pompa",
+          "Jesús María Sánchez"
+        ],
+        "publishedDate": "1985",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105040364981"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YNseAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YNseAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YNseAQAAIAAJ&dq=inauthor:%22El%C3%ADas+Calixto+Pompa%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YNseAQAAIAAJ&dq=inauthor:%22El%C3%ADas+Calixto+Pompa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Prosa_y_poes%C3%ADa_de_El%C3%ADas_Calixto_Pompa.html?hl=&id=YNseAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YNseAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UnQzAQAAIAAJ",
+      "etag": "7piWMcypXWs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UnQzAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Versos de K. Listo [pseud.]",
+        "authors": [
+          "Elías Calixto Pompa"
+        ],
+        "publishedDate": "1879",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B718705"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "averageRating": 2,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "4.9.10.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UnQzAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UnQzAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=UnQzAQAAIAAJ&printsec=frontcover&dq=inauthor:%22El%C3%ADas+Calixto+Pompa%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UnQzAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UnQzAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=UnQzAQAAIAAJ&rdid=book-UnQzAQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Versos_de_K_Listo_pseud.epub?id=UnQzAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Versos_de_K_Listo_pseud.pdf?id=UnQzAQAAIAAJ&hl=&output=pdf&sig=ACfU3U3ELnR3dTUiE5uBZzrWVTPp8I-qEA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UnQzAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qcPE0SOG6vgC",
+      "etag": "zxJl3Kpzu4k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qcPE0SOG6vgC",
+      "volumeInfo": {
+        "title": "Chascos de Amor, ó el Corazon y la Cara. Comedia en un acto y en verso",
+        "authors": [
+          "Elías Calixto Pompa"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BL:A0026279555"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 54,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qcPE0SOG6vgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qcPE0SOG6vgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qcPE0SOG6vgC&printsec=frontcover&dq=inauthor:%22El%C3%ADas+Calixto+Pompa%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qcPE0SOG6vgC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qcPE0SOG6vgC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=qcPE0SOG6vgC&rdid=book-qcPE0SOG6vgC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Chascos_de_Amor_%C3%B3_el_Corazon_y_la_Cara.epub?id=qcPE0SOG6vgC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qcPE0SOG6vgC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GiVTAAAAMAAJ",
+      "etag": "30x6SxPPW3g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GiVTAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Poemas y otros trabajos de Elías Calixto Pompa",
+        "authors": [
+          "Elías Calixto Pompa"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024556991"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 90,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GiVTAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GiVTAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GiVTAAAAMAAJ&dq=inauthor:%22El%C3%ADas+Calixto+Pompa%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GiVTAAAAMAAJ&dq=inauthor:%22El%C3%ADas+Calixto+Pompa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poemas_y_otros_trabajos_de_El%C3%ADas_Calixt.html?hl=&id=GiVTAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GiVTAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Iq9UHAAACAAJ",
+      "etag": "DZ2Rc5GxEbk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Iq9UHAAACAAJ",
+      "volumeInfo": {
+        "title": "Paginas de distintos colores",
+        "authors": [
+          "Elías Calixto Pompa"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:5839446"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 43,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Iq9UHAAACAAJ&dq=inauthor:%22El%C3%ADas+Calixto+Pompa%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Iq9UHAAACAAJ&dq=inauthor:%22El%C3%ADas+Calixto+Pompa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Paginas_de_distintos_colores.html?hl=&id=Iq9UHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Iq9UHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "I_SjPQAACAAJ",
+      "etag": "blN2NwjVA6w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/I_SjPQAACAAJ",
+      "volumeInfo": {
+        "title": "Un duelo literario",
+        "subtitle": "Drama en 4 actos y en verso",
+        "authors": [
+          "Elías Calixto Pompa"
+        ],
+        "publishedDate": "1879",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:19689304"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 90,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=I_SjPQAACAAJ&dq=inauthor:%22El%C3%ADas+Calixto+Pompa%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=I_SjPQAACAAJ&dq=inauthor:%22El%C3%ADas+Calixto+Pompa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Un_duelo_literario.html?hl=&id=I_SjPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=I_SjPQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fPjjjwEACAAJ",
+      "etag": "UfVR4dCN1GQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fPjjjwEACAAJ",
+      "volumeInfo": {
+        "title": "Chascos de Amor; O, El Corazon Y La Cara",
+        "authors": [
+          "Elías Calixto Pompa"
+        ],
+        "publisher": "Palala Press",
+        "publishedDate": "2016-04-30",
+        "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work.This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work.As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1354984889"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781354984888"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fPjjjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fPjjjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=fPjjjwEACAAJ&dq=inauthor:%22El%C3%ADas+Calixto+Pompa%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fPjjjwEACAAJ&dq=inauthor:%22El%C3%ADas+Calixto+Pompa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Chascos_de_Amor_O_El_Corazon_Y_La_Cara.html?hl=&id=fPjjjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fPjjjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kcvwzwEACAAJ",
+      "etag": "6UC2KAlJ48E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kcvwzwEACAAJ",
+      "volumeInfo": {
+        "title": "How to Get the Job You Want After Forty",
+        "authors": [
+          "Elías Calixto Pompa",
+          "Maxwell J. Harper"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:67029578"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Applications for positions"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=kcvwzwEACAAJ&dq=inauthor:%22El%C3%ADas+Calixto+Pompa%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=kcvwzwEACAAJ&dq=inauthor:%22El%C3%ADas+Calixto+Pompa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/How_to_Get_the_Job_You_Want_After_Forty.html?hl=&id=kcvwzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kcvwzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Rq0zswEACAAJ",
+      "etag": "RCcF6m9xaIQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Rq0zswEACAAJ",
+      "volumeInfo": {
+        "title": "Poetas americanos",
+        "authors": [
+          "Andrés Bello"
+        ],
+        "publishedDate": "1880",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:971443546"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Rq0zswEACAAJ&dq=inauthor:%22El%C3%ADas+Calixto+Pompa%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Rq0zswEACAAJ&dq=inauthor:%22El%C3%ADas+Calixto+Pompa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poetas_americanos.html?hl=&id=Rq0zswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Rq0zswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

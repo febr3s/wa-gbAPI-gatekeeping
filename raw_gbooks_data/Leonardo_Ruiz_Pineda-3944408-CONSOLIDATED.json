@@ -1,0 +1,123 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Leonardo%20Ruiz%20Pineda\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Leonardo%20Ruiz%20Pineda\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 2,
+  "_totalFetchedItems": 2,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Nd6XzwEACAAJ",
+      "etag": "Wk4fADu/kuI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Nd6XzwEACAAJ",
+      "volumeInfo": {
+        "title": "Héroe y mártir de la resistencia civil venezolana",
+        "authors": [
+          "Leonardo Ruiz Pineda"
+        ],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1025864840"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Nd6XzwEACAAJ&dq=inauthor:%22Leonardo+Ruiz+Pineda%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Nd6XzwEACAAJ&dq=inauthor:%22Leonardo+Ruiz+Pineda%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/H%C3%A9roe_y_m%C3%A1rtir_de_la_resistencia_civil.html?hl=&id=Nd6XzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Nd6XzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "64oKMwEACAAJ",
+      "etag": "jL09Qu+pf1Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/64oKMwEACAAJ",
+      "volumeInfo": {
+        "title": "Venezuela bajo el signo del terror",
+        "subtitle": "(prólogo del \"Libro Negro\").",
+        "authors": [
+          "Leonardo Ruiz Pineda"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:499298074"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 31,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=64oKMwEACAAJ&dq=inauthor:%22Leonardo+Ruiz+Pineda%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=64oKMwEACAAJ&dq=inauthor:%22Leonardo+Ruiz+Pineda%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Venezuela_bajo_el_signo_del_terror.html?hl=&id=64oKMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=64oKMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

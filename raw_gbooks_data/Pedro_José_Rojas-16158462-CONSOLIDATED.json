@@ -1,0 +1,1389 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Pedro%20Jos%C3%A9%20Rojas\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Pedro%20Jos%C3%A9%20Rojas\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Pedro%20Jos%C3%A9%20Rojas\"&maxResults=20&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Pedro%20Jos%C3%A9%20Rojas\"&maxResults=4&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 24,
+  "_totalRequestsMade": 2,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "NEUTAQAAIAAJ",
+      "etag": "plbb6BGgcBU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NEUTAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Pedro José Rojas",
+        "authors": [
+          "Pedro José Rojas"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105033469631"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 122,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NEUTAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NEUTAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NEUTAQAAIAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NEUTAQAAIAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pedro_Jos%C3%A9_Rojas.html?hl=&id=NEUTAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NEUTAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PQ-zAAAAIAAJ",
+      "etag": "T/iBvM6cUNw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PQ-zAAAAIAAJ",
+      "volumeInfo": {
+        "title": "El pensamiento economico de Pedro Jose Rojas",
+        "authors": [
+          "Pedro José Rojas"
+        ],
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105121881176"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 428,
+        "printType": "BOOK",
+        "categories": [
+          "Ecuador"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PQ-zAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PQ-zAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PQ-zAAAAIAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PQ-zAAAAIAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_pensamiento_economico_de_Pedro_Jose_R.html?hl=&id=PQ-zAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PQ-zAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9nRpAAAAIAAJ",
+      "etag": "Vs8mhTt8Ql0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9nRpAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Pedro José Rojas",
+        "subtitle": "la doctrina conservadora",
+        "authors": [
+          "Pedro José Rojas"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105005687269"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 462,
+        "printType": "BOOK",
+        "categories": [
+          "Conservatism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9nRpAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9nRpAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9nRpAAAAIAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9nRpAAAAIAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pedro_Jos%C3%A9_Rojas.html?hl=&id=9nRpAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9nRpAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OqdcAAAAcAAJ",
+      "etag": "5C3A+SWIN28",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OqdcAAAAcAAJ",
+      "volumeInfo": {
+        "title": "España y America",
+        "subtitle": "articulos publicados en 'El espíritu público' de Madrid",
+        "authors": [
+          "Pedro José Rojas"
+        ],
+        "publishedDate": "1864",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BL:A0018623951"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "categories": [
+          "Latin America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OqdcAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OqdcAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=OqdcAAAAcAAJ&printsec=frontcover&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OqdcAAAAcAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OqdcAAAAcAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=OqdcAAAAcAAJ&rdid=book-OqdcAAAAcAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Espa%C3%B1a_y_America.epub?id=OqdcAAAAcAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OqdcAAAAcAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KzrWEWQNcGAC",
+      "etag": "HDWnDd2j4wg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KzrWEWQNcGAC",
+      "volumeInfo": {
+        "title": "Nuevo curso práctico, analítico, teórico y sintético de idioma inglés escrito para los Franceses",
+        "authors": [
+          "Théodore Robertson"
+        ],
+        "publishedDate": "1895",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433100414360"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 574,
+        "printType": "BOOK",
+        "categories": [
+          "English language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KzrWEWQNcGAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KzrWEWQNcGAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=KzrWEWQNcGAC&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KzrWEWQNcGAC&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nuevo_curso_pr%C3%A1ctico_anal%C3%ADtico_te%C3%B3ric.html?hl=&id=KzrWEWQNcGAC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KzrWEWQNcGAC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GbvTAAAAIAAJ",
+      "etag": "OCpEx2MFJtg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GbvTAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Nuevo curso práctico, analítico, teórico y sintético del idoma inglés",
+        "authors": [
+          "Théodore Robertson"
+        ],
+        "publishedDate": "1915",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B4149911"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 564,
+        "printType": "BOOK",
+        "categories": [
+          "English language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.8.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GbvTAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GbvTAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GbvTAAAAIAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GbvTAAAAIAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nuevo_curso_pr%C3%A1ctico_anal%C3%ADtico_te%C3%B3ric.html?hl=&id=GbvTAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GbvTAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bFcjzwEACAAJ",
+      "etag": "JGllHoMPT+4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bFcjzwEACAAJ",
+      "volumeInfo": {
+        "title": "Pedro José Rojas",
+        "subtitle": "o una pasión al servicio de la politica",
+        "authors": [
+          "Pedro José Rojas"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:2016562"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=bFcjzwEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=bFcjzwEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pedro_Jos%C3%A9_Rojas.html?hl=&id=bFcjzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bFcjzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8I_EXwAACAAJ",
+      "etag": "ff1Z72DWzcU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8I_EXwAACAAJ",
+      "volumeInfo": {
+        "title": "Décima conferencia sobre el General Rafael Urdaneta leída por su autor en el salón de recepciones del Palacio de Gobierno en Maracaibo el 23 de Mayo de 1945 Pedro José Rojas",
+        "authors": [
+          "Pedro José Rojas"
+        ],
+        "publishedDate": "1945",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:733593809"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8I_EXwAACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8I_EXwAACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/D%C3%A9cima_conferencia_sobre_el_General_Raf.html?hl=&id=8I_EXwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8I_EXwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NbopcgAACAAJ",
+      "etag": "/S9AAC/TwOs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NbopcgAACAAJ",
+      "volumeInfo": {
+        "title": "Décima conferencia sobre el General Rafael Urdaneta leída por su autor en el Palacio de Gobierno en Maracaibo el 23 de Mayo de 1945 Pedro José Rojas",
+        "authors": [
+          "Pedro José Rojas"
+        ],
+        "publishedDate": "1945",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432981576"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NbopcgAACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NbopcgAACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/D%C3%A9cima_conferencia_sobre_el_General_Raf.html?hl=&id=NbopcgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NbopcgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yVYsngEACAAJ",
+      "etag": "RIbtUpQp1vU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yVYsngEACAAJ",
+      "volumeInfo": {
+        "title": "Nuevo curso práctico, analítico, teórico y sintético del idioma inglés",
+        "authors": [
+          "Théodore Robertson"
+        ],
+        "publishedDate": "1905",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:850924787"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 545,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yVYsngEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yVYsngEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nuevo_curso_pr%C3%A1ctico_anal%C3%ADtico_te%C3%B3ric.html?hl=&id=yVYsngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yVYsngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tv-unQEACAAJ",
+      "etag": "lbk3qwOuCUE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tv-unQEACAAJ",
+      "volumeInfo": {
+        "title": "Nuevo curso práctico, analítico, teórico y sintético de idioma inglés",
+        "authors": [
+          "T. Robertson"
+        ],
+        "publishedDate": "1890",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:807401066"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 186,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tv-unQEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=tv-unQEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nuevo_curso_pr%C3%A1ctico_anal%C3%ADtico_te%C3%B3ric.html?hl=&id=tv-unQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tv-unQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Id4PzgEACAAJ",
+      "etag": "dfbavEZ8e/Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Id4PzgEACAAJ",
+      "volumeInfo": {
+        "title": "Nuevo curso práctico, analítico, teórico y sintético del idioma inglés",
+        "authors": [
+          "T. Robertson"
+        ],
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1203599932"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 549,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Id4PzgEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Id4PzgEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nuevo_curso_pr%C3%A1ctico_anal%C3%ADtico_te%C3%B3ric.html?hl=&id=Id4PzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Id4PzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qrJHnQEACAAJ",
+      "etag": "qPRskz2jXe0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qrJHnQEACAAJ",
+      "volumeInfo": {
+        "title": "Claves de Los Ejercicios Contenidos en El Nuevo Curso de Inglés",
+        "authors": [
+          "Théodore Robertson",
+          "Pedro José Rojas"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:62125577"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=qrJHnQEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qrJHnQEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Claves_de_Los_Ejercicios_Contenidos_en_E.html?hl=&id=qrJHnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qrJHnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "On9ZnQEACAAJ",
+      "etag": "d54szCaZ9lQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/On9ZnQEACAAJ",
+      "volumeInfo": {
+        "title": "Nuevo curso práctico, analítico, teórico y sintético del idomas inglés",
+        "authors": [
+          "Théodore Robertson",
+          "Pedro José Rojas"
+        ],
+        "publishedDate": "1895",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12074116"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 185,
+        "printType": "BOOK",
+        "categories": [
+          "Spanish language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=On9ZnQEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=On9ZnQEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nuevo_curso_pr%C3%A1ctico_anal%C3%ADtico_te%C3%B3ric.html?hl=&id=On9ZnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=On9ZnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wyWkoAEACAAJ",
+      "etag": "zhOK+WluTuI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wyWkoAEACAAJ",
+      "volumeInfo": {
+        "title": "Nuevo curso practico, analitico, teorico y sintetico de idioma ingles",
+        "authors": [
+          "Theodore Robertson",
+          "Pedro José Rojas"
+        ],
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:62125011"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wyWkoAEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wyWkoAEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nuevo_curso_practico_analitico_teorico_y.html?hl=&id=wyWkoAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wyWkoAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7_UnzwEACAAJ",
+      "etag": "yBtNbV3RT+8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7_UnzwEACAAJ",
+      "volumeInfo": {
+        "title": "La doctrina conservadora",
+        "authors": [
+          "Pedro José Rojas"
+        ],
+        "publishedDate": "1961",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:478534959"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 441,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7_UnzwEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7_UnzwEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_doctrina_conservadora.html?hl=&id=7_UnzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7_UnzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "V-X9jgEACAAJ",
+      "etag": "yA3FSG/1Fc0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/V-X9jgEACAAJ",
+      "volumeInfo": {
+        "title": "Nuevo curso práctico, analítico, teórico y sintético de idioma inglés, escrito para los franceses",
+        "publishedDate": "1874",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:919866089"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=V-X9jgEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=V-X9jgEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nuevo_curso_pr%C3%A1ctico_anal%C3%ADtico_te%C3%B3ric.html?hl=&id=V-X9jgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=V-X9jgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u6alzwEACAAJ",
+      "etag": "pV+k0gVN3UE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u6alzwEACAAJ",
+      "volumeInfo": {
+        "title": "La doctrina conservadora",
+        "authors": [
+          "Pedro José Rojas"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1365119679"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=u6alzwEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=u6alzwEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_doctrina_conservadora.html?hl=&id=u6alzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u6alzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fiydtAEACAAJ",
+      "etag": "g2ROayxhzwo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fiydtAEACAAJ",
+      "volumeInfo": {
+        "title": "Nuevo curso practico, analitico, teorico y sintetico de idioma Ingles",
+        "subtitle": "escrito para los Franceses",
+        "authors": [
+          "Théodore Robertson"
+        ],
+        "publishedDate": "1865",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:22163532"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 549,
+        "printType": "BOOK",
+        "categories": [
+          "English language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=fiydtAEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fiydtAEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nuevo_curso_practico_analitico_teorico_y.html?hl=&id=fiydtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fiydtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "chllHAAACAAJ",
+      "etag": "TknGAzkt5/s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/chllHAAACAAJ",
+      "volumeInfo": {
+        "title": "Conferencia sobre el General Rafael Urdaneta, leída por su autor en el Salón de Recepciones del Palacio de Gobierno en Maracaibo, el 23 de mayo de 1945",
+        "authors": [
+          "Pedro José Rojas"
+        ],
+        "publishedDate": "1945",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55434113"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=chllHAAACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=chllHAAACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Conferencia_sobre_el_General_Rafael_Urda.html?hl=&id=chllHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=chllHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7LZMMwEACAAJ",
+      "etag": "YL3AAui613k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7LZMMwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta",
+        "authors": [
+          "Pedro José Rojas"
+        ],
+        "publishedDate": "1865",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:800857573"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7LZMMwEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7LZMMwEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta.html?hl=&id=7LZMMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7LZMMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_aErnwEACAAJ",
+      "etag": "NMxAikj3u9Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_aErnwEACAAJ",
+      "volumeInfo": {
+        "title": "Nuevo curso práctico, analítico, teórico y sintético de idioma inglés",
+        "subtitle": "escrito para los franceses",
+        "authors": [
+          "Theodore Robertson",
+          "Pedro José Rojas (trad.)"
+        ],
+        "publishedDate": "1884",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:804439036"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 549,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_aErnwEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_aErnwEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nuevo_curso_pr%C3%A1ctico_anal%C3%ADtico_te%C3%B3ric.html?hl=&id=_aErnwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_aErnwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Fr-fGwAACAAJ",
+      "etag": "Bs2TKXG1VjU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Fr-fGwAACAAJ",
+      "volumeInfo": {
+        "title": "Décima conferencia sobre el general Rafael Urdaneta leida por su autor en el salón de recepciones del palacio de gobierno en Maracaibo, el 23 de mayo de 1945",
+        "authors": [
+          "Pedro José Rojas"
+        ],
+        "publishedDate": "1945",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:48245196"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Fr-fGwAACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Fr-fGwAACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/D%C3%A9cima_conferencia_sobre_el_general_Raf.html?hl=&id=Fr-fGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Fr-fGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cJJezwEACAAJ",
+      "etag": "0dZWL33Sh0A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cJJezwEACAAJ",
+      "volumeInfo": {
+        "title": "Décima conferencia sobre el general Rafael Urdaneta",
+        "authors": [
+          "Pedro José Rojas"
+        ],
+        "publishedDate": "1945",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1342163978"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cJJezwEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cJJezwEACAAJ&dq=inauthor:%22Pedro+Jos%C3%A9+Rojas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/D%C3%A9cima_conferencia_sobre_el_general_Raf.html?hl=&id=cJJezwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cJJezwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

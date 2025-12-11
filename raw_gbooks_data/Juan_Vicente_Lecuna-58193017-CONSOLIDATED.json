@@ -1,0 +1,121 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juan%20Vicente%20Lecuna\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juan%20Vicente%20Lecuna\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 2,
+  "_totalFetchedItems": 2,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "TYBLwgEACAAJ",
+      "etag": "7DLKi5AcJeY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TYBLwgEACAAJ",
+      "volumeInfo": {
+        "title": "Documentos referentes a la creación de Bolivia con un resumen de las Guerras de Bolivar",
+        "authors": [
+          "Vicente Lecuna"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:25005913"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 636,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TYBLwgEACAAJ&dq=inauthor:%22Juan+Vicente+Lecuna%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TYBLwgEACAAJ&dq=inauthor:%22Juan+Vicente+Lecuna%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Documentos_referentes_a_la_creaci%C3%B3n_de.html?hl=&id=TYBLwgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TYBLwgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tOC2mQEACAAJ",
+      "etag": "MqNuc9CaPvk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tOC2mQEACAAJ",
+      "volumeInfo": {
+        "title": "Sonatas de Alta Gracia",
+        "authors": [
+          "Juan Vicente Lecuna"
+        ],
+        "publishedDate": "1967",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:252674483"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tOC2mQEACAAJ&dq=inauthor:%22Juan+Vicente+Lecuna%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=tOC2mQEACAAJ&dq=inauthor:%22Juan+Vicente+Lecuna%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sonatas_de_Alta_Gracia.html?hl=&id=tOC2mQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tOC2mQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

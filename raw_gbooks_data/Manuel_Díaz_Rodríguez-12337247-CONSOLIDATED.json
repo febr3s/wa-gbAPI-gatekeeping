@@ -1,0 +1,3657 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Manuel%20D%C3%ADaz%20Rodr%C3%ADguez\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Manuel%20D%C3%ADaz%20Rodr%C3%ADguez\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Manuel%20D%C3%ADaz%20Rodr%C3%ADguez\"&maxResults=20&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Manuel%20D%C3%ADaz%20Rodr%C3%ADguez\"&maxResults=20&startIndex=40&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Manuel%20D%C3%ADaz%20Rodr%C3%ADguez\"&maxResults=20&startIndex=60&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 60,
+  "_totalRequestsMade": 4,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "4mctAAAAIAAJ",
+      "etag": "aYf06YkOhz4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4mctAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Cuentos de color",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3787658"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4mctAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4mctAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4mctAAAAIAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4mctAAAAIAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuentos_de_color.html?hl=&id=4mctAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4mctAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "e-fmDwAAQBAJ",
+      "etag": "9aM3dYEXRW8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/e-fmDwAAQBAJ",
+      "volumeInfo": {
+        "title": "7 mejores cuentos de Manuel Díaz Rodríguez",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publisher": "Tacet Book",
+        "publishedDate": "2020-05-26",
+        "description": "La serie de libros \"7 mejores cuentos\" presenta los grandes nombres de la literatura en lengua española. Manuel Díaz Rodríguez fue un escritor modernista venezolano. Es quizá el más alto prosista de los últimos cincuenta años de la literatura venezolana. Después de su muerte, fue publicado un ameno libro suyo bajo el titulo de Entre las Colinas en Flor. Este libro contiene los siguientes cuentos: Cuento azul. Cuento rojo. Cuento blanco. Azul pálido. Cuento gris. Rojo pálido. Cuento áureo",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 60,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=e-fmDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=e-fmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=e-fmDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=e-fmDwAAQBAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/7_mejores_cuentos_de_Manuel_D%C3%ADaz_Rodr%C3%AD.html?hl=&id=e-fmDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=e-fmDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La serie de libros &quot;7 mejores cuentos&quot; presenta los grandes nombres de la literatura en lengua española. Manuel Díaz Rodríguez fue un escritor modernista venezolano."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RrEsAAAAMAAJ",
+      "etag": "J9JZrXwpUYY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RrEsAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Manuel Díaz Rodríguez: Estudio preliminar: La vida de Manuel Díaz Rodriguez, por L. Dunham. Sangre patricia. Peregrina",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1964",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015008281290"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 236,
+        "printType": "BOOK",
+        "categories": [
+          "American literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RrEsAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RrEsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RrEsAAAAMAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RrEsAAAAMAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manuel_D%C3%ADaz_Rodr%C3%ADguez_Estudio_prelimin.html?hl=&id=RrEsAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RrEsAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UBIRAQAAMAAJ",
+      "etag": "2AdGC/iORfI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UBIRAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Manuel Díaz Rodríguez",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1964",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89005258975"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 656,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UBIRAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UBIRAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=UBIRAQAAMAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=UBIRAQAAMAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manuel_D%C3%ADaz_Rodr%C3%ADguez.html?hl=&id=UBIRAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UBIRAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ehNCAAAAYAAJ",
+      "etag": "kD+uCiAwhhg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ehNCAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Confidencias de Psiquis",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1973",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024248854"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.9.9.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ehNCAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ehNCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ehNCAAAAYAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ehNCAAAAYAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Confidencias_de_Psiquis.html?hl=&id=ehNCAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ehNCAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fHU-AQAAIAAJ",
+      "etag": "WkNKuD+hTrc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fHU-AQAAIAAJ",
+      "volumeInfo": {
+        "title": "Sensaciones de viaje",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105040136363"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Istanbul (Turkey)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fHU-AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fHU-AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fHU-AQAAIAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fHU-AQAAIAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sensaciones_de_viaje.html?hl=&id=fHU-AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fHU-AQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4fOsDwAAQBAJ",
+      "etag": "W2QT2TpKxhw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4fOsDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Camino de perfección",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publisher": "Linkgua",
+        "publishedDate": "2010-08-31",
+        "description": "En 1910, Manuel Díaz Rodríguez publicó Camino de perfección donde expuso con claridad e impecable estilo el credo estético del movimiento modernista: el ajuste perfecto entre la idea y la palabra. Camino de perfección se centra en dos cuestiones estéticas fundamentales para la época: el examen exhaustivo del ejercicio literario que esgrimieron los movimientos intelectuales enfrentados a las preferencias literarias más nuevas, y una formulación de los preceptos que debían guiar la literatura y el arte. El modernismo llegó con retraso a Venezuela y apareció tras los últimos vestigios del romanticismo. Allí este nuevo movimiento se vinculó con los simbolistas, y los parnasianos. Y es muy posible, como han dicho algunos analistas de la historia literaria hispanoamericana, que el modernismo haya sido en Venezuela el producto de la crisis generada por los excesos del romanticismo; atribuida a la angustia del cambio, surgida a finales del siglo en la conciencia de una juventud abocada a rebelarse contra los viejos modelos.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788490075357"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8490075352"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 89,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.13.14.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4fOsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4fOsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4fOsDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=4fOsDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4fOsDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12900,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 12900,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=4fOsDwAAQBAJ&rdid=book-4fOsDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12900000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 12900000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Camino_de_perfecci%C3%B3n-sample-epub.acsm?id=4fOsDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Camino_de_perfecci%C3%B3n-sample-pdf.acsm?id=4fOsDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4fOsDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En 1910, Manuel Díaz Rodríguez publicó Camino de perfección donde expuso con claridad e impecable estilo el credo estético del movimiento modernista: el ajuste perfecto entre la idea y la palabra."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NYUzAQAAIAAJ",
+      "etag": "rPf8YTJSAbM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NYUzAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Páginas de la patria",
+        "subtitle": "homenaje en el centenario del nacimiento de Manuel Díaz Rodríguez, año sesquicentenario de la Batalla de Carabobo",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1971",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B718122"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NYUzAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NYUzAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NYUzAQAAIAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NYUzAQAAIAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/P%C3%A1ginas_de_la_patria.html?hl=&id=NYUzAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NYUzAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "g5axzgEACAAJ",
+      "etag": "3N4GUXCYLfw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g5axzgEACAAJ",
+      "volumeInfo": {
+        "title": "Sangre Patricia",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "2021-08-19",
+        "description": "En 1902, se publicó por primera vez la novela Sangre patricia, de Manuel Díaz Rodríguez, una obra singular en el panorama literario venezolano, tanto por su estética modernista como por el contexto político subyacente. En Sangre Patricia, la técnica narrativa de Díaz Rodríguez alcanza su esplendor. El tono poético que recorre la novela acentúa de forma dramática (no exenta de sentimentalismos) el conflicto interior que atormenta y aflige la vida presente de Tulio Arcos, un joven venezolano de origen ilustre, quien, a raíz de la muerte de su amada durante su larga travesía de regreso al país, ensalza las bondades de la gesta independentista y la naciente República, forjadas por sus antepasados de noble estirpe. Lo que, a todas luces, imprime a la obra de Díaz Rodríguez un trasfondo político de gran interés para el estudio del siglo XXI en Venezuela.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798457848627"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 134,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=g5axzgEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=g5axzgEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sangre_Patricia.html?hl=&id=g5axzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g5axzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En 1902, se publicó por primera vez la novela Sangre patricia, de Manuel Díaz Rodríguez, una obra singular en el panorama literario venezolano, tanto por su estética modernista como por el contexto político subyacente."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5xofAAAAMAAJ",
+      "etag": "MSI8aUjufqo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5xofAAAAMAAJ",
+      "volumeInfo": {
+        "title": "De mis romerías",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1898",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015027195083"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 148,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.12.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5xofAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5xofAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5xofAAAAMAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5xofAAAAMAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_mis_romer%C3%ADas.html?hl=&id=5xofAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5xofAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J6cSAAAAYAAJ",
+      "etag": "2Id2aGAltg8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J6cSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Camino de perfección y otros ensayos",
+        "subtitle": "apuntaciones para una biografía espiritual de don Perfecto",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024448707"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 174,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=J6cSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=J6cSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=J6cSAAAAYAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=J6cSAAAAYAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Camino_de_perfecci%C3%B3n_y_otros_ensayos.html?hl=&id=J6cSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J6cSAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K7EsAAAAMAAJ",
+      "etag": "0F8l8/0q3uI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K7EsAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Manuel Díaz Rodríguez: Prólogo de R. Angarita Arvelo. Confidencias de Psiquis. Cuentos de color. Otros cuentos. Idolos rotos",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1964",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015008281308"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 414,
+        "printType": "BOOK",
+        "categories": [
+          "American literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=K7EsAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=K7EsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=K7EsAAAAMAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=K7EsAAAAMAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manuel_D%C3%ADaz_Rodr%C3%ADguez_Pr%C3%B3logo_de_R_An.html?hl=&id=K7EsAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K7EsAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UxNCAAAAYAAJ",
+      "etag": "ART3oeHM0Kg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UxNCAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Camino de perfección",
+        "subtitle": "y otros ensayos",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1968",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173017248005"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UxNCAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UxNCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=UxNCAAAAYAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=UxNCAAAAYAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Camino_de_perfecci%C3%B3n.html?hl=&id=UxNCAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UxNCAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7sg9XIUEO3wC",
+      "etag": "OhmUEzyetLM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7sg9XIUEO3wC",
+      "volumeInfo": {
+        "title": "Narrativa y ensayo",
+        "authors": [
+          "Manuel Díaz Rodríguez",
+          "Orlando Araujo",
+          "María Beatriz Medina"
+        ],
+        "publisher": "Fundacion Biblioteca Ayacuch",
+        "publishedDate": "1982",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8466000836"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788466000833"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 576,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7sg9XIUEO3wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7sg9XIUEO3wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7sg9XIUEO3wC&printsec=frontcover&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7sg9XIUEO3wC&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Narrativa_y_ensayo.html?hl=&id=7sg9XIUEO3wC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7sg9XIUEO3wC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PqgSAAAAYAAJ",
+      "etag": "pXV+iNyOj1M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PqgSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Peregrina, o El pozo encantado",
+        "subtitle": "por Manuel Diaz Rodriguez",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024447602"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PqgSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PqgSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PqgSAAAAYAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PqgSAAAAYAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Peregrina_o_El_pozo_encantado.html?hl=&id=PqgSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PqgSAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pOfcDwAAQBAJ",
+      "etag": "dN0bzOhXsmU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pOfcDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Obras",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publisher": "Linkgua",
+        "publishedDate": "2020-01-01",
+        "description": "Manuel Díaz Rodríguez (1868-1927) es un novelista venezolano. Su narrativa constituye uno de los momentos de mayor vigor y robustez en la literatura de su país. Aunque no cultivó la lírica, Manuel Díaz Rodríguez figuró entre los más militantes modernistas de Venezuela. Sus primeros libros, como Confidencias de Psiquis (Caracas, 1896), Sensaciones de viaje(París, 1896) donde se incluye el artículo «Alrededor de Nápoles», publicado anteriormente en El Cojo Ilustrado, en el cual se manifiesta su distanciamiento modernista, De mis romerías (Caracas, 1898), Cuentos de color (Caracas, 1899), son libros esencialmente literarios. Sin más tentativa de mensaje que el del deslumbramiento del artista ante Europa, principalmente ante París y el paisaje italiano. Los libros que publica después corresponden a la época de su vida en que este empieza a participar activamente en la vida política de su país. Sus libros de viajes, el conflicto del desarrollo plasmado en sus novelas, su marcado preciosismo y estilismo, el hondo psicologismo de su narrativa, inyectan a la literatura venezolana de su época un aire de vigencia y universalidad en momentos en que esta se encontraba todavía circunscrita al movimiento costumbrista. Este volumen de las Obras de Manuel Díaz Rodríguez contiene textos vivaces. En ellos el escritor venezolano, figura central del modernismo hispanoamericano, participa en numerosas polémicas. Defiende el modernismo y debate con los tradicionalistas y los científicos deterministas de su época. A continuación incluimos el índice de este volumen que, acaso, ayuden al lector a hacerse una idea de su contenido: Tic Las ovejas y las rosas del padre Serafín Música bárbara Ensayos Sobre el modernismo Alrededor de Nápoles Alma de viajero",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788490074305"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8490074305"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 71,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.11.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pOfcDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pOfcDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=pOfcDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=pOfcDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pOfcDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13900,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 13900,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=pOfcDwAAQBAJ&rdid=book-pOfcDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13900000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 13900000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Obras-sample-epub.acsm?id=pOfcDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Obras-sample-pdf.acsm?id=pOfcDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pOfcDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Este volumen de las Obras de Manuel Díaz Rodríguez contiene textos vivaces. En ellos el escritor venezolano, figura central del modernismo hispanoamericano, participa en numerosas polémicas."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Hr40AQAAMAAJ",
+      "etag": "bdRaYxeq+Gg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Hr40AQAAMAAJ",
+      "volumeInfo": {
+        "title": "Sermones líricos ...",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1918",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000005125661"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 376,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Hr40AQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Hr40AQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Hr40AQAAMAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Hr40AQAAMAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sermones_l%C3%ADricos.html?hl=&id=Hr40AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Hr40AQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YdBJAAAAYAAJ",
+      "etag": "DkdjYZNoMD4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YdBJAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Peregrina, o, El pozo encantado",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1986",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024248989"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YdBJAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YdBJAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YdBJAAAAYAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YdBJAAAAYAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Peregrina_o_El_pozo_encantado.html?hl=&id=YdBJAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YdBJAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lKoLAQAAMAAJ",
+      "etag": "CiFcvyP7baI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lKoLAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Ídolos rotos",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "2009",
+        "description": "El escritor venezolano Manuel Díaz Rodríguez (1871-1927) se adscribe al Modernismo tanto en los temas que trata como en el lenguaje que desarrolla en su obra, en la que rechaza un mundo que no produce sino el descontento, la insatisfacción y el desencanto en el alma del artista. El título «Ídolos rotos» condensa el tema que en la novela se trata: la destrucción, poco a poco, de los ideales del protagonista y del resto de los personajes. El artista, el intelectual modernista desengañado de un mundo y de una sociedad que no le comprenden, lucha contra la ignorancia, la vulgaridad y el materialismo del ambiente que le rodea, pero no saldrá victorioso. El resultado será, por tanto, la frustración física y espiritual del hombre.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015080688388"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 316,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lKoLAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lKoLAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lKoLAQAAMAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lKoLAQAAMAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%C3%8Ddolos_rotos.html?hl=&id=lKoLAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lKoLAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El escritor venezolano Manuel Díaz Rodríguez (1871-1927) se adscribe al Modernismo tanto en los temas que trata como en el lenguaje que desarrolla en su obra, en la que rechaza un mundo que no produce sino el descontento, la ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ChdfAAAAMAAJ",
+      "etag": "TbqN57tMSis",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ChdfAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Peregrina",
+        "subtitle": "o El pozo encantado; novela de rústicos del valle de Caracas",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015025353452"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuelan fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ChdfAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ChdfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ChdfAAAAMAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ChdfAAAAMAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Peregrina.html?hl=&id=ChdfAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ChdfAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "E6gSAAAAYAAJ",
+      "etag": "wwCzbusNNxA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/E6gSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Peregrina",
+        "subtitle": "novela",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1946",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024447613"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=E6gSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=E6gSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=E6gSAAAAYAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=E6gSAAAAYAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Peregrina.html?hl=&id=E6gSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=E6gSAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6CU8EQAAQBAJ",
+      "etag": "8ZvCpbMNHZY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6CU8EQAAQBAJ",
+      "volumeInfo": {
+        "title": "7 Mejores Cuentos - Venezuela",
+        "authors": [
+          "Manuel Díaz Rodríguez",
+          "Teresa de la Parra",
+          "Andrés Bello",
+          "Eduardo Blanco",
+          "Fermín Toro",
+          "Juan Antônio Pérez Bonalde",
+          "Juan Vicente Camacho",
+          "Juan Vicente González",
+          "Luis Manuel Urbaneja",
+          "Pedro Emilio Coll"
+        ],
+        "publisher": "Tacet Books",
+        "publishedDate": "2025-01-08",
+        "description": "7 mejores cuentos Venezuela, explore las narrativas que dan vida a la riqueza cultural y emocional de este fascinante país. Este libro reúne siete relatos inolvidables que reflejan las tradiciones, los paisajes y los dilemas humanos que forman parte del alma venezolana. Además, incluye comentarios biográficos de los autores y notas al pie que iluminan los contextos y profundizan la experiencia de lectura. Una joya literaria que conecta al lector con lo mejor de la narrativa venezolana. Este libro incluye los siguientes cuentos: La viuda de Corinto, por Fermín Toro: Entre ruinas y cenizas, un amor prohibido surge en el templo de la muerte, donde la pasión y la tragedia se entrelazan en un destino ineludible. Claudia, por Eduardo Blanco: Un amor perdido y reencontrado, entre sombras del pasado y misterios del presente, lleva a un hombre a la locura mientras busca desentrañar los secretos de su eterna Claudia. Las ovejas y las rosas del padre Serafín, por Manuel Díaz Rodríguez: En un pueblo lleno de supersticiones y violencia, un humilde cura intenta sembrar amor y paz, enfrentándose a la crueldad y al fanatismo que lo transforman para siempre. Confesión auténtica de un ahorcado resucitado, por Juan Vicente Camacho: La resurrección de un pirata tras ser ejecutado desata un dilema científico, legal y ético, mientras el condenado revela su oscuro pasado. El diente roto, por Pedro Emilio Coll: Tras un accidente que transforma su carácter, Juan Peña se convierte en un símbolo de sabiduría para todos, pero nunca dejó de acariciar su diente roto, sin pensar. Historia de la señorita grano de polvo, bailarina del sol, por Teresa de la Parra: Una bailarina etérea hechiza a un muñeco de fieltro, que lucha entre amor y sacrificio, hasta que un destino cruel decide por ambos. Ovejón, por Luis Manuel Urbaneja: Un bandido carismático desafía la justicia en un paisaje aragüeño lleno de superstición y lealtades divididas, dejando una marca indeleble en quienes cruzan su camino.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783689951702"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3689951704"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 165,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6CU8EQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6CU8EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6CU8EQAAQBAJ&printsec=frontcover&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6CU8EQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6CU8EQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13900,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 13900,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=6CU8EQAAQBAJ&rdid=book-6CU8EQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13900000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 13900000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/7_Mejores_Cuentos_Venezuela-sample-epub.acsm?id=6CU8EQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/7_Mejores_Cuentos_Venezuela-sample-pdf.acsm?id=6CU8EQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6CU8EQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "7 mejores cuentos Venezuela, explore las narrativas que dan vida a la riqueza cultural y emocional de este fascinante país."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nnM6yQEACAAJ",
+      "etag": "jqI/LBfoctE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nnM6yQEACAAJ",
+      "volumeInfo": {
+        "title": "Idolos rotos",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1979",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431582220"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 207,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nnM6yQEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nnM6yQEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Idolos_rotos.html?hl=&id=nnM6yQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nnM6yQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a61rxgEACAAJ",
+      "etag": "zsk/4kG5Efg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a61rxgEACAAJ",
+      "volumeInfo": {
+        "title": "Idolos rotos",
+        "subtitle": "(novela)",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1925",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:252722412"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=a61rxgEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=a61rxgEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Idolos_rotos.html?hl=&id=a61rxgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a61rxgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HV3WAAAAMAAJ",
+      "etag": "7OHEvLrA8bA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HV3WAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Cuatro sermones liricos",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1918",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000059707424"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 68,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HV3WAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HV3WAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HV3WAAAAMAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HV3WAAAAMAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuatro_sermones_liricos.html?hl=&id=HV3WAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HV3WAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-o0zAAAAMAAJ",
+      "etag": "wDvMX1qat4o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-o0zAAAAMAAJ",
+      "volumeInfo": {
+        "title": "De mis romerías y sensaciones de viaje",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1917",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015043528002"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 252,
+        "printType": "BOOK",
+        "categories": [
+          "Mediterranean Region"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-o0zAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-o0zAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-o0zAAAAMAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-o0zAAAAMAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_mis_romer%C3%ADas_y_sensaciones_de_viaje.html?hl=&id=-o0zAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-o0zAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vQFnAAAAMAAJ",
+      "etag": "qBT6F+jP/I4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vQFnAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Motivos de meditación",
+        "subtitle": "ante la guerra y por Hispanoamerica una. Conferencia leída en el Teatro municipal de Caracas el 12 de octubre de 1918",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1918",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023495290"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "categories": [
+          "Latin America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vQFnAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vQFnAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vQFnAAAAMAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vQFnAAAAMAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Motivos_de_meditaci%C3%B3n.html?hl=&id=vQFnAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vQFnAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4dJqwgEACAAJ",
+      "etag": "KFOE3j2fyu4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4dJqwgEACAAJ",
+      "volumeInfo": {
+        "title": "Camino de perfección",
+        "subtitle": "Apuntaciones para una biografía espiritual de don Perfecto, y varios ensayos",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1912",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:733458824"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 296,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4dJqwgEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4dJqwgEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Camino_de_perfecci%C3%B3n.html?hl=&id=4dJqwgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4dJqwgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cQUzAQAAIAAJ",
+      "etag": "3mB8UeJYWmc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cQUzAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Entre las colinas en flor",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1935",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B730857"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 424,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cQUzAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cQUzAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cQUzAQAAIAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cQUzAQAAIAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Entre_las_colinas_en_flor.html?hl=&id=cQUzAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cQUzAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "06YSAAAAYAAJ",
+      "etag": "ux4vGNs7Rgk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/06YSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Obras selectas",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1968",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173004863230"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1244,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=06YSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=06YSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=06YSAAAAYAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=06YSAAAAYAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_selectas.html?hl=&id=06YSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=06YSAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ti26AAAAIAAJ",
+      "etag": "6oEva/os/Z0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ti26AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Desde el silencio",
+        "authors": [
+          "Manuel Díaz Rodríguez",
+          "Rafael Angel Insausti"
+        ],
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B4209412"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 44,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ti26AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ti26AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Ti26AAAAIAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Ti26AAAAIAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Desde_el_silencio.html?hl=&id=Ti26AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ti26AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HTFRAAAACAAJ",
+      "etag": "ZYjcJ9VsN7o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HTFRAAAACAAJ",
+      "volumeInfo": {
+        "title": "Molinos de agua en Gran Canaria",
+        "authors": [
+          "Juan Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8475805515"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788475805511"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 649,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HTFRAAAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HTFRAAAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Molinos_de_agua_en_Gran_Canaria.html?hl=&id=HTFRAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HTFRAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-qL1MgEACAAJ",
+      "etag": "sjo7Pqlp2B4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-qL1MgEACAAJ",
+      "volumeInfo": {
+        "title": "La Palabra Estéril. [On Manuel Díaz Rodríguez.].",
+        "authors": [
+          "Orlando Araujo",
+          "Manuel DÍAZ Y. RODRÍGUEZ"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:556601597"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 116,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=-qL1MgEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-qL1MgEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Palabra_Est%C3%A9ril_On_Manuel_D%C3%ADaz_Rodr.html?hl=&id=-qL1MgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-qL1MgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lpx7XwAACAAJ",
+      "etag": "aSlWxUJewvc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lpx7XwAACAAJ",
+      "volumeInfo": {
+        "title": "Cuentos de color, por Manuel Díaz Rodríguez",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459231837"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 95,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lpx7XwAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lpx7XwAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuentos_de_color_por_Manuel_D%C3%ADaz_Rodr%C3%AD.html?hl=&id=lpx7XwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lpx7XwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SPOnHAAACAAJ",
+      "etag": "dHgfL8nZk/U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SPOnHAAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso de recepción del Dr. Manuel Diaz-Rodríguez como individuo de número de la Academia Nacional de la Historia, el 6 de diciembre de 1924",
+        "authors": [
+          "Manuel Díaz Rodríguez",
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:15070376"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SPOnHAAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SPOnHAAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_de_recepci%C3%B3n_del_Dr_Manuel_Dia.html?hl=&id=SPOnHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SPOnHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_sB8XwAACAAJ",
+      "etag": "RbwKNFW14jo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_sB8XwAACAAJ",
+      "volumeInfo": {
+        "title": "Confidencias de psiquis, por Manuel Díaz Rodríguez. [Prólogo de Pedro Emilio Coll.].",
+        "authors": [
+          "Manuel Díaz Rodríguez",
+          "Pedro Emilio Coll"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459231835"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_sB8XwAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_sB8XwAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Confidencias_de_psiquis_por_Manuel_D%C3%ADaz.html?hl=&id=_sB8XwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_sB8XwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Icc2cgAACAAJ",
+      "etag": "nT24Lk/i6FU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Icc2cgAACAAJ",
+      "volumeInfo": {
+        "title": "Manuel Díaz Rodgríguez",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1964",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:633576903"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 198,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Icc2cgAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Icc2cgAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manuel_D%C3%ADaz_Rodgr%C3%ADguez.html?hl=&id=Icc2cgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Icc2cgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yTUaxQEACAAJ",
+      "etag": "ISYa5i0rDcA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yTUaxQEACAAJ",
+      "volumeInfo": {
+        "title": "Sensaciones de viaje, por Manuel Díaz Rodríguez",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459231844"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 111,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yTUaxQEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yTUaxQEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sensaciones_de_viaje_por_Manuel_D%C3%ADaz_Ro.html?hl=&id=yTUaxQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yTUaxQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9xgyQwAACAAJ",
+      "etag": "e7jGUUmTLAw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9xgyQwAACAAJ",
+      "volumeInfo": {
+        "title": "Las reputadas o ¡Portero... abrame usted!",
+        "subtitle": "burla en paños menores y en dos actos original de Manuel Martínez Remis y Manuel Díaz Rodríguez",
+        "authors": [
+          "Manuel Martínez Remis",
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1977",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432612438"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 6,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9xgyQwAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9xgyQwAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_reputadas_o_Portero_abrame_usted.html?hl=&id=9xgyQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9xgyQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vEBaQwAACAAJ",
+      "etag": "m2fx9EbegDY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vEBaQwAACAAJ",
+      "volumeInfo": {
+        "title": "Cuento negro (cuento blanco",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1952",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432747037"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vEBaQwAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vEBaQwAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuento_negro_cuento_blanco.html?hl=&id=vEBaQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vEBaQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fr4uYAAACAAJ",
+      "etag": "DKs3iROBUQU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fr4uYAAACAAJ",
+      "volumeInfo": {
+        "title": "De mis romerías, por Manuel Díaz Rodríguez",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459231839"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fr4uYAAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fr4uYAAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_mis_romer%C3%ADas_por_Manuel_D%C3%ADaz_Rodr%C3%AD.html?hl=&id=fr4uYAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fr4uYAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ttwgywEACAAJ",
+      "etag": "+hhrU2ZKhxA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ttwgywEACAAJ",
+      "volumeInfo": {
+        "title": "Los mejores cuentos venezolanos",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1958",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1123705947"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 222,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ttwgywEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ttwgywEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_mejores_cuentos_venezolanos.html?hl=&id=ttwgywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ttwgywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Joe4mQEACAAJ",
+      "etag": "V7gIU28+zpU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Joe4mQEACAAJ",
+      "volumeInfo": {
+        "title": "Camino de perfección",
+        "subtitle": "Apuntaciones para una biografia espiritual de Don Perfecto y varios ensayos",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1912*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431582181"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 296,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=Joe4mQEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Joe4mQEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Camino_de_perfecci%C3%B3n.html?hl=&id=Joe4mQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Joe4mQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7AeVzAEACAAJ",
+      "etag": "4KreSyCtp8A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7AeVzAEACAAJ",
+      "volumeInfo": {
+        "title": "Sermones Líricos",
+        "subtitle": "Nuevas Prosas. III",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1918",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:492711227"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 356,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7AeVzAEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7AeVzAEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sermones_L%C3%ADricos.html?hl=&id=7AeVzAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7AeVzAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "358_ywAACAAJ",
+      "etag": "pZxxxkSAp48",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/358_ywAACAAJ",
+      "volumeInfo": {
+        "title": "Música bárbara",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1962",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:460098167"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=358_ywAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=45&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=358_ywAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/M%C3%BAsica_b%C3%A1rbara.html?hl=&id=358_ywAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=358_ywAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VAkIzQEACAAJ",
+      "etag": "orkrNXfHsNo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VAkIzQEACAAJ",
+      "volumeInfo": {
+        "title": "Sermones Líricos",
+        "subtitle": "Prosas de arte, justicia y devoción. II",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1918",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:492711160"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 356,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VAkIzQEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=46&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VAkIzQEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sermones_L%C3%ADricos.html?hl=&id=VAkIzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VAkIzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KuHJSAAACAAJ",
+      "etag": "O18pM8GI9e8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KuHJSAAACAAJ",
+      "volumeInfo": {
+        "title": "Bajo el haya de Titino",
+        "authors": [
+          "Juan B. Delgado",
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431476953"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=KuHJSAAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=47&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KuHJSAAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bajo_el_haya_de_Titino.html?hl=&id=KuHJSAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KuHJSAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ynNEDQEACAAJ",
+      "etag": "plrM/k/wmQ0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ynNEDQEACAAJ",
+      "volumeInfo": {
+        "title": "Peregrina",
+        "subtitle": "o El pozo encantado",
+        "publishedDate": "19??",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:4168054"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ynNEDQEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=48&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ynNEDQEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Peregrina.html?hl=&id=ynNEDQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ynNEDQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WaSSngEACAAJ",
+      "etag": "Q41d5l+9aCE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WaSSngEACAAJ",
+      "volumeInfo": {
+        "title": "Eglogas del Avila",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1971",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:73343717"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "categories": [
+          "Caracas (Venezuela)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WaSSngEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=49&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WaSSngEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Eglogas_del_Avila.html?hl=&id=WaSSngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WaSSngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IHgENQAACAAJ",
+      "etag": "Vmtdj6jmZZo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IHgENQAACAAJ",
+      "volumeInfo": {
+        "title": "Guerra de Yugurta",
+        "authors": [
+          "Cayo Salustio Crispo"
+        ],
+        "publishedDate": "1908",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:434231166"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=IHgENQAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=50&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=IHgENQAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Guerra_de_Yugurta.html?hl=&id=IHgENQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IHgENQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8IIt0QEACAAJ",
+      "etag": "3HCpGt//OfY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8IIt0QEACAAJ",
+      "volumeInfo": {
+        "title": "Sermones líricos",
+        "subtitle": "I, sermones líricos, II, prosas de arte, justicia y devoción, III, nuevas prosas",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1918",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:434374170"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8IIt0QEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=51&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8IIt0QEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sermones_l%C3%ADricos.html?hl=&id=8IIt0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8IIt0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XcMxHQAACAAJ",
+      "etag": "XVMC6G0NB5E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XcMxHQAACAAJ",
+      "volumeInfo": {
+        "title": "Peregina ó el pozo encantado",
+        "subtitle": "novela de rusticos del Valle de Caracas",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:48356886"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=XcMxHQAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=52&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=XcMxHQAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Peregina_%C3%B3_el_pozo_encantado.html?hl=&id=XcMxHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XcMxHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ma8jHQAACAAJ",
+      "etag": "BtZGe9Xiy7Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ma8jHQAACAAJ",
+      "volumeInfo": {
+        "title": "De mis remeriías",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "195?",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:62623041"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Ma8jHQAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=53&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Ma8jHQAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_mis_remeri%C3%ADas.html?hl=&id=Ma8jHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ma8jHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VaddPQAACAAJ",
+      "etag": "t7m76/iofi8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VaddPQAACAAJ",
+      "volumeInfo": {
+        "title": "Santa Cruz de la Palma en blanco y negro",
+        "authors": [
+          "Juan Carlos Díaz Lorenzo",
+          "Juan Julio Fernández Rodríguez",
+          "Antonio Manuel Díaz Rodríguez",
+          "Luis Cobiella"
+        ],
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8488605501"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788488605504"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VaddPQAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=54&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VaddPQAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Santa_Cruz_de_la_Palma_en_blanco_y_negro.html?hl=&id=VaddPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VaddPQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3vvmPAAACAAJ",
+      "etag": "Pp+kzlemP0g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3vvmPAAACAAJ",
+      "volumeInfo": {
+        "title": "Los molinos de agua en Gran Canaria",
+        "subtitle": "(heredamientos)",
+        "authors": [
+          "Juan Manuel Díaz Rodríguez",
+          "Victorio Rodríguez Cabrera",
+          "Sergio Calvo"
+        ],
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8487832555"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788487832550"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 649,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3vvmPAAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=55&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3vvmPAAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_molinos_de_agua_en_Gran_Canaria.html?hl=&id=3vvmPAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3vvmPAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-OuUYgEACAAJ",
+      "etag": "dPLVKcmj4V8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-OuUYgEACAAJ",
+      "volumeInfo": {
+        "title": "La estrella que subiere al cielu",
+        "authors": [
+          "Xuan Xosé Sánchez Vicente",
+          "Luis Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8480531843"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788480531849"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=-OuUYgEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=56&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-OuUYgEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_estrella_que_subiere_al_cielu.html?hl=&id=-OuUYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-OuUYgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o6MVzQEACAAJ",
+      "etag": "T+i2Iz8ixfQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o6MVzQEACAAJ",
+      "volumeInfo": {
+        "title": "Camino de Perfeccion",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1908",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:956279416"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 293,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=o6MVzQEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=57&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=o6MVzQEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Camino_de_Perfeccion.html?hl=&id=o6MVzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o6MVzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KmP2jwEACAAJ",
+      "etag": "izkds2KN8e4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KmP2jwEACAAJ",
+      "volumeInfo": {
+        "title": "Sensaciones de viaje ; De mis romerías ; Confidencias de psiquis",
+        "publishedDate": "195?",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:934406163"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 279,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=KmP2jwEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=58&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KmP2jwEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sensaciones_de_viaje_De_mis_romer%C3%ADas_Co.html?hl=&id=KmP2jwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KmP2jwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AQBKewAACAAJ",
+      "etag": "pdBd20dmUf4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AQBKewAACAAJ",
+      "volumeInfo": {
+        "title": "Manual Díaz Rodrigues",
+        "authors": [
+          "Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "1964",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:663670398"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=AQBKewAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=59&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=AQBKewAACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_D%C3%ADaz_Rodrigues.html?hl=&id=AQBKewAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AQBKewAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cPiloAEACAAJ",
+      "etag": "w+5xLxEJgUY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cPiloAEACAAJ",
+      "volumeInfo": {
+        "title": "Sociedad Peruana de Pediatriá",
+        "subtitle": "ocho décadas de historia institucional",
+        "authors": [
+          "Carlos Manuel Díaz Rodríguez"
+        ],
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:870084421"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cPiloAEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&cd=60&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cPiloAEACAAJ&dq=inauthor:%22Manuel+D%C3%ADaz+Rodr%C3%ADguez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sociedad_Peruana_de_Pediatri%C3%A1.html?hl=&id=cPiloAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cPiloAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

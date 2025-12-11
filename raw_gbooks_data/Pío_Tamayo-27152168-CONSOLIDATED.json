@@ -1,0 +1,827 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"P%C3%ADo%20Tamayo\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"P%C3%ADo%20Tamayo\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 14,
+  "_totalFetchedItems": 14,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "pE0rAQAAIAAJ",
+      "etag": "eIEXj3jckt4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pE0rAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Pío Tamayo y la vanguardia",
+        "authors": [
+          "Raúl Agudo Freytes"
+        ],
+        "publishedDate": "1969",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3287222"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pE0rAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pE0rAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=pE0rAQAAIAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=pE0rAQAAIAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/P%C3%ADo_Tamayo_y_la_vanguardia.html?hl=&id=pE0rAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pE0rAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3RkMAAAAIAAJ",
+      "etag": "tzSesW5Raf0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3RkMAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Pío Tamayo, un combate por la vida",
+        "subtitle": "recopilación, estudios, notas y entrevistas",
+        "authors": [
+          "Pío Tamayo"
+        ],
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015039567584"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 500,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3RkMAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3RkMAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3RkMAAAAIAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3RkMAAAAIAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/P%C3%ADo_Tamayo_un_combate_por_la_vida.html?hl=&id=3RkMAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3RkMAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gllKAAAAYAAJ",
+      "etag": "wXSGjHWsfy4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gllKAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Obras rescatadas de Pío Tamayo: Pío Tamayo, un combate por la vida",
+        "authors": [
+          "Pío Tamayo"
+        ],
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173025572337"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 494,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gllKAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gllKAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=gllKAAAAYAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=gllKAAAAYAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_rescatadas_de_P%C3%ADo_Tamayo_P%C3%ADo_Tam.html?hl=&id=gllKAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gllKAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JootAAAAIAAJ",
+      "etag": "XGT0tJA2vSM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JootAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Obras rescatadas de Pío Tamayo",
+        "authors": [
+          "Pío Tamayo"
+        ],
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3787043"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 408,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JootAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JootAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JootAAAAIAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JootAAAAIAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_rescatadas_de_P%C3%ADo_Tamayo.html?hl=&id=JootAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JootAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cGZKAAAAYAAJ",
+      "etag": "sa1NS7/5H44",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cGZKAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Obras rescatadas de Pío Tamayo",
+        "authors": [
+          "Pío Tamayo"
+        ],
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173025572348"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 438,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cGZKAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cGZKAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cGZKAAAAYAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cGZKAAAAYAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_rescatadas_de_P%C3%ADo_Tamayo.html?hl=&id=cGZKAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cGZKAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TtgeAQAAIAAJ",
+      "etag": "35+PhYLwuFg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TtgeAQAAIAAJ",
+      "volumeInfo": {
+        "title": "El diario del floricultor",
+        "authors": [
+          "Pío Tamayo",
+          "Mery Sananes"
+        ],
+        "publishedDate": "1986",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105040681673"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 410,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Venezuelan"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TtgeAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TtgeAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TtgeAQAAIAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TtgeAQAAIAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_diario_del_floricultor.html?hl=&id=TtgeAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TtgeAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TL-jAQAACAAJ",
+      "etag": "/z4RLQ3MV6o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TL-jAQAACAAJ",
+      "volumeInfo": {
+        "title": "Obras rescatadas de Pío Tamayo",
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9802656542"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789802656547"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TL-jAQAACAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TL-jAQAACAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_rescatadas_de_P%C3%ADo_Tamayo.html?hl=&id=TL-jAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TL-jAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9l9MMwEACAAJ",
+      "etag": "PNVr5zl0Agg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9l9MMwEACAAJ",
+      "volumeInfo": {
+        "title": "Vida de un adelantado. Intento biográfico sobre José Pío Tamayo. [With a portrait.].",
+        "authors": [
+          "Raul AGUDO FREYTES",
+          "José Pío TAMAYO"
+        ],
+        "publishedDate": "1948",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:752646091"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 39,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=9l9MMwEACAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9l9MMwEACAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vida_de_un_adelantado_Intento_biogr%C3%A1fic.html?hl=&id=9l9MMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9l9MMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "axHQSAAACAAJ",
+      "etag": "HD5bEm6lTLQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/axHQSAAACAAJ",
+      "volumeInfo": {
+        "title": "Obras rescatadas del Pío Tamayo",
+        "subtitle": "Pío Tamayo, un combate por la vida",
+        "authors": [
+          "José Pío Tamayo Rodriguez"
+        ],
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:551708461"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 452,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=axHQSAAACAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=axHQSAAACAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_rescatadas_del_P%C3%ADo_Tamayo.html?hl=&id=axHQSAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=axHQSAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wUaeugEACAAJ",
+      "etag": "4G1w8sSj3Ec",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wUaeugEACAAJ",
+      "volumeInfo": {
+        "title": "El diario del floricultor",
+        "authors": [
+          "Pío Tamayo"
+        ],
+        "publishedDate": "1986",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "980265454X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789802654543"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wUaeugEACAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wUaeugEACAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_diario_del_floricultor.html?hl=&id=wUaeugEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wUaeugEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KH1pwAEACAAJ",
+      "etag": "8B073tHZ4N0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KH1pwAEACAAJ",
+      "volumeInfo": {
+        "title": "Pío Tamayo y la vanguardia. [By] Raúl Agudo Freites",
+        "authors": [
+          "Raúl Agudo Freytes"
+        ],
+        "publishedDate": "1969",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1079185984"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 207,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=KH1pwAEACAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KH1pwAEACAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/P%C3%ADo_Tamayo_y_la_vanguardia_By_Ra%C3%BAl_Agu.html?hl=&id=KH1pwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KH1pwAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-7igSwAACAAJ",
+      "etag": "Y2xq3OV9nLU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-7igSwAACAAJ",
+      "volumeInfo": {
+        "title": "Obras rescatadas del Pío Tamayo",
+        "subtitle": "Tamayo",
+        "authors": [
+          "José Pío Tamayo Rodriguez"
+        ],
+        "publishedDate": "1986",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:551708579"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 261,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-7igSwAACAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-7igSwAACAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_rescatadas_del_P%C3%ADo_Tamayo.html?hl=&id=-7igSwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-7igSwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nO5HtwAACAAJ",
+      "etag": "Sp1LakmDFNs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nO5HtwAACAAJ",
+      "volumeInfo": {
+        "title": "La Cátedra Pío Tamayo",
+        "subtitle": "diez años después... 1983-1993; una escuela andante y floricultora",
+        "authors": [
+          "Venezuela Universidad Central Cátedra Pío Tamayo"
+        ],
+        "publishedDate": "1993",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:760675426"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nO5HtwAACAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nO5HtwAACAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_C%C3%A1tedra_P%C3%ADo_Tamayo.html?hl=&id=nO5HtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nO5HtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NGv6SQAACAAJ",
+      "etag": "mwzN2aXpV7k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NGv6SQAACAAJ",
+      "volumeInfo": {
+        "title": "Obras rescatadas del Pío Tamayo",
+        "subtitle": "Tamayo",
+        "authors": [
+          "José Pío Tamayo Rodriguez"
+        ],
+        "publishedDate": "1986",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:551708549"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 396,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NGv6SQAACAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NGv6SQAACAAJ&dq=inauthor:%22P%C3%ADo+Tamayo%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_rescatadas_del_P%C3%ADo_Tamayo.html?hl=&id=NGv6SQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NGv6SQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

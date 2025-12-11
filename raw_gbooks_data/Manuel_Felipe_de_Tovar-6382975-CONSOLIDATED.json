@@ -1,0 +1,124 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Manuel%20Felipe%20de%20Tovar\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Manuel%20Felipe%20de%20Tovar\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 2,
+  "_totalFetchedItems": 2,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "KS2pPgAACAAJ",
+      "etag": "6teqC09Mzq4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KS2pPgAACAAJ",
+      "volumeInfo": {
+        "title": "Renuncia del primer presidente constitucional de la Republica (de Venezuela), ciudadano Manuel F. de Tovar",
+        "subtitle": "Documentos",
+        "authors": [
+          "Manuel F. de Tovar"
+        ],
+        "publishedDate": "1861",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:252793143"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 29,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=KS2pPgAACAAJ&dq=inauthor:%22Manuel+Felipe+de+Tovar%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KS2pPgAACAAJ&dq=inauthor:%22Manuel+Felipe+de+Tovar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Renuncia_del_primer_presidente_constituc.html?hl=&id=KS2pPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KS2pPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wINczgEACAAJ",
+      "etag": "BeqHEGAmdAY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wINczgEACAAJ",
+      "volumeInfo": {
+        "title": "Cartas del presbitero",
+        "authors": [
+          "Francisco de Paula González Vigil",
+          "Manuel Felipe de Tovar"
+        ],
+        "publishedDate": "1870",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1243948659"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 154,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wINczgEACAAJ&dq=inauthor:%22Manuel+Felipe+de+Tovar%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wINczgEACAAJ&dq=inauthor:%22Manuel+Felipe+de+Tovar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cartas_del_presbitero.html?hl=&id=wINczgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wINczgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

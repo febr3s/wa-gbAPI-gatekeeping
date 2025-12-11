@@ -1,0 +1,70 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Rafael%20Ignacio%20Arias%20Blanco\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Rafael%20Ignacio%20Arias%20Blanco\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "9v9ergEACAAJ",
+      "etag": "ru59XKPY/M4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9v9ergEACAAJ",
+      "volumeInfo": {
+        "title": "Cartas pastorales y discursos",
+        "authors": [
+          "Catholic Church. Archdiocese of Caracas (Venezuela). Archbishop (1955-1959 : Arias Blanco)",
+          "Rafael Ignacio Arias Blanco"
+        ],
+        "publishedDate": "2014",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9802447501"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789802447503"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 369,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9v9ergEACAAJ&dq=inauthor:%22Rafael+Ignacio+Arias+Blanco%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9v9ergEACAAJ&dq=inauthor:%22Rafael+Ignacio+Arias+Blanco%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cartas_pastorales_y_discursos.html?hl=&id=9v9ergEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9v9ergEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

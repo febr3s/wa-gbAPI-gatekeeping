@@ -1,0 +1,141 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Carlos%20Guinand%20Sandoz\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Carlos%20Guinand%20Sandoz\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 2,
+  "_totalFetchedItems": 2,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "TKZcAAAAMAAJ",
+      "etag": "sjvIzn0HMMc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TKZcAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Wallis, Domínguez y Guinand",
+        "subtitle": "arquitectos pioneros de una época",
+        "authors": [
+          "Gustavo Wallis Legórburu",
+          "Carlos Guinand Sandoz",
+          "Cipriano Jorge Domínguez"
+        ],
+        "publisher": "Galeria de Arte Nacional",
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173017031896"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "categories": [
+          "Architecture"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.10.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TKZcAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TKZcAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TKZcAAAAMAAJ&dq=inauthor:%22Carlos+Guinand+Sandoz%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TKZcAAAAMAAJ&dq=inauthor:%22Carlos+Guinand+Sandoz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Wallis_Dom%C3%ADnguez_y_Guinand.html?hl=&id=TKZcAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TKZcAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2RFXAAAACAAJ",
+      "etag": "b90Z6/ytknw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2RFXAAAACAAJ",
+      "volumeInfo": {
+        "title": "Carlos Guinand Sandoz",
+        "authors": [
+          "José Luis Colmenares R.",
+          "Carlos Guinand Sandoz"
+        ],
+        "publishedDate": "1989",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9803007645"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789803007645"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 235,
+        "printType": "BOOK",
+        "categories": [
+          "Architecture, Modern"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2RFXAAAACAAJ&dq=inauthor:%22Carlos+Guinand+Sandoz%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2RFXAAAACAAJ&dq=inauthor:%22Carlos+Guinand+Sandoz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carlos_Guinand_Sandoz.html?hl=&id=2RFXAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2RFXAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

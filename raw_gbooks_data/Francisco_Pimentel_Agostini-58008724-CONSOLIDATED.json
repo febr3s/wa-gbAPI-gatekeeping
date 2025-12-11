@@ -1,0 +1,118 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20Pimentel%20Agostini\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20Pimentel%20Agostini\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 2,
+  "_totalFetchedItems": 2,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "n3pIlQEACAAJ",
+      "etag": "ebP9p8bKm/E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/n3pIlQEACAAJ",
+      "volumeInfo": {
+        "title": "Antología",
+        "authors": [
+          "Francisco Pimentel Agostini"
+        ],
+        "publishedDate": "1950",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:493788849"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 301,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=n3pIlQEACAAJ&dq=inauthor:%22Francisco+Pimentel+Agostini%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=n3pIlQEACAAJ&dq=inauthor:%22Francisco+Pimentel+Agostini%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antolog%C3%ADa.html?hl=&id=n3pIlQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=n3pIlQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BynmSAAACAAJ",
+      "etag": "do7dMg/bAcY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BynmSAAACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "authors": [
+          "Francisco Pimentel Agostini"
+        ],
+        "publishedDate": "1959",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:492089826"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1290,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BynmSAAACAAJ&dq=inauthor:%22Francisco+Pimentel+Agostini%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BynmSAAACAAJ&dq=inauthor:%22Francisco+Pimentel+Agostini%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=BynmSAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BynmSAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

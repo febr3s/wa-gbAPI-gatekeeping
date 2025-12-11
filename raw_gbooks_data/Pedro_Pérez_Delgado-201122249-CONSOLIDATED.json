@@ -1,0 +1,77 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Pedro%20P%C3%A9rez%20Delgado\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Pedro%20P%C3%A9rez%20Delgado\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "wrx6AAAAMAAJ",
+      "etag": "UVI+oMm1HPE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wrx6AAAAMAAJ",
+      "volumeInfo": {
+        "title": "Historia documentada del legendario Pedro Pérez Delgado, Maisanta",
+        "authors": [
+          "Oldman Botello",
+          "Pedro Pérez Delgado"
+        ],
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015064745121"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wrx6AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wrx6AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wrx6AAAAMAAJ&dq=inauthor:%22Pedro+P%C3%A9rez+Delgado%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wrx6AAAAMAAJ&dq=inauthor:%22Pedro+P%C3%A9rez+Delgado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_documentada_del_legendario_Pedr.html?hl=&id=wrx6AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wrx6AAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jes%C3%BAs%20Manuel%20J%C3%A1uregui%20Moreno\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jes%C3%BAs%20Manuel%20J%C3%A1uregui%20Moreno\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 4,
+  "_totalFetchedItems": 4,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "5rklAQAAIAAJ",
+      "etag": "UytPkExg+3c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5rklAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "authors": [
+          "Jesús Manuel Jáuregui Moreno"
+        ],
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105113678531"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 500,
+        "printType": "BOOK",
+        "categories": [
+          "Meditations"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5rklAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5rklAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5rklAQAAIAAJ&dq=inauthor:%22Jes%C3%BAs+Manuel+J%C3%A1uregui+Moreno%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5rklAQAAIAAJ&dq=inauthor:%22Jes%C3%BAs+Manuel+J%C3%A1uregui+Moreno%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=5rklAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5rklAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "O-yQAAAACAAJ",
+      "etag": "TN0KeLD6/Hs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/O-yQAAAACAAJ",
+      "volumeInfo": {
+        "title": "Jáuregui y Silva",
+        "subtitle": "contrapunteo epistolar",
+        "authors": [
+          "Jesús Manuel Jáuregui Moreno",
+          "Ana Hilda Duque"
+        ],
+        "publishedDate": "1999-01-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9802928003"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789802928002"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 186,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=O-yQAAAACAAJ&dq=inauthor:%22Jes%C3%BAs+Manuel+J%C3%A1uregui+Moreno%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=O-yQAAAACAAJ&dq=inauthor:%22Jes%C3%BAs+Manuel+J%C3%A1uregui+Moreno%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/J%C3%A1uregui_y_Silva.html?hl=&id=O-yQAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=O-yQAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WAmAVPAAPhoC",
+      "etag": "EScqYoDFS+0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WAmAVPAAPhoC",
+      "volumeInfo": {
+        "title": "Apuntes estadísticos del Estado Mérida",
+        "authors": [
+          "Jesús Manuel Jáuregui Moreno"
+        ],
+        "publishedDate": "1987",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MSU:31293009675269"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "categories": [
+          "Mérida (Venezuela : State)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WAmAVPAAPhoC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WAmAVPAAPhoC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WAmAVPAAPhoC&dq=inauthor:%22Jes%C3%BAs+Manuel+J%C3%A1uregui+Moreno%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WAmAVPAAPhoC&dq=inauthor:%22Jes%C3%BAs+Manuel+J%C3%A1uregui+Moreno%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Apuntes_estad%C3%ADsticos_del_Estado_M%C3%A9rida.html?hl=&id=WAmAVPAAPhoC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WAmAVPAAPhoC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VY6qXwAACAAJ",
+      "etag": "vq7OtO8Avz0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VY6qXwAACAAJ",
+      "volumeInfo": {
+        "title": "Jáuregui hoy",
+        "subtitle": "aporte del pensamiento educativo de Jesús Manuel Jáuregui Moreno (1848-1905) ante las actuales exigencias educativas de la sociedad venozolana",
+        "authors": [
+          "Edgar Gregorio Sánchez Sánchez",
+          "Jesús Manuel Jáuregui Moreno"
+        ],
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:701875177"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 605,
+        "printType": "BOOK",
+        "categories": [
+          "Missions"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=VY6qXwAACAAJ&dq=inauthor:%22Jes%C3%BAs+Manuel+J%C3%A1uregui+Moreno%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VY6qXwAACAAJ&dq=inauthor:%22Jes%C3%BAs+Manuel+J%C3%A1uregui+Moreno%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/J%C3%A1uregui_hoy.html?hl=&id=VY6qXwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VY6qXwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

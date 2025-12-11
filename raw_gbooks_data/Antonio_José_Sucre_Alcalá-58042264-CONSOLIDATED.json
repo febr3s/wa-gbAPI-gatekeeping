@@ -1,0 +1,66 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Antonio%20Jos%C3%A9%20Sucre%20Alcal%C3%A1\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Antonio%20Jos%C3%A9%20Sucre%20Alcal%C3%A1\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "1T0jmgEACAAJ",
+      "etag": "HNvOSa1/CXQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1T0jmgEACAAJ",
+      "volumeInfo": {
+        "title": "Archivo de Sucre,.",
+        "subtitle": "(1823-1824)",
+        "authors": [
+          "Antonio José de Sucre"
+        ],
+        "publishedDate": "1976",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:312399051"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 615,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1T0jmgEACAAJ&dq=inauthor:%22Antonio+Jos%C3%A9+Sucre+Alcal%C3%A1%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1T0jmgEACAAJ&dq=inauthor:%22Antonio+Jos%C3%A9+Sucre+Alcal%C3%A1%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Archivo_de_Sucre.html?hl=&id=1T0jmgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1T0jmgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,2586 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Felipe%20Larraz%C3%A1bal\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Felipe%20Larraz%C3%A1bal\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Felipe%20Larraz%C3%A1bal\"&maxResults=20&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Felipe%20Larraz%C3%A1bal\"&maxResults=20&startIndex=40&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Felipe%20Larraz%C3%A1bal\"&maxResults=2&startIndex=40&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 42,
+  "_totalRequestsMade": 3,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "fmANAAAAYAAJ",
+      "etag": "HqQecSBm7ds",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fmANAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Obras literarias del dr. Felipe Larrazábal",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1862",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433081601167"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 446,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.12.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fmANAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fmANAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fmANAAAAYAAJ&printsec=frontcover&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fmANAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fmANAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=fmANAAAAYAAJ&rdid=book-fmANAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Obras_literarias_del_dr_Felipe_Larraz%C3%A1b.epub?id=fmANAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Obras_literarias_del_dr_Felipe_Larraz%C3%A1b.pdf?id=fmANAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1VeEmn0nHDoGB5BKb8C5pmW5Q-IQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fmANAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p2Q_AAAAIAAJ",
+      "etag": "ua9ZZ7YDAtI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p2Q_AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Carta de Felipe Larrazábal al señor Antonio L. Guzmán, ministro de relaciones esteriores",
+        "subtitle": "seguida de otra carta del mismo Larrazábal al señor general Antonio Guzmán Blanco en 1863",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1870",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B144435"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 44,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p2Q_AAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p2Q_AAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=p2Q_AAAAIAAJ&printsec=frontcover&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=p2Q_AAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=p2Q_AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=p2Q_AAAAIAAJ&rdid=book-p2Q_AAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Carta_de_Felipe_Larraz%C3%A1bal_al_se%C3%B1or_An.epub?id=p2Q_AAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Carta_de_Felipe_Larraz%C3%A1bal_al_se%C3%B1or_An.pdf?id=p2Q_AAAAIAAJ&hl=&output=pdf&sig=ACfU3U1Qkdm6MZQXtXCbSUJgFtlkdi1VWA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p2Q_AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3IsTT_PmpzQC",
+      "etag": "x7+YTprsVMY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3IsTT_PmpzQC",
+      "volumeInfo": {
+        "title": "Vida del libertador Simón Bolivar",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1918",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BNC:1001987747"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 572,
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3IsTT_PmpzQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3IsTT_PmpzQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3IsTT_PmpzQC&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3IsTT_PmpzQC&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vida_del_libertador_Sim%C3%B3n_Bolivar.html?hl=&id=3IsTT_PmpzQC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3IsTT_PmpzQC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-Nw4AQAAMAAJ",
+      "etag": "QAW2Sinj2l4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-Nw4AQAAMAAJ",
+      "volumeInfo": {
+        "title": "La Vida Y Correspondencia General Del Libertador Simon Bolívar",
+        "subtitle": "Enriquecida Con la Insercion de Los Manifiestos, Mensages, Exposiciones, Proclamas, &. &.",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CORNELL:31924020398800"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 612,
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-Nw4AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-Nw4AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-Nw4AQAAMAAJ&printsec=frontcover&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-Nw4AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-Nw4AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=-Nw4AQAAMAAJ&rdid=book--Nw4AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/La_Vida_Y_Correspondencia_General_Del_Li.epub?id=-Nw4AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/La_Vida_Y_Correspondencia_General_Del_Li.pdf?id=-Nw4AQAAMAAJ&hl=&output=pdf&sig=ACfU3U2DLbzL9VDqgJAbhwH7mmlHsIrqIw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-Nw4AQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QCgwAAAAYAAJ",
+      "etag": "+iQtjxi6HTE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QCgwAAAAYAAJ",
+      "volumeInfo": {
+        "title": "La vida y correspondencia general del libertador Simon Bolívar",
+        "subtitle": "enriquecida con la insercion de los manifiestos, mensages, exposiciones, proclamas, &. &.",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433081860433"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 668,
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "4.11.16.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QCgwAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QCgwAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=QCgwAAAAYAAJ&printsec=frontcover&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QCgwAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QCgwAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=QCgwAAAAYAAJ&rdid=book-QCgwAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/La_vida_y_correspondencia_general_del_li.epub?id=QCgwAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/La_vida_y_correspondencia_general_del_li.pdf?id=QCgwAAAAYAAJ&hl=&output=pdf&sig=ACfU3U0F0gYDQDI4CU5CLp-qg-tka6gy8g&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QCgwAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AsjrDjaYB4EC",
+      "etag": "cuQLCVrQUOQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AsjrDjaYB4EC",
+      "volumeInfo": {
+        "title": "Correspondencia general del libertador Simon Bolívar",
+        "subtitle": "enriquecida con la insercion de los manifestos, mensages, exposiciones, proclamas, &. &.",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publisher": "En la",
+        "publishedDate": "1866",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000097487031"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 604,
+        "printType": "BOOK",
+        "categories": [
+          "Revolutionaries"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AsjrDjaYB4EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AsjrDjaYB4EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=AsjrDjaYB4EC&printsec=frontcover&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=AsjrDjaYB4EC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AsjrDjaYB4EC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=AsjrDjaYB4EC&rdid=book-AsjrDjaYB4EC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Correspondencia_general_del_libertador_S.epub?id=AsjrDjaYB4EC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AsjrDjaYB4EC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LeCt0lBSEUgC",
+      "etag": "VU3AE59Uz/M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LeCt0lBSEUgC",
+      "volumeInfo": {
+        "title": "Correspondencia general del libertador Simon Bolívar",
+        "subtitle": "enriquecida con la insercion de los manifestos, mensagesexposiciones, proclamas,&.&.",
+        "authors": [
+          "Simón Bolívar"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BL:A0026506552"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 674,
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LeCt0lBSEUgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LeCt0lBSEUgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=LeCt0lBSEUgC&printsec=frontcover&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LeCt0lBSEUgC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LeCt0lBSEUgC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=LeCt0lBSEUgC&rdid=book-LeCt0lBSEUgC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Correspondencia_general_del_libertador_S.epub?id=LeCt0lBSEUgC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LeCt0lBSEUgC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UYhUAAAAYAAJ",
+      "etag": "Ix4Q8Pkvhb4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UYhUAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Vida del libertador Simón Bolívar",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1918",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X030801616"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 616,
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UYhUAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UYhUAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=UYhUAAAAYAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=UYhUAAAAYAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vida_del_libertador_Sim%C3%B3n_Bol%C3%ADvar.html?hl=&id=UYhUAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UYhUAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MggEAAAAYAAJ",
+      "etag": "vNbk18OlEYU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MggEAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Correspondencia general del libertador Simon Bolívar",
+        "subtitle": "enriquecida con la insercion de los manifiestos, mensages, exposiciones, proclamas, &. &., publicados por el heroe colombiano desde 1810 hasta 1830. Precede á esta coleccion interesante la vida de Bolívar",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1866",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433082343819"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 676,
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "9.9.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MggEAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MggEAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=MggEAAAAYAAJ&printsec=frontcover&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MggEAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MggEAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=MggEAAAAYAAJ&rdid=book-MggEAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Correspondencia_general_del_libertador_S.epub?id=MggEAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Correspondencia_general_del_libertador_S.pdf?id=MggEAAAAYAAJ&hl=&output=pdf&sig=ACfU3U09GgMo5qAeQDpbhiEC_4zrV97aHA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MggEAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C_mTzwEACAAJ",
+      "etag": "KHtge4dtBrc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C_mTzwEACAAJ",
+      "volumeInfo": {
+        "title": "Correspondencia General Del Libertador Simon Bolívar: Enriquecida Con La Insercion De Los Manifestos, Mensages, Exposiciones, Proclamas, &. &.",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publisher": "Legare Street Press",
+        "publishedDate": "2022-10-27",
+        "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the \"public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1017147868"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781017147865"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C_mTzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C_mTzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=C_mTzwEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=C_mTzwEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Correspondencia_General_Del_Libertador_S.html?hl=&id=C_mTzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C_mTzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the &quot;public domain in the United States of America, and possibly other nations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6cxlmgEACAAJ",
+      "etag": "69Qjzt6TGqk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6cxlmgEACAAJ",
+      "volumeInfo": {
+        "title": "Correspondencia General del Libertador S. Bolívar. Enriquecida con la insercion de los manifestos, mensages ... &c. publicados por el heroe colombiano desde 1810 hasta 1830. Precede á esta coleccion ... la Vida de Bolívar (por F. Larrazábal).",
+        "authors": [
+          "Simón Bolívar",
+          "Felípe LARRAZABAL"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:557642924"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6cxlmgEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6cxlmgEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Correspondencia_General_del_Libertador_S.html?hl=&id=6cxlmgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6cxlmgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4NfNwAEACAAJ",
+      "etag": "hJVmxtH0jzA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4NfNwAEACAAJ",
+      "volumeInfo": {
+        "title": "La vida y correspondencia general del Libertador Simon Bolívar, enriquecida con la inserción de los manifiestos, mensages, exposiciones, proclamas, etc. etc, publicados por el héroe colombiano desde 1810 hasta 1830",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:835425904"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=4NfNwAEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4NfNwAEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_vida_y_correspondencia_general_del_Li.html?hl=&id=4NfNwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4NfNwAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HuENAQAAMAAJ",
+      "etag": "edFJ/kJWalk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HuENAQAAMAAJ",
+      "volumeInfo": {
+        "title": "La vida y correspondencia general del libertador Simon Bolívar",
+        "subtitle": "enriquecida con la insercion de los manifestos, mensages, exposiciones, proclamas, &. &.",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1887",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:31951002314135R"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1446,
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HuENAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HuENAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HuENAQAAMAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HuENAQAAMAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_vida_y_correspondencia_general_del_li.html?hl=&id=HuENAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HuENAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ToMzAQAAIAAJ",
+      "etag": "pezLxBbYJx4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ToMzAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Historia de los seminarios clericales",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1856",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B718290"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 170,
+        "printType": "BOOK",
+        "categories": [
+          "Catholic theological seminaries"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ToMzAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ToMzAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ToMzAQAAIAAJ&printsec=frontcover&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ToMzAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ToMzAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=ToMzAQAAIAAJ&rdid=book-ToMzAQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Historia_de_los_seminarios_clericales.epub?id=ToMzAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Historia_de_los_seminarios_clericales.pdf?id=ToMzAQAAIAAJ&hl=&output=pdf&sig=ACfU3U0kYD_HIM5HbMQZQzQPD9ijR_VIcw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ToMzAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y-lvcgAACAAJ",
+      "etag": "cSQNDk4lVEU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y-lvcgAACAAJ",
+      "volumeInfo": {
+        "title": "Vida y escritos del libertador Simón Bolívar",
+        "authors": [
+          "Felipe Larrazábal",
+          "Rufino Blanco-Fombona"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9800303715"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789800303719"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Heads of state"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=y-lvcgAACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=y-lvcgAACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vida_y_escritos_del_libertador_Sim%C3%B3n_Bo.html?hl=&id=y-lvcgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y-lvcgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YV1gAAAAcAAJ",
+      "etag": "TTBob4CQreA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YV1gAAAAcAAJ",
+      "volumeInfo": {
+        "title": "Coleccion de Articulos sobre la cuestion: Arzobispo de Carácas y Venezuela [J. A. Perez de Velasco] publicados en “El Patriota.”",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1852",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BL:A0019569275"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 42,
+        "printType": "BOOK",
+        "categories": [
+          "Church and state"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YV1gAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YV1gAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YV1gAAAAcAAJ&printsec=frontcover&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YV1gAAAAcAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YV1gAAAAcAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=YV1gAAAAcAAJ&rdid=book-YV1gAAAAcAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Coleccion_de_Articulos_sobre_la_cuestion.epub?id=YV1gAAAAcAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YV1gAAAAcAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-qgzAQAAIAAJ",
+      "etag": "9glOBbq8nvg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-qgzAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Principios de derecho político",
+        "subtitle": "o, Elementos de la ciencia constitucional",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1864",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B715670"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+          "Constitutional law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-qgzAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-qgzAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-qgzAQAAIAAJ&printsec=frontcover&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-qgzAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-qgzAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=-qgzAQAAIAAJ&rdid=book--qgzAQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Principios_de_derecho_pol%C3%ADtico.epub?id=-qgzAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Principios_de_derecho_pol%C3%ADtico.pdf?id=-qgzAQAAIAAJ&hl=&output=pdf&sig=ACfU3U0G1DzXxpGJREWFJzhS9RO7CIUJ8A&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-qgzAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CutTzwEACAAJ",
+      "etag": "vWKtXyAh260",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CutTzwEACAAJ",
+      "volumeInfo": {
+        "title": "Correspondencia general del libertador Simón Bolívar",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publisher": "En la",
+        "publishedDate": "1975",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:78105853"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Revolutionaries"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=CutTzwEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CutTzwEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Correspondencia_general_del_libertador_S.html?hl=&id=CutTzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CutTzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wGVsAAAAMAAJ",
+      "etag": "AYtuR/Ppqsk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wGVsAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Bolívar",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1975",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018519130"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 408,
+        "printType": "BOOK",
+        "categories": [
+          "Revolutionaries"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wGVsAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wGVsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wGVsAAAAMAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wGVsAAAAMAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bol%C3%ADvar.html?hl=&id=wGVsAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wGVsAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "M1hRvwEACAAJ",
+      "etag": "MuGrhvG+zSI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M1hRvwEACAAJ",
+      "volumeInfo": {
+        "title": "Correspondencia general del libertador Simón Bolívar",
+        "subtitle": "enriquecida con la inserción de los manifiestos, mensages, exposiciones, proclamas, publicados por el héroe colombiano desde 1810 hasta 1830",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1865",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:500125511"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 616,
+        "printType": "BOOK",
+        "categories": [
+          "Heads of state"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=M1hRvwEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=M1hRvwEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Correspondencia_general_del_libertador_S.html?hl=&id=M1hRvwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=M1hRvwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WS7VAAAAMAAJ",
+      "etag": "B71m0b9DhYA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WS7VAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Vida del libertador Simón Bolívar. Con prólogo y notas de R. Blanco-Fombona",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1918",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:39000017151056"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 580,
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WS7VAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WS7VAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WS7VAAAAMAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WS7VAAAAMAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vida_del_libertador_Sim%C3%B3n_Bol%C3%ADvar_Con.html?hl=&id=WS7VAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WS7VAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vqYXAAAAIAAJ",
+      "etag": "lXRaBBDAUKA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vqYXAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Ideario político y económico, 1844-1872",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1963",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105033469599"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.11.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vqYXAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vqYXAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vqYXAAAAIAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vqYXAAAAIAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ideario_pol%C3%ADtico_y_econ%C3%B3mico_1844_1872.html?hl=&id=vqYXAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vqYXAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ymQ_AAAAIAAJ",
+      "etag": "5aqc7WXrwJU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ymQ_AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Asesinato del general Salazar",
+        "subtitle": "Individual y verídica relación de este horrendo crimen, perpetrado en Tinaquillo, el 17 de mayo de 1872",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1873",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B144434"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 92,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ymQ_AAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ymQ_AAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ymQ_AAAAIAAJ&printsec=frontcover&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ymQ_AAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ymQ_AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=ymQ_AAAAIAAJ&rdid=book-ymQ_AAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Asesinato_del_general_Salazar.epub?id=ymQ_AAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ymQ_AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Nf14sZM1AFIC",
+      "etag": "Ht0GQ0UKNLk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Nf14sZM1AFIC",
+      "volumeInfo": {
+        "title": "The life of Simon Bolivar",
+        "subtitle": "liberator of Colombia and Peru, father and founder of Bolivia;",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1866",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044010551042"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 450,
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.9.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Nf14sZM1AFIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Nf14sZM1AFIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Nf14sZM1AFIC&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Nf14sZM1AFIC&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_life_of_Simon_Bolivar.html?hl=&id=Nf14sZM1AFIC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Nf14sZM1AFIC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iM4GSQAACAAJ",
+      "etag": "gkRQ8F6AC8U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iM4GSQAACAAJ",
+      "volumeInfo": {
+        "title": "Correspondencia general del libertador Simon Bolivar enriquecida con la insercion de los manifiestos, mensages, exposiciones, proclamas, etc",
+        "subtitle": "publicados por el heroe colombiano desde 1810 hasta 1830. La vida de Bolivar, libertador de Colombia y del Peru, padre y fundador de Bolivia",
+        "authors": [
+          "Simón Bolívar",
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1875",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:550524535"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=iM4GSQAACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=iM4GSQAACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Correspondencia_general_del_libertador_S.html?hl=&id=iM4GSQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iM4GSQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xABLswEACAAJ",
+      "etag": "DFrWN2Lme2Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xABLswEACAAJ",
+      "volumeInfo": {
+        "title": "Simón Bolívar",
+        "subtitle": "vida y escritos del libertador. 1863-1918",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9800303790"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789800303795"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=xABLswEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=xABLswEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sim%C3%B3n_Bol%C3%ADvar.html?hl=&id=xABLswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xABLswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q96FlQEACAAJ",
+      "etag": "5GbziWRRe68",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q96FlQEACAAJ",
+      "volumeInfo": {
+        "title": "Correspondencia general del libertador Simon Bolívar",
+        "subtitle": "enriquecida con la insercion de los manifiestos, mensages, exposiciones, proclamas, &. &., publicados por el heroe colombiano desde 1810 hasta 1830. Precede á esta coleccion interesante la vida de Bolívar",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1866",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:34873410"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=q96FlQEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=q96FlQEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Correspondencia_general_del_libertador_S.html?hl=&id=q96FlQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q96FlQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vf06OwAACAAJ",
+      "etag": "M1lrDnRvoNU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vf06OwAACAAJ",
+      "volumeInfo": {
+        "title": "La Vida Y Correspondencia General Del Libertador Simon Bolivar...",
+        "subtitle": "Pblicados Por El El Heroe Colombiano Desde 1810 Hasta 1830",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:221328551"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Latin America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=vf06OwAACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vf06OwAACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Vida_Y_Correspondencia_General_Del_Li.html?hl=&id=vf06OwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vf06OwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LHshzwEACAAJ",
+      "etag": "I+BbxASF1Qs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LHshzwEACAAJ",
+      "volumeInfo": {
+        "title": "Vida del libertador Simón Bolívar",
+        "subtitle": "(ca. 1918)",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1918",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:314530056"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 486,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=LHshzwEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LHshzwEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vida_del_libertador_Sim%C3%B3n_Bol%C3%ADvar.html?hl=&id=LHshzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LHshzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hE440QEACAAJ",
+      "etag": "XQhwIxCFX74",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hE440QEACAAJ",
+      "volumeInfo": {
+        "title": "La vida y correspondencia del libertador Simón Bolívar",
+        "subtitle": "enriquecida con la inserción de los manifiestos, mensages, exposiciones, proclamas, &. &. publicados por el héroe colombiano desde 1810 hasta 1830",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1508180081"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hE440QEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hE440QEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_vida_y_correspondencia_del_libertador.html?hl=&id=hE440QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hE440QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vMhprgEACAAJ",
+      "etag": "qzIjJjt5DZU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vMhprgEACAAJ",
+      "volumeInfo": {
+        "title": "Vida y correspondencia general del Libertador Simón Bolívar",
+        "subtitle": "enriquecida con la inserción de los manifiestos, mensages, exposiciones, proclamas publicados por el héroe colombiano desde 1810 hasta 1830",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:906230255"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vMhprgEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vMhprgEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vida_y_correspondencia_general_del_Liber.html?hl=&id=vMhprgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vMhprgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lduDwAEACAAJ",
+      "etag": "cAKCcYpuY3M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lduDwAEACAAJ",
+      "volumeInfo": {
+        "title": "Vida y correspondencia general del libertador Simón Bolívar",
+        "subtitle": "enriquecida con la inserción de los manifiestos, mensages, exposiciones, proclamas, & . Publicados por el héroe colombiano desde 1810 hasta 1830 ...",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1901",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:28462200"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lduDwAEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lduDwAEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vida_y_correspondencia_general_del_liber.html?hl=&id=lduDwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lduDwAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "17aLAQAACAAJ",
+      "etag": "ejadQQ+InEo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/17aLAQAACAAJ",
+      "volumeInfo": {
+        "title": "La vida de Bolívar, libertador de Colombia y del Perú, padre y fundador de Bolivia",
+        "subtitle": "escrita cuidadosamente, con presencia de documentos auténticos y muchos inéditos, de grande interes",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:965195021"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=17aLAQAACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=17aLAQAACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_vida_de_Bol%C3%ADvar_libertador_de_Colomb.html?hl=&id=17aLAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=17aLAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "v13XwQEACAAJ",
+      "etag": "F7zf3GcQSpw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v13XwQEACAAJ",
+      "volumeInfo": {
+        "title": "Catequesis en cinco lecciones sobre los derechos humanos",
+        "authors": [
+          "Carlos Felipe Larrazábal Hernández"
+        ],
+        "publishedDate": "2003",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1081175971"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "categories": [
+          "Human rights"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=v13XwQEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=v13XwQEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Catequesis_en_cinco_lecciones_sobre_los.html?hl=&id=v13XwQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v13XwQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "t5w8QwAACAAJ",
+      "etag": "pU5ADWr2EnY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t5w8QwAACAAJ",
+      "volumeInfo": {
+        "title": "Correspondencia general del libertador Simón Bolívar enriquecida con la inserción de los manifiestos, mensages,... & publicados por el héroe colombiano desde 1810 hasta 1830",
+        "subtitle": "(precede a esta colección interesante La vida de Bolívar).",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1865",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:434414556"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=t5w8QwAACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=t5w8QwAACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Correspondencia_general_del_libertador_S.html?hl=&id=t5w8QwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t5w8QwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4OAcnQEACAAJ",
+      "etag": "4d4QH/4NIVY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4OAcnQEACAAJ",
+      "volumeInfo": {
+        "title": "Memorias contemporáneas: apuntamientos sobre la vida pública del ciudadano Antonio Leocadio Guzmán, para servir a la imparcial historia de Colombia y Venezuela",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:15055754"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 79,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4OAcnQEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4OAcnQEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias_contempor%C3%A1neas_apuntamientos_s.html?hl=&id=4OAcnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4OAcnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eHhH0AEACAAJ",
+      "etag": "o1XNrNTcha0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eHhH0AEACAAJ",
+      "volumeInfo": {
+        "title": "La vida y correspondencia general del libertador Simon Bolivar; enriquecida con la insercion de los manifiestos, mensages, exposiciones, proclamas, and . and . Pub. por el heroe colombiano desde 1810 hasta 1830 6. ed",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1403236439"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=eHhH0AEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eHhH0AEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_vida_y_correspondencia_general_del_li.html?hl=&id=eHhH0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eHhH0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s2E_mgEACAAJ",
+      "etag": "wEHmthzZ27A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s2E_mgEACAAJ",
+      "volumeInfo": {
+        "title": "Correspondencia general del libertador Simon Bolivar enriquecida con la insercion de los manifiestos, mensages, exposiciones, proclamas, etc",
+        "subtitle": "publicados por el heroe colombiano desde 1810 hasta 1830",
+        "authors": [
+          "Simón Bolívar",
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:493585438"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=s2E_mgEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=s2E_mgEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Correspondencia_general_del_libertador_S.html?hl=&id=s2E_mgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s2E_mgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pqhFAwEACAAJ",
+      "etag": "YR09vI9iHPg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pqhFAwEACAAJ",
+      "volumeInfo": {
+        "title": "La vida y la correspondencia general del libertador Simón Bolívar, enriquecida con la inserción de los manifiestos, mensages, exposiciones ...",
+        "authors": [
+          "Felipe Larrazábal",
+          "Simón Bolívar"
+        ],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:740433450"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=pqhFAwEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=pqhFAwEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_vida_y_la_correspondencia_general_del.html?hl=&id=pqhFAwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pqhFAwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QNoVHAAACAAJ",
+      "etag": "smAGZddCPzY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QNoVHAAACAAJ",
+      "volumeInfo": {
+        "title": "Defensa del Doctor Felipe Larrazabel ante la corte superior del segunda distrito judicial",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1844",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:13537035"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=QNoVHAAACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=QNoVHAAACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Defensa_del_Doctor_Felipe_Larrazabel_ant.html?hl=&id=QNoVHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QNoVHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gsqktgAACAAJ",
+      "etag": "Zp8DMgZLHIc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gsqktgAACAAJ",
+      "volumeInfo": {
+        "title": "The Life and Correspondence of Símon Bolívar",
+        "subtitle": "Liberator of Colombia and Peru, Father and Founder of Bolivia",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1873",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:18913842"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=gsqktgAACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=gsqktgAACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Life_and_Correspondence_of_S%C3%ADmon_Bo.html?hl=&id=gsqktgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gsqktgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5-R50AEACAAJ",
+      "etag": "NDHoSNniO24",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5-R50AEACAAJ",
+      "volumeInfo": {
+        "title": "The Life of Simon Bolivar",
+        "subtitle": "Liberator of Colombia and Peru, Father and Founder of Bolivia ; Carefully Written from Authentic and Unpublished Documents",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1866",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:880785786"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=5-R50AEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5-R50AEACAAJ&dq=inauthor:%22Felipe+Larraz%C3%A1bal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Life_of_Simon_Bolivar.html?hl=&id=5-R50AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5-R50AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

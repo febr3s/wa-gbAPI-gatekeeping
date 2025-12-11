@@ -1,0 +1,4601 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Diego%20Carbonell\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Diego%20Carbonell\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Diego%20Carbonell\"&maxResults=20&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Diego%20Carbonell\"&maxResults=20&startIndex=40&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Diego%20Carbonell\"&maxResults=20&startIndex=60&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Diego%20Carbonell\"&maxResults=19&startIndex=60&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 79,
+  "_totalRequestsMade": 4,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "f3oSAAAAYAAJ",
+      "etag": "MaijbswoMZ8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f3oSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Lo morboso en Rubén Darío",
+        "subtitle": "ensayos de interpretación científica",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1943",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173017235105"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 252,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=f3oSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=f3oSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=f3oSAAAAYAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=f3oSAAAAYAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lo_morboso_en_Rub%C3%A9n_Dar%C3%ADo.html?hl=&id=f3oSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f3oSAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5XGMfTmqjbEC",
+      "etag": "plonmYthEqU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5XGMfTmqjbEC",
+      "volumeInfo": {
+        "title": "Sobre el tablado",
+        "subtitle": "(conferencias y discursos)",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1935",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000120349398"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "categories": [
+          "Latin America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5XGMfTmqjbEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5XGMfTmqjbEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5XGMfTmqjbEC&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5XGMfTmqjbEC&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sobre_el_tablado.html?hl=&id=5XGMfTmqjbEC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5XGMfTmqjbEC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3gkLAQAAIAAJ",
+      "etag": "tNAV1LiziF0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3gkLAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Vargas",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105033469672"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 150,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3gkLAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3gkLAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3gkLAQAAIAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3gkLAQAAIAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vargas.html?hl=&id=3gkLAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3gkLAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K7ZnAAAAMAAJ",
+      "etag": "NPb37Znnzgs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K7ZnAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Escuelas de historia en América",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1943",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023497831"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 422,
+        "printType": "BOOK",
+        "categories": [
+          "Historians"
+        ],
+        "averageRating": 2,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=K7ZnAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=K7ZnAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=K7ZnAAAAMAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=K7ZnAAAAMAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Escuelas_de_historia_en_Am%C3%A9rica.html?hl=&id=K7ZnAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K7ZnAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J4sXAAAAIAAJ",
+      "etag": "MimAf+gOvMs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J4sXAAAAIAAJ",
+      "volumeInfo": {
+        "title": "General Simón Bolívar, libertador-presidente de la República de Colombia",
+        "subtitle": "Autobiografía (los complementos fueron redactados por Diego Carbonell)",
+        "authors": [
+          "Simón Bolívar"
+        ],
+        "publishedDate": "1947",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105013712232"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 426,
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "4.10.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=J4sXAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=J4sXAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=J4sXAAAAIAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=J4sXAAAAIAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/General_Sim%C3%B3n_Bol%C3%ADvar_libertador_presi.html?hl=&id=J4sXAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J4sXAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iCB9SXTCu-4C",
+      "etag": "wSkF8u+WY+Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iCB9SXTCu-4C",
+      "volumeInfo": {
+        "title": "El obrero, y algunas ideas sobre su perfeccionamiento",
+        "authors": [
+          "J. A. Gonzalo Salas"
+        ],
+        "publishedDate": "1919",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CUB:P205180805003"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "categories": [
+          "Moral education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iCB9SXTCu-4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iCB9SXTCu-4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=iCB9SXTCu-4C&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=iCB9SXTCu-4C&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_obrero_y_algunas_ideas_sobre_su_perfe.html?hl=&id=iCB9SXTCu-4C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iCB9SXTCu-4C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1o0XAAAAIAAJ",
+      "etag": "xQA3RyY+CKw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1o0XAAAAIAAJ",
+      "volumeInfo": {
+        "title": "General Simón Bolívar",
+        "subtitle": "libertador-presidente de la República de Colombia. Autobiografíca",
+        "authors": [
+          "Simón Bolívar"
+        ],
+        "publishedDate": "1948",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105013712299"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 316,
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.12.10.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1o0XAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1o0XAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1o0XAAAAIAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1o0XAAAAIAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/General_Sim%C3%B3n_Bol%C3%ADvar.html?hl=&id=1o0XAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1o0XAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fblrAAAAMAAJ",
+      "etag": "9NpQdSWWDcs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fblrAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Psicopatología de Bolívar",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018430310"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 236,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fblrAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fblrAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fblrAAAAMAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fblrAAAAMAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Psicopatolog%C3%ADa_de_Bol%C3%ADvar.html?hl=&id=fblrAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fblrAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wZIzAQAAIAAJ",
+      "etag": "7dpv6PP+xa0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wZIzAQAAIAAJ",
+      "volumeInfo": {
+        "title": "General O'Leary, intimo",
+        "subtitle": "correspondencia con su esposa",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1937",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B720007"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 434,
+        "printType": "BOOK",
+        "categories": [
+          "Colombia - Historia"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wZIzAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wZIzAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wZIzAQAAIAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wZIzAQAAIAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/General_O_Leary_intimo.html?hl=&id=wZIzAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wZIzAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fqtnAAAAMAAJ",
+      "etag": "LAzwi8k3HJs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fqtnAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Resumen histórico de la última dictadura del libertador Simón Bolívar",
+        "subtitle": "comprobada con documentos",
+        "authors": [
+          "José Ignácio de Abreu e Lima"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023491642"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 326,
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fqtnAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fqtnAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fqtnAAAAMAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fqtnAAAAMAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Resumen_hist%C3%B3rico_de_la_%C3%BAltima_dictadu.html?hl=&id=fqtnAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fqtnAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WYgzAQAAIAAJ",
+      "etag": "RlCqYWMmV/c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WYgzAQAAIAAJ",
+      "volumeInfo": {
+        "title": "1830",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B718413"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 284,
+        "printType": "BOOK",
+        "categories": [
+          "Heads of state"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WYgzAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WYgzAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WYgzAQAAIAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WYgzAQAAIAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/1830.html?hl=&id=WYgzAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WYgzAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SoEjzQjFo4oC",
+      "etag": "rbr3Li9jiVc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SoEjzQjFo4oC",
+      "volumeInfo": {
+        "title": "En torno a la ciencia",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CUB:P101172216012"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 206,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SoEjzQjFo4oC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SoEjzQjFo4oC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SoEjzQjFo4oC&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SoEjzQjFo4oC&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/En_torno_a_la_ciencia.html?hl=&id=SoEjzQjFo4oC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SoEjzQjFo4oC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HHgzAQAAIAAJ",
+      "etag": "4Iuv9Lc8x2k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HHgzAQAAIAAJ",
+      "volumeInfo": {
+        "title": "A mi hermano el obrero",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B718882"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "categories": [
+          "Conduct of life"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HHgzAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HHgzAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HHgzAQAAIAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HHgzAQAAIAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_mi_hermano_el_obrero.html?hl=&id=HHgzAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HHgzAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FhdjAAAAMAAJ",
+      "etag": "CxJCkHZqW20",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FhdjAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Juicios históricos...",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018439701"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 218,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.10.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FhdjAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FhdjAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=FhdjAAAAMAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=FhdjAAAAMAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Juicios_hist%C3%B3ricos.html?hl=&id=FhdjAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FhdjAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "da1nAAAAMAAJ",
+      "etag": "RhAQb8Ovk9I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/da1nAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Comentarios y críticas, 1938",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1939",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023491449"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 276,
+        "printType": "BOOK",
+        "categories": [
+          "Latin America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=da1nAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=da1nAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=da1nAAAAMAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=da1nAAAAMAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Comentarios_y_cr%C3%ADticas_1938.html?hl=&id=da1nAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=da1nAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AZlXAAAAMAAJ",
+      "etag": "KVfbW5uJ6qo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AZlXAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Del caos al hombre",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023872475"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 306,
+        "printType": "BOOK",
+        "categories": [
+          "Biology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.6.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AZlXAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AZlXAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=AZlXAAAAMAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=AZlXAAAAMAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Del_caos_al_hombre.html?hl=&id=AZlXAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AZlXAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "n1M_AAAAIAAJ",
+      "etag": "LV7YiP+gBlU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/n1M_AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Botanica y biología (lecciones expuestas a los cursantes del Liceo de Mérida)",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1919",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B144385"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 158,
+        "printType": "BOOK",
+        "categories": [
+          "Botany"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.8.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=n1M_AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=n1M_AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=n1M_AAAAIAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=n1M_AAAAIAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Botanica_y_biolog%C3%ADa_lecciones_expuestas.html?hl=&id=n1M_AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=n1M_AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lLwSAAAAYAAJ",
+      "etag": "0PSlq82TXOU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lLwSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Históricas y pseudo-eruditas [ensayos]",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1939",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024504229"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lLwSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lLwSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lLwSAAAAYAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lLwSAAAAYAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hist%C3%B3ricas_y_pseudo_eruditas_ensayos.html?hl=&id=lLwSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lLwSAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JkdJAQAAIAAJ",
+      "etag": "plm7omNqEaE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JkdJAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Bolívar",
+        "subtitle": "cien juicios críticos",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B5163499"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 514,
+        "printType": "BOOK",
+        "categories": [
+          "Heads of state"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JkdJAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JkdJAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JkdJAQAAIAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JkdJAQAAIAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bol%C3%ADvar.html?hl=&id=JkdJAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JkdJAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rNtWAAAAMAAJ",
+      "etag": "0vt/dZQB9JQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rNtWAAAAMAAJ",
+      "volumeInfo": {
+        "title": "De filosofía y de historia",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1942",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023904710"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 328,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.8.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rNtWAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rNtWAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=rNtWAAAAMAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rNtWAAAAMAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_filosof%C3%ADa_y_de_historia.html?hl=&id=rNtWAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rNtWAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lFQHAQAAIAAJ",
+      "etag": "T2D6yJjbKOQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lFQHAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Química ancestral",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1909",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3349048"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "categories": [
+          "Life"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lFQHAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lFQHAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lFQHAQAAIAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lFQHAQAAIAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Qu%C3%ADmica_ancestral.html?hl=&id=lFQHAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lFQHAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZEZnAAAAMAAJ",
+      "etag": "Aei6xi68m8s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZEZnAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Reflexiones históricas y conceptos de crítica",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023492022"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 326,
+        "printType": "BOOK",
+        "categories": [
+          "Latin America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.9.9.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZEZnAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZEZnAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZEZnAAAAMAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZEZnAAAAMAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Reflexiones_hist%C3%B3ricas_y_conceptos_de_c.html?hl=&id=ZEZnAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZEZnAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "m01EAQAAMAAJ",
+      "etag": "yQ4eORHr/vg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m01EAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Por los senderos de la biología",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1912",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112069664156"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 218,
+        "printType": "BOOK",
+        "categories": [
+          "Biology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m01EAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m01EAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=m01EAQAAMAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=m01EAQAAMAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Por_los_senderos_de_la_biolog%C3%ADa.html?hl=&id=m01EAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m01EAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HhFjAAAAMAAJ",
+      "etag": "e/l8PhF4ReE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HhFjAAAAMAAJ",
+      "volumeInfo": {
+        "title": "El organicismo aplicado al fenómeno histórico",
+        "subtitle": "trabajo de recepción en la Academia boliviana de la historia, leído en la sesión solemne del 9 de mayo de 1940",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1941",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018439712"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HhFjAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HhFjAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HhFjAAAAMAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HhFjAAAAMAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_organicismo_aplicado_al_fen%C3%B3meno_his.html?hl=&id=HhFjAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HhFjAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ktUgAQAAMAAJ",
+      "etag": "7QMETQQ2cJY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ktUgAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Parasitología en Venezuela y los trabajos del Doctor M. Núñez Tovar",
+        "authors": [
+          "Diego Carbonell",
+          "Manuel Núñez Tovar"
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112010021902"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 482,
+        "printType": "BOOK",
+        "categories": [
+          "Insects"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ktUgAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ktUgAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ktUgAQAAMAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ktUgAQAAMAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Parasitolog%C3%ADa_en_Venezuela_y_los_trabaj.html?hl=&id=ktUgAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ktUgAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "w3W7yuqDjkQC",
+      "etag": "uoNhBjm5NUY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/w3W7yuqDjkQC",
+      "volumeInfo": {
+        "title": "Venezuela literaria, cientifica, e industrial",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "YALE:39002085766765"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 90,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=w3W7yuqDjkQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=w3W7yuqDjkQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=w3W7yuqDjkQC&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=w3W7yuqDjkQC&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Venezuela_literaria_cientifica_e_industr.html?hl=&id=w3W7yuqDjkQC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=w3W7yuqDjkQC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nZ-augEACAAJ",
+      "etag": "dbhddTLKAs8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nZ-augEACAAJ",
+      "volumeInfo": {
+        "title": "Resumen histórico de la última dictadura del libertador Simón Bolívar",
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:249695910"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nZ-augEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nZ-augEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Resumen_hist%C3%B3rico_de_la_%C3%BAltima_dictadu.html?hl=&id=nZ-augEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nZ-augEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Rgk6nQEACAAJ",
+      "etag": "AFnM2HvST6E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Rgk6nQEACAAJ",
+      "volumeInfo": {
+        "title": "Sobre la personalidad de los académicos Don Laureano Vallenilla Lanz y Don Esteban Gil Borges",
+        "subtitle": "(discursos leídos en la recepción pública del doctor Diego Carbonell, el día 8 de abril de M. CM. XLIII).",
+        "authors": [
+          "Diego Carbonell",
+          "Academia Nacional de la Historia (Venezuela)"
+        ],
+        "publishedDate": "1943",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:26777480"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 27,
+        "printType": "BOOK",
+        "categories": [
+          "Historians"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Rgk6nQEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Rgk6nQEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sobre_la_personalidad_de_los_acad%C3%A9micos.html?hl=&id=Rgk6nQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Rgk6nQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OmowMwEACAAJ",
+      "etag": "HBjlrfxgdo8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OmowMwEACAAJ",
+      "volumeInfo": {
+        "title": "Resumen histórico de la última dictadura del Libertador Simón Bolívar, comprobada con documentos. Prefacio y versiones por Goulart de Andrade ... Biografía y notas por Diego Carbonell",
+        "authors": [
+          "José Ignacio de ABREU E LIMA (General.)",
+          "J. M. Goulart de Andrade",
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:556593317"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 308,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=OmowMwEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=OmowMwEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Resumen_hist%C3%B3rico_de_la_%C3%BAltima_dictadu.html?hl=&id=OmowMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OmowMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qyqnoAEACAAJ",
+      "etag": "OdTpYPz77zY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qyqnoAEACAAJ",
+      "volumeInfo": {
+        "title": "Psicopatología de Bolívar. Introd. de María de Lourdes Carbonell",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1965",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:66037515"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 456,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=qyqnoAEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qyqnoAEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Psicopatolog%C3%ADa_de_Bol%C3%ADvar_Introd_de_Ma.html?hl=&id=qyqnoAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qyqnoAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2Wr8XwAACAAJ",
+      "etag": "mTs0f6Bxos8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2Wr8XwAACAAJ",
+      "volumeInfo": {
+        "title": "Crónicas y siluetas",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1912",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431510904"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 267,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=2Wr8XwAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2Wr8XwAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cr%C3%B3nicas_y_siluetas.html?hl=&id=2Wr8XwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2Wr8XwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZyuCGwAACAAJ",
+      "etag": "ISBO12RYQn0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZyuCGwAACAAJ",
+      "volumeInfo": {
+        "title": "Apología de Acosta Ortiz",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:230968975"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZyuCGwAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZyuCGwAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Apolog%C3%ADa_de_Acosta_Ortiz.html?hl=&id=ZyuCGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZyuCGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "euOyGwAACAAJ",
+      "etag": "jBOA9kbaAbs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/euOyGwAACAAJ",
+      "volumeInfo": {
+        "title": "De biología trascendental",
+        "subtitle": "acerca de la vida, el alma, el hombre, el genio y el superhombre, la muerte...",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1935",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:318459653"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 142,
+        "printType": "BOOK",
+        "categories": [
+          "Biologia"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=euOyGwAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=euOyGwAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_biolog%C3%ADa_trascendental.html?hl=&id=euOyGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=euOyGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WVO4zwEACAAJ",
+      "etag": "cuLmgmsTV/U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WVO4zwEACAAJ",
+      "volumeInfo": {
+        "title": "General Simón Bolívar",
+        "authors": [
+          "Simón Bolívar"
+        ],
+        "publishedDate": "1945",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:48013501"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WVO4zwEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WVO4zwEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/General_Sim%C3%B3n_Bol%C3%ADvar.html?hl=&id=WVO4zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WVO4zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "74sPcgAACAAJ",
+      "etag": "wC+EJr14EdM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/74sPcgAACAAJ",
+      "volumeInfo": {
+        "title": "Obras",
+        "subtitle": "Del caos al hombre",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:635128014"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 252,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=74sPcgAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=74sPcgAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras.html?hl=&id=74sPcgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=74sPcgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wO9szgEACAAJ",
+      "etag": "QA6+OeBVuDU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wO9szgEACAAJ",
+      "volumeInfo": {
+        "title": "Parasitologia en Venezuela y los trabajos del Doctor M. Núnez Trovar",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1248423237"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 420,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wO9szgEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wO9szgEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Parasitologia_en_Venezuela_y_los_trabajo.html?hl=&id=wO9szgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wO9szgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vQMWswEACAAJ",
+      "etag": "6dC0VseE11s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vQMWswEACAAJ",
+      "volumeInfo": {
+        "title": "1830, Quod Scripsi, Scripsi",
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:911751476"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 239,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vQMWswEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vQMWswEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/1830_Quod_Scripsi_Scripsi.html?hl=&id=vQMWswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vQMWswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LD1czwEACAAJ",
+      "etag": "itVKLhpGjEc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LD1czwEACAAJ",
+      "volumeInfo": {
+        "title": "Ad mejorem liberatoris gloriam",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1944",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1342159451"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=LD1czwEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LD1czwEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ad_mejorem_liberatoris_gloriam.html?hl=&id=LD1czwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LD1czwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-EgnHgAACAAJ",
+      "etag": "nkpF7unbxEw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-EgnHgAACAAJ",
+      "volumeInfo": {
+        "title": "Ad majorem liberatoris gloriam",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1944",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:2040180"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 465,
+        "printType": "BOOK",
+        "categories": [
+          "Latin America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-EgnHgAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-EgnHgAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ad_majorem_liberatoris_gloriam.html?hl=&id=-EgnHgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-EgnHgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Bbwf0QEACAAJ",
+      "etag": "uZ3O2rZ+0ZM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Bbwf0QEACAAJ",
+      "volumeInfo": {
+        "title": "General O'Leary",
+        "subtitle": "intimo (correspondencia con su esposa)",
+        "authors": [
+          "Daniel Florencio O'Leary"
+        ],
+        "publishedDate": "1937",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:978036493"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Bbwf0QEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Bbwf0QEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/General_O_Leary.html?hl=&id=Bbwf0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Bbwf0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-khlMwEACAAJ",
+      "etag": "hil7XAEWWwU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-khlMwEACAAJ",
+      "volumeInfo": {
+        "title": "El organicismo aplicado al fenómeno histórico, etc",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1941",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:558848552"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 285,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=-khlMwEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-khlMwEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_organicismo_aplicado_al_fen%C3%B3meno_his.html?hl=&id=-khlMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-khlMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WSE5YgEACAAJ",
+      "etag": "mOcDRSzcfzQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WSE5YgEACAAJ",
+      "volumeInfo": {
+        "title": "Vargas Prólogo de José Gil Fortoul",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:492464489"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 130,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WSE5YgEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WSE5YgEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vargas_Pr%C3%B3logo_de_Jos%C3%A9_Gil_Fortoul.html?hl=&id=WSE5YgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WSE5YgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Hz9tjwEACAAJ",
+      "etag": "qWC1iSZI+kY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Hz9tjwEACAAJ",
+      "volumeInfo": {
+        "title": "Lo morboso en Ruben Dario : essayos de interpretacion cientifica",
+        "publishedDate": "1943",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:933038550"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Hz9tjwEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Hz9tjwEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lo_morboso_en_Ruben_Dario_essayos_de_int.html?hl=&id=Hz9tjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Hz9tjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "opc4jwEACAAJ",
+      "etag": "mgxkpgD7gb0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/opc4jwEACAAJ",
+      "volumeInfo": {
+        "title": "Parasitología en Venezuela y los trabajos del Doctor M. Núñes Tovar",
+        "authors": [
+          "Manuel Núñez Tovar"
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:924024535"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 420,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=opc4jwEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=opc4jwEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Parasitolog%C3%ADa_en_Venezuela_y_los_trabaj.html?hl=&id=opc4jwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=opc4jwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zJ--PgAACAAJ",
+      "etag": "ICdwKLNdC/k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zJ--PgAACAAJ",
+      "volumeInfo": {
+        "title": "Arterioesclerosis y miedo a la muerte",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1917",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253211109"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Arteries"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=zJ--PgAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=45&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zJ--PgAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arterioesclerosis_y_miedo_a_la_muerte.html?hl=&id=zJ--PgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zJ--PgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i7UIzQEACAAJ",
+      "etag": "TuEuu4rGOMA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i7UIzQEACAAJ",
+      "volumeInfo": {
+        "title": "Obras de Diego Carbonell ...",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1923",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:37605143"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Spanish American literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=i7UIzQEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=46&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=i7UIzQEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_de_Diego_Carbonell.html?hl=&id=i7UIzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i7UIzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0xI_YgEACAAJ",
+      "etag": "b9Xx1Eox7SQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0xI_YgEACAAJ",
+      "volumeInfo": {
+        "title": "Del caos al hombre",
+        "subtitle": "ensayos de filosofía natural",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651345129"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 115,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0xI_YgEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=47&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0xI_YgEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Del_caos_al_hombre.html?hl=&id=0xI_YgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0xI_YgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DDiToAEACAAJ",
+      "etag": "6SDU5dCe3ZI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DDiToAEACAAJ",
+      "volumeInfo": {
+        "title": "Sobre el tablero conferencias y discursos",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1935",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:881049656"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 223,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DDiToAEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=48&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DDiToAEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sobre_el_tablero_conferencias_y_discurso.html?hl=&id=DDiToAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DDiToAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G_9grgEACAAJ",
+      "etag": "Odpp9bPGh54",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G_9grgEACAAJ",
+      "volumeInfo": {
+        "title": "Reparos a \"El Santo de la espada\"",
+        "subtitle": "(conferencia leída en el Círculo Militar bajo los auspicios del Pen Club)",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1939",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:906219130"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 82,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=G_9grgEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=49&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=G_9grgEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Reparos_a_El_Santo_de_la_espada.html?hl=&id=G_9grgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G_9grgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2V59NAAACAAJ",
+      "etag": "I06zMWbkO+k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2V59NAAACAAJ",
+      "volumeInfo": {
+        "title": "Lo morboso en Rubén Darío, ensayos de interpretación cinetífica",
+        "subtitle": "Prólogo de J.A. Cova",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1943",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:222847492"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2V59NAAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=50&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2V59NAAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lo_morboso_en_Rub%C3%A9n_Dar%C3%ADo_ensayos_de_i.html?hl=&id=2V59NAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2V59NAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Z2itnQEACAAJ",
+      "etag": "SBHin12Sd9Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Z2itnQEACAAJ",
+      "volumeInfo": {
+        "title": "Comentarios de crítica a la obra académica de la \"Gaceta médica de Caracas\"",
+        "subtitle": "(Trabajo de incorporacion, para ocupar el sillon XXXI, en la Academia nacional de medicina)",
+        "authors": [
+          "Diego Carbonell",
+          "Domingo Luciani"
+        ],
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:41567110"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 53,
+        "printType": "BOOK",
+        "categories": [
+          "Medicine"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Z2itnQEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=51&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Z2itnQEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Comentarios_de_cr%C3%ADtica_a_la_obra_acad%C3%A9.html?hl=&id=Z2itnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Z2itnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RZnTOwAACAAJ",
+      "etag": "Or8xmY6/m7I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RZnTOwAACAAJ",
+      "volumeInfo": {
+        "title": "La parasitologia en Venezuela y los trabajos del Dr. M. Núñez Tovar",
+        "authors": [
+          "Dr. Diego Carbonell"
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:63797922"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 420,
+        "printType": "BOOK",
+        "categories": [
+          "Parasites"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RZnTOwAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=52&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RZnTOwAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_parasitologia_en_Venezuela_y_los_trab.html?hl=&id=RZnTOwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RZnTOwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4LLVAQAACAAJ",
+      "etag": "8g6n0hRGh/I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4LLVAQAACAAJ",
+      "volumeInfo": {
+        "title": "Orígenes de San Salvador Cuzcatlán",
+        "subtitle": "hoy capital de El Savador",
+        "authors": [
+          "Aragua (Venezuela : State).",
+          "Diego Carbonell",
+          "Jorge Lardé y Larín",
+          "Nicolau Dreys",
+          "Rodrigo Octavio"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:26017546"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 59,
+        "printType": "BOOK",
+        "categories": [
+          "Constitutions"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4LLVAQAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=53&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4LLVAQAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Or%C3%ADgenes_de_San_Salvador_Cuzcatl%C3%A1n.html?hl=&id=4LLVAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4LLVAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PDU7HAAACAAJ",
+      "etag": "G4U0qxSZok4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PDU7HAAACAAJ",
+      "volumeInfo": {
+        "title": "La epilepsia del Libertador",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:4673140"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 191,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PDU7HAAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=54&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PDU7HAAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_epilepsia_del_Libertador.html?hl=&id=PDU7HAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PDU7HAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Z-e6GwAACAAJ",
+      "etag": "FVy98oxgLCs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Z-e6GwAACAAJ",
+      "volumeInfo": {
+        "title": "La psicopatía de don Simón Rodríguez",
+        "subtitle": "(estudios)",
+        "authors": [
+          "José Rafael Wendehake"
+        ],
+        "publishedDate": "1925",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:250583002"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 57,
+        "printType": "BOOK",
+        "categories": [
+          "Rodriguez, Simon - Personalidad"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Z-e6GwAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=55&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Z-e6GwAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_psicopat%C3%ADa_de_don_Sim%C3%B3n_Rodr%C3%ADguez.html?hl=&id=Z-e6GwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Z-e6GwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zu46GwAACAAJ",
+      "etag": "rx/Dtqt5MTs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zu46GwAACAAJ",
+      "volumeInfo": {
+        "title": "Temas psico-fisiológicos de abstracción y de experiencia",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:45210593"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 358,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=zu46GwAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=56&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zu46GwAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Temas_psico_fisiol%C3%B3gicos_de_abstracci%C3%B3.html?hl=&id=zu46GwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zu46GwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L451QwAACAAJ",
+      "etag": "CJ1wxvopG5g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L451QwAACAAJ",
+      "volumeInfo": {
+        "title": "Parasitología en Venezuela y trabajos del Dr. Manuel Nuñez Tovar",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:434432214"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 420,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=L451QwAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=57&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=L451QwAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Parasitolog%C3%ADa_en_Venezuela_y_trabajos_d.html?hl=&id=L451QwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L451QwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7LhBQwAACAAJ",
+      "etag": "gJg6pmfwAv8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7LhBQwAACAAJ",
+      "volumeInfo": {
+        "title": "Química ascentral",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1909",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:434432217"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 105,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7LhBQwAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=58&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7LhBQwAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Qu%C3%ADmica_ascentral.html?hl=&id=7LhBQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7LhBQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IJc3vwEACAAJ",
+      "etag": "iaRaDrKYZQE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IJc3vwEACAAJ",
+      "volumeInfo": {
+        "title": "Obras",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1068189020"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=IJc3vwEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=59&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=IJc3vwEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras.html?hl=&id=IJc3vwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IJc3vwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xhbiHAAACAAJ",
+      "etag": "Su0Ze7AatWo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xhbiHAAACAAJ",
+      "volumeInfo": {
+        "title": "El Profesor Luis Razetti",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1933",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:43904360"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 29,
+        "printType": "BOOK",
+        "categories": [
+          "Physicians"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=xhbiHAAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=60&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=xhbiHAAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Profesor_Luis_Razetti.html?hl=&id=xhbiHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xhbiHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RaHFzgEACAAJ",
+      "etag": "VdN993bX4z4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RaHFzgEACAAJ",
+      "volumeInfo": {
+        "title": "Parasitología en Venezuela y los trabajos",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:39019284"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 420,
+        "printType": "BOOK",
+        "categories": [
+          "Insects"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RaHFzgEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=61&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RaHFzgEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Parasitolog%C3%ADa_en_Venezuela_y_los_trabaj.html?hl=&id=RaHFzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RaHFzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bRzqHwAACAAJ",
+      "etag": "qQoN5GQV3M0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bRzqHwAACAAJ",
+      "volumeInfo": {
+        "title": "Influencias que se ejercieron en Bolívar",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:22470708"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=bRzqHwAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=62&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=bRzqHwAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Influencias_que_se_ejercieron_en_Bol%C3%ADva.html?hl=&id=bRzqHwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bRzqHwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9VVgHQAACAAJ",
+      "etag": "oUT1NcTYhbc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9VVgHQAACAAJ",
+      "volumeInfo": {
+        "title": "Problemas de hoy y de mañana ...",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:45049453"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Public health"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9VVgHQAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=63&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9VVgHQAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Problemas_de_hoy_y_de_ma%C3%B1ana.html?hl=&id=9VVgHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9VVgHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L8U9tAEACAAJ",
+      "etag": "EeBM9XAmCf4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L8U9tAEACAAJ",
+      "volumeInfo": {
+        "title": "El maestro de Bolivar",
+        "authors": [
+          "José Rafael Wendehake"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:123196905"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 76,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=L8U9tAEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=64&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=L8U9tAEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_maestro_de_Bolivar.html?hl=&id=L8U9tAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L8U9tAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EmvNtwAACAAJ",
+      "etag": "ObY/0MX+mjM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EmvNtwAACAAJ",
+      "volumeInfo": {
+        "title": "Juicios históricos",
+        "subtitle": "Ernesto Renan",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1919",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:40746202"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EmvNtwAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=65&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EmvNtwAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Juicios_hist%C3%B3ricos.html?hl=&id=EmvNtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EmvNtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "P9c6YgEACAAJ",
+      "etag": "45VTDrqRzKI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P9c6YgEACAAJ",
+      "volumeInfo": {
+        "title": "Entorno a la ciencia",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:492464451"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=P9c6YgEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=66&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=P9c6YgEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Entorno_a_la_ciencia.html?hl=&id=P9c6YgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P9c6YgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dRsanQEACAAJ",
+      "etag": "LxaXIHPJabw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dRsanQEACAAJ",
+      "volumeInfo": {
+        "title": "El maestro de Bolívar",
+        "authors": [
+          "José Rafael Wendehake",
+          "Diego Carbonell",
+          "Ernesto A. Morales"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253021671"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 76,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=dRsanQEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=67&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dRsanQEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_maestro_de_Bol%C3%ADvar.html?hl=&id=dRsanQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dRsanQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JsrhHAAACAAJ",
+      "etag": "+LwxvF4cJHw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JsrhHAAACAAJ",
+      "volumeInfo": {
+        "title": "Evolucion historica de las ciencias biologicas",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1934",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253511318"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 167,
+        "printType": "BOOK",
+        "categories": [
+          "Biologia - Historia"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JsrhHAAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=68&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JsrhHAAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Evolucion_historica_de_las_ciencias_biol.html?hl=&id=JsrhHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JsrhHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TkotGwAACAAJ",
+      "etag": "hh9ZaKz104I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TkotGwAACAAJ",
+      "volumeInfo": {
+        "title": "Bocetos de honor",
+        "subtitle": "de dolor y de crítica ...",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1923",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:41015416"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 278,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TkotGwAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=69&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TkotGwAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bocetos_de_honor.html?hl=&id=TkotGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TkotGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FnrImAEACAAJ",
+      "etag": "GXpdozRVXt8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FnrImAEACAAJ",
+      "volumeInfo": {
+        "title": "Potpurri ? ... - tal vez",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:23043633"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 254,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=FnrImAEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=70&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=FnrImAEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Potpurri_tal_vez.html?hl=&id=FnrImAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FnrImAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZXRuMwEACAAJ",
+      "etag": "SbbX6ri7++0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZXRuMwEACAAJ",
+      "volumeInfo": {
+        "title": "Autobiografía",
+        "authors": [
+          "Simón Bolívar",
+          "Diego Carbonell",
+          "Maria de Lourdes Carbonell"
+        ],
+        "publishedDate": "1945",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:318184288"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZXRuMwEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=71&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZXRuMwEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Autobiograf%C3%ADa.html?hl=&id=ZXRuMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZXRuMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NEDNtgAACAAJ",
+      "etag": "ByRFzGRIozo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NEDNtgAACAAJ",
+      "volumeInfo": {
+        "title": "Bocetero de Honor, de Dolor y de Critica",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1923",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:249283246"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NEDNtgAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=72&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NEDNtgAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bocetero_de_Honor_de_Dolor_y_de_Critica.html?hl=&id=NEDNtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NEDNtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HLYftAEACAAJ",
+      "etag": "MApvBXmsKaw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HLYftAEACAAJ",
+      "volumeInfo": {
+        "title": "La parasitología en Venezuela y los trabajos del Dr. Manuel Muñez Tovar",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:981421804"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 420,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HLYftAEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=73&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HLYftAEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_parasitolog%C3%ADa_en_Venezuela_y_los_tra.html?hl=&id=HLYftAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HLYftAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gE8Y0QEACAAJ",
+      "etag": "pPrmSVds8pw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gE8Y0QEACAAJ",
+      "volumeInfo": {
+        "title": "Botanica y biologia, lecciones expuestas a las cursantes del liceo de Merida",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1919",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459076443"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=gE8Y0QEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=74&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=gE8Y0QEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Botanica_y_biologia_lecciones_expuestas.html?hl=&id=gE8Y0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gE8Y0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Cm0yygAACAAJ",
+      "etag": "c3InFYUHnQk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Cm0yygAACAAJ",
+      "volumeInfo": {
+        "title": "Carlos Darwin, naturalista y filósofo",
+        "subtitle": "discursos ...",
+        "authors": [
+          "Diego Carbonell",
+          "Jesús R. Risquez"
+        ],
+        "publishedDate": "1944",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:78353643"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 41,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Cm0yygAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=75&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Cm0yygAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carlos_Darwin_naturalista_y_fil%C3%B3sofo.html?hl=&id=Cm0yygAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Cm0yygAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2ZVEQwAACAAJ",
+      "etag": "ELMCqJW3AEw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2ZVEQwAACAAJ",
+      "volumeInfo": {
+        "title": "Luis Francisco Lelut",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:461732915"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 17,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2ZVEQwAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=76&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2ZVEQwAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Luis_Francisco_Lelut.html?hl=&id=2ZVEQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2ZVEQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DnxC0QEACAAJ",
+      "etag": "2mVF2hnBlYo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DnxC0QEACAAJ",
+      "volumeInfo": {
+        "title": "1830",
+        "authors": [
+          "Diego Carbonell (docteur)"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459076487"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=DnxC0QEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=77&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DnxC0QEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/1830.html?hl=&id=DnxC0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DnxC0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "U7hIHAAACAAJ",
+      "etag": "HfRIPDzqHc8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U7hIHAAACAAJ",
+      "volumeInfo": {
+        "title": "Portrait du liberador; version française de Maria Grysperdt",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:48236763"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=U7hIHAAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=78&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=U7hIHAAACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Portrait_du_liberador_version_fran%C3%A7aise.html?hl=&id=U7hIHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U7hIHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JFEizQEACAAJ",
+      "etag": "Vi4mHk/+A4A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JFEizQEACAAJ",
+      "volumeInfo": {
+        "title": "Portrait du \"Libertador.\"",
+        "authors": [
+          "Diego Carbonell"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:661998107"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=JFEizQEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&cd=79&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JFEizQEACAAJ&dq=inauthor:%22Diego+Carbonell%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Portrait_du_Libertador.html?hl=&id=JFEizQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JFEizQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

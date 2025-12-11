@@ -1,0 +1,74 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Samuel%20Dar%C3%ADo%20Maldonado%20Vivas\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Samuel%20Dar%C3%ADo%20Maldonado%20Vivas\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "InUIAQAAIAAJ",
+      "etag": "YJTf2L1BS/I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/InUIAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Samuel Darío Maldonado",
+        "subtitle": "(suelo y hombre del trópico)",
+        "authors": [
+          "Francisco Carmona Nenclares"
+        ],
+        "publishedDate": "1969",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105129767195"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=InUIAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=InUIAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=InUIAQAAIAAJ&dq=inauthor:%22Samuel+Dar%C3%ADo+Maldonado+Vivas%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=InUIAQAAIAAJ&dq=inauthor:%22Samuel+Dar%C3%ADo+Maldonado+Vivas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Samuel_Dar%C3%ADo_Maldonado.html?hl=&id=InUIAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=InUIAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

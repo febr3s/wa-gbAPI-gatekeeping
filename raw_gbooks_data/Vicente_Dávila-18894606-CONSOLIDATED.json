@@ -1,0 +1,3482 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Vicente%20D%C3%A1vila\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Vicente%20D%C3%A1vila\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Vicente%20D%C3%A1vila\"&maxResults=20&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Vicente%20D%C3%A1vila\"&maxResults=20&startIndex=40&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Vicente%20D%C3%A1vila\"&maxResults=19&startIndex=40&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 59,
+  "_totalRequestsMade": 3,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "cTsTAQAAIAAJ",
+      "etag": "+WlwBwweAMw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cTsTAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Investigaciones históricas",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1955",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105013761791"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cTsTAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cTsTAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cTsTAQAAIAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cTsTAQAAIAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Investigaciones_hist%C3%B3ricas.html?hl=&id=cTsTAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cTsTAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ectmAAAAMAAJ",
+      "etag": "veNEANyRvp0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ectmAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Indice del Archivo del general Miranda",
+        "authors": [
+          "Venezuela. Ministerio de Instrucción Pública",
+          "Francisco de Miranda",
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173022966110"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 142,
+        "printType": "BOOK",
+        "categories": [
+          "France"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ectmAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ectmAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ectmAAAAMAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ectmAAAAMAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Indice_del_Archivo_del_general_Miranda.html?hl=&id=ectmAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ectmAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b8kpAQAAMAAJ",
+      "etag": "T/eJ0dXAahM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b8kpAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Encomiendas",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1947",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89057314031"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 750,
+        "printType": "BOOK",
+        "categories": [
+          "Encomiendas (Latin America)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=b8kpAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=b8kpAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=b8kpAQAAMAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=b8kpAQAAMAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Encomiendas.html?hl=&id=b8kpAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b8kpAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WH4zAQAAIAAJ",
+      "etag": "YImh0fA1GG8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WH4zAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Verdades",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1900",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B718899"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 116,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WH4zAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WH4zAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WH4zAQAAIAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WH4zAQAAIAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Verdades.html?hl=&id=WH4zAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WH4zAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G0hTAAAAMAAJ",
+      "etag": "65kfv7S0jY0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G0hTAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Jaculatorias",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1943",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023781518"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 222,
+        "printType": "BOOK",
+        "categories": [
+          "Devotional literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=G0hTAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=G0hTAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=G0hTAAAAMAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=G0hTAAAAMAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jaculatorias.html?hl=&id=G0hTAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G0hTAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hG5sAAAAMAAJ",
+      "etag": "zNZik5oYBKU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hG5sAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Próceres merideños",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1970",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018486010"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 330,
+        "printType": "BOOK",
+        "categories": [
+          "Merida (Venezuela : State)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hG5sAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hG5sAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hG5sAAAAMAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hG5sAAAAMAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pr%C3%B3ceres_meride%C3%B1os.html?hl=&id=hG5sAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hG5sAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OOQKAQAAIAAJ",
+      "etag": "FUh+x/C6arA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OOQKAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Biografía de Miranda",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1933",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105036570823"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "categories": [
+          "Historia de Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OOQKAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OOQKAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=OOQKAQAAIAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=OOQKAQAAIAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Biograf%C3%ADa_de_Miranda.html?hl=&id=OOQKAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OOQKAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ha1QAQAAIAAJ",
+      "etag": "kzG4r8pBBQE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ha1QAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Don Sancho Briceño",
+        "subtitle": "su monumento en Trujillo. El arbol de los Briceños",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105049022010"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ha1QAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ha1QAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ha1QAQAAIAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ha1QAQAAIAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Don_Sancho_Brice%C3%B1o.html?hl=&id=ha1QAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ha1QAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BU8zAQAAIAAJ",
+      "etag": "qeBigz9tnzE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BU8zAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Diccionario biográfico de ilustres próceres de la independencia suramericana",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B721019"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 476,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BU8zAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BU8zAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BU8zAQAAIAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BU8zAQAAIAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Diccionario_biogr%C3%A1fico_de_ilustres_pr%C3%B3.html?hl=&id=BU8zAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BU8zAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Pt98AAAAMAAJ",
+      "etag": "MUX8ShgfSfw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Pt98AAAAMAAJ",
+      "volumeInfo": {
+        "title": "Destrucción de Pregonero",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023479738"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 82,
+        "printType": "BOOK",
+        "categories": [
+          "Barbarie"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Pt98AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Pt98AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Pt98AAAAMAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Pt98AAAAMAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Destrucci%C3%B3n_de_Pregonero.html?hl=&id=Pt98AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Pt98AAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6OABAAAAMAAJ",
+      "etag": "tnDatrgv98A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6OABAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Archivo del general Miranda ...",
+        "authors": [
+          "Francisco de Miranda"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015027969479"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 518,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6OABAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6OABAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6OABAAAAMAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6OABAAAAMAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Archivo_del_general_Miranda.html?hl=&id=6OABAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6OABAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZQpQAQAAIAAJ",
+      "etag": "mufiVJqvhfM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZQpQAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Bolívar, intelectual y galante",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1942",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105048994342"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "categories": [
+          "Bolivar, Simon"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZQpQAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZQpQAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZQpQAQAAIAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZQpQAQAAIAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bol%C3%ADvar_intelectual_y_galante.html?hl=&id=ZQpQAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZQpQAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PJNDAQAAMAAJ",
+      "etag": "X0wf9BBz/hI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PJNDAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Centenario de Carabobo",
+        "subtitle": "discurso pronuncido en el Panteón Nacional el 5 de julio",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112089321001"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "categories": [
+          "Carabobo, Battle of, 1821"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PJNDAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PJNDAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PJNDAQAAMAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PJNDAQAAMAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Centenario_de_Carabobo.html?hl=&id=PJNDAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PJNDAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fmiy25sRbDUC",
+      "etag": "OctSr0tcNOs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fmiy25sRbDUC",
+      "volumeInfo": {
+        "title": "Problemas sociales ...",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1939",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000097514719"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+          "América Latina"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fmiy25sRbDUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fmiy25sRbDUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fmiy25sRbDUC&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fmiy25sRbDUC&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Problemas_sociales.html?hl=&id=fmiy25sRbDUC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fmiy25sRbDUC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "v4MzAQAAIAAJ",
+      "etag": "4Jrogb1Fsyo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v4MzAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Hojas militáres",
+        "authors": [
+          "Venezuela. Archivo General de la Nación"
+        ],
+        "publishedDate": "1949",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B716121"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 492,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=v4MzAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=v4MzAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=v4MzAQAAIAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=v4MzAQAAIAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hojas_milit%C3%A1res.html?hl=&id=v4MzAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v4MzAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DesqAAAAYAAJ",
+      "etag": "FhiMuLMNaTs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DesqAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Los estudios del desierto y cordilleras de Atacama",
+        "subtitle": "nota del Ministro de Obras públicas, y su contestación",
+        "authors": [
+          "Francisco J. San Román"
+        ],
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044080523574"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "categories": [
+          "Atacama Desert (Chile)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DesqAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DesqAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DesqAAAAYAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DesqAAAAYAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_estudios_del_desierto_y_cordilleras.html?hl=&id=DesqAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DesqAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BdU0AAAAIAAJ",
+      "etag": "9hhdV47MsW0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BdU0AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Acciones de guerra en Venezuela durante su independencia",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3631553"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "categories": [
+          "Guerras de independencia"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.10.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BdU0AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BdU0AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BdU0AAAAIAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BdU0AAAAIAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Acciones_de_guerra_en_Venezuela_durante.html?hl=&id=BdU0AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BdU0AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "m71lAAAAMAAJ",
+      "etag": "DDffG5Va3C0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m71lAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Hojas militares",
+        "authors": [
+          "Venezuela. Archivo General de la Nación"
+        ],
+        "publishedDate": "1950",
+        "description": "\"Contiene las hojas de servicio de las antiguas provincias, que constituyeron en 1777 la Capitanía General de Venezuela, desde, 1768, año en que se estableció en Caracas el primer regimiento español, hasta 1810 en que se inicío la independencia nacional.\"--v. 1, p. [1]",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018324415"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 514,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m71lAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m71lAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=m71lAAAAMAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=m71lAAAAMAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hojas_militares.html?hl=&id=m71lAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m71lAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Contiene las hojas de servicio de las antiguas provincias, que constituyeron en 1777 la Capitanía General de Venezuela, desde, 1768, año en que se estableció en Caracas el primer regimiento español, hasta 1810 en que se inicío la ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5XRrAAAAMAAJ",
+      "etag": "2Xdlk0FWAeU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5XRrAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Próceres trujillanos",
+        "subtitle": "obra dedicada a la antigua Provincia trujillana",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1972",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018486610"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 398,
+        "printType": "BOOK",
+        "categories": [
+          "Trujillo (Venezuela : State)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5XRrAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5XRrAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5XRrAAAAMAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5XRrAAAAMAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pr%C3%B3ceres_trujillanos.html?hl=&id=5XRrAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5XRrAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yl1lAAAAMAAJ",
+      "etag": "yFKFvovOqjU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yl1lAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Rincones mexicanos",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1947",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018454115"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 478,
+        "printType": "BOOK",
+        "categories": [
+          "Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yl1lAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yl1lAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yl1lAAAAMAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yl1lAAAAMAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rincones_mexicanos.html?hl=&id=yl1lAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yl1lAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TbminQEACAAJ",
+      "etag": "9vW2hSlWDUE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TbminQEACAAJ",
+      "volumeInfo": {
+        "title": "Discurso de recepción del doctor Vicente Dávila",
+        "subtitle": "como individuo de número de la Academia nacional de la historia, el 23 de julio de 1922",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:83720984"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 78,
+        "printType": "BOOK",
+        "categories": [
+          "Mérida (Venezuela)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TbminQEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TbminQEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_de_recepci%C3%B3n_del_doctor_Vicent.html?hl=&id=TbminQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TbminQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aSXTtwAACAAJ",
+      "etag": "xspv3Q2SYyw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aSXTtwAACAAJ",
+      "volumeInfo": {
+        "title": "General Vicente Dávila Aguirre",
+        "authors": [
+          "Vicente Dávila Aguirre"
+        ],
+        "publishedDate": "1990",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:25296681"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "categories": [
+          "Generals"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=aSXTtwAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=aSXTtwAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/General_Vicente_D%C3%A1vila_Aguirre.html?hl=&id=aSXTtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aSXTtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aYsPYAAACAAJ",
+      "etag": "AyGbtYUhYo4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aYsPYAAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso de recepción del Dr. Vicente Dávila, como individuo de número de la Academia Nacional de la Historia [Caracas. Venezuela",
+        "authors": [
+          "Vicente Dávila",
+          "Eloy G. González"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431414645"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 78,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=aYsPYAAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=aYsPYAAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_de_recepci%C3%B3n_del_Dr_Vicente_D.html?hl=&id=aYsPYAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aYsPYAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "D9opMwEACAAJ",
+      "etag": "2L9MLXNxJL0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/D9opMwEACAAJ",
+      "volumeInfo": {
+        "title": "Memoria de Los Trabajos Ejecutados Por la Intendencia Jeneral Del Ejército Y Armada en Campaña, 1880-1881. [By Vicente Dávila Larrain.].",
+        "authors": [
+          "Chile. Ministerio de Guerra y Marina",
+          "Vicente DÁVILA LARRAIN"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:558691196"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 61,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=D9opMwEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=D9opMwEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memoria_de_Los_Trabajos_Ejecutados_Por_l.html?hl=&id=D9opMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=D9opMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mp9jHQAACAAJ",
+      "etag": "xkAhYly0KLc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mp9jHQAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso pronunciado por el Dr. Vicente Dávila en el Panteón Nacional el 5 de Julio",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:20141371"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "categories": [
+          "Carabobo, Battle of, 1821"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mp9jHQAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mp9jHQAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_pronunciado_por_el_Dr_Vicente_D.html?hl=&id=mp9jHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mp9jHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hK4uQwAACAAJ",
+      "etag": "HWFuA1Bn/gk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hK4uQwAACAAJ",
+      "volumeInfo": {
+        "title": "Memoria del Ministerio de industria y obras públicas, presentada al Congreso nacional por el ministro del ramo en 1888. (Signé : Vicente Dávila Larraín.).",
+        "authors": [
+          "Vicente Dávila Larraín"
+        ],
+        "publishedDate": "1888",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:457448083"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 274,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hK4uQwAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hK4uQwAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memoria_del_Ministerio_de_industria_y_ob.html?hl=&id=hK4uQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hK4uQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HD_ovwEACAAJ",
+      "etag": "vdrvsSZPuSM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HD_ovwEACAAJ",
+      "volumeInfo": {
+        "title": "Diccionario Biográfico de Ilustres Próceres de la Independencia Suramericana",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:493394741"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 399,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HD_ovwEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HD_ovwEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Diccionario_Biogr%C3%A1fico_de_Ilustres_Pr%C3%B3.html?hl=&id=HD_ovwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HD_ovwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DAt5kgAACAAJ",
+      "etag": "To6tDDsGgdY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DAt5kgAACAAJ",
+      "volumeInfo": {
+        "title": "Diccionario biográfico de próceres ilustres de la de Independencia suramericana",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55282098"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DAt5kgAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DAt5kgAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Diccionario_biogr%C3%A1fico_de_pr%C3%B3ceres_ilu.html?hl=&id=DAt5kgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DAt5kgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wShlGwAACAAJ",
+      "etag": "jkfWeFvidVg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wShlGwAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso de recepción ...",
+        "subtitle": "como individuo de numero de la Academia Nacional de la Historia, el 23 julio de 1922",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:48364484"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 78,
+        "printType": "BOOK",
+        "categories": [
+          "Mérida (Venezuela)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wShlGwAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wShlGwAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_de_recepci%C3%B3n.html?hl=&id=wShlGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wShlGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "19wAMwEACAAJ",
+      "etag": "nZEvswozIXg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/19wAMwEACAAJ",
+      "volumeInfo": {
+        "title": "Archivo....",
+        "subtitle": "copiador de correspondencia. 1792 a 1793. Comunicaciones oficiales. 1792 a 1793. Revolucion francesa. VIII",
+        "authors": [
+          "Miranda (Général)",
+          "Vicente Davila"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:492865297"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 467,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=19wAMwEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=19wAMwEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Archivo.html?hl=&id=19wAMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=19wAMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-wIvcgAACAAJ",
+      "etag": "NmMNgqiclTo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-wIvcgAACAAJ",
+      "volumeInfo": {
+        "title": "El pasto Kikuyo",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1971",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:613197490"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-wIvcgAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-wIvcgAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_pasto_Kikuyo.html?hl=&id=-wIvcgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-wIvcgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "35jbxQEACAAJ",
+      "etag": "v9Jwk21F0rE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/35jbxQEACAAJ",
+      "volumeInfo": {
+        "title": "Archivo del General Miranda",
+        "subtitle": "Revolución Francesa",
+        "authors": [
+          "Sebastián Francisco de Miranda"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1101316580"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "France"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=35jbxQEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=35jbxQEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Archivo_del_General_Miranda.html?hl=&id=35jbxQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=35jbxQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cJP4zAEACAAJ",
+      "etag": "T69ThHqkyTw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cJP4zAEACAAJ",
+      "volumeInfo": {
+        "title": "Archivo del General Miranda: Viajes.- Vol. 8-14. Revolucion francesa.- Vol. 15. Negociaciones",
+        "authors": [
+          "Francisco de Miranda"
+        ],
+        "publishedDate": "1932",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:150428313"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cJP4zAEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cJP4zAEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Archivo_del_General_Miranda_Viajes_Vol_8.html?hl=&id=cJP4zAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cJP4zAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9jM10AEACAAJ",
+      "etag": "ssnxc6/JVGs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9jM10AEACAAJ",
+      "volumeInfo": {
+        "title": "Archivo Del General Miranda, Etc. [tom. 1-14. Edited by Vicente Dávila: Tom. 15. Edited by a Commission of the Academia Nacional de la Historia; Tom. 16-24. Edited by José Nucete Sardi, Antonio Alamo, Jacinto Fombona Pachano and Eduardo Arroyo Lamela.].",
+        "authors": [
+          "Academia Nacional de la Historia (Venezuela)"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1062948726"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=9jM10AEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9jM10AEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Archivo_Del_General_Miranda_Etc_tom_1_14.html?hl=&id=9jM10AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9jM10AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qnA30AEACAAJ",
+      "etag": "wWa1qDkl+SA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qnA30AEACAAJ",
+      "volumeInfo": {
+        "title": "Don Sancho Briceño",
+        "subtitle": "Su monumento en Trujillo",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459086553"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qnA30AEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qnA30AEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Don_Sancho_Brice%C3%B1o.html?hl=&id=qnA30AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qnA30AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OQe-AQAACAAJ",
+      "etag": "q+wLuIzUnO4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OQe-AQAACAAJ",
+      "volumeInfo": {
+        "title": "Archivo del General Miranda ...",
+        "authors": [
+          "Francisco de Miranda"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:31033650"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=OQe-AQAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=OQe-AQAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Archivo_del_General_Miranda.html?hl=&id=OQe-AQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OQe-AQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "og-fOQAACAAJ",
+      "etag": "0DAXqxLjXA4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/og-fOQAACAAJ",
+      "volumeInfo": {
+        "title": "Hojas miltares",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:493414808"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=og-fOQAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=og-fOQAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hojas_miltares.html?hl=&id=og-fOQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=og-fOQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G4d1SwAACAAJ",
+      "etag": "UZBmqYV5axM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G4d1SwAACAAJ",
+      "volumeInfo": {
+        "title": "Encomiendas",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459086564"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 439,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=G4d1SwAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=G4d1SwAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Encomiendas.html?hl=&id=G4d1SwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G4d1SwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oV_sAQAACAAJ",
+      "etag": "P2d+3MgtBTc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oV_sAQAACAAJ",
+      "volumeInfo": {
+        "title": "Diccionario biográfico de ilustres próceres de la Independencia Suramericana",
+        "subtitle": "...",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:930581575"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 456,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=oV_sAQAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=oV_sAQAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Diccionario_biogr%C3%A1fico_de_ilustres_pr%C3%B3.html?hl=&id=oV_sAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oV_sAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hVAwzwEACAAJ",
+      "etag": "54GAbyjFqp0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hVAwzwEACAAJ",
+      "volumeInfo": {
+        "title": "Cláusulas y condiciones jenerales para la construcción de las líneas férreas en proyecto",
+        "authors": [
+          "Vicente Dávila Larraín"
+        ],
+        "publishedDate": "1888",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318864758"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 12,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hVAwzwEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hVAwzwEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cl%C3%A1usulas_y_condiciones_jenerales_para.html?hl=&id=hVAwzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hVAwzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yHW2uwEACAAJ",
+      "etag": "dzeni/oq6qY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yHW2uwEACAAJ",
+      "volumeInfo": {
+        "title": "Miranda y los orígenes de la independencia americana",
+        "subtitle": "seguido de la traducción de The history of Don Francisco de Miranda's attempt to effect a revolution [!] in South America, by a gentleman who was an officer under that general",
+        "authors": [
+          "Carlos A. Aldao",
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:33019480"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 329,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yHW2uwEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yHW2uwEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Miranda_y_los_or%C3%ADgenes_de_la_independen.html?hl=&id=yHW2uwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yHW2uwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QCVmQgAACAAJ",
+      "etag": "6jA8LoKV6iU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QCVmQgAACAAJ",
+      "volumeInfo": {
+        "title": "Labores culturales",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:42008493"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 154,
+        "printType": "BOOK",
+        "categories": [
+          "Educacion - Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=QCVmQgAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=QCVmQgAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Labores_culturales.html?hl=&id=QCVmQgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QCVmQgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NDo_nQEACAAJ",
+      "etag": "fz0DqrzBaYo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NDo_nQEACAAJ",
+      "volumeInfo": {
+        "title": "Investigaciones históricas",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:24008633"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 282,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NDo_nQEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NDo_nQEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Investigaciones_hist%C3%B3ricas.html?hl=&id=NDo_nQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NDo_nQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Kj0lzwEACAAJ",
+      "etag": "WIyKzUAu6Tw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Kj0lzwEACAAJ",
+      "volumeInfo": {
+        "title": "América contemporánea",
+        "authors": [
+          "Alcides Arguedas",
+          "Horacio H. Urtega",
+          "José María Valega",
+          "Oscar Efrén Reyes",
+          "Raimundo Rivas",
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1941",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:931012423"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Kj0lzwEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Kj0lzwEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Am%C3%A9rica_contempor%C3%A1nea.html?hl=&id=Kj0lzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Kj0lzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nZmiGwAACAAJ",
+      "etag": "jy97otFgU94",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nZmiGwAACAAJ",
+      "volumeInfo": {
+        "title": "Historial genealógico de la familia del general Rafael Urdaneta y su descendencia",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1945",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:a49006503"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 35,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nZmiGwAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=45&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nZmiGwAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historial_geneal%C3%B3gico_de_la_familia_del.html?hl=&id=nZmiGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nZmiGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WTx-PgAACAAJ",
+      "etag": "5hJ4z6JAThI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WTx-PgAACAAJ",
+      "volumeInfo": {
+        "title": "Apéndice a la memoria de Guerra i Marina",
+        "subtitle": "memoria que el Intendente jeneral del Ejercito i armada en campaña, pasa al Ministerio del ramo",
+        "authors": [
+          "Chile. Ejercito",
+          "Vicente Dávila Larraín"
+        ],
+        "publishedDate": "1880",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55272906"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 44,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WTx-PgAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=46&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WTx-PgAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ap%C3%A9ndice_a_la_memoria_de_Guerra_i_Marin.html?hl=&id=WTx-PgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WTx-PgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CVU9HAAACAAJ",
+      "etag": "1DjjRGh1jxI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CVU9HAAACAAJ",
+      "volumeInfo": {
+        "title": "Sociedad de Instruccion Primaria Santiago, abril 20 de 1869. Señor",
+        "subtitle": "El domingo 25 del presente, a la una del día ...",
+        "authors": [
+          "Sociedad de Instrucción Primaria de Santiago (Chile)",
+          "Francisco Bascuñan Guerrero",
+          "Vicente Dávila Larraín"
+        ],
+        "publishedDate": "1869",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55260557"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=CVU9HAAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=47&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CVU9HAAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sociedad_de_Instruccion_Primaria_Santiag.html?hl=&id=CVU9HAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CVU9HAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ly2lXwAACAAJ",
+      "etag": "vedT0F9BoZw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ly2lXwAACAAJ",
+      "volumeInfo": {
+        "title": "Archivo",
+        "subtitle": "cartas de Miranda : 1782 a 1801. Miscelanea : 1771 a 1805. Impresos y grabados : 1771 a 1805. Viajes. VII",
+        "authors": [
+          "Miranda (Général)",
+          "Vicente Davila"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:491199275"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Ly2lXwAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=48&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Ly2lXwAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Archivo.html?hl=&id=Ly2lXwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ly2lXwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hjf8MgEACAAJ",
+      "etag": "DMI69cT/5xY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hjf8MgEACAAJ",
+      "volumeInfo": {
+        "title": "Centenario de Carabobo. Discurso, etc",
+        "authors": [
+          "Vicente DÁVILA"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:504670086"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 44,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=hjf8MgEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=49&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hjf8MgEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Centenario_de_Carabobo_Discurso_etc.html?hl=&id=hjf8MgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hjf8MgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7gYzzwEACAAJ",
+      "etag": "Dh2kww0EuwA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7gYzzwEACAAJ",
+      "volumeInfo": {
+        "title": "Centenario de Carabobo",
+        "subtitle": "Discurso",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318253935"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7gYzzwEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=50&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7gYzzwEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Centenario_de_Carabobo.html?hl=&id=7gYzzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7gYzzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mpVWGwAACAAJ",
+      "etag": "pAxuMFPIOwg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mpVWGwAACAAJ",
+      "volumeInfo": {
+        "title": "Ni vencedores ni vencidos todos derrotados",
+        "subtitle": "una crónica novelada del mayor conflicto en San Francisco Xavier",
+        "authors": [
+          "Vicente Dávila Velásquez"
+        ],
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:2003539603"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 107,
+        "printType": "BOOK",
+        "categories": [
+          "College students"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mpVWGwAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=51&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mpVWGwAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ni_vencedores_ni_vencidos_todos_derrotad.html?hl=&id=mpVWGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mpVWGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GQP2tgAACAAJ",
+      "etag": "3uIHvmilb+4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GQP2tgAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso de recepción, como Individuo de Número de la Academia Nacional de la Historia",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253489299"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GQP2tgAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=52&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GQP2tgAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_de_recepci%C3%B3n_como_Individuo_de.html?hl=&id=GQP2tgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GQP2tgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "v80yzwEACAAJ",
+      "etag": "X8I/S668xSI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v80yzwEACAAJ",
+      "volumeInfo": {
+        "title": "Cláusulas y condiciones generales para la provisión de los materiales destinados a las lineas férreas en proyecto",
+        "authors": [
+          "Vicente Dávila Larraín"
+        ],
+        "publishedDate": "1888",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1317940852"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 12,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=v80yzwEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=53&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=v80yzwEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cl%C3%A1usulas_y_condiciones_generales_para.html?hl=&id=v80yzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v80yzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YGUxzwEACAAJ",
+      "etag": "Cgvi8MSJq1w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YGUxzwEACAAJ",
+      "volumeInfo": {
+        "title": "Cláusulas y condiciones generales para la construcción de las líneas férreas en proyecto",
+        "authors": [
+          "Vicente Dávila Larraín"
+        ],
+        "publishedDate": "1888",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318723325"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YGUxzwEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=54&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YGUxzwEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cl%C3%A1usulas_y_condiciones_generales_para.html?hl=&id=YGUxzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YGUxzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TAKi0QEACAAJ",
+      "etag": "ifXvkVUs3KQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TAKi0QEACAAJ",
+      "volumeInfo": {
+        "title": "Archivo del General Miranda, Viajes Diarios",
+        "authors": [
+          "Francisco de Miranda"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1181353876"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Statesmen"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TAKi0QEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=55&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TAKi0QEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Archivo_del_General_Miranda_Viajes_Diari.html?hl=&id=TAKi0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TAKi0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IR83PwAACAAJ",
+      "etag": "Ax27l6I4iPM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IR83PwAACAAJ",
+      "volumeInfo": {
+        "title": "Los estudios del desierto y cordilleras de Atacama",
+        "subtitle": "nota del señor ministro de obras públicas y su contestación for Francisco J.San Román",
+        "authors": [
+          "Francisco J. San Román",
+          "Vicente Dávila Larrain"
+        ],
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:83619163"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 25,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=IR83PwAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=56&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=IR83PwAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_estudios_del_desierto_y_cordilleras.html?hl=&id=IR83PwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IR83PwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ixpJzQEACAAJ",
+      "etag": "E09J/rU7v6k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ixpJzQEACAAJ",
+      "volumeInfo": {
+        "title": "Bolivar, intelectual y galante",
+        "authors": [
+          "Vicente Dávila"
+        ],
+        "publishedDate": "1942",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1131159820"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 75,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=ixpJzQEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=57&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ixpJzQEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bolivar_intelectual_y_galante.html?hl=&id=ixpJzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ixpJzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "E1syzwEACAAJ",
+      "etag": "5LLyTMYMeaE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/E1syzwEACAAJ",
+      "volumeInfo": {
+        "title": "Loi et décrets relatifs à la organisation d'une Exposition des mines et de métallurgie",
+        "subtitle": "en Santiatigo du Chili de 1894",
+        "authors": [
+          "Vicente Dávila Larraín"
+        ],
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318187521"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=E1syzwEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=58&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=E1syzwEACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Loi_et_d%C3%A9crets_relatifs_%C3%A0_la_organisat.html?hl=&id=E1syzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=E1syzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lIHWXwAACAAJ",
+      "etag": "ocHf2IzAXYQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lIHWXwAACAAJ",
+      "volumeInfo": {
+        "title": "Traslatio",
+        "subtitle": "herdanza cultural do camiño portugués : Iniciativa Comunitaria Interreg III-A, (2004-2008)",
+        "authors": [
+          "Fernando Vicente Dávila"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:733756197"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 125,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "gl",
+        "previewLink": "http://books.google.com.co/books?id=lIHWXwAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&cd=59&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lIHWXwAACAAJ&dq=inauthor:%22Vicente+D%C3%A1vila%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Traslatio.html?hl=&id=lIHWXwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lIHWXwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

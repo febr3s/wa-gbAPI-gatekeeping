@@ -1,0 +1,1988 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Rafael%20de%20Nogales%20M%C3%A9ndez\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Rafael%20de%20Nogales%20M%C3%A9ndez\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Rafael%20de%20Nogales%20M%C3%A9ndez\"&maxResults=20&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Rafael%20de%20Nogales%20M%C3%A9ndez\"&maxResults=10&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 30,
+  "_totalRequestsMade": 2,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "bli-DwAAQBAJ",
+      "etag": "klU+uc5Djok",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bli-DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Memorias II",
+        "authors": [
+          "Rafael de Nogales Méndez"
+        ],
+        "publisher": "Linkgua",
+        "publishedDate": "2019-11-01",
+        "description": "En las Memorias de Rafael de Nogales Méndez, cuenta las aventuras que vivió en numerosos países, describiendo con deleite a sus amigos, relaciones, actividades y costumbres. Pero lo más conmovedor del texto, desde un punto de vista literario, es el posicionamiento de su voz narrativa. Al inicio de sus Memorias hace una distinción entre el aventurero y el caballero andante. El primero es \"un iletrado pedante, o socialmente un caballero ocioso, fuera de combate, que no posee una carrera en particular y que siempre está buscando ingeniosamente el modo de hacer dinero, lo que para él es primordial y digno de cualquier culto, aun cuando fuese asesinato, deshonor\". En cambio, el caballero es: \"...un caballero de nacimiento. Para toda voluntaria o desinteresada acción audaz tiene un gesto elegante.\" Y cual Quijote andante, empieza a narrarnos su aventuras...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788490075043"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8490075042"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 149,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.15.14.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bli-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bli-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=bli-DwAAQBAJ&printsec=frontcover&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=bli-DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bli-DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13900,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 13900,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=bli-DwAAQBAJ&rdid=book-bli-DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13900000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 13900000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Memorias_II-sample-epub.acsm?id=bli-DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Memorias_II-sample-pdf.acsm?id=bli-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bli-DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En las Memorias de Rafael de Nogales Méndez, cuenta las aventuras que vivió en numerosos países, describiendo con deleite a sus amigos, relaciones, actividades y costumbres."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zyxsAAAAMAAJ",
+      "etag": "FC9Yh+0omwQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zyxsAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Un venezolano singular",
+        "subtitle": "homenaje al general de Nogales Méndez",
+        "authors": [
+          "Rafael de Nogales Méndez"
+        ],
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173004714342"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zyxsAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zyxsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=zyxsAAAAMAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zyxsAAAAMAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Un_venezolano_singular.html?hl=&id=zyxsAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zyxsAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bFi-DwAAQBAJ",
+      "etag": "rSSO+yQJYKM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bFi-DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Memorias I",
+        "authors": [
+          "Rafael de Nogales Méndez"
+        ],
+        "publisher": "Linkgua",
+        "publishedDate": "2019-11-01",
+        "description": "En las Memorias de Rafael de Nogales Méndez (1879-1937) se cuentan las aventuras que vivió en numerosos países, describiendo con deleite a sus amigos, relaciones, actividades y costumbres. Pero lo más conmovedor del texto, desde un punto de vista literario, es el posicionamiento de su voz narrativa. Al inicio de sus Memorias hace una distinción entre el aventurero y el caballero andante. «El primero es un iletrado pedante, o socialmente un caballero ocioso, fuera de combate, que no posee una carrera en particular y que siempre está buscando ingeniosamente el modo de hacer dinero, lo que para él es primordial y digno de cualquier culto, aun cuando fuese asesinato, deshonor. En cambio, el caballero es: ...un caballero de nacimiento. Para toda voluntaria o desinteresada acción audaz tiene un gesto elegante. Y cual Quijote andante, empieza a narrarnos su aventuras...» Las Memorias de Rafael de Nogales Méndez son los libros de aventuras de un soldado, viajero y luchador contra distintas dictaduras y gobiernos. En ellos hay información sobre su vida, sus luchas políticas, su participación en: la guerra hispanoamericana en Cuba, en Santo Domingo, Haití, China, Alaska, la revolución mexicana y su amistad con César Augusto Sandino. Haciendo honor a su lema: «cuando veas una guerra buena, alístate para combatir en ella».",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788490075036"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8490075034"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 133,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bFi-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bFi-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=bFi-DwAAQBAJ&printsec=frontcover&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=bFi-DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bFi-DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13900,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 13900,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=bFi-DwAAQBAJ&rdid=book-bFi-DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13900000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 13900000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Memorias_I-sample-epub.acsm?id=bFi-DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Memorias_I-sample-pdf.acsm?id=bFi-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bFi-DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En las Memorias de Rafael de Nogales Méndez (1879-1937) se cuentan las aventuras que vivió en numerosos países, describiendo con deleite a sus amigos, relaciones, actividades y costumbres."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ARANAAAAYAAJ",
+      "etag": "taBXjghMUyU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ARANAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Memorias del general Rafael de Nogales Méndez",
+        "authors": [
+          "Rafael de Nogales Méndez"
+        ],
+        "publishedDate": "1974",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023297377"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 262,
+        "printType": "BOOK",
+        "categories": [
+          "Adventure and adventurers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ARANAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ARANAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ARANAAAAYAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ARANAAAAYAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias_del_general_Rafael_de_Nogales_M.html?hl=&id=ARANAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ARANAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "U8vDsgEACAAJ",
+      "etag": "PJh1QB+3oQI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U8vDsgEACAAJ",
+      "volumeInfo": {
+        "title": "Cuatro años bajo la Media Luna",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8416392102"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788416392100"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 464,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=U8vDsgEACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=U8vDsgEACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuatro_a%C3%B1os_bajo_la_Media_Luna.html?hl=&id=U8vDsgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U8vDsgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Cuatro años bajo la Media Luna, publicado en 1924, es, entre otras muchas cosas, una crónica de avatares de este &quot;caballero andante&quot; a lo largo y ancho del frente turco durante la Primera Guerra Mundial."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CIU49KYDsUEC",
+      "etag": "FkLoEsxiBss",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CIU49KYDsUEC",
+      "volumeInfo": {
+        "title": "Memorias",
+        "authors": [
+          "Rafael de Nogales Méndez"
+        ],
+        "publisher": "Fundacion Biblioteca Ayacuch",
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9802761648"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789802761647"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CIU49KYDsUEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CIU49KYDsUEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=CIU49KYDsUEC&printsec=frontcover&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CIU49KYDsUEC&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias.html?hl=&id=CIU49KYDsUEC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CIU49KYDsUEC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hKRlAAAAMAAJ",
+      "etag": "8phzJqWmPYg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hKRlAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Cuatro años bajo la media luna",
+        "subtitle": "su diario e impresiones durante la guerra mundial en los diversos frentes de Europa y Asia",
+        "authors": [
+          "Rafael de Nogales Méndez"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018265010"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 358,
+        "printType": "BOOK",
+        "categories": [
+          "World War, 1914-1918"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hKRlAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hKRlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hKRlAAAAMAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hKRlAAAAMAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuatro_a%C3%B1os_bajo_la_media_luna.html?hl=&id=hKRlAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hKRlAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5GFDAAAAIAAJ",
+      "etag": "/DiTuMQv94Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5GFDAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Memoirs of a Soldier of Fortune",
+        "authors": [
+          "Rafael de Nogales Méndez"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B23781"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+          "Adventure and adventurers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5GFDAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5GFDAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=5GFDAAAAIAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5GFDAAAAIAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memoirs_of_a_Soldier_of_Fortune.html?hl=&id=5GFDAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5GFDAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nAmtDwAAQBAJ",
+      "etag": "R5I87d2HZkk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nAmtDwAAQBAJ",
+      "volumeInfo": {
+        "title": "El saqueo de Nicaragua",
+        "authors": [
+          "Rafael de Nogales Méndez"
+        ],
+        "publisher": "Linkgua",
+        "publishedDate": "2019-04-01",
+        "description": "La primera publicación de El saqueo en Nicaragua, de Rafael de Nogales Méndez, fue vetada en Nueva York en el año 1931. En ese entonces el gobierno de los Estados Unidosincautó todos los ejemplares de la tirada en inglés. Cerró la Editorial Robert McBride and Co. y sancionó a los editores con una multa de 250.000 dólares. El saqueo de Nicaragua es un libro testimonial que nos cuenta un pasado y un contexto trágico: el nicaragüense. Se refiere, además, a la situación que vivían países centroamericanos como República Dominicana y Haití. Víctimas de las invasiones de los Estados Unidos de América. Este libro se centra en la intervención de los Marines americanos en Nicaragua, que levantó la resistencia de Augusto César Sandino. Por aquellos tiempos se extendió el uso de la expresión «República bananera». Expresión que todavía describe a los gobiernos y países frágiles intervenidos por los intereses de las corporaciones americanas. A continuación citamos un pasaje de El saqueo de Nicaragua. Veamos cómo describe Nogales Méndez la forma en que se legitimaron a los políticos americanos, tras fomentar intervenciones armadas en Latinoamérica: «Dignos caballeros en solemne cónclave no hace mucho concedieron el premio Nobel de la Paz al ex-secretario de Estado americano, señor Frank B. Kellog. El secretario lo aceptó, en medio de aplausos encendidos de lágrimas tanto de la prensa como del público de toda América y los Estados Unidos. ¡Cuán fina, emocionante y plausible parecía esta ceremonia!: Me pregunto si los caballeros que estaban otorgando el premio habían dirigido antes sus miradas hacia el sur y el oeste.»",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788490075050"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8490075050"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 195,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.14.15.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nAmtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nAmtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nAmtDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nAmtDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nAmtDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13900,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 13900,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=nAmtDwAAQBAJ&rdid=book-nAmtDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13900000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 13900000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/El_saqueo_de_Nicaragua-sample-epub.acsm?id=nAmtDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/El_saqueo_de_Nicaragua-sample-pdf.acsm?id=nAmtDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nAmtDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Cerró la Editorial Robert McBride and Co. y sancionó a los editores con una multa de 250.000 dólares. El saqueo de Nicaragua es un libro testimonial que nos cuenta un pasado y un contexto trágico: el nicaragüense."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QmlqAAAAMAAJ",
+      "etag": "Dcoq9ITGDek",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QmlqAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Saqueo de Nicaragua",
+        "authors": [
+          "Rafael de Nogales Méndez"
+        ],
+        "publishedDate": "1981",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018674359"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 386,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QmlqAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QmlqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=QmlqAAAAMAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=QmlqAAAAMAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Saqueo_de_Nicaragua.html?hl=&id=QmlqAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QmlqAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EYxnAAAAMAAJ",
+      "etag": "aejxk7YZXXY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EYxnAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Looting of Nicaragua",
+        "authors": [
+          "Rafael de Nogales Méndez"
+        ],
+        "publisher": "New York : R. M. McBride",
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173022908602"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 340,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.8.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EYxnAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EYxnAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=EYxnAAAAMAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EYxnAAAAMAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Looting_of_Nicaragua.html?hl=&id=EYxnAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EYxnAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DaQTAAAACAAJ",
+      "etag": "Tb4dRC0+dRo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DaQTAAAACAAJ",
+      "volumeInfo": {
+        "title": "Four Years Beneath the Crescent",
+        "authors": [
+          "Rafael de Nogales Méndez"
+        ],
+        "publishedDate": "2003-03-01",
+        "description": "These are the memoirs of a Venezuelan mercenary officer in the Ottoman army during WWI. He fought on the Caucasian, Iraqi, and Palestine fronts. He was involved in the siege of Van, and witnessed much of the genocide against Armenians in 1915.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1903656192"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781903656198"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 348,
+        "printType": "BOOK",
+        "categories": [
+          "World War, 1914-1918"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DaQTAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DaQTAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=DaQTAAAACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DaQTAAAACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Four_Years_Beneath_the_Crescent.html?hl=&id=DaQTAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DaQTAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "These are the memoirs of a Venezuelan mercenary officer in the Ottoman army during WWI."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y9BmAAAAMAAJ",
+      "etag": "Q3YjNV+E9BI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y9BmAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Four Years Beneath the Cresent",
+        "authors": [
+          "Rafael de Nogales Méndez"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015014725496"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 480,
+        "printType": "BOOK",
+        "categories": [
+          "Armenian massacres, 1915-1923"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=y9BmAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=y9BmAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=y9BmAAAAMAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=y9BmAAAAMAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Four_Years_Beneath_the_Cresent.html?hl=&id=y9BmAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y9BmAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Xul0KH1fzhwC",
+      "etag": "i1kB6kIzCB4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Xul0KH1fzhwC",
+      "volumeInfo": {
+        "title": "Vier Jahre unter dem Halbmond",
+        "subtitle": "Erinnerungen aus dem Weltkriege",
+        "authors": [
+          "Rafael de Nogales Méndez"
+        ],
+        "publishedDate": "1925",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112056070219"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 328,
+        "printType": "BOOK",
+        "categories": [
+          "World War, 1914-1918"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Xul0KH1fzhwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Xul0KH1fzhwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=Xul0KH1fzhwC&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Xul0KH1fzhwC&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vier_Jahre_unter_dem_Halbmond.html?hl=&id=Xul0KH1fzhwC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Xul0KH1fzhwC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rSHj0AEACAAJ",
+      "etag": "v9a6eMOfyiQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rSHj0AEACAAJ",
+      "volumeInfo": {
+        "title": "Memorias",
+        "subtitle": "Tomo II",
+        "authors": [
+          "Rafael de Nogales Méndez"
+        ],
+        "publisher": "Historia",
+        "publishedDate": "2024",
+        "description": "En las Memorias de Rafael de Nogales Méndez (1879-1937) se cuentan las aventuras que vivió en numerosos países, describiendo con deleite a sus amigos, relaciones, actividades y costumbres. Pero lo más conmovedor del texto, desde un punto de vista literario, es el posicionamiento de su voz narrativa. Al inicio de sus Memorias hace una distinción entre el aventurero y el caballero andante. El primero es un iletrado pedante, o socialmente un caballero ocioso, fuera de combate, que no posee una carrera en particular y que siempre está buscando ingeniosamente el modo de hacer dinero, lo que para él es primordial y digno de cualquier culto, aun cuando fuese asesinato, deshonor. En cambio, el caballero es: ...un caballero de nacimiento. Para toda voluntaria o desinteresada acción audaz tiene un gesto elegante. Y cual Quijote andante, empieza a narrarnos su aventuras... Las Memorias son como libros de aventuras de un soldado, viajero y luchador contra distintas dictaduras y gobiernos. En ellos hay información sobre su vida y sus luchas políticas: su participación en la Primera Guerra Mundial, la invasión estadounidense a Cuba, la revolución mexicana y su amistad con Augusto César Sandino. Haciendo honor a su lema cuando veas una guerra buena, alístate para combatir en ella.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8490070504"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788490070505"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rSHj0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rSHj0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=rSHj0AEACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rSHj0AEACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias.html?hl=&id=rSHj0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rSHj0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En las Memorias de Rafael de Nogales Méndez (1879-1937) se cuentan las aventuras que vivió en numerosos países, describiendo con deleite a sus amigos, relaciones, actividades y costumbres."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gdqyPgAACAAJ",
+      "etag": "rsxL8Ry+C9M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gdqyPgAACAAJ",
+      "volumeInfo": {
+        "title": "Четыре года под полумесяцем",
+        "authors": [
+          "Rafael de Nogales Méndez"
+        ],
+        "publishedDate": "2006",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "5853460609"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9785853460607"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 365,
+        "printType": "BOOK",
+        "categories": [
+          "Armenian massacres, 1915-1923"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "ru",
+        "previewLink": "http://books.google.com.co/books?id=gdqyPgAACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=gdqyPgAACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D0%B5_%D0%B3%D0%BE%D0%B4%D0%B0_%D0%BF%D0%BE%D0%B4_%D0%BF%D0%BE%D0%BB%D1%83%D0%BC.html?hl=&id=gdqyPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gdqyPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TIReAQAACAAJ",
+      "etag": "T1hDG97Huok",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TIReAQAACAAJ",
+      "volumeInfo": {
+        "title": "Osmanlı ordusunda dört yıl (1915-1919)",
+        "authors": [
+          "Rafael de Nogales Méndez"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9753861249"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789753861243"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 301,
+        "printType": "BOOK",
+        "categories": [
+          "Armenian massacres, 1915-1923"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "tr",
+        "previewLink": "http://books.google.com.co/books?id=TIReAQAACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TIReAQAACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Osmanl%C4%B1_ordusunda_d%C3%B6rt_y%C4%B1l_1915_1919.html?hl=&id=TIReAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TIReAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FV5HYAAACAAJ",
+      "etag": "QgxE5nYheps",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FV5HYAAACAAJ",
+      "volumeInfo": {
+        "title": "Osmanlı ordusunda dört yıl (1915-1919)",
+        "authors": [
+          "Rafael de Nogales Méndez",
+          "Vedii İlmen"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9753861230"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789753861236"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 301,
+        "printType": "BOOK",
+        "categories": [
+          "World War, 1914-1918"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "tr",
+        "previewLink": "http://books.google.com.co/books?id=FV5HYAAACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=FV5HYAAACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Osmanl%C4%B1_ordusunda_d%C3%B6rt_y%C4%B1l_1915_1919.html?hl=&id=FV5HYAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FV5HYAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FimGzwEACAAJ",
+      "etag": "I9BzD35Glzo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FimGzwEACAAJ",
+      "volumeInfo": {
+        "title": "Четыре года под полумесяцем",
+        "authors": [
+          "Rafael de Nogales Méndez"
+        ],
+        "publishedDate": "2021",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "5540025172"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9785540025171"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "World War, 1914-1918"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "hy",
+        "previewLink": "http://books.google.com.co/books?id=FimGzwEACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=FimGzwEACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D0%B5_%D0%B3%D0%BE%D0%B4%D0%B0_%D0%BF%D0%BE%D0%B4_%D0%BF%D0%BE%D0%BB%D1%83%D0%BC.html?hl=&id=FimGzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FimGzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3qvOPgAACAAJ",
+      "etag": "UUsoiViTy90",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3qvOPgAACAAJ",
+      "volumeInfo": {
+        "title": "Cuatro años bajo la Media Luna ; Nogales (y Méndez), Rafael de, (General) ; Su diario e impresiones durante la guerra mundial en los diversos frentes de Europa y Asia",
+        "authors": [
+          "Rafael de Nogales y Mendez"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253518307"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 286,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=3qvOPgAACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3qvOPgAACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuatro_a%C3%B1os_bajo_la_Media_Luna_Nogales.html?hl=&id=3qvOPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3qvOPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BH3l0AEACAAJ",
+      "etag": "4oSQaRhB1ZY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BH3l0AEACAAJ",
+      "volumeInfo": {
+        "title": "Memorias",
+        "subtitle": "Tomo I",
+        "authors": [
+          "Rafael de Nogales Méndez"
+        ],
+        "publisher": "Linkgua Digital",
+        "publishedDate": "2024",
+        "description": "En las Memorias de Rafael de Nogales Méndez (1879-1937) se cuentan las aventuras que vivió en numerosos países, describiendo con deleite a sus amigos, relaciones, actividades y costumbres. Pero lo más conmovedor del texto, desde un punto de vista literario, es el posicionamiento de su voz narrativa. Al inicio de sus Memorias hace una distinción entre el aventurero y el caballero andante. El primero es un iletrado pedante, o socialmente un caballero ocioso, fuera de combate, que no posee una carrera en particular y que siempre está buscando ingeniosamente el modo de hacer dinero, lo que para él es primordial y digno de cualquier culto, aun cuando fuese asesinato, deshonor. En cambio, el caballero es: ...un caballero de nacimiento. Para toda voluntaria o desinteresada acción audaz tiene un gesto elegante. Y cual Quijote andante, empieza a narrarnos su aventuras... Las Memorias de Rafael de Nogales Méndez son los libros de aventuras de un soldado, viajero y luchador contra distintas dictaduras y gobiernos. En ellos hay información sobre su vida, sus luchas políticas, su participación en: la guerra hispanoamericana en Cuba, en Santo Domingo, Haití, China, Alaska, la revolución mexicana y su amistad con César Augusto Sandino. Haciendo honor a su lema: cuando veas una guerra buena, alístate para combatir en ella.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8411263339"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788411263337"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BH3l0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BH3l0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BH3l0AEACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BH3l0AEACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias.html?hl=&id=BH3l0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BH3l0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En las Memorias de Rafael de Nogales Méndez (1879-1937) se cuentan las aventuras que vivió en numerosos países, describiendo con deleite a sus amigos, relaciones, actividades y costumbres."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BniFzQEACAAJ",
+      "etag": "FGzhs7iqZBo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BniFzQEACAAJ",
+      "volumeInfo": {
+        "title": "Cuatro anos bajo la media luna : su diario e impresiones durante la guerra mundial en los diversos frentes de Europa y Asia",
+        "authors": [
+          "Rafael de Nogales Méndez"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1150392914"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 286,
+        "printType": "BOOK",
+        "categories": [
+          "Guerra mundial I, 1914-1918 - Campanas - Turquia"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BniFzQEACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BniFzQEACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuatro_anos_bajo_la_media_luna_su_diario.html?hl=&id=BniFzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BniFzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K7PUAQAACAAJ",
+      "etag": "poNvaIiL0DY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K7PUAQAACAAJ",
+      "volumeInfo": {
+        "title": "Cuatro años bajo la Media Luna : diario de la Primera Guerra Mundial en los frentes de Europa y Asia",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8416981302"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788416981304"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 632,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=K7PUAQAACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=K7PUAQAACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuatro_a%C3%B1os_bajo_la_Media_Luna_diario_d.html?hl=&id=K7PUAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K7PUAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mCA0QwAACAAJ",
+      "etag": "+BjcZM+EUYY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mCA0QwAACAAJ",
+      "volumeInfo": {
+        "title": "Four Years Beneath the Crescent, by Rafael de Nogales,... Translated from the Spanish by Muna Lee. With an Introduction by Lieutenant-Colonel Edward Davis,...",
+        "authors": [
+          "Rafael de Nogales Méndez",
+          "Edward Davis"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459087614"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 424,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=mCA0QwAACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mCA0QwAACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Four_Years_Beneath_the_Crescent_by_Rafae.html?hl=&id=mCA0QwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mCA0QwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Svf4wQEACAAJ",
+      "etag": "UFexg4oZDAc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Svf4wQEACAAJ",
+      "volumeInfo": {
+        "title": "Four Years Beneath the Crescent, Translated from the Spanish",
+        "authors": [
+          "Rafael de Nogales Méndez"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1080667306"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+          "World War, 1914-1918"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=Svf4wQEACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Svf4wQEACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Four_Years_Beneath_the_Crescent_Translat.html?hl=&id=Svf4wQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Svf4wQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "t_geHAAACAAJ",
+      "etag": "atxVpMLnwcg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t_geHAAACAAJ",
+      "volumeInfo": {
+        "title": "Silk Hat and Spurs",
+        "authors": [
+          "Rafael de Nogales Méndez"
+        ],
+        "publishedDate": "1934",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:34008194"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 302,
+        "printType": "BOOK",
+        "categories": [
+          "Adventure and adventurers"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=t_geHAAACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=t_geHAAACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Silk_Hat_and_Spurs.html?hl=&id=t_geHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t_geHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aqavPAAACAAJ",
+      "etag": "pPM9hF/BjjU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aqavPAAACAAJ",
+      "volumeInfo": {
+        "title": "The world of Venezuelan Nogelas Bey",
+        "authors": [
+          "Rafael de Nogales Méndez",
+          "Kaldone G. Nweihed"
+        ],
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9759873710"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789759873714"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "categories": [
+          "Adventure and adventurers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "tr",
+        "previewLink": "http://books.google.com.co/books?id=aqavPAAACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=aqavPAAACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_world_of_Venezuelan_Nogelas_Bey.html?hl=&id=aqavPAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aqavPAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Yo0I0AEACAAJ",
+      "etag": "KhbUgRRZsXw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Yo0I0AEACAAJ",
+      "volumeInfo": {
+        "title": "Patru ani sub Semilună",
+        "authors": [
+          "Rafael de Nogales Méndez"
+        ],
+        "publishedDate": "2012",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9737727797"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789737727794"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "ro",
+        "previewLink": "http://books.google.com.co/books?id=Yo0I0AEACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Yo0I0AEACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Patru_ani_sub_Semilun%C4%83.html?hl=&id=Yo0I0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Yo0I0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ktVbQwAACAAJ",
+      "etag": "nsa5+4dZob0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ktVbQwAACAAJ",
+      "volumeInfo": {
+        "title": "Mémoires d'un soldat de fortune. Traduit de l'anglais par Jean Eyze. [Avant-propos de R. R. Cuningham Graham].",
+        "authors": [
+          "Rafael de Nogales Méndez",
+          "Robert Bontine Cunninghame Graham"
+        ],
+        "publishedDate": "1934",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459848038"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 283,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=ktVbQwAACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ktVbQwAACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/M%C3%A9moires_d_un_soldat_de_fortune_Traduit.html?hl=&id=ktVbQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ktVbQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zyAxHQAACAAJ",
+      "etag": "fngZ+PFmuXU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zyAxHQAACAAJ",
+      "volumeInfo": {
+        "title": "Mémoires d'un soldat de fortune",
+        "authors": [
+          "Rafael de Nogales Méndez"
+        ],
+        "publishedDate": "1934",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:34725945"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 281,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=zyAxHQAACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zyAxHQAACAAJ&dq=inauthor:%22Rafael+de+Nogales+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/M%C3%A9moires_d_un_soldat_de_fortune.html?hl=&id=zyAxHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zyAxHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

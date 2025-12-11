@@ -1,0 +1,70 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Antonio%20Pinto%20Salinas\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Antonio%20Pinto%20Salinas\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "u0wgnQAACAAJ",
+      "etag": "VGIjy0d6D1s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u0wgnQAACAAJ",
+      "volumeInfo": {
+        "title": "Antonio Pinto Salinas, militante y poeta",
+        "subtitle": "conferencia pronunciada",
+        "authors": [
+          "Luis Beltrán Prieto Figueroa"
+        ],
+        "publishedDate": "1962",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:252953860"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 39,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=u0wgnQAACAAJ&dq=inauthor:%22Antonio+Pinto+Salinas%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=u0wgnQAACAAJ&dq=inauthor:%22Antonio+Pinto+Salinas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antonio_Pinto_Salinas_militante_y_poeta.html?hl=&id=u0wgnQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u0wgnQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

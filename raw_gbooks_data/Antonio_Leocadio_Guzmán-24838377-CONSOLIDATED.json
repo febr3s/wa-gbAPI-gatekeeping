@@ -1,0 +1,2664 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Antonio%20Leocadio%20Guzm%C3%A1n\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Antonio%20Leocadio%20Guzm%C3%A1n\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Antonio%20Leocadio%20Guzm%C3%A1n\"&maxResults=20&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Antonio%20Leocadio%20Guzm%C3%A1n\"&maxResults=20&startIndex=40&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Antonio%20Leocadio%20Guzm%C3%A1n\"&maxResults=4&startIndex=40&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 44,
+  "_totalRequestsMade": 3,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "tqUtAAAAYAAJ",
+      "etag": "+lAWNaz6O8A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tqUtAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Datos históricos sur americanos",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1880",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HNIHTK"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 428,
+        "printType": "BOOK",
+        "categories": [
+          "Colombia"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tqUtAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tqUtAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tqUtAAAAYAAJ&printsec=frontcover&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=tqUtAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tqUtAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=tqUtAAAAYAAJ&rdid=book-tqUtAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Datos_hist%C3%B3ricos_sur_americanos.epub?id=tqUtAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Datos_hist%C3%B3ricos_sur_americanos.pdf?id=tqUtAAAAYAAJ&hl=&output=pdf&sig=ACfU3U05gshqLyo22KsYYu4U58yFaoFJiA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tqUtAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lHNpAAAAIAAJ",
+      "etag": "LRwKi1cX664",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lHNpAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Antonio Leocadio Guzmán",
+        "subtitle": "la doctrina liberal",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105005687251"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 508,
+        "printType": "BOOK",
+        "categories": [
+          "Liberalism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lHNpAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lHNpAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lHNpAAAAIAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lHNpAAAAIAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antonio_Leocadio_Guzm%C3%A1n.html?hl=&id=lHNpAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lHNpAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WZYNAAAAQAAJ",
+      "etag": "JFgPwWpUTz8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WZYNAAAAQAAJ",
+      "volumeInfo": {
+        "title": "Causa célebre por su iniquidad: la de supuesta conspiración del redactor de 'El Venezolano' Antonio L. Guzmán en 1846",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1884",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:590449944"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 678,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.14.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WZYNAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WZYNAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=WZYNAAAAQAAJ&printsec=frontcover&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WZYNAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WZYNAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=WZYNAAAAQAAJ&rdid=book-WZYNAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Causa_c%C3%A9lebre_por_su_iniquidad_la_de_su.epub?id=WZYNAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Causa_c%C3%A9lebre_por_su_iniquidad_la_de_su.pdf?id=WZYNAAAAQAAJ&hl=&output=pdf&sig=ACfU3U0Vxhv7y7cDGZUwCdgR92nIpxTzQA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WZYNAAAAQAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x4gzAQAAIAAJ",
+      "etag": "C0tWA/ERwGk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x4gzAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Límites entre Venezuela y Nueva Colombia",
+        "subtitle": "Edición oficial",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1880",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B718942"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 342,
+        "printType": "BOOK",
+        "categories": [
+          "Colombia"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=x4gzAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=x4gzAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=x4gzAQAAIAAJ&printsec=frontcover&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=x4gzAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=x4gzAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=x4gzAQAAIAAJ&rdid=book-x4gzAQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/L%C3%ADmites_entre_Venezuela_y_Nueva_Colombi.epub?id=x4gzAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/L%C3%ADmites_entre_Venezuela_y_Nueva_Colombi.pdf?id=x4gzAQAAIAAJ&hl=&output=pdf&sig=ACfU3U3vpWlkUdnap5Dsp03bh3M9oC6n7g&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x4gzAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p2Q_AAAAIAAJ",
+      "etag": "jUkH9NvjJxU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p2Q_AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Carta de Felipe Larrazábal al señor Antonio L. Guzmán, ministro de relaciones esteriores",
+        "subtitle": "seguida de otra carta del mismo Larrazábal al señor general Antonio Guzmán Blanco en 1863",
+        "authors": [
+          "Felipe Larrazábal"
+        ],
+        "publishedDate": "1870",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B144435"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 44,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p2Q_AAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p2Q_AAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=p2Q_AAAAIAAJ&printsec=frontcover&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=p2Q_AAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=p2Q_AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=p2Q_AAAAIAAJ&rdid=book-p2Q_AAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Carta_de_Felipe_Larraz%C3%A1bal_al_se%C3%B1or_An.epub?id=p2Q_AAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Carta_de_Felipe_Larraz%C3%A1bal_al_se%C3%B1or_An.pdf?id=p2Q_AAAAIAAJ&hl=&output=pdf&sig=ACfU3U1Qkdm6MZQXtXCbSUJgFtlkdi1VWA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p2Q_AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "P6pDAQAAMAAJ",
+      "etag": "6hALyi8vPaw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P6pDAQAAMAAJ",
+      "volumeInfo": {
+        "title": "A.L. Guzman a sus compatriotas",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1877",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112045880264"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 70,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=P6pDAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=P6pDAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=P6pDAQAAMAAJ&printsec=frontcover&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=P6pDAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=P6pDAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=P6pDAQAAMAAJ&rdid=book-P6pDAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/A_L_Guzman_a_sus_compatriotas.epub?id=P6pDAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P6pDAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "d90qAAAAYAAJ",
+      "etag": "hIXFhiFoTwQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/d90qAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Historia patria",
+        "subtitle": "la guerra á muerte",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1876",
+        "description": "A refutation of Juan Vicente González' criticism of the struggle for independence as expressed in his Biografía de José Félix Ribas, segunda parte, p. 97-107.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044079531547"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=d90qAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=d90qAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=d90qAAAAYAAJ&printsec=frontcover&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=d90qAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=d90qAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=d90qAAAAYAAJ&rdid=book-d90qAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Historia_patria.epub?id=d90qAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Historia_patria.pdf?id=d90qAAAAYAAJ&hl=&output=pdf&sig=ACfU3U0Nd5Z3OAsQQ1n8-LXZosLR8K3t1A&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d90qAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A refutation of Juan Vicente González&#39; criticism of the struggle for independence as expressed in his Biografía de José Félix Ribas, segunda parte, p. 97-107."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "V0cIAAAAQAAJ",
+      "etag": "IEpf+HD6chg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/V0cIAAAAQAAJ",
+      "volumeInfo": {
+        "title": "Datos históricos sur americanos [collected writings].",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:590449945"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 648,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.13.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=V0cIAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=V0cIAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=V0cIAAAAQAAJ&printsec=frontcover&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=V0cIAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=V0cIAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=V0cIAAAAQAAJ&rdid=book-V0cIAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Datos_hist%C3%B3ricos_sur_americanos_collect.epub?id=V0cIAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Datos_hist%C3%B3ricos_sur_americanos_collect.pdf?id=V0cIAAAAQAAJ&hl=&output=pdf&sig=ACfU3U11rO4JDOkaOl23-fuIMsWAw41JFg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=V0cIAAAAQAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wWKKicORFbUC",
+      "etag": "Ugu878xmA8I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wWKKicORFbUC",
+      "volumeInfo": {
+        "title": "Historia patria",
+        "subtitle": "carta del ilustre prócer señor Antonio L. Guzmán al señor Ramón Azpurúa",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CUB:U183023419367"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 54,
+        "printType": "BOOK",
+        "categories": [
+          "Puerto Cabello (Venezuela)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wWKKicORFbUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wWKKicORFbUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wWKKicORFbUC&printsec=frontcover&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wWKKicORFbUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wWKKicORFbUC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=wWKKicORFbUC&rdid=book-wWKKicORFbUC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Historia_patria.epub?id=wWKKicORFbUC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wWKKicORFbUC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VLovAQAAMAAJ",
+      "etag": "hOU6GGhLIc0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VLovAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Renuncia del presidente de la república, general Guzmán Blanco y sus reformas constitucionales",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1874",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B4603489"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VLovAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VLovAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VLovAQAAMAAJ&printsec=frontcover&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=VLovAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VLovAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=VLovAQAAMAAJ&rdid=book-VLovAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Renuncia_del_presidente_de_la_rep%C3%BAblica.epub?id=VLovAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Renuncia_del_presidente_de_la_rep%C3%BAblica.pdf?id=VLovAQAAMAAJ&hl=&output=pdf&sig=ACfU3U0M4e3yzuP0qetkvfFiJDolVlVVnw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VLovAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6h1LAAAAYAAJ",
+      "etag": "PE2cOF0pEmg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6h1LAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Emprestito de Venezuela de 1862",
+        "subtitle": "nuevas communicaciones de Antonio L. Guzmán a los senõres Baring Brothers y cia ... enero 12, 1866",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1866",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PRNC:32101046250823"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "categories": [
+          "Debts, External"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6h1LAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6h1LAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6h1LAAAAYAAJ&printsec=frontcover&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6h1LAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6h1LAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=6h1LAAAAYAAJ&rdid=book-6h1LAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Emprestito_de_Venezuela_de_1862.epub?id=6h1LAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Emprestito_de_Venezuela_de_1862.pdf?id=6h1LAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1R0F6c8uptmITG399qPrWX3ebRXA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6h1LAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZcrfLLHsrrEC",
+      "etag": "sKofpzqVPtU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZcrfLLHsrrEC",
+      "volumeInfo": {
+        "title": "Datos historicos sur americanos",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "KBR:KBR0000177052"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 654,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZcrfLLHsrrEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZcrfLLHsrrEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZcrfLLHsrrEC&printsec=frontcover&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZcrfLLHsrrEC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZcrfLLHsrrEC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=ZcrfLLHsrrEC&rdid=book-ZcrfLLHsrrEC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Datos_historicos_sur_americanos.epub?id=ZcrfLLHsrrEC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZcrfLLHsrrEC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2Ow0AAAAIAAJ",
+      "etag": "fXpXgTnFg0Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2Ow0AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Colombia",
+        "subtitle": "Documentos escojidos en una numerosa correspondencia",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1862",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3629241"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "categories": [
+          "Colombia"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2Ow0AAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2Ow0AAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2Ow0AAAAIAAJ&printsec=frontcover&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2Ow0AAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2Ow0AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=2Ow0AAAAIAAJ&rdid=book-2Ow0AAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Colombia.epub?id=2Ow0AAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2Ow0AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qC0OAAAAQAAJ",
+      "etag": "SRgTfjijthM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qC0OAAAAQAAJ",
+      "volumeInfo": {
+        "title": "Editoriales de \"El Venezolano,\"",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:590449946"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 754,
+        "printType": "BOOK",
+        "categories": [
+          "El Venezolano"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qC0OAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qC0OAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qC0OAAAAQAAJ&printsec=frontcover&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qC0OAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qC0OAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=qC0OAAAAQAAJ&rdid=book-qC0OAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Editoriales_de_El_Venezolano.epub?id=qC0OAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Editoriales_de_El_Venezolano.pdf?id=qC0OAAAAQAAJ&hl=&output=pdf&sig=ACfU3U3Ca8bTzZBovYWMzpMY6fWKVbQ9aA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qC0OAAAAQAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gv8MAQAAIAAJ",
+      "etag": "kEbqkXP5p5k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gv8MAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Ojeada al proyecto de constitucion que el Libertador ha presentado a la republica Bolivar",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1826",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B568999"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 182,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gv8MAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gv8MAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=gv8MAQAAIAAJ&printsec=frontcover&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gv8MAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gv8MAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=gv8MAQAAIAAJ&rdid=book-gv8MAQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Ojeada_al_proyecto_de_constitucion_que_e.epub?id=gv8MAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Ojeada_al_proyecto_de_constitucion_que_e.pdf?id=gv8MAQAAIAAJ&hl=&output=pdf&sig=ACfU3U0PpJNeEhg-CdeQBRKcxzzEAXvVjg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gv8MAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FXjaVvkrHbMC",
+      "etag": "8P5S79zyH4A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FXjaVvkrHbMC",
+      "volumeInfo": {
+        "title": "Colombia",
+        "subtitle": "editoriales del \"El Colombiano.\"",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1863",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:307891478"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 328,
+        "printType": "BOOK",
+        "categories": [
+          "Colombia"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FXjaVvkrHbMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FXjaVvkrHbMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=FXjaVvkrHbMC&printsec=frontcover&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FXjaVvkrHbMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FXjaVvkrHbMC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=FXjaVvkrHbMC&rdid=book-FXjaVvkrHbMC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Colombia.epub?id=FXjaVvkrHbMC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FXjaVvkrHbMC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tWOtnQEACAAJ",
+      "etag": "azqTjB5IOO8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tWOtnQEACAAJ",
+      "volumeInfo": {
+        "title": "Editoriales de \"El Venezolano,\"",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:35807727"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Political parties"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tWOtnQEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=tWOtnQEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Editoriales_de_El_Venezolano.html?hl=&id=tWOtnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tWOtnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q1AKzQEACAAJ",
+      "etag": "8DsFzbPRLuk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q1AKzQEACAAJ",
+      "volumeInfo": {
+        "title": "La doctrina liberal",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1961",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:634562154"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=q1AKzQEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=q1AKzQEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_doctrina_liberal.html?hl=&id=q1AKzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q1AKzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s1VcMQEACAAJ",
+      "etag": "24l56VSTSek",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s1VcMQEACAAJ",
+      "volumeInfo": {
+        "title": "Carta del ilustre prócer señor Antonio L. Guzman [al] señor Ramón Azpurúa ... Agosto 8 de 1876",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1876",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:214788414"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": [
+          "Puerto Cabello, Battle of, 1812"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=s1VcMQEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=s1VcMQEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_del_ilustre_pr%C3%B3cer_se%C3%B1or_Antonio.html?hl=&id=s1VcMQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s1VcMQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q77T0AEACAAJ",
+      "etag": "uO+b5cxQ58s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q77T0AEACAAJ",
+      "volumeInfo": {
+        "title": "Límites entre Venezuela y Nueva Colombia",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "2024-07-25",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3386919898"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783386919890"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=q77T0AEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=q77T0AEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L%C3%ADmites_entre_Venezuela_y_Nueva_Colombi.html?hl=&id=q77T0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q77T0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dm8wNAEACAAJ",
+      "etag": "A0FZDQ31MoY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dm8wNAEACAAJ",
+      "volumeInfo": {
+        "title": "Límites entre Colombia i Venezuela 1875",
+        "authors": [
+          "Manuel Murillo Toro",
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1990",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:318325228"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 321,
+        "printType": "BOOK",
+        "categories": [
+          "Colombia"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=dm8wNAEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dm8wNAEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L%C3%ADmites_entre_Colombia_i_Venezuela_1875.html?hl=&id=dm8wNAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dm8wNAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "U7NazwEACAAJ",
+      "etag": "OpzeCmJbrcI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U7NazwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta del ilustre prócer señor Antonio L. Guzmán al señor Ramón Azpurúa",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1342277337"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=U7NazwEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=U7NazwEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_del_ilustre_pr%C3%B3cer_se%C3%B1or_Antonio.html?hl=&id=U7NazwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U7NazwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mXa_PgAACAAJ",
+      "etag": "RDmwej6JdWc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mXa_PgAACAAJ",
+      "volumeInfo": {
+        "title": "Tres homenages á Bolívar",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1872",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:237343442"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 84,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mXa_PgAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mXa_PgAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tres_homenages_%C3%A1_Bol%C3%ADvar.html?hl=&id=mXa_PgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mXa_PgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ue_rzAEACAAJ",
+      "etag": "CVg13Ri2n0c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ue_rzAEACAAJ",
+      "volumeInfo": {
+        "title": "Datos históricos sur americanos [collected writings].",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:367543712"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=Ue_rzAEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Ue_rzAEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Datos_hist%C3%B3ricos_sur_americanos_collect.html?hl=&id=Ue_rzAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ue_rzAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ti0kGwAACAAJ",
+      "etag": "J2mc+J4jq8k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ti0kGwAACAAJ",
+      "volumeInfo": {
+        "title": "La guerra a muerte",
+        "subtitle": "articulo publicado en \"La Opinión Nacional\" de 10 y 11 de abril de 1876",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1876",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:78034928"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 23,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Ti0kGwAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Ti0kGwAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_guerra_a_muerte.html?hl=&id=Ti0kGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ti0kGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ANWfnQEACAAJ",
+      "etag": "jMqAbBNp+E0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ANWfnQEACAAJ",
+      "volumeInfo": {
+        "title": "Informe de S.E. el vice-presidente de la República sobre inmunidades consulares",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1854",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55405435"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 51,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ANWfnQEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ANWfnQEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Informe_de_S_E_el_vice_presidente_de_la.html?hl=&id=ANWfnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ANWfnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0W8HcgAACAAJ",
+      "etag": "qTnAzJ4J/v8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0W8HcgAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso pronunciado en la fiesta nacional del 18 de octubre de 1851",
+        "subtitle": "en la casa del Excmo. Sr. Presidente de la Republica Bto. Gral. José G. Monagas",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1851",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:612790813"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 5,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0W8HcgAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0W8HcgAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_pronunciado_en_la_fiesta_nacion.html?hl=&id=0W8HcgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0W8HcgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IXYzzwEACAAJ",
+      "etag": "q2c9vPxjaII",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IXYzzwEACAAJ",
+      "volumeInfo": {
+        "title": "Informe de S.E. el Vice-Presidente de la República sobre inmunidades consulares",
+        "subtitle": "aprobado y mandado a imprimir por el Consejo de Estado",
+        "authors": [
+          "Venezuela. Ministerio del Interior"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318641005"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 51,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=IXYzzwEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=IXYzzwEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Informe_de_S_E_el_Vice_Presidente_de_la.html?hl=&id=IXYzzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IXYzzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4OeSnQEACAAJ",
+      "etag": "qKt76iz3Xmo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4OeSnQEACAAJ",
+      "volumeInfo": {
+        "title": "Informe de S. E. el Vicepresidente de la República sobre inmunidades consulares",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:5850496"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 51,
+        "printType": "BOOK",
+        "categories": [
+          "Diplomatic privileges and immunities"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4OeSnQEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4OeSnQEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Informe_de_S_E_el_Vicepresidente_de_la_R.html?hl=&id=4OeSnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4OeSnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "66vwtgAACAAJ",
+      "etag": "azE+6F+poS8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/66vwtgAACAAJ",
+      "volumeInfo": {
+        "title": "El evangelio liberal",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1870",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:612790867"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 116,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=66vwtgAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=66vwtgAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_evangelio_liberal.html?hl=&id=66vwtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=66vwtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fOsVtwAACAAJ",
+      "etag": "Ru5JGiZm7cs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fOsVtwAACAAJ",
+      "volumeInfo": {
+        "title": "Negociación de limites en 1874 y 1875 entre los Estados Unidos de Venezuela y los Estados Unidos de Colombia",
+        "subtitle": "encargada respectivamente por sus gobiernos a los ministros plenipotenciaros ilustre procer de la patria",
+        "authors": [
+          "Antonio Leocadio Guzmán",
+          "Manuel Murillo Toro"
+        ],
+        "publishedDate": "1875",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:758510550"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 383,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fOsVtwAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fOsVtwAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Negociaci%C3%B3n_de_limites_en_1874_y_1875_e.html?hl=&id=fOsVtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fOsVtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cRMycgAACAAJ",
+      "etag": "og5AfMyoBjM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cRMycgAACAAJ",
+      "volumeInfo": {
+        "title": "Escritos contemporaneos",
+        "authors": [
+          "Antonio Leocadio Guzmán",
+          "Tomás Lander",
+          "José M. Rivero",
+          "Ramón Ignacio Méndez"
+        ],
+        "publishedDate": "1848",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:612790377"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cRMycgAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cRMycgAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Escritos_contemporaneos.html?hl=&id=cRMycgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cRMycgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Spd7GwAACAAJ",
+      "etag": "VOP+AY7ZIB4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Spd7GwAACAAJ",
+      "volumeInfo": {
+        "title": "Registro de legislación, colombiana hasta 1827",
+        "subtitle": "venezolana hasta 1843 y de varias reales cedulas hasta 1808",
+        "authors": [
+          "Venezuela",
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1843*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:81400559"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 101,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Spd7GwAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Spd7GwAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Registro_de_legislaci%C3%B3n_colombiana_hast.html?hl=&id=Spd7GwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Spd7GwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ho1jvwEACAAJ",
+      "etag": "lLXsJ5pV0MA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ho1jvwEACAAJ",
+      "volumeInfo": {
+        "title": "Causa célebre por su iniquidad la de supuesta conspiración del redactor de \"El Venezolano\" Antonio L. Guzman en 1846",
+        "subtitle": "mandada imprimir por acto legislativo de 22 de junio de 1883 ...",
+        "publishedDate": "1884",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:77305905"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Trials (Conspiracy)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Ho1jvwEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Ho1jvwEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Causa_c%C3%A9lebre_por_su_iniquidad_la_de_su.html?hl=&id=Ho1jvwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ho1jvwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mF68HgAACAAJ",
+      "etag": "rE5gEP+uMhA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mF68HgAACAAJ",
+      "volumeInfo": {
+        "title": "Nuevas comunicaciones de Antonio L. Guzmán á los señores Baring Brothers y Cia ...",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1866",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:23149742"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 23,
+        "printType": "BOOK",
+        "categories": [
+          "Debts, Public"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mF68HgAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mF68HgAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nuevas_comunicaciones_de_Antonio_L_Guzm.html?hl=&id=mF68HgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mF68HgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dS9sHQAACAAJ",
+      "etag": "/fcMEYubPPw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dS9sHQAACAAJ",
+      "volumeInfo": {
+        "title": "Informe de S.E. el Vice-Presidente de la República sobre inmunidades consulares",
+        "subtitle": "aprobado y mandado a imprimir por el Consejo de Estado",
+        "authors": [
+          "Antonio Leocadio Guzmán",
+          "Venezuela. Ministerio del Interior"
+        ],
+        "publishedDate": "1852*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54151851"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 51,
+        "printType": "BOOK",
+        "categories": [
+          "Consuls"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=dS9sHQAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dS9sHQAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Informe_de_S_E_el_Vice_Presidente_de_la.html?hl=&id=dS9sHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dS9sHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ro9fAQAACAAJ",
+      "etag": "mf1YgxiBQJU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ro9fAQAACAAJ",
+      "volumeInfo": {
+        "title": "Acta de instalacion del Congreso constituyente de Venezuela",
+        "subtitle": "Mensage del gefe civil y militar al Congreso constituyente; contestacion y memorias de los secretarios del ministerio",
+        "authors": [
+          "Antonio Leocadio Guzmán",
+          "Arístides Rojas",
+          "Doctor Risquez",
+          "Elihu Root",
+          "Venezuela",
+          "Venezuela. Congreso Constituyente (1830)",
+          "Venezuela. Ministerio de Relaciones Interiores"
+        ],
+        "publishedDate": "1830",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:05014179"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": [
+          "Administrative law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=Ro9fAQAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Ro9fAQAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Acta_de_instalacion_del_Congreso_constit.html?hl=&id=Ro9fAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ro9fAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bCt9XwAACAAJ",
+      "etag": "PT9ScdjWdiw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bCt9XwAACAAJ",
+      "volumeInfo": {
+        "title": "Venezuela Loan, 1862",
+        "subtitle": "A Letter (translated) Addressed to Messrs. Baring Brothers & Co. by Antonio L. Guzman, Fiscal Agent of the Republic of Venezuela, with Copies of the Documents Referred to Therein",
+        "authors": [
+          "Antonio Leocadio Guzmán",
+          "Baring Brothers & Co. Ltd"
+        ],
+        "publishedDate": "1865",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:22140743"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=bCt9XwAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=bCt9XwAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Venezuela_Loan_1862.html?hl=&id=bCt9XwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bCt9XwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FueXYgEACAAJ",
+      "etag": "kvA7QGiS5ws",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FueXYgEACAAJ",
+      "volumeInfo": {
+        "title": "Analisis del proyecto de constitucion que el Libertador ha presentado a la Republica Bolivar",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1826",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:378465137"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 52,
+        "printType": "BOOK",
+        "categories": [
+          "Bolivia"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=FueXYgEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=FueXYgEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Analisis_del_proyecto_de_constitucion_qu.html?hl=&id=FueXYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FueXYgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QEqSngEACAAJ",
+      "etag": "9cvwfB18FVs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QEqSngEACAAJ",
+      "volumeInfo": {
+        "title": "Datos históricos sur americanos",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:699614744"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 531,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=QEqSngEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=QEqSngEACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Datos_hist%C3%B3ricos_sur_americanos.html?hl=&id=QEqSngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QEqSngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NtOhGwAACAAJ",
+      "etag": "yKfdlaYSBdc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NtOhGwAACAAJ",
+      "volumeInfo": {
+        "title": "Venezuela Loan, of 1862",
+        "subtitle": "A Letter Addressed to His Excellency Don Antonio L. Guzman, Fiscal Agent of the Republic of Venezuela, by Messrs. Baring Brothers & Co., in Answer to His Excellency's Letter of 29th September, 1865, with Copies of the Documents Referred to Therein",
+        "authors": [
+          "Baring Brothers & Co. Ltd",
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1865",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:43027837"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 83,
+        "printType": "BOOK",
+        "categories": [
+          "Bonds"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=NtOhGwAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NtOhGwAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Venezuela_Loan_of_1862.html?hl=&id=NtOhGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NtOhGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DRdTHAAACAAJ",
+      "etag": "WHsCWpLZ39o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DRdTHAAACAAJ",
+      "volumeInfo": {
+        "title": "Venezuela Loan of 1862",
+        "subtitle": "Further Letters (translated)",
+        "authors": [
+          "Antonio Leocadio Guzmán",
+          "Baring Brothers & Co. Ltd"
+        ],
+        "publishedDate": "1866",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:45760809"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "categories": [
+          "Bonds"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=DRdTHAAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DRdTHAAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Venezuela_Loan_of_1862.html?hl=&id=DRdTHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DRdTHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EfwmPwAACAAJ",
+      "etag": "5AUVoaOKe5Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EfwmPwAACAAJ",
+      "volumeInfo": {
+        "title": "Historia patria",
+        "subtitle": "carta del ilustre prócer señor Antonio L. Guzman al señor Ramon Azpurúa",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1876",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:237800718"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 45,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EfwmPwAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EfwmPwAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_patria.html?hl=&id=EfwmPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EfwmPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "in1lQwAACAAJ",
+      "etag": "hmxVa6tyoSk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/in1lQwAACAAJ",
+      "volumeInfo": {
+        "title": "Cuestión eclesiastica",
+        "subtitle": "discurso",
+        "authors": [
+          "Antonio Leocadio Guzmán"
+        ],
+        "publishedDate": "1876",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:472450675"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 23,
+        "printType": "BOOK",
+        "categories": [
+          "Authority"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=in1lQwAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=in1lQwAACAAJ&dq=inauthor:%22Antonio+Leocadio+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuesti%C3%B3n_eclesiastica.html?hl=&id=in1lQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=in1lQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

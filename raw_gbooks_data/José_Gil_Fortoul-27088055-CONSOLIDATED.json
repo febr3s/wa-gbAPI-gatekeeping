@@ -1,0 +1,5068 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Gil%20Fortoul\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Gil%20Fortoul\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Gil%20Fortoul\"&maxResults=20&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Gil%20Fortoul\"&maxResults=20&startIndex=40&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Gil%20Fortoul\"&maxResults=20&startIndex=60&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Gil%20Fortoul\"&maxResults=20&startIndex=80&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Gil%20Fortoul\"&maxResults=5&startIndex=80&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 85,
+  "_totalRequestsMade": 5,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "1IQzAQAAIAAJ",
+      "etag": "9sBp00eWTB0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1IQzAQAAIAAJ",
+      "volumeInfo": {
+        "title": "El hombre y la historia",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B718120"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1IQzAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1IQzAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1IQzAQAAIAAJ&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1IQzAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1IQzAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=1IQzAQAAIAAJ&rdid=book-1IQzAQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/El_hombre_y_la_historia.epub?id=1IQzAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1IQzAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zH5KAAAAYAAJ",
+      "etag": "9So2PC8j3eM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zH5KAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Historia constitucional de Venezuela",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1907",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PRNC:32101035425865"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 598,
+        "printType": "BOOK",
+        "categories": [
+          "Constitutional history"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.9.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zH5KAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zH5KAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=zH5KAAAAYAAJ&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zH5KAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zH5KAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=zH5KAAAAYAAJ&rdid=book-zH5KAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Historia_constitucional_de_Venezuela.epub?id=zH5KAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Historia_constitucional_de_Venezuela.pdf?id=zH5KAAAAYAAJ&hl=&output=pdf&sig=ACfU3U0hEnebp7bRoraA_2qitUP2no5Vdg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zH5KAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qRMPAAAAYAAJ",
+      "etag": "L8/OaQVaRXw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qRMPAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Filosofía constitucional",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1918",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023772051"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "categories": [
+          "Political science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qRMPAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qRMPAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qRMPAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qRMPAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Filosof%C3%ADa_constitucional.html?hl=&id=qRMPAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qRMPAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EIU1AAAAIAAJ",
+      "etag": "I+kBV6Rz6Mo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EIU1AAAAIAAJ",
+      "volumeInfo": {
+        "title": "La colonia. La independencia. La gran Colombia",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3615369"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 760,
+        "printType": "BOOK",
+        "categories": [
+          "Constitutional history"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.9.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EIU1AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EIU1AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EIU1AAAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EIU1AAAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_colonia_La_independencia_La_gran_Colo.html?hl=&id=EIU1AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EIU1AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_YLwugEACAAJ",
+      "etag": "4EReqV/YYj8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_YLwugEACAAJ",
+      "volumeInfo": {
+        "title": "Filosofía Penal",
+        "subtitle": "Estudios Críticos",
+        "authors": [
+          "Jose Gil Fortoul"
+        ],
+        "publisher": "Wentworth Press",
+        "publishedDate": "2018-07-25",
+        "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0270120343"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780270120349"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_YLwugEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_YLwugEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_YLwugEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_YLwugEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Filosof%C3%ADa_Penal.html?hl=&id=_YLwugEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_YLwugEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TbMvAQAAMAAJ",
+      "etag": "yiq/CtkPYmI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TbMvAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Discursos y palabras",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1915",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B4603440"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 650,
+        "printType": "BOOK",
+        "categories": [
+          "Gil Fortoul, Jose - Discursos"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TbMvAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TbMvAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TbMvAQAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TbMvAQAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discursos_y_palabras.html?hl=&id=TbMvAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TbMvAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AihDAQAAMAAJ",
+      "etag": "OKB2+6xKDEE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AihDAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Pasiones",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1895",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112004080161"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.8.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AihDAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AihDAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=AihDAQAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=AihDAQAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pasiones.html?hl=&id=AihDAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AihDAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mRdljSio_OcC",
+      "etag": "MUk9TRP1fL8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mRdljSio_OcC",
+      "volumeInfo": {
+        "title": "Julián",
+        "subtitle": "(Bosquejo de un temperamento)",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1888",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "YALE:39002085768167"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mRdljSio_OcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mRdljSio_OcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mRdljSio_OcC&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mRdljSio_OcC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mRdljSio_OcC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=mRdljSio_OcC&rdid=book-mRdljSio_OcC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Juli%C3%A1n.epub?id=mRdljSio_OcC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mRdljSio_OcC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2R9RAQAAIAAJ",
+      "etag": "TmVSndH6El4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2R9RAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Páginas de ayer (obra póstuma)",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1957",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105015469591"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 502,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2R9RAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2R9RAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2R9RAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2R9RAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/P%C3%A1ginas_de_ayer_obra_p%C3%B3stuma.html?hl=&id=2R9RAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2R9RAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NvRrAAAAMAAJ",
+      "etag": "0fp7uSU2jrQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NvRrAAAAMAAJ",
+      "volumeInfo": {
+        "title": "El hombre y la historia, y otros ensayos",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1941",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018473313"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 238,
+        "printType": "BOOK",
+        "categories": [
+          "Ethnology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NvRrAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NvRrAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NvRrAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NvRrAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_hombre_y_la_historia_y_otros_ensayos.html?hl=&id=NvRrAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NvRrAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iaM8AQAAIAAJ",
+      "etag": "iliF+MDOKzw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iaM8AQAAIAAJ",
+      "volumeInfo": {
+        "title": "Filosofiá constitucional",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B472043"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 510,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iaM8AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iaM8AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=iaM8AQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=iaM8AQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Filosofi%C3%A1_constitucional.html?hl=&id=iaM8AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iaM8AQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "P8hHbHItBgEC",
+      "etag": "VDDMXfI4178",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P8hHbHItBgEC",
+      "volumeInfo": {
+        "title": "Páginas de ayer",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1944",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433097972933"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 570,
+        "printType": "BOOK",
+        "categories": [
+          "Political science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=P8hHbHItBgEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=P8hHbHItBgEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=P8hHbHItBgEC&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=P8hHbHItBgEC&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/P%C3%A1ginas_de_ayer.html?hl=&id=P8hHbHItBgEC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P8hHbHItBgEC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ckhsAAAAMAAJ",
+      "etag": "pxT98f5aFoY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ckhsAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Epistolario",
+        "subtitle": "Gil Fortoul en la intimidad familiar y en la diplomacia",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1974",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018389341"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "categories": [
+          "Colombia"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ckhsAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ckhsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ckhsAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ckhsAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Epistolario.html?hl=&id=ckhsAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ckhsAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3qd1AAAAMAAJ",
+      "etag": "SLrlTpuEJTY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3qd1AAAAMAAJ",
+      "volumeInfo": {
+        "title": "Historia constitucional de Venezuela: La colonia. La independencia. La gran Colombia",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1964",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023631297"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 784,
+        "printType": "BOOK",
+        "categories": [
+          "Constitutional history"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3qd1AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3qd1AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3qd1AAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3qd1AAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_constitucional_de_Venezuela_La.html?hl=&id=3qd1AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3qd1AAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "F6M8AQAAIAAJ",
+      "etag": "yrSsCso771c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/F6M8AQAAIAAJ",
+      "volumeInfo": {
+        "title": "Historia constitucional de Venezuela",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B472042"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 492,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=F6M8AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=F6M8AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=F6M8AQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=F6M8AQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_constitucional_de_Venezuela.html?hl=&id=F6M8AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=F6M8AQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gp2YhVgIiV0C",
+      "etag": "IUGzUOb54ds",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gp2YhVgIiV0C",
+      "volumeInfo": {
+        "title": "Idilio?",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1892",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "YALE:39002085768126"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 142,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.1.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gp2YhVgIiV0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gp2YhVgIiV0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=gp2YhVgIiV0C&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=gp2YhVgIiV0C&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Idilio.html?hl=&id=gp2YhVgIiV0C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gp2YhVgIiV0C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oiENAQAAMAAJ",
+      "etag": "UJdQ9mY6DG8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oiENAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "authors": [
+          "José Gil Fortoul (Pres. Venezuela)"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000005127405"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 726,
+        "printType": "BOOK",
+        "categories": [
+          "Constitutional history"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oiENAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oiENAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=oiENAQAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=oiENAQAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=oiENAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oiENAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "baN1AAAAMAAJ",
+      "etag": "p1aGE5LqBjE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/baN1AAAAMAAJ",
+      "volumeInfo": {
+        "title": "Historia constitucional de Venezuela: La oligarquía liberal",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1964",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023631311"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 508,
+        "printType": "BOOK",
+        "categories": [
+          "Constitutional history"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=baN1AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=baN1AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=baN1AAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=baN1AAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_constitucional_de_Venezuela_La.html?hl=&id=baN1AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=baN1AAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WdY0AAAAIAAJ",
+      "etag": "3jHxk0SSz9g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WdY0AAAAIAAJ",
+      "volumeInfo": {
+        "title": "La esgrima moderna",
+        "subtitle": "notas de un aficionado",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1892",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3631607"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 188,
+        "printType": "BOOK",
+        "categories": [
+          "Fencing"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.12.11.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WdY0AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WdY0AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WdY0AAAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WdY0AAAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_esgrima_moderna.html?hl=&id=WdY0AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WdY0AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "os8JAQAAMAAJ",
+      "etag": "DgxMHwSCjZY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/os8JAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Historia constitutional de Venezuela: La colonia. La independencia. La gran Colombia",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:32000004806610"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 796,
+        "printType": "BOOK",
+        "categories": [
+          "Constitutional history"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.13.10.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=os8JAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=os8JAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=os8JAQAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=os8JAQAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_constitutional_de_Venezuela_La.html?hl=&id=os8JAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=os8JAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L3uqUNq5-lcC",
+      "etag": "+y8IEQs8/B4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L3uqUNq5-lcC",
+      "volumeInfo": {
+        "title": "De hoy para mañana",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "YALE:39002085766450"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": [
+          "Civil law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=L3uqUNq5-lcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=L3uqUNq5-lcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=L3uqUNq5-lcC&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=L3uqUNq5-lcC&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_hoy_para_ma%C3%B1ana.html?hl=&id=L3uqUNq5-lcC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L3uqUNq5-lcC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JGwSAAAAYAAJ",
+      "etag": "RbQ5gp2lYZU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JGwSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Tres novelas",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024440738"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 408,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JGwSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JGwSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JGwSAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JGwSAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tres_novelas.html?hl=&id=JGwSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JGwSAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iXgSAAAAYAAJ",
+      "etag": "TryE951F864",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iXgSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "El humo de mi pipa",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1891",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024440716"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iXgSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iXgSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=iXgSAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=iXgSAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_humo_de_mi_pipa.html?hl=&id=iXgSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iXgSAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Yx9RAQAAIAAJ",
+      "etag": "Kp8XMPGOPGk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Yx9RAQAAIAAJ",
+      "volumeInfo": {
+        "title": "La oligarquía liberal",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105015469542"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 494,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.9.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Yx9RAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Yx9RAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Yx9RAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Yx9RAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_oligarqu%C3%ADa_liberal.html?hl=&id=Yx9RAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Yx9RAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Hh9RAQAAIAAJ",
+      "etag": "qjKD/o8EhTg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Hh9RAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Filosofía constitucional. Filosofía penal. El hombre y la historia y otros ensayos",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105015469559"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 512,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Hh9RAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Hh9RAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Hh9RAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Hh9RAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Filosof%C3%ADa_constitucional_Filosof%C3%ADa_pen.html?hl=&id=Hh9RAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Hh9RAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tIIzAQAAIAAJ",
+      "etag": "W0ZktbOTs1w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tIIzAQAAIAAJ",
+      "volumeInfo": {
+        "title": "La oligarquía liberal. Apéndice",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B715677"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 486,
+        "printType": "BOOK",
+        "categories": [
+          "Constitutional history"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tIIzAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tIIzAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tIIzAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=tIIzAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_oligarqu%C3%ADa_liberal_Ap%C3%A9ndice.html?hl=&id=tIIzAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tIIzAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q411AAAAMAAJ",
+      "etag": "E5ffw5V0T4c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q411AAAAMAAJ",
+      "volumeInfo": {
+        "title": "Historia constitutional de Venezuela: La oligarquía liberal. Apéndice",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023631300"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 502,
+        "printType": "BOOK",
+        "categories": [
+          "Constitutional history"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=q411AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=q411AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=q411AAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=q411AAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_constitutional_de_Venezuela_La.html?hl=&id=q411AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q411AAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZwHwAAAAMAAJ",
+      "etag": "23CeR2AzczE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZwHwAAAAMAAJ",
+      "volumeInfo": {
+        "title": "La colonia. La independencia. La gran Colombia",
+        "authors": [
+          "José Gil Fortoul (Pres. Venezuela)"
+        ],
+        "publishedDate": "1967",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000033285320"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 768,
+        "printType": "BOOK",
+        "categories": [
+          "Constitutional history"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZwHwAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZwHwAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZwHwAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZwHwAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_colonia_La_independencia_La_gran_Colo.html?hl=&id=ZwHwAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZwHwAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h69QAQAAIAAJ",
+      "etag": "kQWVmIAVKac",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h69QAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Tres novelas: Julián. Idilio? Pasiones. La infancia de mi musa. Versos",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105015469575"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 406,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=h69QAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=h69QAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=h69QAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=h69QAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tres_novelas_Juli%C3%A1n_Idilio_Pasiones_La.html?hl=&id=h69QAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h69QAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4OUnAQAAIAAJ",
+      "etag": "c9O/0sJmVQU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4OUnAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Reconstitución de la República, la oligarquía conservadora",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1967",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3350209"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 670,
+        "printType": "BOOK",
+        "categories": [
+          "Constitutional history"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4OUnAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4OUnAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4OUnAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4OUnAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Reconstituci%C3%B3n_de_la_Rep%C3%BAblica_la_olig.html?hl=&id=4OUnAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4OUnAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EwLwAAAAMAAJ",
+      "etag": "Xa0iWaf0pGo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EwLwAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Reconstitución de la república. La oligarquía conservadora",
+        "authors": [
+          "José Gil Fortoul (Pres. Venezuela)"
+        ],
+        "publishedDate": "1967",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000033285337"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 664,
+        "printType": "BOOK",
+        "categories": [
+          "Constitutional history"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.9.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EwLwAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EwLwAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EwLwAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EwLwAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Reconstituci%C3%B3n_de_la_rep%C3%BAblica_La_olig.html?hl=&id=EwLwAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EwLwAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i6t1AAAAMAAJ",
+      "etag": "M0/m4AR6ZI0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i6t1AAAAMAAJ",
+      "volumeInfo": {
+        "title": "Historia constitucional de Venezuela: Reconstitución de la república. La oligarquía conservadora",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1964",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023631286"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 666,
+        "printType": "BOOK",
+        "categories": [
+          "Constitutional history"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i6t1AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i6t1AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=i6t1AAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=i6t1AAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_constitucional_de_Venezuela_Rec.html?hl=&id=i6t1AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i6t1AAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qhlRAQAAIAAJ",
+      "etag": "edMivh7sIeI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qhlRAQAAIAAJ",
+      "volumeInfo": {
+        "title": "El humo de mi pipa. Discursos y Palabras. De hoy par mañana",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105015469567"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 624,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qhlRAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qhlRAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qhlRAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qhlRAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_humo_de_mi_pipa_Discursos_y_Palabras.html?hl=&id=qhlRAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qhlRAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9dEJAQAAMAAJ",
+      "etag": "Zd/Sz5yPxvc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9dEJAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Historia constitutional de Venezuela: Reconstitutión de la república, la oligarquía conservador. Apéndice del t. 1",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:32000004806628"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 666,
+        "printType": "BOOK",
+        "categories": [
+          "Constitutional history"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9dEJAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9dEJAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9dEJAQAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9dEJAQAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_constitutional_de_Venezuela_Rec.html?hl=&id=9dEJAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9dEJAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LgPwAAAAMAAJ",
+      "etag": "N71vjIlmcVQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LgPwAAAAMAAJ",
+      "volumeInfo": {
+        "title": "La oligarquía liberal",
+        "authors": [
+          "José Gil Fortoul (Pres. Venezuela)"
+        ],
+        "publishedDate": "1967",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000033285344"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 492,
+        "printType": "BOOK",
+        "categories": [
+          "Constitutional history"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.9.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LgPwAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LgPwAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=LgPwAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LgPwAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_oligarqu%C3%ADa_liberal.html?hl=&id=LgPwAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LgPwAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vg13AAAAMAAJ",
+      "etag": "ZSGuOBt9yV8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vg13AAAAMAAJ",
+      "volumeInfo": {
+        "title": "Reconstitución de la república, la oligarquía conservadora. Apéndice del t. 1",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023631333"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 598,
+        "printType": "BOOK",
+        "categories": [
+          "Constitutional history"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vg13AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vg13AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vg13AAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vg13AAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Reconstituci%C3%B3n_de_la_rep%C3%BAblica_la_olig.html?hl=&id=vg13AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vg13AAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x6Q8AQAAIAAJ",
+      "etag": "CNxNyg2qag0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x6Q8AQAAIAAJ",
+      "volumeInfo": {
+        "title": "La esgrima moderna. Sinfonía inacabada. Epistolario inédito",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1957",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B472046"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 730,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=x6Q8AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=x6Q8AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=x6Q8AQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=x6Q8AQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_esgrima_moderna_Sinfon%C3%ADa_inacabada_E.html?hl=&id=x6Q8AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x6Q8AQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FrA0AAAAIAAJ",
+      "etag": "uDA15zgni7c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FrA0AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Centenario de la independencia",
+        "subtitle": "sessión solemne del Congreso nacional, 5 de julio de 1911",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3631597"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.9.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FrA0AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FrA0AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=FrA0AAAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=FrA0AAAAIAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Centenario_de_la_independencia.html?hl=&id=FrA0AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FrA0AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OHgSAAAAYAAJ",
+      "etag": "WHsnbHC7J7g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OHgSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Sinfonía inacabada",
+        "subtitle": "y otras variaciones",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024440749"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "categories": [
+          "Spanish American essays"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "4.7.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OHgSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OHgSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=OHgSAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=OHgSAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sinfon%C3%ADa_inacabada.html?hl=&id=OHgSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OHgSAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yu9dzgEACAAJ",
+      "etag": "AWy7QaCbiZg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yu9dzgEACAAJ",
+      "volumeInfo": {
+        "title": "José Gil Fortoul. Historia constitucional de Venezuela, por José Gil Fortoul. Segunda edición revidada Tomo primero. La colonia, la independencia, la Gran Colombia",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1243904449"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yu9dzgEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yu9dzgEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jos%C3%A9_Gil_Fortoul_Historia_constituciona.html?hl=&id=yu9dzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yu9dzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CRGoSwAACAAJ",
+      "etag": "aKR5nVgZVl0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CRGoSwAACAAJ",
+      "volumeInfo": {
+        "title": "Historia constitucional de Venezuela",
+        "subtitle": "Obras completas / José Gil Fortoul",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:313360804"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 474,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=CRGoSwAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CRGoSwAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_constitucional_de_Venezuela.html?hl=&id=CRGoSwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CRGoSwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_ud5QwAACAAJ",
+      "etag": "kFVlddjmFgY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_ud5QwAACAAJ",
+      "volumeInfo": {
+        "title": "Historia constitucional de Venezuela, por José Gil Fortoul. Segunda edición revidada Tomo primero. La colonia, la independencia, la Gran Colombia",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459678933"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 718,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_ud5QwAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_ud5QwAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_constitucional_de_Venezuela_por.html?hl=&id=_ud5QwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_ud5QwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "z3ZOtAEACAAJ",
+      "etag": "20+UMqsRi+I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z3ZOtAEACAAJ",
+      "volumeInfo": {
+        "title": "El hombre y la historia. Ensayo de sociologia venezolana por José gil Fortoul",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1890",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1009039687"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=z3ZOtAEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=z3ZOtAEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_hombre_y_la_historia_Ensayo_de_sociol.html?hl=&id=z3ZOtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=z3ZOtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rchxQwAACAAJ",
+      "etag": "IYpx6YlDqzA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rchxQwAACAAJ",
+      "volumeInfo": {
+        "title": "Historia constitucional de Venezuela, por Jose Gil Fortoul. Segunda edición revisada",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459678924"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=rchxQwAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rchxQwAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_constitucional_de_Venezuela_por.html?hl=&id=rchxQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rchxQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-m2MtgAACAAJ",
+      "etag": "rAT8XPm/yhM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-m2MtgAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso del senador Gil Fortoul",
+        "authors": [
+          "Gil Fortoul"
+        ],
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:11735851"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-m2MtgAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=45&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-m2MtgAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_del_senador_Gil_Fortoul.html?hl=&id=-m2MtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-m2MtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wC-qzQEACAAJ",
+      "etag": "NmLajOPVRIM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wC-qzQEACAAJ",
+      "volumeInfo": {
+        "title": "Historia constitucional de Venezuela, por José Gil Fortoul",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1907",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:457294696"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wC-qzQEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=46&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wC-qzQEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_constitucional_de_Venezuela_por.html?hl=&id=wC-qzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wC-qzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OKxCLgEACAAJ",
+      "etag": "ELzMYxCfMyA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OKxCLgEACAAJ",
+      "volumeInfo": {
+        "title": "\"Querido compadre--\" José Gil Fortoul/Laureano Vallenilla Lanz",
+        "subtitle": "correspondencia inédita 1904-1910",
+        "authors": [
+          "José Gil Fortoul",
+          "Laureano Vallenilla Lanz",
+          "Nikita Harwich Vallenilla"
+        ],
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9807088380"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789807088381"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=OKxCLgEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=47&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=OKxCLgEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Querido_compadre_Jos%C3%A9_Gil_Fortoul_Laure.html?hl=&id=OKxCLgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OKxCLgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C6v5MgEACAAJ",
+      "etag": "OcqnBwuR8rI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C6v5MgEACAAJ",
+      "volumeInfo": {
+        "title": "Epistolario. Gil Fortoul en la intimidad familiar y en la diplomacia. ([Compiled by] Carlos Felice Cardot.).",
+        "authors": [
+          "José Gil Fortoul",
+          "Carlos Felice CARDOT"
+        ],
+        "publishedDate": "1974",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:751641929"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 247,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=C6v5MgEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=48&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=C6v5MgEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Epistolario_Gil_Fortoul_en_la_intimidad.html?hl=&id=C6v5MgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C6v5MgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jMJ7swEACAAJ",
+      "etag": "ptAm5Q6TB5g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jMJ7swEACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:317039274"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jMJ7swEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=49&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jMJ7swEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=jMJ7swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jMJ7swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YESbzwEACAAJ",
+      "etag": "xL/wTBMuZnk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YESbzwEACAAJ",
+      "volumeInfo": {
+        "title": "Epistolario de Gil Fortoul a Lisandro Alvarado",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1951",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1025735672"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YESbzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=50&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YESbzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Epistolario_de_Gil_Fortoul_a_Lisandro_Al.html?hl=&id=YESbzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YESbzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5zwzQwAACAAJ",
+      "etag": "5sc4xpSBWRw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5zwzQwAACAAJ",
+      "volumeInfo": {
+        "title": "Centenario de la Independencia. Sesion solemne del Congreso Nacional, 5 de julio de 1911. Discurso del Senador Gil Fortoul",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:457294686"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5zwzQwAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=51&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5zwzQwAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Centenario_de_la_Independencia_Sesion_so.html?hl=&id=5zwzQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5zwzQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SbUZzwEACAAJ",
+      "etag": "mcLHY3mhBD0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SbUZzwEACAAJ",
+      "volumeInfo": {
+        "title": "Epistolario de Gil Fortoul a Lisandro Alvarado. ([Compiled by] Anibal Lisandro Alvarado.).",
+        "authors": [
+          "Aníbal Lisandro ALVARADO"
+        ],
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1308565053"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 253,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SbUZzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=52&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SbUZzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Epistolario_de_Gil_Fortoul_a_Lisandro_Al.html?hl=&id=SbUZzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SbUZzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8VB-cgAACAAJ",
+      "etag": "O+LWb9ek4ao",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8VB-cgAACAAJ",
+      "volumeInfo": {
+        "title": "Historia constitucional de Venezuela",
+        "subtitle": "la colonia, la independencia, la gran Colombia",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:634036452"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 740,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8VB-cgAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=53&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8VB-cgAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_constitucional_de_Venezuela.html?hl=&id=8VB-cgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8VB-cgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PesoygEACAAJ",
+      "etag": "eqty+he0HYM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PesoygEACAAJ",
+      "volumeInfo": {
+        "title": "Historia constitutional de Venezuela",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:57033714"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PesoygEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=54&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PesoygEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_constitutional_de_Venezuela.html?hl=&id=PesoygEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PesoygEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y6kHzQEACAAJ",
+      "etag": "J6fucbmkNrI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y6kHzQEACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas de Gil Portoul",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:492580411"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=y6kHzQEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=55&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=y6kHzQEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas_de_Gil_Portoul.html?hl=&id=y6kHzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y6kHzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UZFZNAEACAAJ",
+      "etag": "ubD4V2W7HZQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UZFZNAEACAAJ",
+      "volumeInfo": {
+        "title": "Entre Gil Fortoul y Lisandro Alvarado",
+        "authors": [
+          "Santiago KEY AYALA",
+          "Lisandro ALVARADO",
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:751651552"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=UZFZNAEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=56&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=UZFZNAEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Entre_Gil_Fortoul_y_Lisandro_Alvarado.html?hl=&id=UZFZNAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UZFZNAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hW2IzQEACAAJ",
+      "etag": "HpobDRV95jc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hW2IzQEACAAJ",
+      "volumeInfo": {
+        "title": "Historia constitucional de Venezuela: Reconstitución de la república, la oligarquía conservadora. Apéndice del t. 1",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:32024169"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Constitutional history"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hW2IzQEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=57&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hW2IzQEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_constitucional_de_Venezuela_Rec.html?hl=&id=hW2IzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hW2IzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ipQ8xgEACAAJ",
+      "etag": "ZKVB+U2M2cg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ipQ8xgEACAAJ",
+      "volumeInfo": {
+        "title": "Historia constitucional de Venezuela",
+        "subtitle": "La oligarquía conservadora ; La oligarquía liberal",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1909",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1000972477"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 558,
+        "printType": "BOOK",
+        "categories": [
+          "Constitutional history"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ipQ8xgEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=58&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ipQ8xgEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_constitucional_de_Venezuela.html?hl=&id=ipQ8xgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ipQ8xgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eK11oAEACAAJ",
+      "etag": "ZJm4dwiIMbw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eK11oAEACAAJ",
+      "volumeInfo": {
+        "title": "Biblioteca Simón Bolívar",
+        "subtitle": "historia constitucional de Venezuela",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1978",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:865112820"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=eK11oAEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=59&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eK11oAEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Biblioteca_Sim%C3%B3n_Bol%C3%ADvar.html?hl=&id=eK11oAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eK11oAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Y5a_jwEACAAJ",
+      "etag": "ZOkpK0LSa28",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Y5a_jwEACAAJ",
+      "volumeInfo": {
+        "title": "El hombre y la historia",
+        "subtitle": "(ensayo de sociologia venezolana)",
+        "publishedDate": "1916*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:941043893"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 213,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Y5a_jwEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=60&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Y5a_jwEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_hombre_y_la_historia.html?hl=&id=Y5a_jwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Y5a_jwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XmHKPgAACAAJ",
+      "etag": "WOrnn3Xpi7E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XmHKPgAACAAJ",
+      "volumeInfo": {
+        "title": "Historia constitucional de Venezuela",
+        "subtitle": "reconstitucion de la republica, la oligarquia conservadora",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:255459254"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 648,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=XmHKPgAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=61&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=XmHKPgAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_constitucional_de_Venezuela.html?hl=&id=XmHKPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XmHKPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vLcqjgEACAAJ",
+      "etag": "oxSqWHzn3BI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vLcqjgEACAAJ",
+      "volumeInfo": {
+        "title": "Julián, bosquejo de un temperamento",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1888",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:751641970"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=vLcqjgEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=62&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vLcqjgEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Juli%C3%A1n_bosquejo_de_un_temperamento.html?hl=&id=vLcqjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vLcqjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tJF_tgAACAAJ",
+      "etag": "x+KjXF1oNj0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tJF_tgAACAAJ",
+      "volumeInfo": {
+        "title": "La obra de Colon y su influencia en los destinos del Mundo",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:78731229"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tJF_tgAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=63&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=tJF_tgAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_obra_de_Colon_y_su_influencia_en_los.html?hl=&id=tJF_tgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tJF_tgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mBQ0HAAACAAJ",
+      "etag": "YX/JiqnFFsU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mBQ0HAAACAAJ",
+      "volumeInfo": {
+        "title": "Historia constitucional",
+        "authors": [
+          "José Gil Fortoul (pres. Venezuela.)"
+        ],
+        "publishedDate": "1907",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:48298507"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mBQ0HAAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=64&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mBQ0HAAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_constitucional.html?hl=&id=mBQ0HAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mBQ0HAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XrIaMwEACAAJ",
+      "etag": "b/YrKLsz7oM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XrIaMwEACAAJ",
+      "volumeInfo": {
+        "title": "Esquisse de la Vie de Bolivar. [With a Preface by J. Gil Fortoul.].",
+        "authors": [
+          "Simon de Schryver",
+          "José GIL FORTOUL"
+        ],
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:504225993"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=XrIaMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=65&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=XrIaMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Esquisse_de_la_Vie_de_Bolivar_With_a_Pre.html?hl=&id=XrIaMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XrIaMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hROF0AEACAAJ",
+      "etag": "aDl/PEYXCm8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hROF0AEACAAJ",
+      "volumeInfo": {
+        "title": "Julián, bosquejo de un temperamento. [2a edición.].",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1888",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459678949"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hROF0AEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=66&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hROF0AEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Juli%C3%A1n_bosquejo_de_un_temperamento_2a_e.html?hl=&id=hROF0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hROF0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zpiTGwAACAAJ",
+      "etag": "PisRTr+ihF4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zpiTGwAACAAJ",
+      "volumeInfo": {
+        "title": "Arte de embellecer la vida",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:19119766"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "categories": [
+          "Aesthetics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=zpiTGwAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=67&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zpiTGwAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arte_de_embellecer_la_vida.html?hl=&id=zpiTGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zpiTGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qWYdzAEACAAJ",
+      "etag": "sLhvW22YryA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qWYdzAEACAAJ",
+      "volumeInfo": {
+        "title": "Tres novelas: Julián; ¿Idilio?; Pasiones; La infancia de mi Musa: versos",
+        "authors": [
+          "José GIL FORTOUL"
+        ],
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1128346527"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qWYdzAEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=68&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qWYdzAEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tres_novelas_Juli%C3%A1n_Idilio_Pasiones_La.html?hl=&id=qWYdzAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qWYdzAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eQMAkgEACAAJ",
+      "etag": "bOwL6FTKO6Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eQMAkgEACAAJ",
+      "volumeInfo": {
+        "title": "La infancia de mi musa",
+        "subtitle": "versos",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1880",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:816842358"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 19,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuelan poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=eQMAkgEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=69&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eQMAkgEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_infancia_de_mi_musa.html?hl=&id=eQMAkgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eQMAkgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q5Q7zAEACAAJ",
+      "etag": "leO2A0tbsKU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q5Q7zAEACAAJ",
+      "volumeInfo": {
+        "title": "Fragmentos de una sinfonia",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1925",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1128097388"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=q5Q7zAEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=70&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=q5Q7zAEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fragmentos_de_una_sinfonia.html?hl=&id=q5Q7zAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q5Q7zAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A7VS0QEACAAJ",
+      "etag": "04dbQwvGCMk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A7VS0QEACAAJ",
+      "volumeInfo": {
+        "title": "Historia constitucional de Venezuela",
+        "subtitle": "Tomo primero, La colonia, la independencia, la gran Colombia",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1053641144"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=A7VS0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=71&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=A7VS0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_constitucional_de_Venezuela.html?hl=&id=A7VS0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A7VS0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hIuqHQAACAAJ",
+      "etag": "LZNLDMsGt1I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hIuqHQAACAAJ",
+      "volumeInfo": {
+        "title": "Contra una iniquidad",
+        "subtitle": "litigio Sosa Altuna-González Gorrondona, segunda instancia, ante el Juzgado Superior del Estado Aragua, La Victoria, diciembre de 1916",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:30997881"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hIuqHQAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=72&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hIuqHQAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Contra_una_iniquidad.html?hl=&id=hIuqHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hIuqHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CQbQtAEACAAJ",
+      "etag": "roM3UO7iHb0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CQbQtAEACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas ; vol. IV",
+        "subtitle": "Filosofía Constitucional",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1965",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:991632020"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 500,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=CQbQtAEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=73&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CQbQtAEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas_vol_IV.html?hl=&id=CQbQtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CQbQtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vzrYjwEACAAJ",
+      "etag": "+MtcQoPIGhw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vzrYjwEACAAJ",
+      "volumeInfo": {
+        "title": "Recuerdos de Paris",
+        "subtitle": "el surrealismo en Espaą",
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:948082464"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vzrYjwEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=74&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vzrYjwEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Recuerdos_de_Paris.html?hl=&id=vzrYjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vzrYjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qEJ0vwEACAAJ",
+      "etag": "pehDZzApfy4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qEJ0vwEACAAJ",
+      "volumeInfo": {
+        "title": "De hoy para mañana",
+        "subtitle": "tendencia legislativa, criterio conservador y criterio liberal...",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1025711235"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qEJ0vwEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=75&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qEJ0vwEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_hoy_para_ma%C3%B1ana.html?hl=&id=qEJ0vwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qEJ0vwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8qIKYAAACAAJ",
+      "etag": "YIYDR5VxBuM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8qIKYAAACAAJ",
+      "volumeInfo": {
+        "title": "Sesión solemne del Congreso Nacional. 5 de Julio de 1911",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431982536"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8qIKYAAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=76&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8qIKYAAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sesi%C3%B3n_solemne_del_Congreso_Nacional_5.html?hl=&id=8qIKYAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8qIKYAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qzH-rQEACAAJ",
+      "etag": "VunXkPtF+/Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qzH-rQEACAAJ",
+      "volumeInfo": {
+        "title": "Reconstitutión de la república, la oligarquía conservadora",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:897159060"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 648,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qzH-rQEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=77&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qzH-rQEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Reconstituti%C3%B3n_de_la_rep%C3%BAblica_la_olig.html?hl=&id=qzH-rQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qzH-rQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SPOnHAAACAAJ",
+      "etag": "bC/BQs9qtAQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SPOnHAAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso de recepción del Dr. Manuel Diaz-Rodríguez como individuo de número de la Academia Nacional de la Historia, el 6 de diciembre de 1924",
+        "authors": [
+          "Manuel Díaz Rodríguez",
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:15070376"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SPOnHAAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=78&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SPOnHAAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_de_recepci%C3%B3n_del_Dr_Manuel_Dia.html?hl=&id=SPOnHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SPOnHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wm3-NAAACAAJ",
+      "etag": "xtFwlo4G1vc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wm3-NAAACAAJ",
+      "volumeInfo": {
+        "title": "Premier centenaire de l'indépendance nationale des Etats-Unis du Vénézuela",
+        "subtitle": "5 juillet 1911 : discours",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1912",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:80164546"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 12,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=wm3-NAAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=79&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wm3-NAAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Premier_centenaire_de_l_ind%C3%A9pendance_na.html?hl=&id=wm3-NAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wm3-NAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8CEuvwEACAAJ",
+      "etag": "Bpt5Dcuzbus",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8CEuvwEACAAJ",
+      "volumeInfo": {
+        "title": "La esgrima moderna. Sinfonía inacabada. Epistolario inédito, etc",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1957",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1064265312"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 699,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8CEuvwEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=80&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8CEuvwEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_esgrima_moderna_Sinfon%C3%ADa_inacabada_E.html?hl=&id=8CEuvwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8CEuvwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZnWQGwAACAAJ",
+      "etag": "OoiHpabg5Sk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZnWQGwAACAAJ",
+      "volumeInfo": {
+        "title": "L'affaire Fabiani d'après les lois des Etats-Unis du Vénézuela, d'après les principes généraux du droit des gens et d'après la convention du 26 novembre 1885",
+        "subtitle": "Duplique du gouvernement du Venezuela présentée à M. le président de la Confédération suisse, arbitre",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1894",
+        "description": "A Frenchman is suing two Venezuelans (and ultimately the government of Venezuela) concerning a tugboat business which he had together with two Venezuelans. Contains the Venezuelan government's rejoinder to Fabiani's suit, presented by José Gil Fortoul.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:22247461"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "categories": [
+          "Arbitration and award"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=ZnWQGwAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=81&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZnWQGwAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L_affaire_Fabiani_d_apr%C3%A8s_les_lois_des.html?hl=&id=ZnWQGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZnWQGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Contains the Venezuelan government&#39;s rejoinder to Fabiani&#39;s suit, presented by José Gil Fortoul."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_dGkzwEACAAJ",
+      "etag": "P2Wr7Ai0uRw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_dGkzwEACAAJ",
+      "volumeInfo": {
+        "title": "Premier centenaire de l'Indépendance nationale des Etats-Unis du Venezuela 5 Juillet 1911",
+        "subtitle": "Discours prononcé le 5 Juillet 1911",
+        "authors": [
+          "Dr José Gil Fortoul"
+        ],
+        "publishedDate": "1912",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:491114491"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=_dGkzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=82&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_dGkzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Premier_centenaire_de_l_Ind%C3%A9pendance_na.html?hl=&id=_dGkzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_dGkzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CvcPtwAACAAJ",
+      "etag": "9cmuVybBLYY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CvcPtwAACAAJ",
+      "volumeInfo": {
+        "title": "L'Affaire Fabiani",
+        "subtitle": "d'après les lois des états-unis du Vénézuela d'après les principes généraux du droit des gens et d'après la convention du 26 novembre 1885 : défense du gouvernement du Vénézuela",
+        "authors": [
+          "José Gil Fortoul",
+          "Venezuela",
+          "France. Cour d'appel (Aix-en-Provence)"
+        ],
+        "publishedDate": "1894",
+        "description": "A defense of the Venezuelan government in a court case in which a Frenchman is suing two Venezuelans (and ultimately the government of Venezuela) concerning a tugboat business which all three had once held together.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:57531289"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 116,
+        "printType": "BOOK",
+        "categories": [
+          "Arbitration and award"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=CvcPtwAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=83&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CvcPtwAACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L_Affaire_Fabiani.html?hl=&id=CvcPtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CvcPtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A defense of the Venezuelan government in a court case in which a Frenchman is suing two Venezuelans (and ultimately the government of Venezuela) concerning a tugboat business which all three had once held together."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1SYWzQEACAAJ",
+      "etag": "EY3YiHSDPNw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1SYWzQEACAAJ",
+      "volumeInfo": {
+        "title": "Correspondance",
+        "authors": [
+          "José GIL FORTOUL"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:661145510"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=1SYWzQEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=84&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1SYWzQEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Correspondance.html?hl=&id=1SYWzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1SYWzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lFuLzwEACAAJ",
+      "etag": "BuXCU6IPJ60",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lFuLzwEACAAJ",
+      "volumeInfo": {
+        "title": "Premier centenaire de l'indépendance nationale des Etats-Unis du Vénézuela",
+        "subtitle": "5 juillet 1911",
+        "authors": [
+          "José Gil Fortoul"
+        ],
+        "publishedDate": "1912",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:422345451"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=lFuLzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&cd=85&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lFuLzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Gil+Fortoul%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Premier_centenaire_de_l_ind%C3%A9pendance_na.html?hl=&id=lFuLzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lFuLzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

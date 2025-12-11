@@ -1,0 +1,61 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juan%20Fern%C3%A1ndez%20de%20Le%C3%B3n\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juan%20Fern%C3%A1ndez%20de%20Le%C3%B3n\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "4LfsjgEACAAJ",
+      "etag": "f0AxYA4h6RA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4LfsjgEACAAJ",
+      "volumeInfo": {
+        "title": "Por D. Ysabel Francisca de Leon, muger de don Iuan Fernandez de Cordoua, Cauellero del Abito de Calatraua. Con D. Baltasar de Viuero, vezino desta ciudad",
+        "publishedDate": "1601*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:928656533"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4LfsjgEACAAJ&dq=inauthor:%22Juan+Fern%C3%A1ndez+de+Le%C3%B3n%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4LfsjgEACAAJ&dq=inauthor:%22Juan+Fern%C3%A1ndez+de+Le%C3%B3n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Por_D_Ysabel_Francisca_de_Leon_muger_de.html?hl=&id=4LfsjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4LfsjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

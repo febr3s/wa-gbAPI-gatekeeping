@@ -1,0 +1,1540 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jacinto%20Fombona%20Pachano\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jacinto%20Fombona%20Pachano\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jacinto%20Fombona%20Pachano\"&maxResults=20&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jacinto%20Fombona%20Pachano\"&maxResults=7&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 27,
+  "_totalRequestsMade": 2,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "7uM0AAAAIAAJ",
+      "etag": "vGeRItC0ugs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7uM0AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Las torres desprevenidas ...",
+        "authors": [
+          "Jacinto Fombona Pachano"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3631077"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 68,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7uM0AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7uM0AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7uM0AAAAIAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7uM0AAAAIAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_torres_desprevenidas.html?hl=&id=7uM0AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7uM0AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gswSAAAAYAAJ",
+      "etag": "L6nOMkzFe8M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gswSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Poesía",
+        "authors": [
+          "Jacinto Fombona Pachano"
+        ],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024443044"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 380,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuelan literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gswSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gswSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=gswSAAAAYAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=gswSAAAAYAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADa.html?hl=&id=gswSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gswSAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TdUSAAAAYAAJ",
+      "etag": "AF5PhMDeKws",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TdUSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Prosa",
+        "authors": [
+          "Jacinto Fombona Pachano"
+        ],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024443033"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 734,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuelan literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TdUSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TdUSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TdUSAAAAYAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TdUSAAAAYAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Prosa.html?hl=&id=TdUSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TdUSAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "N9-6tgAACAAJ",
+      "etag": "o0AsuUmZ68w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N9-6tgAACAAJ",
+      "volumeInfo": {
+        "title": "Jacinto Fombona Pachano",
+        "authors": [
+          "Jacinto Fombona Pachano"
+        ],
+        "publishedDate": "1951",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:17206292"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 18,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=N9-6tgAACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=N9-6tgAACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jacinto_Fombona_Pachano.html?hl=&id=N9-6tgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N9-6tgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7YtmHAAACAAJ",
+      "etag": "9dHLQsyfBkY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7YtmHAAACAAJ",
+      "volumeInfo": {
+        "title": "Memoria y cuentas que el Dr. Jacinto Fombona -Pachano, Secretario General de Gobierno del Estado de MIranda, presenta a la Asamblea Legislativa en sus sesiones ordinarias de 1943",
+        "authors": [
+          "Miranda (Venezuela : Estado) Secretaría",
+          "Jacinto Fombona-Pachano"
+        ],
+        "publishedDate": "1943",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55371072"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 65,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7YtmHAAACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7YtmHAAACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memoria_y_cuentas_que_el_Dr_Jacinto_Fomb.html?hl=&id=7YtmHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7YtmHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WxNCAAAAYAAJ",
+      "etag": "fYZUKpBOesQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WxNCAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Poesías",
+        "authors": [
+          "Jacinto Fombona Pachano"
+        ],
+        "publishedDate": "1964",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024249358"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 380,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WxNCAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WxNCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WxNCAAAAYAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WxNCAAAAYAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas.html?hl=&id=WxNCAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WxNCAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pq1UNAEACAAJ",
+      "etag": "yjn3zTlKLow",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pq1UNAEACAAJ",
+      "volumeInfo": {
+        "title": "De las coplas del reverso",
+        "authors": [
+          "Jacinto Fombona Pachano"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253256179"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 18,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=pq1UNAEACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=pq1UNAEACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_las_coplas_del_reverso.html?hl=&id=pq1UNAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pq1UNAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1swSAAAAYAAJ",
+      "etag": "FQ5jODNUBZs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1swSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Virajes",
+        "subtitle": "poemas",
+        "authors": [
+          "Jacinto Fombona Pachano"
+        ],
+        "publishedDate": "1932",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024443011"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1swSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1swSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1swSAAAAYAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1swSAAAAYAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Virajes.html?hl=&id=1swSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1swSAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2HAhYAAACAAJ",
+      "etag": "FmHUEnUN9kE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2HAhYAAACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "subtitle": "Poesía. I",
+        "authors": [
+          "Jacinto Fombona Pachano"
+        ],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:494128295"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 356,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2HAhYAAACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2HAhYAAACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=2HAhYAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2HAhYAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PnestgAACAAJ",
+      "etag": "5BZb2EwoDqU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PnestgAACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "authors": [
+          "Jacinto Fombona Pachano"
+        ],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:2603806"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Venezuelan literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PnestgAACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PnestgAACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=PnestgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PnestgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fV8UMwEACAAJ",
+      "etag": "gBc9Uqi61Zk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fV8UMwEACAAJ",
+      "volumeInfo": {
+        "title": "Poesías. Introducción de Guillermo Sucre",
+        "authors": [
+          "Jacinto FOMBONA-PACHANO",
+          "Guillermo Sucre"
+        ],
+        "publishedDate": "1964",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:561296820"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 369,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=fV8UMwEACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fV8UMwEACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas_Introducci%C3%B3n_de_Guillermo_Sucr.html?hl=&id=fV8UMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fV8UMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "d-71HAAACAAJ",
+      "etag": "LnCKbWEHgvY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/d-71HAAACAAJ",
+      "volumeInfo": {
+        "title": "La Carreta y otras poemas",
+        "authors": [
+          "Jacinto Fombona Pachano"
+        ],
+        "publishedDate": "1951",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12395487"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 18,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=d-71HAAACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=d-71HAAACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Carreta_y_otras_poemas.html?hl=&id=d-71HAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d-71HAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "D8ZgAQAACAAJ",
+      "etag": "+5MEbY67/3k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/D8ZgAQAACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas: Prosa",
+        "authors": [
+          "Jacinto Fombona Pachano"
+        ],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:54029270"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=D8ZgAQAACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=D8ZgAQAACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas_Prosa.html?hl=&id=D8ZgAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=D8ZgAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IiO80AEACAAJ",
+      "etag": "0farHq4APIY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IiO80AEACAAJ",
+      "volumeInfo": {
+        "title": "Mala siembra",
+        "subtitle": "(comedia dramática en tres actos) ...",
+        "authors": [
+          "Arturo Briceño",
+          "Jacinto Fombona Pachano",
+          "Julio Planchart",
+          "Luis Peraza",
+          "Mariano Picón-Salas"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9802000604"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789802000609"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Spanish American"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=IiO80AEACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=IiO80AEACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mala_siembra.html?hl=&id=IiO80AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IiO80AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0r6xtAEACAAJ",
+      "etag": "D8q45kx2Ovg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0r6xtAEACAAJ",
+      "volumeInfo": {
+        "title": "Cuatro canciones corales",
+        "authors": [
+          "Vicente Emilio Sojo"
+        ],
+        "publishedDate": "1942",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:843766841"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 33,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0r6xtAEACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0r6xtAEACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuatro_canciones_corales.html?hl=&id=0r6xtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0r6xtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tVcEtwAACAAJ",
+      "etag": "mxUUAYzKLes",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tVcEtwAACAAJ",
+      "volumeInfo": {
+        "title": "Evolución y fundamentos del derecho de castigar",
+        "subtitle": "Tesis, Univ. central de Venezuela",
+        "authors": [
+          "Jacinto Fombona Pachano"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:79837600"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 18,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tVcEtwAACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=tVcEtwAACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Evoluci%C3%B3n_y_fundamentos_del_derecho_de.html?hl=&id=tVcEtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tVcEtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "m6s0QwAACAAJ",
+      "etag": "aCgELwrUCrQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m6s0QwAACAAJ",
+      "volumeInfo": {
+        "title": "Obra completas",
+        "authors": [
+          "Jacinto Fombona Pachano"
+        ],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432773362"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=m6s0QwAACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=m6s0QwAACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obra_completas.html?hl=&id=m6s0QwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m6s0QwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9jM10AEACAAJ",
+      "etag": "4IRIuhZsxPs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9jM10AEACAAJ",
+      "volumeInfo": {
+        "title": "Archivo Del General Miranda, Etc. [tom. 1-14. Edited by Vicente Dávila: Tom. 15. Edited by a Commission of the Academia Nacional de la Historia; Tom. 16-24. Edited by José Nucete Sardi, Antonio Alamo, Jacinto Fombona Pachano and Eduardo Arroyo Lamela.].",
+        "authors": [
+          "Academia Nacional de la Historia (Venezuela)"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1062948726"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=9jM10AEACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9jM10AEACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Archivo_Del_General_Miranda_Etc_tom_1_14.html?hl=&id=9jM10AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9jM10AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R23hzAEACAAJ",
+      "etag": "h086o80qbfE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R23hzAEACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas: Prosa",
+        "authors": [
+          "Jacinto Fombona Pachano"
+        ],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:54029270"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Venezuelan literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=R23hzAEACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=R23hzAEACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas_Prosa.html?hl=&id=R23hzAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R23hzAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aDNvQwAACAAJ",
+      "etag": "OWjzBF8rlL8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aDNvQwAACAAJ",
+      "volumeInfo": {
+        "title": "Las Torres des prevenidas",
+        "authors": [
+          "Jacinto Fombona-Pachano"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459653069"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 60,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=aDNvQwAACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=aDNvQwAACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_Torres_des_prevenidas.html?hl=&id=aDNvQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aDNvQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4ErOjgEACAAJ",
+      "etag": "e6JHttIvHu8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4ErOjgEACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:919935388"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 709,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4ErOjgEACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4ErOjgEACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=4ErOjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4ErOjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dUvbmgEACAAJ",
+      "etag": "OMeCeSKZ2AM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dUvbmgEACAAJ",
+      "volumeInfo": {
+        "title": "Poetas venezolanos",
+        "subtitle": "número 1",
+        "authors": [
+          "Jacinto Fombona Pachano"
+        ],
+        "publishedDate": "1951",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12371907"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 18,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=dUvbmgEACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dUvbmgEACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poetas_venezolanos.html?hl=&id=dUvbmgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dUvbmgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "c5dHKwAACAAJ",
+      "etag": "xd0OmmFAjOc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/c5dHKwAACAAJ",
+      "volumeInfo": {
+        "title": "Sonetos",
+        "authors": [
+          "Jacinto Fombona Pachano"
+        ],
+        "publishedDate": "1944",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:a50003639"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=c5dHKwAACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=c5dHKwAACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sonetos.html?hl=&id=c5dHKwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=c5dHKwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HLiQmgEACAAJ",
+      "etag": "d8gCAFxd4GU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HLiQmgEACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "subtitle": "Prosa. II",
+        "authors": [
+          "Jacinto Fombona-Pachano"
+        ],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:494128378"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 709,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HLiQmgEACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HLiQmgEACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=HLiQmgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HLiQmgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HhT9SAAACAAJ",
+      "etag": "3qfgVEgxaSg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HhT9SAAACAAJ",
+      "volumeInfo": {
+        "title": "La comedia griega",
+        "authors": [
+          "Jacinto Fombona Pachano"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:602628143"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HhT9SAAACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HhT9SAAACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_comedia_griega.html?hl=&id=HhT9SAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HhT9SAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C3-2xwEACAAJ",
+      "etag": "rghpeAI0RV8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C3-2xwEACAAJ",
+      "volumeInfo": {
+        "title": "Las torres desprevenidas",
+        "authors": [
+          "Jacinto Fombona Pachano"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1025860331"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 57,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=C3-2xwEACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=C3-2xwEACAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_torres_desprevenidas.html?hl=&id=C3-2xwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C3-2xwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7-M0AAAAIAAJ",
+      "etag": "UWz5CtBlly0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7-M0AAAAIAAJ",
+      "volumeInfo": {
+        "title": "\"El canto del hijo.\"",
+        "authors": [
+          "Jacinto Fombona Pachano"
+        ],
+        "publishedDate": "1925",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3631076"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.11.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7-M0AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7-M0AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7-M0AAAAIAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7-M0AAAAIAAJ&dq=inauthor:%22Jacinto+Fombona+Pachano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_canto_del_hijo.html?hl=&id=7-M0AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7-M0AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

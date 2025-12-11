@@ -1,0 +1,747 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Mar%C3%ADa%20Calca%C3%B1o\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Mar%C3%ADa%20Calca%C3%B1o\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 12,
+  "_totalFetchedItems": 12,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "b_TNEAAAQBAJ",
+      "etag": "9Jox0H8+O4w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b_TNEAAAQBAJ",
+      "volumeInfo": {
+        "title": "María Calcaño",
+        "subtitle": "Material de Lectura núm. 5. Vindictas, poetas latinoamericanas. Nueva época",
+        "authors": [
+          "María Calcaño"
+        ],
+        "publisher": "UNAM, Dirección General de Publicaciones y Fomento Editorial",
+        "publishedDate": "2023-07-27",
+        "description": "María José Francisca de Carmen Calcaño Ortega (1906-1956, Maracaibo, Venezuela). Su legado consta de un libro publicado en vida, en Santiago de Chile: Alas fatales (1935) y varios dados a conocer de manera póstuma: Canciones que oyeron mis últimas muñecas (1956), Entre la luna y los hombres (1961), La hermética Maravillada (1938) y Micropoemas. La temática erótica de buena parte de su obra, su estilo confesional y atípico, además del hecho de ser mujer en un gremio nada equitativo, la hicieron merecedora de pocas reseñas y duras críticas de la élite venezolana de su época. No fue sino hasta finales de los años 80 del siglo pasado cuando su obra comenzó a ser revalorada y reeditada. María Calcaño nació el 12 de diciembre de 1906 y murió en la misma ciudad 50 años después, un 23 de diciembre.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786073067119"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6073067119"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 47,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=b_TNEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=b_TNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=b_TNEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Mar%C3%ADa+Calca%C3%B1o%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=b_TNEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=b_TNEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5900,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 5900,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=b_TNEAAAQBAJ&rdid=book-b_TNEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5900000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 5900000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Mar%C3%ADa_Calca%C3%B1o-sample-epub.acsm?id=b_TNEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Mar%C3%ADa_Calca%C3%B1o-sample-pdf.acsm?id=b_TNEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b_TNEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "No fue sino hasta finales de los años 80 del siglo pasado cuando su obra comenzó a ser revalorada y reeditada. María Calcaño nació el 12 de diciembre de 1906 y murió en la misma ciudad 50 años después, un 23 de diciembre."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WNBJAAAAYAAJ",
+      "etag": "MxKUZUTGiO8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WNBJAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Antología poética",
+        "authors": [
+          "María Calcaño"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173026621212"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WNBJAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WNBJAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WNBJAAAAYAAJ&dq=inauthor:%22Mar%C3%ADa+Calca%C3%B1o%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WNBJAAAAYAAJ&dq=inauthor:%22Mar%C3%ADa+Calca%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antolog%C3%ADa_po%C3%A9tica.html?hl=&id=WNBJAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WNBJAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C8V6kgAACAAJ",
+      "etag": "VQKaFc4OHcA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C8V6kgAACAAJ",
+      "volumeInfo": {
+        "title": "Obra poética completa, María Calcaño (1906-1961)",
+        "authors": [
+          "María Calcaño",
+          "María Eugenia Bravo",
+          "Cósimo Mandrillo"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9800114858"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789800114858"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 315,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuelan poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=C8V6kgAACAAJ&dq=inauthor:%22Mar%C3%ADa+Calca%C3%B1o%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=C8V6kgAACAAJ&dq=inauthor:%22Mar%C3%ADa+Calca%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obra_po%C3%A9tica_completa_Mar%C3%ADa_Calca%C3%B1o_1.html?hl=&id=C8V6kgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C8V6kgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FMZUAAAAMAAJ",
+      "etag": "j8jMRkb6dPo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FMZUAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Canciones que oyeron mis últimas muñecas",
+        "subtitle": "poemas",
+        "authors": [
+          "María Calcaño"
+        ],
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023751277"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 102,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.8.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FMZUAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FMZUAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=FMZUAAAAMAAJ&dq=inauthor:%22Mar%C3%ADa+Calca%C3%B1o%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=FMZUAAAAMAAJ&dq=inauthor:%22Mar%C3%ADa+Calca%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Canciones_que_oyeron_mis_%C3%BAltimas_mu%C3%B1ec.html?hl=&id=FMZUAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FMZUAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WyJOzwEACAAJ",
+      "etag": "Ksd1qwm3REc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WyJOzwEACAAJ",
+      "volumeInfo": {
+        "title": "María Calcaño",
+        "authors": [
+          "María Calcaño"
+        ],
+        "publishedDate": "2021",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "607305095X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786073050951"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WyJOzwEACAAJ&dq=inauthor:%22Mar%C3%ADa+Calca%C3%B1o%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WyJOzwEACAAJ&dq=inauthor:%22Mar%C3%ADa+Calca%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mar%C3%ADa_Calca%C3%B1o.html?hl=&id=WyJOzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WyJOzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ieaElwEACAAJ",
+      "etag": "cSw0Z5kIpiM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ieaElwEACAAJ",
+      "volumeInfo": {
+        "title": "Poesía selecta",
+        "authors": [
+          "María Calcaño"
+        ],
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "980402036X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789804020360"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 169,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ieaElwEACAAJ&dq=inauthor:%22Mar%C3%ADa+Calca%C3%B1o%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ieaElwEACAAJ&dq=inauthor:%22Mar%C3%ADa+Calca%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADa_selecta.html?hl=&id=ieaElwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ieaElwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pS9hXwAACAAJ",
+      "etag": "nCQdgD3PciQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pS9hXwAACAAJ",
+      "volumeInfo": {
+        "title": "Canciones que oyeron mis últimas muñeras",
+        "authors": [
+          "María Calcaño"
+        ],
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:494809805"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 82,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=pS9hXwAACAAJ&dq=inauthor:%22Mar%C3%ADa+Calca%C3%B1o%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=pS9hXwAACAAJ&dq=inauthor:%22Mar%C3%ADa+Calca%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Canciones_que_oyeron_mis_%C3%BAltimas_mu%C3%B1er.html?hl=&id=pS9hXwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pS9hXwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BFasGwAACAAJ",
+      "etag": "2bLar8jXsGQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BFasGwAACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "authors": [
+          "María Calcaño"
+        ],
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:51776010"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 252,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BFasGwAACAAJ&dq=inauthor:%22Mar%C3%ADa+Calca%C3%B1o%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BFasGwAACAAJ&dq=inauthor:%22Mar%C3%ADa+Calca%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=BFasGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BFasGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4YhRQwAACAAJ",
+      "etag": "NHmj14I0J8k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4YhRQwAACAAJ",
+      "volumeInfo": {
+        "title": "Entre la luna y los hombres",
+        "subtitle": "Poesías",
+        "authors": [
+          "María Calcaño"
+        ],
+        "publishedDate": "1960",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431334947"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 126,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4YhRQwAACAAJ&dq=inauthor:%22Mar%C3%ADa+Calca%C3%B1o%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4YhRQwAACAAJ&dq=inauthor:%22Mar%C3%ADa+Calca%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Entre_la_luna_y_los_hombres.html?hl=&id=4YhRQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4YhRQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "T8YrnQEACAAJ",
+      "etag": "Bv2zTYY3jmo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/T8YrnQEACAAJ",
+      "volumeInfo": {
+        "title": "Páginas de un diario olvidado y otros relatos",
+        "subtitle": "(1916-1956)",
+        "authors": [
+          "María Calcaño",
+          "María Eugenia Bravo"
+        ],
+        "publishedDate": "2012",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9800119159"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789800119150"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 179,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=T8YrnQEACAAJ&dq=inauthor:%22Mar%C3%ADa+Calca%C3%B1o%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=T8YrnQEACAAJ&dq=inauthor:%22Mar%C3%ADa+Calca%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/P%C3%A1ginas_de_un_diario_olvidado_y_otros_r.html?hl=&id=T8YrnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=T8YrnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TkYFHQAACAAJ",
+      "etag": "RYrCrK77Oek",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TkYFHQAACAAJ",
+      "volumeInfo": {
+        "title": "Alas fatales",
+        "subtitle": "poesías",
+        "authors": [
+          "María Calcaño"
+        ],
+        "publishedDate": "1935",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:237190871"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 147,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TkYFHQAACAAJ&dq=inauthor:%22Mar%C3%ADa+Calca%C3%B1o%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TkYFHQAACAAJ&dq=inauthor:%22Mar%C3%ADa+Calca%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Alas_fatales.html?hl=&id=TkYFHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TkYFHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Q-3n0AEACAAJ",
+      "etag": "pwwp8lRNebU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q-3n0AEACAAJ",
+      "volumeInfo": {
+        "title": "Canción de los ritmos eternos y otros poemas amorosos",
+        "authors": [
+          "María Calcaño"
+        ],
+        "publishedDate": "2016",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9807301300"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789807301305"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Q-3n0AEACAAJ&dq=inauthor:%22Mar%C3%ADa+Calca%C3%B1o%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Q-3n0AEACAAJ&dq=inauthor:%22Mar%C3%ADa+Calca%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Canci%C3%B3n_de_los_ritmos_eternos_y_otros_p.html?hl=&id=Q-3n0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Q-3n0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

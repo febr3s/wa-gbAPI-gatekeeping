@@ -1,0 +1,429 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juan%20Manuel%20Cajigal\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juan%20Manuel%20Cajigal\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 7,
+  "_totalFetchedItems": 7,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "6fBWAAAAMAAJ",
+      "etag": "xtenULZa9uM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6fBWAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Escritos literarios y científicos",
+        "authors": [
+          "Juan Manuel Cajigal"
+        ],
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023860454"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6fBWAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6fBWAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6fBWAAAAMAAJ&dq=inauthor:%22Juan+Manuel+Cajigal%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6fBWAAAAMAAJ&dq=inauthor:%22Juan+Manuel+Cajigal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Escritos_literarios_y_cient%C3%ADficos.html?hl=&id=6fBWAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6fBWAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LC5HAQAAMAAJ",
+      "etag": "3yyTGaElPX4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LC5HAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Bando de buen gobierno",
+        "authors": [
+          "Cuba. Gobierno y capitanía general"
+        ],
+        "publishedDate": "1828",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32437122420579"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 234,
+        "printType": "BOOK",
+        "categories": [
+          "Administrative law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LC5HAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LC5HAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=LC5HAQAAMAAJ&printsec=frontcover&dq=inauthor:%22Juan+Manuel+Cajigal%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LC5HAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LC5HAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=LC5HAQAAMAAJ&rdid=book-LC5HAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Bando_de_buen_gobierno.epub?id=LC5HAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LC5HAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Dgh7GwAACAAJ",
+      "etag": "h0+niqsXfsg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Dgh7GwAACAAJ",
+      "volumeInfo": {
+        "title": "Bando de buen gobierno del escelentisimo Señor Don Juan Manuel Cagigal ...",
+        "subtitle": "gobernador de esta plaza y capitan general de la isla de Cuba y de las dos Floridas ...",
+        "authors": [
+          "Cuba. Gobierno y capitanía general",
+          "Juan Manuel Cajigal"
+        ],
+        "publishedDate": "1819",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:14924154"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": [
+          "Cuba"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Dgh7GwAACAAJ&dq=inauthor:%22Juan+Manuel+Cajigal%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Dgh7GwAACAAJ&dq=inauthor:%22Juan+Manuel+Cajigal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bando_de_buen_gobierno_del_escelentisimo.html?hl=&id=Dgh7GwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Dgh7GwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2XvTzQEACAAJ",
+      "etag": "p8CIP648QJM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2XvTzQEACAAJ",
+      "volumeInfo": {
+        "title": "Costumbristas Venezolanos",
+        "authors": [
+          "Juan Manuel Cajigal"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1187013532"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 91,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2XvTzQEACAAJ&dq=inauthor:%22Juan+Manuel+Cajigal%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2XvTzQEACAAJ&dq=inauthor:%22Juan+Manuel+Cajigal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Costumbristas_Venezolanos.html?hl=&id=2XvTzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2XvTzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mNIjtwAACAAJ",
+      "etag": "cYI0ONQ3nzc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mNIjtwAACAAJ",
+      "volumeInfo": {
+        "title": "Escritos literarios y cientificos",
+        "subtitle": "compilación y prólogo de Luis Correa",
+        "authors": [
+          "Juan Manuel Cajigal",
+          "Luis Correa"
+        ],
+        "publishedDate": "1980",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:367303532"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mNIjtwAACAAJ&dq=inauthor:%22Juan+Manuel+Cajigal%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mNIjtwAACAAJ&dq=inauthor:%22Juan+Manuel+Cajigal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Escritos_literarios_y_cientificos.html?hl=&id=mNIjtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mNIjtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VliaHAAACAAJ",
+      "etag": "iIWdx14wE3k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VliaHAAACAAJ",
+      "volumeInfo": {
+        "title": "Proyecto de Ley de instruccion publica",
+        "authors": [
+          "José Vargas",
+          "Pedro Pablo Díaz",
+          "Juan Manuel Cajigal"
+        ],
+        "publishedDate": "1840",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:5850645"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 53,
+        "printType": "BOOK",
+        "categories": [
+          "Educational law and legislation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VliaHAAACAAJ&dq=inauthor:%22Juan+Manuel+Cajigal%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VliaHAAACAAJ&dq=inauthor:%22Juan+Manuel+Cajigal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Proyecto_de_Ley_de_instruccion_publica.html?hl=&id=VliaHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VliaHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZDQzHQAACAAJ",
+      "etag": "rLeH/2MAtxk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZDQzHQAACAAJ",
+      "volumeInfo": {
+        "title": "Memoria sobre las integrales limitadas por el Coronel de Ingenieros",
+        "authors": [
+          "Juan Manuel Cajigal",
+          "Francisco José Duarte"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:34059681"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 91,
+        "printType": "BOOK",
+        "categories": [
+          "Definite integrals"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZDQzHQAACAAJ&dq=inauthor:%22Juan+Manuel+Cajigal%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZDQzHQAACAAJ&dq=inauthor:%22Juan+Manuel+Cajigal%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memoria_sobre_las_integrales_limitadas_p.html?hl=&id=ZDQzHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZDQzHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

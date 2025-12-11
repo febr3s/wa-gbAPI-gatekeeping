@@ -1,0 +1,120 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Enrique%20L%C3%B3pez%20Bustamante\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Enrique%20L%C3%B3pez%20Bustamante\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 2,
+  "_totalFetchedItems": 2,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "uzQqQwAACAAJ",
+      "etag": "79hhwfX5I70",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uzQqQwAACAAJ",
+      "volumeInfo": {
+        "title": "El Triunfo del Amor",
+        "subtitle": "Novela original",
+        "authors": [
+          "Enrique López Bustamante"
+        ],
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432511745"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 217,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=uzQqQwAACAAJ&dq=inauthor:%22Enrique+L%C3%B3pez+Bustamante%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=uzQqQwAACAAJ&dq=inauthor:%22Enrique+L%C3%B3pez+Bustamante%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Triunfo_del_Amor.html?hl=&id=uzQqQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uzQqQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hoajygAACAAJ",
+      "etag": "kMsYHqYwyYY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hoajygAACAAJ",
+      "volumeInfo": {
+        "title": "La ruta del olvido",
+        "subtitle": "novela",
+        "authors": [
+          "Enrique López Bustamante"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431521634"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 46,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hoajygAACAAJ&dq=inauthor:%22Enrique+L%C3%B3pez+Bustamante%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hoajygAACAAJ&dq=inauthor:%22Enrique+L%C3%B3pez+Bustamante%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_ruta_del_olvido.html?hl=&id=hoajygAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hoajygAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

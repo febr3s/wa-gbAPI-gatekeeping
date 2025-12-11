@@ -1,0 +1,65 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Gabriel%20%C3%81lvarez%20de%20Lugo\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Gabriel%20%C3%81lvarez%20de%20Lugo\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Ey1BQwAACAAJ",
+      "etag": "NnSvcrg8hfk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ey1BQwAACAAJ",
+      "volumeInfo": {
+        "title": "L. Alvarez de Lugo",
+        "authors": [
+          "Rafael Páez"
+        ],
+        "publishedDate": "1972",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432809128"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Ey1BQwAACAAJ&dq=inauthor:%22Jos%C3%A9+Gabriel+%C3%81lvarez+de+Lugo%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Ey1BQwAACAAJ&dq=inauthor:%22Jos%C3%A9+Gabriel+%C3%81lvarez+de+Lugo%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L_Alvarez_de_Lugo.html?hl=&id=Ey1BQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ey1BQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

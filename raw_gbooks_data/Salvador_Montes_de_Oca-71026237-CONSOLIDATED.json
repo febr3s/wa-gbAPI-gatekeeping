@@ -1,0 +1,66 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Salvador%20Montes%20de%20Oca\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Salvador%20Montes%20de%20Oca\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "wEODtwAACAAJ",
+      "etag": "nMjA9bCKfJE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wEODtwAACAAJ",
+      "volumeInfo": {
+        "title": "Mi vida en el crisol del martirio",
+        "subtitle": "a modo de autobiografía",
+        "authors": [
+          "Salvador Montes de Oca"
+        ],
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:754928136"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 191,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wEODtwAACAAJ&dq=inauthor:%22Salvador+Montes+de+Oca%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wEODtwAACAAJ&dq=inauthor:%22Salvador+Montes+de+Oca%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mi_vida_en_el_crisol_del_martirio.html?hl=&id=wEODtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wEODtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

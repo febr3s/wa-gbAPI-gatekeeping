@@ -1,0 +1,62 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Lorenzo%20Campins%20y%20Ballester\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Lorenzo%20Campins%20y%20Ballester\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Zq0pGQAACAAJ",
+      "etag": "sJfnRGFSg9M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Zq0pGQAACAAJ",
+      "volumeInfo": {
+        "title": "Autos sobre la incorporación del Dr. D. Lorenzo Campins y Ballester, 1763",
+        "publishedDate": "1971",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:74334588"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 78,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Zq0pGQAACAAJ&dq=inauthor:%22Lorenzo+Campins+y+Ballester%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Zq0pGQAACAAJ&dq=inauthor:%22Lorenzo+Campins+y+Ballester%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Autos_sobre_la_incorporaci%C3%B3n_del_Dr_D_L.html?hl=&id=Zq0pGQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Zq0pGQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

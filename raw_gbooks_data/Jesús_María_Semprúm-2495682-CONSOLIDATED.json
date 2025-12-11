@@ -1,0 +1,65 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jes%C3%BAs%20Mar%C3%ADa%20Sempr%C3%BAm\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jes%C3%BAs%20Mar%C3%ADa%20Sempr%C3%BAm\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "DB480QEACAAJ",
+      "etag": "mgXJh2RN1zk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DB480QEACAAJ",
+      "volumeInfo": {
+        "title": "Colección de ensayo Jesús Semprúm",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1506616250"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=DB480QEACAAJ&dq=inauthor:%22Jes%C3%BAs+Mar%C3%ADa+Sempr%C3%BAm%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DB480QEACAAJ&dq=inauthor:%22Jes%C3%BAs+Mar%C3%ADa+Sempr%C3%BAm%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Colecci%C3%B3n_de_ensayo_Jes%C3%BAs_Sempr%C3%BAm.html?hl=&id=DB480QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DB480QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

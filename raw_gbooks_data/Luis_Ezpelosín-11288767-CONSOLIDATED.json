@@ -1,0 +1,65 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Luis%20Ezpelos%C3%ADn\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Luis%20Ezpelos%C3%ADn\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "R_rlMgEACAAJ",
+      "etag": "T6vkFPBC9fk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R_rlMgEACAAJ",
+      "volumeInfo": {
+        "title": "Don Luis Ezpelosín. 1855-1921. [Appreciations by Various Authors. Edited by L. Villalba-Villalba. With a Portrait.].",
+        "authors": [
+          "Luis Villalba Villalba",
+          "Luis AVELEDO Y. EZPELOSÍN"
+        ],
+        "publishedDate": "1952",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:503795359"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=R_rlMgEACAAJ&dq=inauthor:%22Luis+Ezpelos%C3%ADn%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=R_rlMgEACAAJ&dq=inauthor:%22Luis+Ezpelos%C3%ADn%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Don_Luis_Ezpelos%C3%ADn_1855_1921_Appreciati.html?hl=&id=R_rlMgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R_rlMgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

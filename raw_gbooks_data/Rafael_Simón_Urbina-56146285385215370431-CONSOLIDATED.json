@@ -1,0 +1,130 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Rafael%20Sim%C3%B3n%20Urbina\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Rafael%20Sim%C3%B3n%20Urbina\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 2,
+  "_totalFetchedItems": 2,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "dwBxAAAAMAAJ",
+      "etag": "YIG37BsNnDQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dwBxAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Rafael Simón Urbina's Accusations of Pederasty Pursue Romulo Betancourt",
+        "subtitle": "Proof of the Homosexuality of the Present President of Venezuela",
+        "authors": [
+          "Rafael Simón Urbina"
+        ],
+        "publishedDate": "1959",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023665878"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dwBxAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dwBxAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=dwBxAAAAMAAJ&dq=inauthor:%22Rafael+Sim%C3%B3n+Urbina%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dwBxAAAAMAAJ&dq=inauthor:%22Rafael+Sim%C3%B3n+Urbina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rafael_Sim%C3%B3n_Urbina_s_Accusations_of_Pe.html?hl=&id=dwBxAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dwBxAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "odwSGQAACAAJ",
+      "etag": "1E+MYcK/nko",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/odwSGQAACAAJ",
+      "volumeInfo": {
+        "title": "Victoria, dolor y tragedia",
+        "authors": [
+          "Rafael Simón Urbina"
+        ],
+        "publishedDate": "1946",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:51017556"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 178,
+        "printType": "BOOK",
+        "categories": [
+          "Urbina, Rafael Simon"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=odwSGQAACAAJ&dq=inauthor:%22Rafael+Sim%C3%B3n+Urbina%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=odwSGQAACAAJ&dq=inauthor:%22Rafael+Sim%C3%B3n+Urbina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Victoria_dolor_y_tragedia.html?hl=&id=odwSGQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=odwSGQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,1571 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Ud%C3%B3n%20P%C3%A9rez\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Ud%C3%B3n%20P%C3%A9rez\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Ud%C3%B3n%20P%C3%A9rez\"&maxResults=20&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Ud%C3%B3n%20P%C3%A9rez\"&maxResults=5&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 25,
+  "_totalRequestsMade": 2,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "3YZmEAAAQBAJ",
+      "etag": "aa5Kimb4UrI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3YZmEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Antología de Udón Pérez",
+        "authors": [
+          "Udón Pérez"
+        ],
+        "publisher": "Sultana del Lago, Editores",
+        "description": "“Udón Pérez fue un poeta de inconfundible transparencia clásica” Rafael Yepes Trujillo “Udón Pérez constituye un caso muy especial en la literatura venezolana. Surge al universo de la palabra poética en los días del descenso romántico y del surgimiento del Positivismo y del Modernismo, experimentalismo, visión platónica, altisonancia y nuevo fervor por la palabra” Camilo Balza Donatti “Udón Pérez, el gran poeta del Zulia, orgullo de su ciudad, de la que él llamó tan rumorosamente “Maracaibo Mía”, erigiéndose como emblema indiscutible de esta ciudad puerto y símbolo de identidad regional, así como auténtico representante del nativismo en Venezuela, que lo hacen desde este suelo oleaginoso, de relámpagos y palmeras, un poeta de América” Jesús Ángel Semprún Parra “Udón Pérez sigue siendo el “Maestro de la versificación” en el Zulia, el poeta que llenaría más de treinta años de la poesía vernácula criolla, y aunque algunos bardos han logrado superar su belleza y emoción, ninguno lo ha podido hacer en la perfección del verso, al estilo de los grandes maestros clásicos de la antigüedad” Luis Guillermo Hernández",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798442104790"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3YZmEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3YZmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3YZmEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3YZmEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3YZmEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 27959,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 27959,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3YZmEAAAQBAJ&rdid=book-3YZmEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 27959000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 27959000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Antolog%C3%ADa_de_Ud%C3%B3n_P%C3%A9rez-sample-pdf.acsm?id=3YZmEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3YZmEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "“Udón Pérez fue un poeta de inconfundible transparencia clásica” Rafael Yepes Trujillo “Udón Pérez constituye un caso muy especial en la literatura venezolana."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o1FKLMN0yHwC",
+      "etag": "9JYaM3cDinM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o1FKLMN0yHwC",
+      "volumeInfo": {
+        "title": "Lira triste",
+        "authors": [
+          "Udón Pérez"
+        ],
+        "publishedDate": "1903",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "YALE:39002085768183"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 102,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.1.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=o1FKLMN0yHwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=o1FKLMN0yHwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=o1FKLMN0yHwC&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=o1FKLMN0yHwC&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lira_triste.html?hl=&id=o1FKLMN0yHwC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o1FKLMN0yHwC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wv1AOYAqeUoC",
+      "etag": "KmcYRaQBuy0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wv1AOYAqeUoC",
+      "volumeInfo": {
+        "title": "Colmena lírica",
+        "authors": [
+          "Udón Pérez"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "YALE:39002085768373"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wv1AOYAqeUoC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wv1AOYAqeUoC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wv1AOYAqeUoC&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wv1AOYAqeUoC&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Colmena_l%C3%ADrica.html?hl=&id=wv1AOYAqeUoC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wv1AOYAqeUoC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jlOIEQAAQBAJ",
+      "etag": "4q0YoJCfLnA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jlOIEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Dos siglos de poesia en el Zulia. Tomo II",
+        "publisher": "Sultana del Lago, Editores",
+        "description": "Dos siglos de poesía en el Zulia. Tomo II es una obra monumental compilada por el poeta y ensayista Camilo Balza Donatti (1927–2020), que recoge las voces poéticas más significativas de la región zuliana en el transcurso de los siglos XIX y XX. Esta antología ofrece una mirada profunda a la evolución de la lírica venezolana, desde los románticos y modernistas hasta los autores que consolidaron la identidad literaria del occidente del país. El libro no solo preserva la memoria literaria de Maracaibo y del Zulia, sino que constituye también un testimonio invaluable para investigadores, estudiantes, docentes y amantes de la poesía latinoamericana. Su valor radica en la amplitud de autores incluidos, la fidelidad documental y el análisis cultural que Balza Donatti aporta como editor y crítico. Con un lenguaje cuidado y una investigación rigurosa, este volumen se convierte en referencia obligada para quienes deseen adentrarse en la tradición poética venezolana y comprender la riqueza cultural de la zulianidad. Ideal para bibliotecas, universidades y lectores apasionados por la poesía hispanoamericana, Dos siglos de poesía en el Zulia reivindica el lugar del Zulia como faro literario en la historia de Venezuela.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789801861430"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9801861436"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 516,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jlOIEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jlOIEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jlOIEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jlOIEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jlOIEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 38860,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 38860,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jlOIEQAAQBAJ&rdid=book-jlOIEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 38860000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 38860000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Dos_siglos_de_poesia_en_el_Zulia_Tomo_II-sample-pdf.acsm?id=jlOIEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jlOIEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dos siglos de poesía en el Zulia."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1-juDwAAQBAJ",
+      "etag": "uoL8aH3sXRM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1-juDwAAQBAJ",
+      "volumeInfo": {
+        "title": "ROSAS MARIANAS",
+        "subtitle": "La Chinita y los poetas zulianos",
+        "authors": [
+          "Jesús Ángel Semprún Parra",
+          "Luis Perozo Cervantes",
+          "Carlos Ildemar Pérez",
+          "Udón Pérez",
+          "Ideolfonso Vázquez",
+          "Graciela Rincón Calcaño",
+          "Emiliano Hernández",
+          "Ismael Urdaneta",
+          "Octavio Hernández",
+          "Elías Sánchez Rubio"
+        ],
+        "publisher": "Sultana del Lago, Editores",
+        "publishedDate": "2020-07-02",
+        "description": "En la construcción de un imaginario colectivo intervienen múltiples elementos, pero la FE es quizá uno de los más importantes, ya que ha definido a las civilizaciones humanas desde un principio; hay momentos de nuestra historia que solo pueden ser entendidos si se miran a través del cristal de las creencias, y sin duda, Jesús Ángel Semprún Parra en las páginas de Rosas Marianas ha logrado completar un mapa de la idiosincrasia zuliana que estaba extraviado. El valor de este libro trasciende la naturaleza intrínseca de una antología y se convierte en un documento patrimonial singular, que realza uno de los símbolos fundamentales de nuestra identidad y potencia a través de la reflexión poética su significado para las generaciones futuras. Esta antología recoge más de cincuenta poetas quienes, a través de la literatura, han convertido a La Chinita de Maracaibo, en una forma de arte que es objeto e idea al mismo tiempo, devoción y misterio, regocijo y redención.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798663242066"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1-juDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1-juDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1-juDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1-juDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1-juDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13960,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 13960,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=1-juDwAAQBAJ&rdid=book-1-juDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13960000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 13960000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/ROSAS_MARIANAS-sample-pdf.acsm?id=1-juDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1-juDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En la construcción de un imaginario colectivo intervienen múltiples elementos, pero la FE es quizá uno de los más importantes, ya que ha definido a las civilizaciones humanas desde un principio; hay momentos de nuestra historia que solo ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9ztAAAAAMAAJ",
+      "etag": "cMKQFwR7fjo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9ztAAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Evocaciones íntimas",
+        "authors": [
+          "Udón Pérez"
+        ],
+        "publishedDate": "1951",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015065638366"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 76,
+        "printType": "BOOK",
+        "categories": [
+          "Drug abuse"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9ztAAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9ztAAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9ztAAAAAMAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9ztAAAAAMAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Evocaciones_%C3%ADntimas.html?hl=&id=9ztAAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9ztAAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UmwzAQAAIAAJ",
+      "etag": "eAIukLTvTFQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UmwzAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Ánfora criolla",
+        "authors": [
+          "Udón Pérez"
+        ],
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B718728"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 290,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UmwzAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UmwzAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=UmwzAQAAIAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=UmwzAQAAIAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%C3%81nfora_criolla.html?hl=&id=UmwzAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UmwzAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7Lg0AAAAIAAJ",
+      "etag": "Qt2eNL95qJg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7Lg0AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Dos poemas",
+        "authors": [
+          "Udón Pérez"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3630990"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 66,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.11.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7Lg0AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7Lg0AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7Lg0AAAAIAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7Lg0AAAAIAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dos_poemas.html?hl=&id=7Lg0AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7Lg0AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zIkyLNOo7UkC",
+      "etag": "qfmb1C/Avoc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zIkyLNOo7UkC",
+      "volumeInfo": {
+        "title": "Frutos naturales",
+        "subtitle": "ensayo dramatico en tres actos y en verso ...",
+        "authors": [
+          "Udón Pérez"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "YALE:39002085768365"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 146,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zIkyLNOo7UkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zIkyLNOo7UkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=zIkyLNOo7UkC&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zIkyLNOo7UkC&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Frutos_naturales.html?hl=&id=zIkyLNOo7UkC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zIkyLNOo7UkC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uy0coKq902kC",
+      "etag": "Q9tgJbKWsyg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uy0coKq902kC",
+      "volumeInfo": {
+        "title": "Hojas i pétalos",
+        "subtitle": "poesías",
+        "authors": [
+          "Udón Pérez"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112037324115"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 276,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uy0coKq902kC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uy0coKq902kC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=uy0coKq902kC&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=uy0coKq902kC&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hojas_i_p%C3%A9talos.html?hl=&id=uy0coKq902kC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uy0coKq902kC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EBVTAAAAMAAJ",
+      "etag": "VoJUmiJN+M4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EBVTAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Calcos",
+        "subtitle": "versiones poéticas",
+        "authors": [
+          "Udón Pérez"
+        ],
+        "publishedDate": "1952",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024555729"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 322,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EBVTAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EBVTAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EBVTAAAAMAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EBVTAAAAMAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Calcos.html?hl=&id=EBVTAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EBVTAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dtg0AAAAIAAJ",
+      "etag": "UeYjeNn+/Hk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dtg0AAAAIAAJ",
+      "volumeInfo": {
+        "title": "El \"Gordo\"",
+        "subtitle": "drama original en tres actos i en verso",
+        "authors": [
+          "Udón Pérez"
+        ],
+        "publishedDate": "1917",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3631658"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 122,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.10.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dtg0AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dtg0AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=dtg0AAAAIAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dtg0AAAAIAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Gordo.html?hl=&id=dtg0AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dtg0AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xhb7tgAACAAJ",
+      "etag": "GjFU+x0PjQ4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xhb7tgAACAAJ",
+      "volumeInfo": {
+        "title": "Udón Pérez",
+        "subtitle": "antología de su obra",
+        "authors": [
+          "Udón Pérez"
+        ],
+        "publishedDate": "1968",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432941261"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 809,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=xhb7tgAACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=xhb7tgAACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ud%C3%B3n_P%C3%A9rez.html?hl=&id=xhb7tgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xhb7tgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CgcAMwEACAAJ",
+      "etag": "OQ+a26VC5Bo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CgcAMwEACAAJ",
+      "volumeInfo": {
+        "title": "Udón Pérez. Antología de Su Obra. (Selección ... Por ... Adalberto Toledo ... Luis Pino Ochoa Y ... Mercedes Bermúdez de Belloso.).",
+        "authors": [
+          "Udón Antero PÉREZ",
+          "Mercedes BERMÚDEZ DE BELLOSO",
+          "Luis PINO OCHOA",
+          "Adalberto TOLEDO"
+        ],
+        "publishedDate": "1968",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:503715018"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 809,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=CgcAMwEACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CgcAMwEACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ud%C3%B3n_P%C3%A9rez_Antolog%C3%ADa_de_Su_Obra_Selec.html?hl=&id=CgcAMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CgcAMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "z2xEMwEACAAJ",
+      "etag": "icUQI/bSmOE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z2xEMwEACAAJ",
+      "volumeInfo": {
+        "title": "Cantos de Udón Pérez Al Libertador. Homenaje Del Ejecutivo Del Estado Zulia Al Padre de la Patria en la Fecha de Su Natalicio, 24 de Julio de 1940. [With Portraits.].",
+        "authors": [
+          "State of ZULIA",
+          "Udón Antero PÉREZ"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:504481069"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=z2xEMwEACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=z2xEMwEACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cantos_de_Ud%C3%B3n_P%C3%A9rez_Al_Libertador_Hom.html?hl=&id=z2xEMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=z2xEMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "26nrMgEACAAJ",
+      "etag": "QA4+4bKxTjM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/26nrMgEACAAJ",
+      "volumeInfo": {
+        "title": "Grandes Líricos Zulianos. José Ramón Yepes, Ildefonso Vázquez, Udón Pérez. Ensayos Críticos",
+        "authors": [
+          "Jesús Enrique LOSSADA",
+          "Udón Antero PÉREZ",
+          "Ildefonso VÁZQUEZ",
+          "José Ramón YEPES"
+        ],
+        "publishedDate": "1939",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:503780394"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 76,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=26nrMgEACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=26nrMgEACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Grandes_L%C3%ADricos_Zulianos_Jos%C3%A9_Ram%C3%B3n_Y.html?hl=&id=26nrMgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=26nrMgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9EyYAAAACAAJ",
+      "etag": "6I+YqvkuaUM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9EyYAAAACAAJ",
+      "volumeInfo": {
+        "title": "Rosas Secas",
+        "authors": [
+          "Udón Pérez"
+        ],
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9806535081"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789806535084"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 155,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=9EyYAAAACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9EyYAAAACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rosas_Secas.html?hl=&id=9EyYAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9EyYAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BpUIywEACAAJ",
+      "etag": "qFnjnlOQiec",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BpUIywEACAAJ",
+      "volumeInfo": {
+        "title": "El \"gordo\"",
+        "subtitle": "drama original en tres actos i en verso",
+        "authors": [
+          "Udón Pérez"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1123347113"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BpUIywEACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BpUIywEACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_gordo.html?hl=&id=BpUIywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BpUIywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nrjjlgEACAAJ",
+      "etag": "Vwr/5PbN6mU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nrjjlgEACAAJ",
+      "volumeInfo": {
+        "title": "Antología poética",
+        "authors": [
+          "Udón Pérez"
+        ],
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9804020270"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789804020278"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 153,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nrjjlgEACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nrjjlgEACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antolog%C3%ADa_po%C3%A9tica.html?hl=&id=nrjjlgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nrjjlgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GFdEQwAACAAJ",
+      "etag": "qWVWY6KdB9c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GFdEQwAACAAJ",
+      "volumeInfo": {
+        "title": "Cantos de Udón Pérez al Libertador...",
+        "authors": [
+          "Udon Pérez"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459392222"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GFdEQwAACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GFdEQwAACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cantos_de_Ud%C3%B3n_P%C3%A9rez_al_Libertador.html?hl=&id=GFdEQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GFdEQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HaeqGwAACAAJ",
+      "etag": "kf9EPTUHCW4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HaeqGwAACAAJ",
+      "volumeInfo": {
+        "title": "Hojas y pétaos",
+        "subtitle": "poesías",
+        "authors": [
+          "Udón Pérez"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55370832"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HaeqGwAACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HaeqGwAACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hojas_y_p%C3%A9taos.html?hl=&id=HaeqGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HaeqGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i_FnGwAACAAJ",
+      "etag": "QYMBm+ydmhk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i_FnGwAACAAJ",
+      "volumeInfo": {
+        "title": "Cuantos al libertador",
+        "authors": [
+          "Udón Pérez"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55370791"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=i_FnGwAACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=i_FnGwAACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuantos_al_libertador.html?hl=&id=i_FnGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i_FnGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1tZbHQAACAAJ",
+      "etag": "7hEN2EP2A3Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1tZbHQAACAAJ",
+      "volumeInfo": {
+        "title": "Antología de su obra",
+        "authors": [
+          "Udón Pérez",
+          "Adalberto Toledo",
+          "Luis Pino Ochoa",
+          "Mercedes Bermúdez de Belloso"
+        ],
+        "publishedDate": "1968",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:73008806"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 809,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1tZbHQAACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1tZbHQAACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antolog%C3%ADa_de_su_obra.html?hl=&id=1tZbHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1tZbHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rIE3HwAACAAJ",
+      "etag": "NDlExjNxVa4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rIE3HwAACAAJ",
+      "volumeInfo": {
+        "title": "Láurea",
+        "subtitle": "cantos patrióticos",
+        "authors": [
+          "Udón Pérez"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:23063867"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 271,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=rIE3HwAACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rIE3HwAACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L%C3%A1urea.html?hl=&id=rIE3HwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rIE3HwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AbnEHwAACAAJ",
+      "etag": "FqbVdbqQ3oY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AbnEHwAACAAJ",
+      "volumeInfo": {
+        "title": "El jardín de las caricias",
+        "subtitle": "versiones poeticas",
+        "authors": [
+          "Udón Pérez"
+        ],
+        "publishedDate": "1952",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:22759062"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 59,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=AbnEHwAACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=AbnEHwAACAAJ&dq=inauthor:%22Ud%C3%B3n+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_jard%C3%ADn_de_las_caricias.html?hl=&id=AbnEHwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AbnEHwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

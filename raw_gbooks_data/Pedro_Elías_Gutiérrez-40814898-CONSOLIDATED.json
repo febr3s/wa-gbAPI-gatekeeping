@@ -1,0 +1,129 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Pedro%20El%C3%ADas%20Guti%C3%A9rrez\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Pedro%20El%C3%ADas%20Guti%C3%A9rrez\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 2,
+  "_totalFetchedItems": 2,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "CV4PAQAAMAAJ",
+      "etag": "LEvGgLMSvVI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CV4PAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Catalog of the Cuban and Caribbean Library, University of Miami, Coral Gables, Florida",
+        "authors": [
+          "University of Miami. Cuban and Caribbean Library"
+        ],
+        "publishedDate": "1977",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015082924575"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 858,
+        "printType": "BOOK",
+        "categories": [
+          "Caribbean Area"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.12.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CV4PAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CV4PAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=CV4PAQAAMAAJ&pg=PA321&dq=inauthor:%22Pedro+El%C3%ADas+Guti%C3%A9rrez%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CV4PAQAAMAAJ&dq=inauthor:%22Pedro+El%C3%ADas+Guti%C3%A9rrez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Catalog_of_the_Cuban_and_Caribbean_Libra.html?hl=&id=CV4PAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CV4PAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GizkGwAACAAJ",
+      "etag": "6k2gtbqbx6Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GizkGwAACAAJ",
+      "volumeInfo": {
+        "title": "Pedro Elías Aristeguieta Rojas",
+        "authors": [
+          "Humberto Tejera"
+        ],
+        "publishedDate": "1989",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:91818926"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 29,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GizkGwAACAAJ&dq=inauthor:%22Pedro+El%C3%ADas+Guti%C3%A9rrez%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GizkGwAACAAJ&dq=inauthor:%22Pedro+El%C3%ADas+Guti%C3%A9rrez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pedro_El%C3%ADas_Aristeguieta_Rojas.html?hl=&id=GizkGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GizkGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

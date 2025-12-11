@@ -1,0 +1,466 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Mar%C3%ADa%20Carre%C3%B1o\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Mar%C3%ADa%20Carre%C3%B1o\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 8,
+  "_totalFetchedItems": 8,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "nsoHAQAAIAAJ",
+      "etag": "fnjs+Sh+bFM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nsoHAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Alfred Hitchcock",
+        "authors": [
+          "José María Carreño"
+        ],
+        "publisher": "Ediciones Jc",
+        "publishedDate": "1980",
+        "description": "Su maestría técnica y popularidad no deben ocultar la extraorddinaria complejidad de su estilo cinematográfico y de su visión de la condición humana. Sin embargo, prescindir de su irrenunciable carácter lúdico puede resultar igualmente desvirtuador. Este libro intenta hacer justicia a laos dos aspectos, que no sólo van estrechamente unidos, sino que además se enriquecen mutuamente.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105039228262"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nsoHAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nsoHAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nsoHAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Carre%C3%B1o%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nsoHAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Alfred_Hitchcock.html?hl=&id=nsoHAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nsoHAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Su maestría técnica y popularidad no deben ocultar la extraorddinaria complejidad de su estilo cinematográfico y de su visión de la condición humana."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HpnrcQAACAAJ",
+      "etag": "TCEL6tHBcew",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HpnrcQAACAAJ",
+      "volumeInfo": {
+        "title": "Abismo",
+        "subtitle": "Guión cinematográfico",
+        "authors": [
+          "José María Carreño Bermúdez"
+        ],
+        "publishedDate": "1972",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431907162"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HpnrcQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Carre%C3%B1o%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HpnrcQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Abismo.html?hl=&id=HpnrcQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HpnrcQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "neQxQwAACAAJ",
+      "etag": "w5lwubtllEE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/neQxQwAACAAJ",
+      "volumeInfo": {
+        "title": "El ojo que todo lo ve",
+        "subtitle": "guión cinematográfico original de José María Carreño",
+        "authors": [
+          "José María Carreño"
+        ],
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432087297"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=neQxQwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Carre%C3%B1o%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=neQxQwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_ojo_que_todo_lo_ve.html?hl=&id=neQxQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=neQxQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aUEVcgAACAAJ",
+      "etag": "i/+C2Ei9r6E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aUEVcgAACAAJ",
+      "volumeInfo": {
+        "title": "Abismo",
+        "subtitle": "guión para cortometraje",
+        "authors": [
+          "José María Carreño Bermúdez"
+        ],
+        "publishedDate": "1972",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431907165"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=aUEVcgAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Carre%C3%B1o%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=aUEVcgAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Abismo.html?hl=&id=aUEVcgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aUEVcgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "skJvQwAACAAJ",
+      "etag": "cNvtEgKBKk8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/skJvQwAACAAJ",
+      "volumeInfo": {
+        "title": "In memoriam",
+        "subtitle": "(2a. versión) : guión",
+        "authors": [
+          "Juan Tébar",
+          "Adolfo Bioy Casares",
+          "José María Carreño",
+          "Enrique Brasó"
+        ],
+        "publishedDate": "1977",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432935346"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=skJvQwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Carre%C3%B1o%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=skJvQwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/In_memoriam.html?hl=&id=skJvQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=skJvQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yaVRSQAACAAJ",
+      "etag": "9riqwkkegp4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yaVRSQAACAAJ",
+      "volumeInfo": {
+        "title": "Alfred Hitchcock",
+        "subtitle": "el lado oscuro de un genio",
+        "authors": [
+          "Donald Spoto"
+        ],
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8473863607"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788473863605"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 575,
+        "printType": "BOOK",
+        "categories": [
+          "Motion picture producers and directors"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yaVRSQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Carre%C3%B1o%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yaVRSQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Alfred_Hitchcock.html?hl=&id=yaVRSQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yaVRSQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7hYhogEACAAJ",
+      "etag": "jx3yFL5dDVA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7hYhogEACAAJ",
+      "volumeInfo": {
+        "title": "Organización y administración del Centro Médico Santa Teresa S. A.",
+        "authors": [
+          "José María Carreño Graupera",
+          "Escuela de Altos Estudios Mercantiles (Barcelona, Catalunya)"
+        ],
+        "publishedDate": "1955*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:892209546"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 402,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7hYhogEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Carre%C3%B1o%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7hYhogEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Organizaci%C3%B3n_y_administraci%C3%B3n_del_Cent.html?hl=&id=7hYhogEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7hYhogEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "luk9QwAACAAJ",
+      "etag": "81Q5Y9QZUY4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/luk9QwAACAAJ",
+      "volumeInfo": {
+        "title": "\"In memoriam\"",
+        "authors": [
+          "Juan Tébar",
+          "Adolfo Bioy Casares",
+          "José María Carreño Bermudes"
+        ],
+        "publishedDate": "1976",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432935335"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=luk9QwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Carre%C3%B1o%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=luk9QwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Carre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/In_memoriam.html?hl=&id=luk9QwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=luk9QwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

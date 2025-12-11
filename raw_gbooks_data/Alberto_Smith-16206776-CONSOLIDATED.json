@@ -1,0 +1,432 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Alberto%20Smith\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Alberto%20Smith\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 7,
+  "_totalFetchedItems": 7,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "HSkxAQAAMAAJ",
+      "etag": "0gh4nA4gdSY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HSkxAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Informe del doctor A. Smith á la Junta directiva de la Fábrica nacional de cementos",
+        "authors": [
+          "Alberto Smith"
+        ],
+        "publishedDate": "1908",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CHI:73113865"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 58,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HSkxAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HSkxAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HSkxAQAAMAAJ&dq=inauthor:%22Alberto+Smith%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HSkxAQAAMAAJ&dq=inauthor:%22Alberto+Smith%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Informe_del_doctor_A_Smith_%C3%A1_la_Junta_d.html?hl=&id=HSkxAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HSkxAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jl4QAAAAYAAJ",
+      "etag": "4SIAtjacOtw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jl4QAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Formación del estudiante del profesional y del ciudadano",
+        "authors": [
+          "Alberto Smith"
+        ],
+        "publishedDate": "1980",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173025422684"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "categories": [
+          "Career education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jl4QAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jl4QAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jl4QAAAAYAAJ&dq=inauthor:%22Alberto+Smith%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jl4QAAAAYAAJ&dq=inauthor:%22Alberto+Smith%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Formaci%C3%B3n_del_estudiante_del_profesiona.html?hl=&id=jl4QAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jl4QAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XUTZzAEACAAJ",
+      "etag": "Qz2xY/1i3tc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XUTZzAEACAAJ",
+      "volumeInfo": {
+        "title": "Manual del ingeniero",
+        "authors": [
+          "John C. Trautwine"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:803582853"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1476,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=XUTZzAEACAAJ&dq=inauthor:%22Alberto+Smith%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=XUTZzAEACAAJ&dq=inauthor:%22Alberto+Smith%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_del_ingeniero.html?hl=&id=XUTZzAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XUTZzAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KNCvzwEACAAJ",
+      "etag": "rnwnO3O0K/s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KNCvzwEACAAJ",
+      "volumeInfo": {
+        "title": "The Modification of Metal-Organic Frameworks for Drug Delivery",
+        "authors": [
+          "Jose Alberto Smith"
+        ],
+        "publishedDate": "2021",
+        "description": "Cancer causes millions of deaths annually. Various treatments have been developed to combat this disease; however, existing therapies often lack specificity to cancer cells and can cause severe side effects. Direct administration of drugs for cancer treatment is not practical as the drug often attacks both healthy and tumor cells. Extensive efforts have been put into developing drug-delivery systems that are targeted toward cancer cells. Metal-organic frameworks (MOFs) are cage-like structures with high storage capacity, biocompatible and low cytotoxicity, making them ideal drug carriers. This project aims to enhance the stability of MOFs and achieve controllable drug release by incorporating a polymer protective coating, poly(ethylene glycol) (PEG), into MOFs. The drug encapsulation and release properties of three modified MOFs were studied under conditions that mimic healthy and cancer cell environments using calcein as a model drug. Compared to uncoated MOFs, all three PEG-coated MOFs exhibited improved stability and better-controlled drug release under pH 7.4.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798460477111"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Biochemistry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=KNCvzwEACAAJ&dq=inauthor:%22Alberto+Smith%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KNCvzwEACAAJ&dq=inauthor:%22Alberto+Smith%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Modification_of_Metal_Organic_Framew.html?hl=&id=KNCvzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KNCvzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Cancer causes millions of deaths annually."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "98K4jwEACAAJ",
+      "etag": "u92IkfCv6Ig",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/98K4jwEACAAJ",
+      "volumeInfo": {
+        "title": "Posterior Pituitary Peptide Hormones in the Human Foetus and Neonate",
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:940260196"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 568,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=98K4jwEACAAJ&dq=inauthor:%22Alberto+Smith%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=98K4jwEACAAJ&dq=inauthor:%22Alberto+Smith%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Posterior_Pituitary_Peptide_Hormones_in.html?hl=&id=98K4jwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=98K4jwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mcBAzwEACAAJ",
+      "etag": "4Stkjfiu52o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mcBAzwEACAAJ",
+      "volumeInfo": {
+        "title": "Nonlinear Models of Chemical Processes",
+        "authors": [
+          "Carlos Alberto Smith"
+        ],
+        "publishedDate": "1972",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1325942799"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 394,
+        "printType": "BOOK",
+        "categories": [
+          "Chemical processes"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=mcBAzwEACAAJ&dq=inauthor:%22Alberto+Smith%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mcBAzwEACAAJ&dq=inauthor:%22Alberto+Smith%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nonlinear_Models_of_Chemical_Processes.html?hl=&id=mcBAzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mcBAzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o2A8zwEACAAJ",
+      "etag": "wxfebMhtzKM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o2A8zwEACAAJ",
+      "volumeInfo": {
+        "title": "A Study of a General Non-linear System with a Proportional-integral Controller",
+        "authors": [
+          "Carlos Alberto Smith"
+        ],
+        "publishedDate": "1970",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1325928000"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 170,
+        "printType": "BOOK",
+        "categories": [
+          "Automatic control"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=o2A8zwEACAAJ&dq=inauthor:%22Alberto+Smith%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=o2A8zwEACAAJ&dq=inauthor:%22Alberto+Smith%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Study_of_a_General_Non_linear_System_w.html?hl=&id=o2A8zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o2A8zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

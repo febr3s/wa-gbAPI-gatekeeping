@@ -1,0 +1,66 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Joaqu%C3%ADn%20Veroes\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Joaqu%C3%ADn%20Veroes\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "-_gZMwEACAAJ",
+      "etag": "/MQZcvGtrDY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-_gZMwEACAAJ",
+      "volumeInfo": {
+        "title": "El Ilustre Prócer de la Independencia Suramericana, Coronel José Joaquín Veroes. Ponencia, Etc. (Congreso Bolivariano de 1940.) [With a Portrait.].",
+        "authors": [
+          "J. P. REYES ZUMETA",
+          "José Joaquín VEROES"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:503772580"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=-_gZMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Veroes%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-_gZMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Veroes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Ilustre_Pr%C3%B3cer_de_la_Independencia_S.html?hl=&id=-_gZMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-_gZMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

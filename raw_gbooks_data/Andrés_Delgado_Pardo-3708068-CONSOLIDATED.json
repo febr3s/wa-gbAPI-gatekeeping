@@ -1,0 +1,65 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Andr%C3%A9s%20Delgado%20Pardo\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Andr%C3%A9s%20Delgado%20Pardo\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "yIA2cgAACAAJ",
+      "etag": "srSAUhx/xi4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yIA2cgAACAAJ",
+      "volumeInfo": {
+        "title": "Pequeño cuarteto en re mayor",
+        "authors": [
+          "Andrés Delgado Pardo"
+        ],
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:629774899"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 18,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yIA2cgAACAAJ&dq=inauthor:%22Andr%C3%A9s+Delgado+Pardo%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yIA2cgAACAAJ&dq=inauthor:%22Andr%C3%A9s+Delgado+Pardo%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Peque%C3%B1o_cuarteto_en_re_mayor.html?hl=&id=yIA2cgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yIA2cgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juan%20Bautista%20Arismendi\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juan%20Bautista%20Arismendi\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "YQokMwEACAAJ",
+      "etag": "kMGt1DqvBXs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YQokMwEACAAJ",
+      "volumeInfo": {
+        "title": "Historia de la isla de Margarita, hoy Nueva Esparta. Biografías del General Juan B. Arismendi y de la señora Luisa Cáceres de Arismendi ... Segunda edición",
+        "authors": [
+          "Mariano de BRICEÑO",
+          "Juan Bautista ARISMENDI",
+          "Luisa CÁCERES DE ARISMENDI"
+        ],
+        "publishedDate": "1885",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:557732613"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=YQokMwEACAAJ&dq=inauthor:%22Juan+Bautista+Arismendi%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YQokMwEACAAJ&dq=inauthor:%22Juan+Bautista+Arismendi%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_de_la_isla_de_Margarita_hoy_Nue.html?hl=&id=YQokMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YQokMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

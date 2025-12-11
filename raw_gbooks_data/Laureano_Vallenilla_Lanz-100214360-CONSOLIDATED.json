@@ -1,0 +1,4402 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Laureano%20Vallenilla%20Lanz\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Laureano%20Vallenilla%20Lanz\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Laureano%20Vallenilla%20Lanz\"&maxResults=20&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Laureano%20Vallenilla%20Lanz\"&maxResults=20&startIndex=40&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Laureano%20Vallenilla%20Lanz\"&maxResults=20&startIndex=60&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Laureano%20Vallenilla%20Lanz\"&maxResults=16&startIndex=60&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 76,
+  "_totalRequestsMade": 4,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "PoOy2g7sLOkC",
+      "etag": "HAMLd3gRTuI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PoOy2g7sLOkC",
+      "volumeInfo": {
+        "title": "Cesarismo democrático y otros textos",
+        "authors": [
+          "Laureano Vallenilla Lanz",
+          "Nikita Harwich Vallenilla"
+        ],
+        "publisher": "Fundacion Biblioteca Ayacuch",
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9802761443"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789802761449"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 444,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PoOy2g7sLOkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PoOy2g7sLOkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PoOy2g7sLOkC&printsec=frontcover&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PoOy2g7sLOkC&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cesarismo_democr%C3%A1tico_y_otros_textos.html?hl=&id=PoOy2g7sLOkC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PoOy2g7sLOkC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HZ0XAAAAIAAJ",
+      "etag": "5xIJxM/HSZU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HZ0XAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Cesarismo democrático",
+        "subtitle": "estudios sobre las bases sociológicas de la Constitución efectiva de Venezuela",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105033469664"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 376,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.11.9.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HZ0XAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HZ0XAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HZ0XAAAAIAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HZ0XAAAAIAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cesarismo_democr%C3%A1tico.html?hl=&id=HZ0XAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HZ0XAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9ZrUAAAAMAAJ",
+      "etag": "icblgDrFSws",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9ZrUAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Criticas de sinceridad y exactitud",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000025211252"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 308,
+        "printType": "BOOK",
+        "categories": [
+          "Ethnology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9ZrUAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9ZrUAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9ZrUAAAAMAAJ&printsec=frontcover&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9ZrUAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9ZrUAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=9ZrUAAAAMAAJ&rdid=book-9ZrUAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Criticas_de_sinceridad_y_exactitud.epub?id=9ZrUAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9ZrUAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lTkYAAAAYAAJ",
+      "etag": "d/AcYWK5FRY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lTkYAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Disgregación e integración",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X001245905"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 446,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.9.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lTkYAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lTkYAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lTkYAAAAYAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lTkYAAAAYAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Disgregaci%C3%B3n_e_integraci%C3%B3n.html?hl=&id=lTkYAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lTkYAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gyumKwtnv80C",
+      "etag": "nkAyo6QmTMM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gyumKwtnv80C",
+      "volumeInfo": {
+        "title": "Cesarismo democratico",
+        "subtitle": "estudios sobre las bases sociologicas de la Constitucion efectiva de Venezuela",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1919",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "YALE:39002076178806"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gyumKwtnv80C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gyumKwtnv80C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=gyumKwtnv80C&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=gyumKwtnv80C&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cesarismo_democratico.html?hl=&id=gyumKwtnv80C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gyumKwtnv80C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "liV7AAAAMAAJ",
+      "etag": "unX0mo0iof4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/liV7AAAAMAAJ",
+      "volumeInfo": {
+        "title": "Cesarismo democrático",
+        "subtitle": "estudios sobre las bases sociológicas de la Constitución efectiva de Venezuela",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1961",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023468902"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=liV7AAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=liV7AAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=liV7AAAAMAAJ&printsec=frontcover&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=liV7AAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=liV7AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=liV7AAAAMAAJ&rdid=book-liV7AAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Cesarismo_democr%C3%A1tico.epub?id=liV7AAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=liV7AAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s0hTAAAAMAAJ",
+      "etag": "xNB/oYKCvWI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s0hTAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Allá en Caracas",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024517810"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 386,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuelan fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.8.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s0hTAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s0hTAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=s0hTAAAAMAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=s0hTAAAAMAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/All%C3%A1_en_Caracas.html?hl=&id=s0hTAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s0hTAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7Z_8mSJHTnwC",
+      "etag": "Z7tU7/KjaWU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7Z_8mSJHTnwC",
+      "volumeInfo": {
+        "title": "El sentido americano de la democracia",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UFL:31262071398902"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 62,
+        "printType": "BOOK",
+        "categories": [
+          "Democracy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7Z_8mSJHTnwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7Z_8mSJHTnwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7Z_8mSJHTnwC&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7Z_8mSJHTnwC&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_sentido_americano_de_la_democracia.html?hl=&id=7Z_8mSJHTnwC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7Z_8mSJHTnwC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_wRsAAAAMAAJ",
+      "etag": "2Zw6xk4iSlk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_wRsAAAAMAAJ",
+      "volumeInfo": {
+        "title": "El libertador juzgado por los miopes",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1914",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018432735"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "categories": [
+          "Bolivar, Simon - Campana libertadora"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_wRsAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_wRsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_wRsAAAAMAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_wRsAAAAMAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_libertador_juzgado_por_los_miopes.html?hl=&id=_wRsAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_wRsAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8GiMPwAACAAJ",
+      "etag": "/NNew3Nsnjk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8GiMPwAACAAJ",
+      "volumeInfo": {
+        "title": "Cesarismo democrático",
+        "subtitle": "estudios sobre las bases sociológicas de la constitución efectiva de Venezuela",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:84158235"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 358,
+        "printType": "BOOK",
+        "categories": [
+          "Democracy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8GiMPwAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8GiMPwAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cesarismo_democr%C3%A1tico.html?hl=&id=8GiMPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8GiMPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PVDMxwEACAAJ",
+      "etag": "eLfDd9C680s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PVDMxwEACAAJ",
+      "volumeInfo": {
+        "title": "Cesarismo democrático",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1961",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:925511508"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 238,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PVDMxwEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PVDMxwEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cesarismo_democr%C3%A1tico.html?hl=&id=PVDMxwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PVDMxwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SdJiPwAACAAJ",
+      "etag": "JLBaENU8h1A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SdJiPwAACAAJ",
+      "volumeInfo": {
+        "title": "Cesarismo democrático",
+        "subtitle": "estudios sobre las bases sociológicas de la constitución efectiva de Venezuela",
+        "authors": [
+          "Laureano Vallenilla Lanz",
+          "Jesús Sanoja Hernández"
+        ],
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9806423496"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789806423497"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 229,
+        "printType": "BOOK",
+        "categories": [
+          "Democracy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SdJiPwAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SdJiPwAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cesarismo_democr%C3%A1tico.html?hl=&id=SdJiPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SdJiPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cCd7AAAAMAAJ",
+      "etag": "yrAg9cv0iLI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cCd7AAAAMAAJ",
+      "volumeInfo": {
+        "title": "Disgregación e integración",
+        "subtitle": "ensayo sobre la formación de la nacionalidad venezolana ...",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023468899"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 284,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cCd7AAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cCd7AAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cCd7AAAAMAAJ&printsec=frontcover&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=cCd7AAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cCd7AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=cCd7AAAAMAAJ&rdid=book-cCd7AAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Disgregaci%C3%B3n_e_integraci%C3%B3n.epub?id=cCd7AAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cCd7AAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AiSKxAEACAAJ",
+      "etag": "4ePNLoHefX4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AiSKxAEACAAJ",
+      "volumeInfo": {
+        "title": "Disgregación e integración",
+        "subtitle": "ensayo sobre la formación de la nacionalidad venezolana",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:87406590"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 427,
+        "printType": "BOOK",
+        "categories": [
+          "Acculturation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=AiSKxAEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=AiSKxAEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Disgregaci%C3%B3n_e_integraci%C3%B3n.html?hl=&id=AiSKxAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AiSKxAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-sJKSiv2QBMC",
+      "etag": "FxR2FJr8D9Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-sJKSiv2QBMC",
+      "volumeInfo": {
+        "title": "Las finanzas de Venezuela bajo el régimen español",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112039374027"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 52,
+        "printType": "BOOK",
+        "categories": [
+          "Finance"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-sJKSiv2QBMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-sJKSiv2QBMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-sJKSiv2QBMC&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-sJKSiv2QBMC&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_finanzas_de_Venezuela_bajo_el_r%C3%A9gim.html?hl=&id=-sJKSiv2QBMC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-sJKSiv2QBMC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HPU_OwAACAAJ",
+      "etag": "0PRN5JNwucc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HPU_OwAACAAJ",
+      "volumeInfo": {
+        "title": "Disgregación e integración",
+        "subtitle": "ensayo sobre la formación de la nacionalidad venezolana",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:35751274"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 195,
+        "printType": "BOOK",
+        "categories": [
+          "Nationalism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HPU_OwAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HPU_OwAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Disgregaci%C3%B3n_e_integraci%C3%B3n.html?hl=&id=HPU_OwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HPU_OwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UU1sAAAAMAAJ",
+      "etag": "KKLwEWl7uTs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UU1sAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Cartas de ausente",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1971",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173017862207"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Venenzuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UU1sAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UU1sAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=UU1sAAAAMAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=UU1sAAAAMAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cartas_de_ausente.html?hl=&id=UU1sAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UU1sAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RK5oAAAAMAAJ",
+      "etag": "GRycRewcHKo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RK5oAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Refutación a un libro argentino",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1917",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023536627"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "categories": [
+          "Argentina - Historia, 1810 - Fuentes"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RK5oAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RK5oAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RK5oAAAAMAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RK5oAAAAMAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Refutaci%C3%B3n_a_un_libro_argentino.html?hl=&id=RK5oAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RK5oAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wkx9AAAAMAAJ",
+      "etag": "TvoXgR2Taks",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wkx9AAAAMAAJ",
+      "volumeInfo": {
+        "title": "Escrito de memoria",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1961",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023479283"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.12.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wkx9AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wkx9AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wkx9AAAAMAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wkx9AAAAMAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Escrito_de_memoria.html?hl=&id=wkx9AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wkx9AAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BzQrngEACAAJ",
+      "etag": "8TGTPLA2nxo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BzQrngEACAAJ",
+      "volumeInfo": {
+        "title": "Disgregación e integración",
+        "subtitle": "ensayo sobre la formación de la nacionalidad venezolana",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55264857"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BzQrngEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BzQrngEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Disgregaci%C3%B3n_e_integraci%C3%B3n.html?hl=&id=BzQrngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BzQrngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "w5OpPwAACAAJ",
+      "etag": "fusTj6KHBD0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/w5OpPwAACAAJ",
+      "volumeInfo": {
+        "title": "... Causas de infidencia",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1917",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:252750140"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=w5OpPwAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=w5OpPwAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Causas_de_infidencia.html?hl=&id=w5OpPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=w5OpPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-gDZHAAACAAJ",
+      "etag": "asVJwYPADY4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-gDZHAAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso inaugural pronunciado por el senador Laureano Vallenilla Lanz al tomar posesión de la presidencia de la camara en sus sesiones ordinarias de 1920",
+        "authors": [
+          "Laureano Vallenilla Lanz",
+          "Venezuela. Congreso. Cámara del Senado"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:48260747"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 11,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-gDZHAAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-gDZHAAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_inaugural_pronunciado_por_el_se.html?hl=&id=-gDZHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-gDZHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b6uizwEACAAJ",
+      "etag": "SPAKr/inIAY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b6uizwEACAAJ",
+      "volumeInfo": {
+        "title": "LA GUERRA CIVIL DE INDEPENDENCIA y la formación de la nacionalidad venezolana",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2023-01-22",
+        "description": "El libro \"LA GUERRA CIVIL DE INDEPENDENCIA y la formación de la nacionalidad venezolana\" es una obra imprescindible para entender la historia venezolana y el pensamiento de uno de sus historiadores más importantes: Laureano Vallenilla Lanz. El libro presenta una recopilación de tres textos fundamentales de Vallenilla Lanz: \"La guerra de nuestra independencia fue una guerra civil\", \"Influencia del 19 de abril de 1810 en la independencia suramericana\" y \"Disgregación e Integración. Ensayo sobre la formación de la nacionalidad venezolana\". \"La guerra de nuestra independencia fue una guerra civil\" es una obra fundamental para comprender la visión de Vallenilla Lanz sobre la independencia de Venezuela. En este texto, Vallenilla Lanz argumenta que la lucha por la independencia de Venezuela no fue una simple contienda contra la Corona Española, sino una guerra civil que involucró a diferentes factores sociales y políticos del país. \"Influencia del 19 de abril de 1810 en la independencia suramericana\" es otro texto importante en el que Vallenilla Lanz analiza el papel del 19 de abril de 1810 en la independencia de América Latina. En este texto, Vallenilla Lanz destaca la importancia de estudiar las sublevaciones previas a 1810 y su relación con la independencia. \"Disgregación e Integración. Ensayo sobre la formación de la nacionalidad venezolana\" es una obra que aborda la formación de la nacionalidad venezolana a través de la historia. En este texto, Vallenilla Lanz destaca la importancia de estudiar la sociedad colonial y republicana del siglo XIX, la teoría del caudillismo y el papel de los partidos históricos en el siglo XIX republicano. En resumen, este libro es una oportunidad para adentrarse en el pensamiento de uno de los historiadores más importantes de Venezuela, Laureano Vallenilla Lanz, quien con su enfoque teórico basado en el evolucionismo y el positivismo, hizo importantes aportes a la comprensión de la guerra de independencia de Venezuela como una guerra civil, y al estudio de la procedencia antropológica y cultural de los esclavos americanos, la sociedad colonial y republicana del siglo XIX, la teoría del caudillismo y el papel de los partidos históricos en el siglo XIX republicano.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798374716535"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=b6uizwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=b6uizwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=b6uizwEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=b6uizwEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/LA_GUERRA_CIVIL_DE_INDEPENDENCIA_y_la_fo.html?hl=&id=b6uizwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b6uizwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El libro &quot;LA GUERRA CIVIL DE INDEPENDENCIA y la formación de la nacionalidad venezolana&quot; es una obra imprescindible para entender la historia venezolana y el pensamiento de uno de sus historiadores más importantes: Laureano Vallenilla ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Vd4NnQEACAAJ",
+      "etag": "Fe3Jm8i+L84",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Vd4NnQEACAAJ",
+      "volumeInfo": {
+        "title": "Discurso pronunciado por Laureano Vallenilla Lanz",
+        "subtitle": "delegado por Venezuela al Congreso panamericano de Panamá, conmemorativo del de 1826, en la inauguración del monumento al Libertador, erigido en la capital de la república de Panamá",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:nuc87796206"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 13,
+        "printType": "BOOK",
+        "categories": [
+          "Pan-Americanism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Vd4NnQEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Vd4NnQEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_pronunciado_por_Laureano_Vallen.html?hl=&id=Vd4NnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Vd4NnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cKAtHAAACAAJ",
+      "etag": "Fh9GNrfCyNc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cKAtHAAACAAJ",
+      "volumeInfo": {
+        "title": "Informe presentado por el ciudadano Laureano Vallenilla Lanz, archivero nacional, al ciudadano ministro de relaciones interiores",
+        "authors": [
+          "Venezuela. Archivo General de la Nación",
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1915",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:41007827"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 13,
+        "printType": "BOOK",
+        "categories": [
+          "Archives"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cKAtHAAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cKAtHAAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Informe_presentado_por_el_ciudadano_Laur.html?hl=&id=cKAtHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cKAtHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "H-f-MgEACAAJ",
+      "etag": "Jb0fFSO0bLM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/H-f-MgEACAAJ",
+      "volumeInfo": {
+        "title": "El concepto de la historia en Laureano Vallenilla Lanz. (Seminario de historia de la historiografía venezolana, 1962-1963.) [By various authors.].",
+        "authors": [
+          "Laureano VALLENILLA LANZ (the Elder.)"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:504548052"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=H-f-MgEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=H-f-MgEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_concepto_de_la_historia_en_Laureano_V.html?hl=&id=H-f-MgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=H-f-MgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u3II0AEACAAJ",
+      "etag": "kCc8PG2oA08",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u3II0AEACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "subtitle": "estudios sobre las bases sociológicas de la Constitución efectiva de Venezuela /cLaureano Vallenilla Lanz ; recopilación, comentarios y notas de Federico Brito Figueroa y de Nikita Harwich Vallenilla. Cesarismo democrático. I",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1385219118"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=u3II0AEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=u3II0AEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=u3II0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u3II0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OKxCLgEACAAJ",
+      "etag": "efJSB1PX06k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OKxCLgEACAAJ",
+      "volumeInfo": {
+        "title": "\"Querido compadre--\" José Gil Fortoul/Laureano Vallenilla Lanz",
+        "subtitle": "correspondencia inédita 1904-1910",
+        "authors": [
+          "José Gil Fortoul",
+          "Laureano Vallenilla Lanz",
+          "Nikita Harwich Vallenilla"
+        ],
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9807088380"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789807088381"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=OKxCLgEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=OKxCLgEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Querido_compadre_Jos%C3%A9_Gil_Fortoul_Laure.html?hl=&id=OKxCLgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OKxCLgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qi4PzQEACAAJ",
+      "etag": "htzMiugT74s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qi4PzQEACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "subtitle": "ensayo sobre la formación de la nacionalidad venezolana /cLaureano Vallenilla Lanz ; recopilación, comentarios y notas de Federico Brito Figueroa y de Nikita Harwich Vallenilla. Disgregación e integración. II",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:954694539"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qi4PzQEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qi4PzQEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=qi4PzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qi4PzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-wDZHAAACAAJ",
+      "etag": "3FTNC5HI1co",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-wDZHAAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso inaugural pronunciado por el Senador Laureano Vallenilla Lanz, al tomar posesión de la presidencia de la cámara, en sus sesiones ordinarias de 1923",
+        "authors": [
+          "Laureano Vallenilla Lanz",
+          "Venezuela. Camara del senado"
+        ],
+        "publishedDate": "1923",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:41003449"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 12,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-wDZHAAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-wDZHAAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_inaugural_pronunciado_por_el_Se.html?hl=&id=-wDZHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-wDZHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nBT-zQEACAAJ",
+      "etag": "JqetjZWom7w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nBT-zQEACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "subtitle": "Cesarismo democratico : estudios sobre las bases sociológicas de la Constitución efectiva de Venezuela",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1047938729"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 358,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nBT-zQEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nBT-zQEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=nBT-zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nBT-zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8EtkPgAACAAJ",
+      "etag": "5OFUii8ZNV4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8EtkPgAACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "subtitle": "Cesarismo democrático",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:493303220"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 358,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8EtkPgAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8EtkPgAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=8EtkPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8EtkPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GecJywEACAAJ",
+      "etag": "5RNT3r1dA14",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GecJywEACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1123503761"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GecJywEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GecJywEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=GecJywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GecJywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jkZzmwEACAAJ",
+      "etag": "njBYBALtxMg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jkZzmwEACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "subtitle": "1: Cesarismo democrático.- 2: Disgregación e integración",
+        "authors": [
+          "Laureano Vallenilla Lanz",
+          "Federico Brito Figueroa",
+          "Nikita Harwich Vallenilla"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253318987"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 358,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jkZzmwEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jkZzmwEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=jkZzmwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jkZzmwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7X6_ZwEACAAJ",
+      "etag": "OHQlhTwIGe0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7X6_ZwEACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "subtitle": "disgregación e integración",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:493162311"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 427,
+        "printType": "BOOK",
+        "categories": [
+          "Democracy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7X6_ZwEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7X6_ZwEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=7X6_ZwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7X6_ZwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Enb7jgEACAAJ",
+      "etag": "mDkSGMsJqDA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Enb7jgEACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "subtitle": "ensayo sobre la formacion de la nacionalidad venezolana. Disgregacion e integracion",
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:926174727"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 427,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Enb7jgEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Enb7jgEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=Enb7jgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Enb7jgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6cdItAEACAAJ",
+      "etag": "CEhZHzw1WsU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6cdItAEACAAJ",
+      "volumeInfo": {
+        "title": "Disgregacióné integración",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:84158233"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6cdItAEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6cdItAEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Disgregaci%C3%B3n%C3%A9_integraci%C3%B3n.html?hl=&id=6cdItAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6cdItAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IMtszgEACAAJ",
+      "etag": "AUwXblRjPyw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IMtszgEACAAJ",
+      "volumeInfo": {
+        "title": "Disgregración e integración",
+        "subtitle": "ensayo sobre la formación de la nacionalidad venezolana...",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1248129440"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=IMtszgEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=IMtszgEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Disgregraci%C3%B3n_e_integraci%C3%B3n.html?hl=&id=IMtszgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IMtszgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tTHrHAAACAAJ",
+      "etag": "gHvCYJSlK5o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tTHrHAAACAAJ",
+      "volumeInfo": {
+        "title": "La guerra de nuestra independencia fue una guerra civil",
+        "subtitle": "conferencia pronunciada en el Instituto Nacional de Bellas Artes de Caracas, en la noche del 9 de octubre de 1911",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1912",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12832505"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 37,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tTHrHAAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=tTHrHAAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_guerra_de_nuestra_independencia_fue_u.html?hl=&id=tTHrHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tTHrHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eyGZzwEACAAJ",
+      "etag": "w+lN4ilEh/4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eyGZzwEACAAJ",
+      "volumeInfo": {
+        "title": "Discurso inaugural",
+        "subtitle": "tema, momento político actual de Venezuela y semblanza de gobernate general Juan Vicente Gómez",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1025922981"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=eyGZzwEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eyGZzwEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_inaugural.html?hl=&id=eyGZzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eyGZzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EBmlzQEACAAJ",
+      "etag": "GeD3s/tQzpw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EBmlzQEACAAJ",
+      "volumeInfo": {
+        "title": "Criticas de sinceridad y exactitud",
+        "authors": [
+          "Laureano Vallenilla Lanz (historien).)"
+        ],
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:800819137"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 270,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EBmlzQEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EBmlzQEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Criticas_de_sinceridad_y_exactitud.html?hl=&id=EBmlzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EBmlzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LWoOMwEACAAJ",
+      "etag": "SW7tGvBfVf0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LWoOMwEACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "subtitle": "Cesarismo democratico: estudios sobre las bases sociológicas de la Constitución efectiva de Venezuela, [edited by] Federico Brito Figueroa [and] Nikita Harwich Vallenilla",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:556382522"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=LWoOMwEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LWoOMwEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=LWoOMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LWoOMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wTQwGwAACAAJ",
+      "etag": "Jiuz5ezAHvo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wTQwGwAACAAJ",
+      "volumeInfo": {
+        "title": "Centenario de Boyacá, discurso pronunciado en la sesión solemne de la Academia nacional de la historia, celebrada en conmemoración de la gran batalla, el 7 de agosto de 1919",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1919",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:15052935"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "categories": [
+          "Boyacá, Battle of, Boyacá, Boyacá, Colombia, 1819"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wTQwGwAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wTQwGwAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Centenario_de_Boyac%C3%A1_discurso_pronuncia.html?hl=&id=wTQwGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wTQwGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gY-zHAAACAAJ",
+      "etag": "JW2mrmmUxzA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gY-zHAAACAAJ",
+      "volumeInfo": {
+        "title": "Bolívar y el principio de las nacionalidades",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:57035676"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 43,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=gY-zHAAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=gY-zHAAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bol%C3%ADvar_y_el_principio_de_las_nacionali.html?hl=&id=gY-zHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gY-zHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BGiXtwAACAAJ",
+      "etag": "HWvIlzTS4LA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BGiXtwAACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "authors": [
+          "Laureano Vallenilla Lanz",
+          "Federico Brito Figueroa",
+          "Nikita Harwich Vallenilla"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:492179587"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 427,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BGiXtwAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=45&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BGiXtwAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=BGiXtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BGiXtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-I9lzQEACAAJ",
+      "etag": "jbEktvI3i8w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-I9lzQEACAAJ",
+      "volumeInfo": {
+        "title": "Disgregación e integración",
+        "subtitle": "Ensayo sobre la formación de la nacionalidad venezolana",
+        "authors": [
+          "Laureano Vallenilla Lanz (historien).)"
+        ],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:492893030"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 195,
+        "printType": "BOOK",
+        "categories": [
+          "Venezueal"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-I9lzQEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=46&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-I9lzQEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Disgregaci%C3%B3n_e_integraci%C3%B3n.html?hl=&id=-I9lzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-I9lzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xfQ5PwAACAAJ",
+      "etag": "6Folli3Tasg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xfQ5PwAACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "subtitle": "Disgregación e integración : ensayo sobre la formación de la nacionalidad venezolana",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:310899721"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 427,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=xfQ5PwAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=47&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=xfQ5PwAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=xfQ5PwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xfQ5PwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KQnStgAACAAJ",
+      "etag": "+jkbUiQ5AOM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KQnStgAACAAJ",
+      "volumeInfo": {
+        "title": "Autonomía de las secciones",
+        "subtitle": "otra opinión : editoriales de \"El ciudadano\"",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1898",
+        "description": "On constitutional reform; refuting ideas expressed by general Francisco Tosta García in a pamphlet entitled Una opinión (Caracas : El Periódico, 1898).",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:237796137"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "categories": [
+          "Constitutional law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=KQnStgAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=48&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KQnStgAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Autonom%C3%ADa_de_las_secciones.html?hl=&id=KQnStgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KQnStgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "On constitutional reform; refuting ideas expressed by general Francisco Tosta García in a pamphlet entitled Una opinión (Caracas : El Periódico, 1898)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QkM2mgEACAAJ",
+      "etag": "2ByYhGA0a8g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QkM2mgEACAAJ",
+      "volumeInfo": {
+        "title": "El artículo 104",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1915",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:252792055"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=QkM2mgEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=49&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=QkM2mgEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_art%C3%ADculo_104.html?hl=&id=QkM2mgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QkM2mgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jKJjzwEACAAJ",
+      "etag": "j3WptFwO8Rk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jKJjzwEACAAJ",
+      "volumeInfo": {
+        "title": "Del hombre y su alienacion",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1343703878"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jKJjzwEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=50&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jKJjzwEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Del_hombre_y_su_alienacion.html?hl=&id=jKJjzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jKJjzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2Yu50AEACAAJ",
+      "etag": "kklilFwODXk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2Yu50AEACAAJ",
+      "volumeInfo": {
+        "title": "Las finanzas de Venezuele bajo el régiman Español",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1436104780"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Finance"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2Yu50AEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=51&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2Yu50AEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_finanzas_de_Venezuele_bajo_el_r%C3%A9gim.html?hl=&id=2Yu50AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2Yu50AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zLj6MgEACAAJ",
+      "etag": "OVHRoWjL+/Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zLj6MgEACAAJ",
+      "volumeInfo": {
+        "title": "El Libertador Jugzado Por Los Miopes",
+        "authors": [
+          "Laureano VALLENILLA LANZ (the Elder.)"
+        ],
+        "publishedDate": "1914",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:504548024"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=zLj6MgEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=52&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zLj6MgEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Libertador_Jugzado_Por_Los_Miopes.html?hl=&id=zLj6MgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zLj6MgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-ADUZwEACAAJ",
+      "etag": "VXKIZyJjSmk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-ADUZwEACAAJ",
+      "volumeInfo": {
+        "title": "Estados Unidos de Venezuela",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1915",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:707157796"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-ADUZwEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=53&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-ADUZwEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estados_Unidos_de_Venezuela.html?hl=&id=-ADUZwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-ADUZwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J5ZPMwEACAAJ",
+      "etag": "/d4Hu6meu2U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J5ZPMwEACAAJ",
+      "volumeInfo": {
+        "title": "Disgragacion e integracion",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1962",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:797694561"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=J5ZPMwEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=54&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=J5ZPMwEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Disgragacion_e_integracion.html?hl=&id=J5ZPMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J5ZPMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "asbMzgEACAAJ",
+      "etag": "47HVulT7Akw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/asbMzgEACAAJ",
+      "volumeInfo": {
+        "title": "El libertador juzgado por los miopes",
+        "authors": [
+          "Laureano Vallenilla Lanz (historien).)"
+        ],
+        "publishedDate": "1914",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1277184991"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=asbMzgEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=55&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=asbMzgEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_libertador_juzgado_por_los_miopes.html?hl=&id=asbMzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=asbMzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "d4CqtgAACAAJ",
+      "etag": "79EC3AFXgMw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/d4CqtgAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso de recepción del doctor Lisandro Alvarado como individuo de número de la Academia Nacional de la Historia el 29 de abril de 1923",
+        "authors": [
+          "Lisandro Alvarado",
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1923",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:15070544"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 27,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=d4CqtgAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=56&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=d4CqtgAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_de_recepci%C3%B3n_del_doctor_Lisand.html?hl=&id=d4CqtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d4CqtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nI2HHAAACAAJ",
+      "etag": "Qh9vrw6DbnE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nI2HHAAACAAJ",
+      "volumeInfo": {
+        "title": "Razones de proscrito",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:460594573"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 413,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=nI2HHAAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=57&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nI2HHAAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Razones_de_proscrito.html?hl=&id=nI2HHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nI2HHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4bplzQEACAAJ",
+      "etag": "3tswcCk77rE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4bplzQEACAAJ",
+      "volumeInfo": {
+        "title": "Disgregación e integración",
+        "authors": [
+          "Laureano Vallenilla Lanz (historien).)"
+        ],
+        "publishedDate": "1979",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:494008701"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4bplzQEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=58&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4bplzQEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Disgregaci%C3%B3n_e_integraci%C3%B3n.html?hl=&id=4bplzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4bplzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VtVG0QEACAAJ",
+      "etag": "rMA3P/PuLPM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VtVG0QEACAAJ",
+      "volumeInfo": {
+        "title": "Centenario de Carabobo",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:15033684"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Carabobo, Battle of, 1821"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VtVG0QEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=59&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VtVG0QEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Centenario_de_Carabobo.html?hl=&id=VtVG0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VtVG0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Y4a4YgEACAAJ",
+      "etag": "ms8Xh6gMbC0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Y4a4YgEACAAJ",
+      "volumeInfo": {
+        "title": "Discurso pronunciado en la sesión solemne de la Academia Nacional de la Historia",
+        "subtitle": "celebrada en conmemoración de la Gran Batalla, el 7 de agosto de 1919",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1919",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55361565"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 31,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Y4a4YgEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=60&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Y4a4YgEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_pronunciado_en_la_sesi%C3%B3n_solem.html?hl=&id=Y4a4YgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Y4a4YgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qSnWjgEACAAJ",
+      "etag": "brbC+tR/eoY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qSnWjgEACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:912887933"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 358,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qSnWjgEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=61&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qSnWjgEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=qSnWjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qSnWjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TjyvtgAACAAJ",
+      "etag": "Ft0LxCmJnJw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TjyvtgAACAAJ",
+      "volumeInfo": {
+        "title": "Venezuela en el centenario de Ayacucho",
+        "subtitle": "colocación de la primera piedra del monumento a José de San Martín",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:26112468"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "categories": [
+          "Ayacucho, Battle of, Peru, 1824"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TjyvtgAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=62&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TjyvtgAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Venezuela_en_el_centenario_de_Ayacucho.html?hl=&id=TjyvtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TjyvtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ONraHwAACAAJ",
+      "etag": "HjeZhaXny9A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ONraHwAACAAJ",
+      "volumeInfo": {
+        "title": "Fuerzas vivas",
+        "subtitle": "novela",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1963",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:23062589"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 282,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ONraHwAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=63&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ONraHwAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fuerzas_vivas.html?hl=&id=ONraHwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ONraHwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BcNfzQEACAAJ",
+      "etag": "GqTswpIVuPo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BcNfzQEACAAJ",
+      "volumeInfo": {
+        "title": "Cesarismo democrático",
+        "subtitle": "Estudios sobre las bases sociologicas de la constitution efectiva de Venezuela",
+        "authors": [
+          "Laureano Vallenilla Lanz (historien).)"
+        ],
+        "publishedDate": "1952",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:492892939"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 236,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BcNfzQEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=64&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BcNfzQEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cesarismo_democr%C3%A1tico.html?hl=&id=BcNfzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BcNfzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EbLOjwEACAAJ",
+      "etag": "RABtyUGzAcU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EbLOjwEACAAJ",
+      "volumeInfo": {
+        "title": "Victoires et conquêtes d'un général américain par X***",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:661019522"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EbLOjwEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=65&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EbLOjwEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Victoires_et_conqu%C3%AAtes_d_un_g%C3%A9n%C3%A9ral_a.html?hl=&id=EbLOjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EbLOjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_WnpPgAACAAJ",
+      "etag": "x2vdj3FA00A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_WnpPgAACAAJ",
+      "volumeInfo": {
+        "title": "Venezuela en el centenario de Ayacucho",
+        "subtitle": "colocación de la primera piedra del Monumento José de San Martín ... ; discurso ; contestación del Ministro argentino en Caracas, Hilarión D. Moreno",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:252782326"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_WnpPgAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=66&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_WnpPgAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Venezuela_en_el_centenario_de_Ayacucho.html?hl=&id=_WnpPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_WnpPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zwmDpwAACAAJ",
+      "etag": "hFWSff1svzo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zwmDpwAACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "subtitle": "Cesarismo democrático: estudios sobre las bases sociológicas de la constitución efectiva de Venezuela",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:310899672"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 358,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=zwmDpwAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=67&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zwmDpwAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=zwmDpwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zwmDpwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o49qmQEACAAJ",
+      "etag": "Pc4gYBaH/k8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o49qmQEACAAJ",
+      "volumeInfo": {
+        "title": "Razones de proscrito",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1965",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:10872973"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 411,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=o49qmQEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=68&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=o49qmQEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Razones_de_proscrito.html?hl=&id=o49qmQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o49qmQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "duw1MwEACAAJ",
+      "etag": "Xb/eMboWTUw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/duw1MwEACAAJ",
+      "volumeInfo": {
+        "title": "Centenario de Boyaca. Discurso, Etc",
+        "authors": [
+          "Laureano VALLENILLA LANZ (the Elder.)"
+        ],
+        "publishedDate": "1919",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:504548002"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=duw1MwEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=69&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=duw1MwEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Centenario_de_Boyaca_Discurso_Etc.html?hl=&id=duw1MwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=duw1MwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_5ISywEACAAJ",
+      "etag": "b9QjTAemkVk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_5ISywEACAAJ",
+      "volumeInfo": {
+        "title": "Informe present",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1915",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1123989582"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_5ISywEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=70&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_5ISywEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Informe_present.html?hl=&id=_5ISywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_5ISywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LyhRQAAACAAJ",
+      "etag": "FrELvAf0ZlI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LyhRQAAACAAJ",
+      "volumeInfo": {
+        "title": "Césarisme démocratique en Amérique",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "19??",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:65721210"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=LyhRQAAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=71&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LyhRQAAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/C%C3%A9sarisme_d%C3%A9mocratique_en_Am%C3%A9rique.html?hl=&id=LyhRQAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LyhRQAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ogIyHwAACAAJ",
+      "etag": "9ngPecp+oH0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ogIyHwAACAAJ",
+      "volumeInfo": {
+        "title": "Disgregación e intregración",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1962",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:122626433"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=ogIyHwAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=72&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ogIyHwAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Disgregaci%C3%B3n_e_intregraci%C3%B3n.html?hl=&id=ogIyHwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ogIyHwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oRou0QEACAAJ",
+      "etag": "DcFl9CC44/g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oRou0QEACAAJ",
+      "volumeInfo": {
+        "title": "Césarisme démocratique en Amérique",
+        "authors": [
+          "Laureano Vallenilla Lanz (historien).)"
+        ],
+        "publishedDate": "1952",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458466743"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=oRou0QEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=73&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=oRou0QEACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/C%C3%A9sarisme_d%C3%A9mocratique_en_Am%C3%A9rique.html?hl=&id=oRou0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oRou0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wwySpwAACAAJ",
+      "etag": "c4UL9zzQkfk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wwySpwAACAAJ",
+      "volumeInfo": {
+        "title": "Disgregación e integración. [Tomo primero]",
+        "authors": [
+          "Laureano Vallenilla Lanz"
+        ],
+        "publishedDate": "1962",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:65040074"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 248,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=wwySpwAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=74&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wwySpwAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Disgregaci%C3%B3n_e_integraci%C3%B3n_Tomo_primer.html?hl=&id=wwySpwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wwySpwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OL8CtwAACAAJ",
+      "etag": "76W8hw6t8Zk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OL8CtwAACAAJ",
+      "volumeInfo": {
+        "title": "La cérémonie organisée à l'occasion de l'inauguration de la statue de Simon Bolivar. Le jubilé du président Gomez",
+        "authors": [
+          "René Fiquet",
+          "Jean Casabianca",
+          "Edouard Renard",
+          "François de Tessan",
+          "Laureano Vallenilla Lanz",
+          "Salvador de Madariaga",
+          "Studio G.L. Manuel frères"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:661998115"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=OL8CtwAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=75&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=OL8CtwAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_c%C3%A9r%C3%A9monie_organis%C3%A9e_%C3%A0_l_occasion.html?hl=&id=OL8CtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OL8CtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fp6jygAACAAJ",
+      "etag": "TTXraHe5Y10",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fp6jygAACAAJ",
+      "volumeInfo": {
+        "title": "Césarisme démocratique en Amérique. Traduction et Préface, par Marius André",
+        "authors": [
+          "Laureano Vallenilla Lanz",
+          "Marius André"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458331807"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 259,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=fp6jygAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&cd=76&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fp6jygAACAAJ&dq=inauthor:%22Laureano+Vallenilla+Lanz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/C%C3%A9sarisme_d%C3%A9mocratique_en_Am%C3%A9rique_Tr.html?hl=&id=fp6jygAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fp6jygAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

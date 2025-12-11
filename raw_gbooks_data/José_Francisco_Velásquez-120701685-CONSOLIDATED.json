@@ -1,0 +1,68 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Francisco%20Vel%C3%A1squez\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Francisco%20Vel%C3%A1squez\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "wysDoQEACAAJ",
+      "etag": "exz4WfbhzcU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wysDoQEACAAJ",
+      "volumeInfo": {
+        "title": "La música colonial venezolana",
+        "authors": [
+          "José Francisco Velásquez",
+          "David Coifman",
+          "Camerata Barroca de Caracas",
+          "Orquesta Sinfónica Municipal de Caracas",
+          "Fundación Banco Mercantil de Caracas (Venezuela)"
+        ],
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:864136561"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wysDoQEACAAJ&dq=inauthor:%22Jos%C3%A9+Francisco+Vel%C3%A1squez%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wysDoQEACAAJ&dq=inauthor:%22Jos%C3%A9+Francisco+Vel%C3%A1squez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_m%C3%BAsica_colonial_venezolana.html?hl=&id=wysDoQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wysDoQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

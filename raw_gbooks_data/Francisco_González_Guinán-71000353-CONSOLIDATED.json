@@ -1,0 +1,3150 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20Gonz%C3%A1lez%20Guin%C3%A1n\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20Gonz%C3%A1lez%20Guin%C3%A1n\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20Gonz%C3%A1lez%20Guin%C3%A1n\"&maxResults=20&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20Gonz%C3%A1lez%20Guin%C3%A1n\"&maxResults=20&startIndex=40&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20Gonz%C3%A1lez%20Guin%C3%A1n\"&maxResults=11&startIndex=40&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 51,
+  "_totalRequestsMade": 3,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "pBzsAAAAMAAJ",
+      "etag": "yq2QUrS8P/8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pBzsAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Boívar en la historia de Francisco González Guinán",
+        "subtitle": "estudio biográfico",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1968",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000025211511"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 616,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pBzsAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pBzsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=pBzsAAAAMAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=pBzsAAAAMAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bo%C3%ADvar_en_la_historia_de_Francisco_Gonz.html?hl=&id=pBzsAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pBzsAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QthYAAAAMAAJ",
+      "etag": "nNXudEWvv7g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QthYAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Historia contemporánea de Venezuela",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015070477628"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 610,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QthYAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QthYAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=QthYAAAAMAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=QthYAAAAMAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_contempor%C3%A1nea_de_Venezuela.html?hl=&id=QthYAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QthYAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G0ws3N1rv9YC",
+      "etag": "NEul55NNteA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G0ws3N1rv9YC",
+      "volumeInfo": {
+        "title": "Reminiscencias historicas",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1886",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "YALE:39002085765619"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 270,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=G0ws3N1rv9YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=G0ws3N1rv9YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=G0ws3N1rv9YC&printsec=frontcover&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=G0ws3N1rv9YC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=G0ws3N1rv9YC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=G0ws3N1rv9YC&rdid=book-G0ws3N1rv9YC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Reminiscencias_historicas.epub?id=G0ws3N1rv9YC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G0ws3N1rv9YC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "csR1AAAAMAAJ",
+      "etag": "rDwq4P2G258",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/csR1AAAAMAAJ",
+      "volumeInfo": {
+        "title": "Historia contemporánea de Venezuela: 2. pte. Gobiernos constitucionales. 1830-1847",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023631672"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 548,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=csR1AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=csR1AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=csR1AAAAMAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=csR1AAAAMAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_contempor%C3%A1nea_de_Venezuela_2_p.html?hl=&id=csR1AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=csR1AAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-nEzAQAAIAAJ",
+      "etag": "+ciM4z2YrO4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-nEzAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Historia contemporánea de Venezuela: 6. pte. El Gobierno azul. El septenio",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B718025"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 638,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.10.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-nEzAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-nEzAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-nEzAQAAIAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-nEzAQAAIAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_contempor%C3%A1nea_de_Venezuela_6_p.html?hl=&id=-nEzAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-nEzAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SgshAQAAIAAJ",
+      "etag": "96jTCb3EguY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SgshAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Historia contemporánea de Venezuela: 1. pte. Antecedentes. La conquista. La colonia. La gran Colombia",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1909",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B2943320"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 614,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SgshAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SgshAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SgshAQAAIAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SgshAQAAIAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_contempor%C3%A1nea_de_Venezuela_1_p.html?hl=&id=SgshAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SgshAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dUgzAQAAIAAJ",
+      "etag": "j6/hMi7/Pqg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dUgzAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Réplica de F. González Guinán al folleto \"Contestación\" del doctor J.P. Rojas Paúl",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1891",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B723080"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dUgzAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dUgzAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=dUgzAQAAIAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dUgzAQAAIAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/R%C3%A9plica_de_F_Gonz%C3%A1lez_Guin%C3%A1n_al_folle.html?hl=&id=dUgzAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dUgzAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SPR9AAAAMAAJ",
+      "etag": "YyMg/GY+A6w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SPR9AAAAMAAJ",
+      "volumeInfo": {
+        "title": "Tradiciones de mi pueblo",
+        "subtitle": "Valencia, Venezuela",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023479840"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 217,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SPR9AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SPR9AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SPR9AAAAMAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SPR9AAAAMAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tradiciones_de_mi_pueblo.html?hl=&id=SPR9AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SPR9AAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "S6kzAQAAIAAJ",
+      "etag": "DShQSIc9wuU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/S6kzAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Hallazgo del Acta solemne de independencia de Venezuela y de otras actas originales del Congreso constituyente de 1811",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1908",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B715678"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=S6kzAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=S6kzAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=S6kzAQAAIAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=S6kzAQAAIAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hallazgo_del_Acta_solemne_de_independenc.html?hl=&id=S6kzAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=S6kzAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "khEhAQAAIAAJ",
+      "etag": "yRxX5CWytRw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/khEhAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Historia contemporánea de Venezuela: 7. pte. Transición legal. Gobierno del general Alcántara. Revolución reivindicadora. El quinquenio",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B2943331"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 688,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=khEhAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=khEhAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=khEhAQAAIAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=khEhAQAAIAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_contempor%C3%A1nea_de_Venezuela_7_p.html?hl=&id=khEhAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=khEhAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Xt5YAAAAMAAJ",
+      "etag": "hhB61Jhj+vs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Xt5YAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Reminiscencias históricas de Venezuela",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015070234565"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 338,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Xt5YAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Xt5YAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Xt5YAAAAMAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Xt5YAAAAMAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Reminiscencias_hist%C3%B3ricas_de_Venezuela.html?hl=&id=Xt5YAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Xt5YAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AXcCAAAAYAAJ",
+      "etag": "9fQlgYJNH4k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AXcCAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Historia del gobierno del doctor J. P. Rojas Paul",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1891",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044080569890"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 568,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.8.10.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AXcCAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AXcCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=AXcCAAAAYAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=AXcCAAAAYAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_del_gobierno_del_doctor_J_P_Roj.html?hl=&id=AXcCAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AXcCAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "33AzAQAAIAAJ",
+      "etag": "e4wXBuPLKDc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/33AzAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Historia contemporánea de Venezuela: 4. pte. Gobiernos revolucionarios. 1858-1863. 5. pte. Gobierno de la federación",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1910",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B718023"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 632,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=33AzAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=33AzAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=33AzAQAAIAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=33AzAQAAIAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_contempor%C3%A1nea_de_Venezuela_4_p.html?hl=&id=33AzAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=33AzAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VnAzAQAAIAAJ",
+      "etag": "/wa5NonpsjA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VnAzAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Historia contemporánea de Venezuela: 4. pte. Gobiernos revolucionarios. 1858-1863",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1910",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B718022"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 630,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.12.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VnAzAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VnAzAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VnAzAQAAIAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VnAzAQAAIAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_contempor%C3%A1nea_de_Venezuela_4_p.html?hl=&id=VnAzAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VnAzAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cqtqG0Zb8LgC",
+      "etag": "Lqy0Jn68i6w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cqtqG0Zb8LgC",
+      "volumeInfo": {
+        "title": "Historia del gobierno de la aclamación",
+        "subtitle": "período constitucional de Venezuela, presidido por el general Guzmán Blanco (1886-1887)",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "YALE:39002085766526"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 396,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cqtqG0Zb8LgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cqtqG0Zb8LgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cqtqG0Zb8LgC&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cqtqG0Zb8LgC&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_del_gobierno_de_la_aclamaci%C3%B3n.html?hl=&id=cqtqG0Zb8LgC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cqtqG0Zb8LgC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JeKkOb8WLugC",
+      "etag": "QVGOG0khZSA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JeKkOb8WLugC",
+      "volumeInfo": {
+        "title": "Mis memorias",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1964",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000120101153"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 434,
+        "printType": "BOOK",
+        "categories": [
+          "Historians"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JeKkOb8WLugC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JeKkOb8WLugC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JeKkOb8WLugC&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JeKkOb8WLugC&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mis_memorias.html?hl=&id=JeKkOb8WLugC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JeKkOb8WLugC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "m851AAAAMAAJ",
+      "etag": "4DE9toeUO1Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m851AAAAMAAJ",
+      "volumeInfo": {
+        "title": "Historia contemporánea de Venezuela: 3. pte. Gobiernos constitucionales. 1847-1858",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023631640"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 552,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m851AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m851AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=m851AAAAMAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=m851AAAAMAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_contempor%C3%A1nea_de_Venezuela_3_p.html?hl=&id=m851AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m851AAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eYcYAAAAYAAJ",
+      "etag": "WGX2AFMd/pU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eYcYAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Bolivar",
+        "subtitle": "estudio biografico",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1969",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X030350506"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 608,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eYcYAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eYcYAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=eYcYAAAAYAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eYcYAAAAYAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bolivar.html?hl=&id=eYcYAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eYcYAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BHo8OqzvV04C",
+      "etag": "pnBHj22/rC4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BHo8OqzvV04C",
+      "volumeInfo": {
+        "title": "Historia contemporánea de Venezuela: 5. pte. Gobierno de la federación. 6. pte. El Gobierno azul. El septenio",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1910",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "YALE:39002032145378"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 624,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BHo8OqzvV04C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BHo8OqzvV04C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BHo8OqzvV04C&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BHo8OqzvV04C&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_contempor%C3%A1nea_de_Venezuela_5_p.html?hl=&id=BHo8OqzvV04C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BHo8OqzvV04C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Qg4hAQAAIAAJ",
+      "etag": "red7oRz1KQM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Qg4hAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Historia contemporánea de Venezuela: 3. pte. Gobiernos constitucionales. 1847-1858. 4. pte. Gobiernos revolucionarios. 1858-1863",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1910",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B2943325"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 630,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Qg4hAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Qg4hAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Qg4hAQAAIAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Qg4hAQAAIAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_contempor%C3%A1nea_de_Venezuela_3_p.html?hl=&id=Qg4hAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Qg4hAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Cu4utXETz4kC",
+      "etag": "ObHIpMzpZmw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Cu4utXETz4kC",
+      "volumeInfo": {
+        "title": "Historia del gobierno de la aclamación ... presidido por el general Guzmán Blanco, 1886-1887",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:603796103"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Cu4utXETz4kC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Cu4utXETz4kC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=Cu4utXETz4kC&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Cu4utXETz4kC&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_del_gobierno_de_la_aclamaci%C3%B3n.html?hl=&id=Cu4utXETz4kC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Cu4utXETz4kC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fMReWv8FF7gC",
+      "etag": "+fOMTp+nGkg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fMReWv8FF7gC",
+      "volumeInfo": {
+        "title": "Transicion legal.-Gobierno del General Alcantara.-Revolucion Reivindicadora.-El Quinquenio",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CUB:P105262604004"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 588,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fMReWv8FF7gC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fMReWv8FF7gC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fMReWv8FF7gC&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fMReWv8FF7gC&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Transicion_legal_Gobierno_del_General_Al.html?hl=&id=fMReWv8FF7gC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fMReWv8FF7gC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ivLxkk6Vy9AC",
+      "etag": "5wCRKVAsWl4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ivLxkk6Vy9AC",
+      "volumeInfo": {
+        "title": "Gobiernos revolucionarios (1858-1863)",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CUB:P105262714012"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 566,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ivLxkk6Vy9AC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ivLxkk6Vy9AC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ivLxkk6Vy9AC&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ivLxkk6Vy9AC&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gobiernos_revolucionarios_1858_1863.html?hl=&id=ivLxkk6Vy9AC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ivLxkk6Vy9AC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5Um4CIgyLyMC",
+      "etag": "04vhLxFkWLs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5Um4CIgyLyMC",
+      "volumeInfo": {
+        "title": "Lo humano",
+        "subtitle": "páginas religiosas, morales, sociales y políticas",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "YALE:39002085767995"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 262,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5Um4CIgyLyMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5Um4CIgyLyMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5Um4CIgyLyMC&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5Um4CIgyLyMC&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lo_humano.html?hl=&id=5Um4CIgyLyMC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5Um4CIgyLyMC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J9cMAQAAMAAJ",
+      "etag": "wuhWF08D5r8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J9cMAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Episodio histórico",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1925",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000120194406"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 728,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=J9cMAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=J9cMAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=J9cMAQAAMAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=J9cMAQAAMAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Episodio_hist%C3%B3rico.html?hl=&id=J9cMAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J9cMAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qIbUAAAAMAAJ",
+      "etag": "+ZjYbMSo2Sc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qIbUAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Historia contemporánea de Venezuela: 2. pte. Gobiernos constitucionales. 1830-1847. 3. pte. Gobiernos constitucionales. 1847-1858",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1910",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89096199203"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 666,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.9.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qIbUAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qIbUAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qIbUAAAAMAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qIbUAAAAMAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_contempor%C3%A1nea_de_Venezuela_2_p.html?hl=&id=qIbUAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qIbUAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_Yf9H2MmaG4C",
+      "etag": "rGwp+aUlfCI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_Yf9H2MmaG4C",
+      "volumeInfo": {
+        "title": "El govierno azul.-El septenio",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CUB:P105262714016"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 534,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_Yf9H2MmaG4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_Yf9H2MmaG4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_Yf9H2MmaG4C&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_Yf9H2MmaG4C&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_govierno_azul_El_septenio.html?hl=&id=_Yf9H2MmaG4C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_Yf9H2MmaG4C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9BAhAQAAIAAJ",
+      "etag": "W3l38aNNz4k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9BAhAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Historia contemporánea de Venezuela: 6. pte. El Gobierno azul. El septenio. 7. pte. Transición legal. Gobierno del general Alcántara. Revolución reivindicadora. El quinquenio",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B2943330"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 592,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.8.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9BAhAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9BAhAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9BAhAQAAIAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9BAhAQAAIAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_contempor%C3%A1nea_de_Venezuela_6_p.html?hl=&id=9BAhAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9BAhAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fUvJyg6pwgAC",
+      "etag": "krJbFfYqdBo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fUvJyg6pwgAC",
+      "volumeInfo": {
+        "title": "Goviernos constitucionales (1847-1858)",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CUB:P105262714014"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 542,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fUvJyg6pwgAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fUvJyg6pwgAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fUvJyg6pwgAC&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fUvJyg6pwgAC&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Goviernos_constitucionales_1847_1858.html?hl=&id=fUvJyg6pwgAC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fUvJyg6pwgAC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dP7Ws4ZNBzwC",
+      "etag": "IoJxBYjoClA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dP7Ws4ZNBzwC",
+      "volumeInfo": {
+        "title": "Resumen sinoptico de la historia contemporanea de Venezuela",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CUB:P105262604001"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1010,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dP7Ws4ZNBzwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dP7Ws4ZNBzwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=dP7Ws4ZNBzwC&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dP7Ws4ZNBzwC&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Resumen_sinoptico_de_la_historia_contemp.html?hl=&id=dP7Ws4ZNBzwC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dP7Ws4ZNBzwC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Hh7lblRQQsMC",
+      "etag": "NehQywaUqkE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Hh7lblRQQsMC",
+      "volumeInfo": {
+        "title": "Gobierno de la federacion",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CUB:P105262714017"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 534,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Hh7lblRQQsMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Hh7lblRQQsMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Hh7lblRQQsMC&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Hh7lblRQQsMC&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gobierno_de_la_federacion.html?hl=&id=Hh7lblRQQsMC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Hh7lblRQQsMC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DHxFqfHnQEAC",
+      "etag": "FlVXvSYLgxo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DHxFqfHnQEAC",
+      "volumeInfo": {
+        "title": "Goviernos constitucionales (1830-1847)",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CUB:P105262714011"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 498,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DHxFqfHnQEAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DHxFqfHnQEAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DHxFqfHnQEAC&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DHxFqfHnQEAC&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Goviernos_constitucionales_1830_1847.html?hl=&id=DHxFqfHnQEAC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DHxFqfHnQEAC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s-N5tpaITT8C",
+      "etag": "CBH1AB5uVII",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s-N5tpaITT8C",
+      "volumeInfo": {
+        "title": "Discurso pronunciado",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CUB:P202301307010"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 18,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s-N5tpaITT8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s-N5tpaITT8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=s-N5tpaITT8C&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=s-N5tpaITT8C&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_pronunciado.html?hl=&id=s-N5tpaITT8C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s-N5tpaITT8C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2dXEqoqDJl0C",
+      "etag": "1GEULmjCmJc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2dXEqoqDJl0C",
+      "volumeInfo": {
+        "title": "Gobierno del General Joaquin Crespo (1884-1886).-Gobierno de la Aclamacion (1886-1887).-Gobierno del General Hermogenes Lopez (1887-1888)",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CUB:P105262604002"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 696,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2dXEqoqDJl0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2dXEqoqDJl0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2dXEqoqDJl0C&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2dXEqoqDJl0C&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gobierno_del_General_Joaquin_Crespo_1884.html?hl=&id=2dXEqoqDJl0C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2dXEqoqDJl0C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "k81r1R746K4C",
+      "etag": "vODI1yePuMg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/k81r1R746K4C",
+      "volumeInfo": {
+        "title": "Prologo",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CUB:P105363010003"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 530,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=k81r1R746K4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=k81r1R746K4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=k81r1R746K4C&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=k81r1R746K4C&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Prologo.html?hl=&id=k81r1R746K4C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=k81r1R746K4C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PTNV0AEACAAJ",
+      "etag": "Pk8l/jGNxmI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PTNV0AEACAAJ",
+      "volumeInfo": {
+        "title": "Historia contemporánea de Venezuela Volume; Volume 9",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publisher": "Legare Street Press",
+        "publishedDate": "2023-07-18",
+        "description": "Historia contemporánea de Venezuela es una obra fundamental para aquellos interesados en la historia de este país sudamericano. Francisco González Guinán describe aquí la evolución política, social y económica de Venezuela desde los años cincuenta hasta la época contemporánea. Esta obra es una referencia imprescindible para estudiantes, profesores y estudiosos de la historia de Venezuela. This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the \"public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1022720821"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781022720824"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PTNV0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PTNV0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PTNV0AEACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PTNV0AEACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_contempor%C3%A1nea_de_Venezuela_Vol.html?hl=&id=PTNV0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PTNV0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the &quot;public domain in the United States of America, and possibly other nations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Y3pr0QEACAAJ",
+      "etag": "YaC2poEpSXA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Y3pr0QEACAAJ",
+      "volumeInfo": {
+        "title": "Historia del gobierno del doctor J. P. Rojas Paul, Presidente de los Estados Unidos de Venezuela, en el período constitucional de 1888 á 1890..",
+        "authors": [
+          "Francisco GONZÁLEZ GUINÁN"
+        ],
+        "publishedDate": "1891",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1152765216"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Y3pr0QEACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Y3pr0QEACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_del_gobierno_del_doctor_J_P_Roj.html?hl=&id=Y3pr0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Y3pr0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JA8a0AEACAAJ",
+      "etag": "tx+tTg8O4vU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JA8a0AEACAAJ",
+      "volumeInfo": {
+        "title": "Historia contemporánea de Venezuela Volume; Volume 11",
+        "authors": [
+          "Ruth Parr",
+          "Charles McKew Donor Parr",
+          "Francisco González Guinán"
+        ],
+        "publisher": "Legare Street Press",
+        "publishedDate": "2023-07-18",
+        "description": "En esta obra, Charles McKew Donor Parr, Francisco González Guinán y Ruth Parr ofrecen una mirada profunda y detallada de la historia de Venezuela durante el siglo XX. A través de una narrativa clara y llena de detalles, exploran los eventos y las tendencias que definieron la política, la cultura y la sociedad del país. Una obra fundamental para aquellos interesados en la historia de América Latina. This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the \"public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1021132292"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781021132291"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JA8a0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JA8a0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JA8a0AEACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JA8a0AEACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_contempor%C3%A1nea_de_Venezuela_Vol.html?hl=&id=JA8a0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JA8a0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the &quot;public domain in the United States of America, and possibly other nations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4eswcgAACAAJ",
+      "etag": "Gz1LYiZRg54",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4eswcgAACAAJ",
+      "volumeInfo": {
+        "title": "Historia contemporánea de Venezuela",
+        "subtitle": "Gobierno de la Federación",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:630028396"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 472,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4eswcgAACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4eswcgAACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_contempor%C3%A1nea_de_Venezuela.html?hl=&id=4eswcgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4eswcgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nzgLcgAACAAJ",
+      "etag": "cQLplGJkGTE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nzgLcgAACAAJ",
+      "volumeInfo": {
+        "title": "Historia contemporánea de Venezuela",
+        "subtitle": "Transición legal-Gobierno del General Alcántara-Revolución Reivindicadora-El Quinquenio",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:630028439"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 522,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nzgLcgAACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nzgLcgAACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_contempor%C3%A1nea_de_Venezuela.html?hl=&id=nzgLcgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nzgLcgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3Q4PcgAACAAJ",
+      "etag": "NKE9XXTH8dA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3Q4PcgAACAAJ",
+      "volumeInfo": {
+        "title": "Historia contemporánea de Venezuela",
+        "subtitle": "El Gobierno Azul-El Septenio",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:630028427"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 461,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3Q4PcgAACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3Q4PcgAACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_contempor%C3%A1nea_de_Venezuela.html?hl=&id=3Q4PcgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3Q4PcgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fyoEcgAACAAJ",
+      "etag": "p4W0g/fbgkA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fyoEcgAACAAJ",
+      "volumeInfo": {
+        "title": "Historia contemporánea de Venezuela",
+        "subtitle": "Gobiernos constitucionales (1847-1858)",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:630028357"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 485,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fyoEcgAACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fyoEcgAACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_contempor%C3%A1nea_de_Venezuela.html?hl=&id=fyoEcgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fyoEcgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r8obcgAACAAJ",
+      "etag": "kBLnA1rog30",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r8obcgAACAAJ",
+      "volumeInfo": {
+        "title": "Historia contemporánea de Venezuela",
+        "subtitle": "Gobiernos constitucionales (1830-1847)",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:630027967"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 451,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=r8obcgAACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=r8obcgAACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_contempor%C3%A1nea_de_Venezuela.html?hl=&id=r8obcgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r8obcgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iXsecgAACAAJ",
+      "etag": "QYCn+GZy8/A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iXsecgAACAAJ",
+      "volumeInfo": {
+        "title": "Historia contemporánea de Venezuela",
+        "subtitle": "Gobiernos revolucionarios (1858-1863)",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:630028363"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 474,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=iXsecgAACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=iXsecgAACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_contempor%C3%A1nea_de_Venezuela.html?hl=&id=iXsecgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iXsecgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Cyg2cgAACAAJ",
+      "etag": "5QKoxf7+V8s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Cyg2cgAACAAJ",
+      "volumeInfo": {
+        "title": "Historia contemporánea de Venezuela",
+        "subtitle": "Gobierno del General Joaquín Crespo (1884-1886)-Gobierno de la Aclamación (1886-1887)-Gobierno del General Hermógenes López (1887-1888)",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:630028506"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 639,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Cyg2cgAACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=45&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Cyg2cgAACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_contempor%C3%A1nea_de_Venezuela.html?hl=&id=Cyg2cgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Cyg2cgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "goptzgEACAAJ",
+      "etag": "CBi4CzJPrug",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/goptzgEACAAJ",
+      "volumeInfo": {
+        "title": "Historia contenporánea de Venezuela...",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1248396224"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=goptzgEACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=46&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=goptzgEACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_contenpor%C3%A1nea_de_Venezuela.html?hl=&id=goptzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=goptzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RaRVtwAACAAJ",
+      "etag": "kmi/E8yYYFA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RaRVtwAACAAJ",
+      "volumeInfo": {
+        "title": "Tradiciones de mi pueblo, Valencia, Venzuela",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:83183751"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "categories": [
+          "Valencia (Venezuela)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RaRVtwAACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=47&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RaRVtwAACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tradiciones_de_mi_pueblo_Valencia_Venzue.html?hl=&id=RaRVtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RaRVtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vZLIHAAACAAJ",
+      "etag": "I5SBD8bU4W8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vZLIHAAACAAJ",
+      "volumeInfo": {
+        "title": "Los partidos políticos",
+        "subtitle": "nuestro Partido Liberal",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:5539400"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vZLIHAAACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=48&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vZLIHAAACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_partidos_pol%C3%ADticos.html?hl=&id=vZLIHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vZLIHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TVG1tgAACAAJ",
+      "etag": "JaswDhUVgU0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TVG1tgAACAAJ",
+      "volumeInfo": {
+        "title": "Honores póstumos al benemérito general Joaquín Crespo",
+        "subtitle": "discurso pronunciado en el Panteón Nacional el 24 de abril de 1898",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1898",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:237796476"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TVG1tgAACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=49&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TVG1tgAACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Honores_p%C3%B3stumos_al_benem%C3%A9rito_general.html?hl=&id=TVG1tgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TVG1tgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0nF1OwAACAAJ",
+      "etag": "0ewln8W9AR4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0nF1OwAACAAJ",
+      "volumeInfo": {
+        "title": "El consejero de la juventud",
+        "subtitle": "escrito para uso de las escuelas primarias",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1895",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:4850684"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 93,
+        "printType": "BOOK",
+        "categories": [
+          "Youth"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0nF1OwAACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=50&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0nF1OwAACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_consejero_de_la_juventud.html?hl=&id=0nF1OwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0nF1OwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bigdywAACAAJ",
+      "etag": "o5DWHvq1KfI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bigdywAACAAJ",
+      "volumeInfo": {
+        "title": "El consejero de la juventud",
+        "subtitle": "ante el juicio publico",
+        "authors": [
+          "Francisco González Guinán"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:742367694"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 245,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=bigdywAACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&cd=51&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=bigdywAACAAJ&dq=inauthor:%22Francisco+Gonz%C3%A1lez+Guin%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_consejero_de_la_juventud.html?hl=&id=bigdywAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bigdywAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

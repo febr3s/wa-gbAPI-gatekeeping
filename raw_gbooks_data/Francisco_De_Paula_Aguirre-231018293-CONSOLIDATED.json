@@ -1,0 +1,276 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20De%20Paula%20Aguirre\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20De%20Paula%20Aguirre\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 4,
+  "_totalFetchedItems": 4,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "m5d-7K561gIC",
+      "etag": "mfCXmpmBqwA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m5d-7K561gIC",
+      "volumeInfo": {
+        "title": "Biographical Encyclopedia of the World",
+        "publishedDate": "1946",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000153949700"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1286,
+        "printType": "BOOK",
+        "categories": [
+          "Biography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m5d-7K561gIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m5d-7K561gIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=m5d-7K561gIC&pg=PA755&dq=inauthor:%22Francisco+De+Paula+Aguirre%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=m5d-7K561gIC&dq=inauthor:%22Francisco+De+Paula+Aguirre%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Biographical_Encyclopedia_of_the_World.html?hl=&id=m5d-7K561gIC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m5d-7K561gIC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "V6huAgAAQBAJ",
+      "etag": "OQ4EeqkcugA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/V6huAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Bodies of Evidence",
+        "subtitle": "The Practice of Queer Oral History",
+        "authors": [
+          "Nan Alamilla Boyd",
+          "Horacio N. Roque Ramirez"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2012-02-06",
+        "description": "Bodies of Evidence: The Practice of Queer Oral History is the first book to provide serious scholarly insight into the methodological practices that shape lesbian, gay, bisexual, transgender, and queer oral histories. Each of the fourteen chapters pairs an oral history excerpt with an original essay in which the oral historian addresses his or her methods and practices.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780199910854"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0199910855"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 306,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=V6huAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=V6huAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=V6huAgAAQBAJ&pg=PA200&dq=inauthor:%22Francisco+De+Paula+Aguirre%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=V6huAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=V6huAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 175808,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 123066,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=V6huAgAAQBAJ&rdid=book-V6huAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 175808000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 123066000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Bodies_of_Evidence-sample-epub.acsm?id=V6huAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Bodies_of_Evidence-sample-pdf.acsm?id=V6huAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=V6huAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Francisco</b> , &quot; in <b>Paula</b> Hamilton and Linda Shopes , eds . , Oral History and Public Mem- ories ( Philadelphia ... <b>Aguirre</b> also wrote , produced , and directed &quot; Wanted Alive : Teresita La Campesina ” ( San <b>Francisco</b> , 20 min&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dOogtwAACAAJ",
+      "etag": "sZSFxjSe5TA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dOogtwAACAAJ",
+      "volumeInfo": {
+        "title": "Francisco de Aguirre",
+        "authors": [
+          "L. S. Lazaeta"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:66681784"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=dOogtwAACAAJ&dq=inauthor:%22Francisco+De+Paula+Aguirre%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dOogtwAACAAJ&dq=inauthor:%22Francisco+De+Paula+Aguirre%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Francisco_de_Aguirre.html?hl=&id=dOogtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dOogtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ap8xQwAACAAJ",
+      "etag": "cnrdzM9W0dU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ap8xQwAACAAJ",
+      "volumeInfo": {
+        "title": "Cartas de Francisco de Paula a Francisco A. Barbieri",
+        "authors": [
+          "Francisco de Paula Rochano"
+        ],
+        "publishedDate": "1859",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:430601422"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ap8xQwAACAAJ&dq=inauthor:%22Francisco+De+Paula+Aguirre%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ap8xQwAACAAJ&dq=inauthor:%22Francisco+De+Paula+Aguirre%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cartas_de_Francisco_de_Paula_a_Francisco.html?hl=&id=ap8xQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ap8xQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

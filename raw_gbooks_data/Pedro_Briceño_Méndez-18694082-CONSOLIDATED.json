@@ -1,0 +1,534 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Pedro%20Brice%C3%B1o%20M%C3%A9ndez\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Pedro%20Brice%C3%B1o%20M%C3%A9ndez\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 9,
+  "_totalFetchedItems": 9,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "D6hgAAAAcAAJ",
+      "etag": "EmvXUHOgmgk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/D6hgAAAAcAAJ",
+      "volumeInfo": {
+        "title": "Esposicion de los motivos que tuvieron los diputados que suscriben para separarse de la Gran Convencion. [Signed: Pedro Briceño Mendez and others.]",
+        "authors": [
+          "Pedro Briceño Méndez"
+        ],
+        "publishedDate": "1828",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BL:A0019650284"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "categories": [
+          "Colombia"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=D6hgAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=D6hgAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=D6hgAAAAcAAJ&printsec=frontcover&dq=inauthor:%22Pedro+Brice%C3%B1o+M%C3%A9ndez%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=D6hgAAAAcAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=D6hgAAAAcAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=D6hgAAAAcAAJ&rdid=book-D6hgAAAAcAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Esposicion_de_los_motivos_que_tuvieron_l.epub?id=D6hgAAAAcAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=D6hgAAAAcAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Bi6DAAAACAAJ",
+      "etag": "4ajBnGgkOzA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Bi6DAAAACAAJ",
+      "volumeInfo": {
+        "title": "Relación histórica",
+        "authors": [
+          "Pedro Briceño Méndez"
+        ],
+        "publishedDate": "1993",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9800716726"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789800716724"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 87,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Bi6DAAAACAAJ&dq=inauthor:%22Pedro+Brice%C3%B1o+M%C3%A9ndez%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Bi6DAAAACAAJ&dq=inauthor:%22Pedro+Brice%C3%B1o+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Relaci%C3%B3n_hist%C3%B3rica.html?hl=&id=Bi6DAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Bi6DAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6IX_MgEACAAJ",
+      "etag": "5Ep6yWl4o94",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6IX_MgEACAAJ",
+      "volumeInfo": {
+        "title": "Relación Histórica Del General Pedro Briceño Méndez, Etc. (Apuntes Sobre la Vida Del Gl. Bolívar.).",
+        "authors": [
+          "Venezuela. Ministerio de Relaciones Exteriores",
+          "Pedro BRICEÑO MÉNDEZ"
+        ],
+        "publishedDate": "1933",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:504774939"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=6IX_MgEACAAJ&dq=inauthor:%22Pedro+Brice%C3%B1o+M%C3%A9ndez%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6IX_MgEACAAJ&dq=inauthor:%22Pedro+Brice%C3%B1o+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Relaci%C3%B3n_Hist%C3%B3rica_Del_General_Pedro_B.html?hl=&id=6IX_MgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6IX_MgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "flS2tgAACAAJ",
+      "etag": "bbXll8uab2s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/flS2tgAACAAJ",
+      "volumeInfo": {
+        "title": "Relacion historica del general Pedro Briceño Mendez",
+        "authors": [
+          "Pedro Briceño Méndez"
+        ],
+        "publishedDate": "1933",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:187002363"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 62,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=flS2tgAACAAJ&dq=inauthor:%22Pedro+Brice%C3%B1o+M%C3%A9ndez%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=flS2tgAACAAJ&dq=inauthor:%22Pedro+Brice%C3%B1o+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Relacion_historica_del_general_Pedro_Bri.html?hl=&id=flS2tgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=flS2tgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fqU3kgAACAAJ",
+      "etag": "cUN/QFTFGOQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fqU3kgAACAAJ",
+      "volumeInfo": {
+        "title": "Pedro Briceño Mendez, general del Ejército de la República y gobernador político provisional de esta Provincia de Caracas, á los venezolanos",
+        "authors": [
+          "Pedro Briceño Méndez"
+        ],
+        "publishedDate": "1835",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:86223449"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 3,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fqU3kgAACAAJ&dq=inauthor:%22Pedro+Brice%C3%B1o+M%C3%A9ndez%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fqU3kgAACAAJ&dq=inauthor:%22Pedro+Brice%C3%B1o+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pedro_Brice%C3%B1o_Mendez_general_del_Ej%C3%A9rc.html?hl=&id=fqU3kgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fqU3kgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kqOE0AEACAAJ",
+      "etag": "trDkL8u8ZS4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kqOE0AEACAAJ",
+      "volumeInfo": {
+        "title": "Pedro Brizeño Mendez de los libertadores de Venezuela y Cundinamarca, jeneral de brigada de los ejercitos de la republica, secretario de estado en los despachos de marina y guerra &c",
+        "authors": [
+          "Pedro Briceño Méndez"
+        ],
+        "publishedDate": "1824",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:987912095"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Marriage"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=kqOE0AEACAAJ&dq=inauthor:%22Pedro+Brice%C3%B1o+M%C3%A9ndez%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=kqOE0AEACAAJ&dq=inauthor:%22Pedro+Brice%C3%B1o+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pedro_Brize%C3%B1o_Mendez_de_los_libertadore.html?hl=&id=kqOE0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kqOE0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zq-4PAAACAAJ",
+      "etag": "y440mDkq0Sk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zq-4PAAACAAJ",
+      "volumeInfo": {
+        "title": "Simon Bolivar, Libertador, Presidente de Colombia, &c. &c. &c",
+        "subtitle": "Conviniendo á la administracion actual de los tres Departamentos del Sur ...",
+        "authors": [
+          "Colombia",
+          "Pedro Briceño Méndez"
+        ],
+        "publishedDate": "1826",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:15022244"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Azuay (Ecuador)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=zq-4PAAACAAJ&dq=inauthor:%22Pedro+Brice%C3%B1o+M%C3%A9ndez%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zq-4PAAACAAJ&dq=inauthor:%22Pedro+Brice%C3%B1o+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Simon_Bolivar_Libertador_Presidente_de_C.html?hl=&id=zq-4PAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zq-4PAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OuxrPgAACAAJ",
+      "etag": "rnaLWjVLB+o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OuxrPgAACAAJ",
+      "volumeInfo": {
+        "title": "Contestaciones de oficio y particulares que S.E. el J.C. y M. de Venezuela ha dado á los ajentes del motin de Puertocabello",
+        "subtitle": "y una carta seductora que entre otras se ha sorprendido",
+        "authors": [
+          "José Antonio Páez",
+          "Pedro Briceño Méndez"
+        ],
+        "publishedDate": "1826",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:237821306"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "categories": [
+          "Puerto Cabello (Venezuela)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=OuxrPgAACAAJ&dq=inauthor:%22Pedro+Brice%C3%B1o+M%C3%A9ndez%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=OuxrPgAACAAJ&dq=inauthor:%22Pedro+Brice%C3%B1o+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Contestaciones_de_oficio_y_particulares.html?hl=&id=OuxrPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OuxrPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lkiOOwAACAAJ",
+      "etag": "65ppuO8g2rI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lkiOOwAACAAJ",
+      "volumeInfo": {
+        "title": "Señores",
+        "authors": [
+          "Pedro Briceño Méndez"
+        ],
+        "publishedDate": "1823",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54261117"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "categories": [
+          "Colombia"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lkiOOwAACAAJ&dq=inauthor:%22Pedro+Brice%C3%B1o+M%C3%A9ndez%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lkiOOwAACAAJ&dq=inauthor:%22Pedro+Brice%C3%B1o+M%C3%A9ndez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Se%C3%B1ores.html?hl=&id=lkiOOwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lkiOOwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20Linares%20Alc%C3%A1ntara\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20Linares%20Alc%C3%A1ntara\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 2,
+  "_totalFetchedItems": 2,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "6WJsAAAAMAAJ",
+      "etag": "CSLju2eEP0c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6WJsAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Apuntes",
+        "subtitle": "trayectoria militar y política del general Francisco Linares Alcántara, hijo",
+        "authors": [
+          "Francisco Linares Alcántara"
+        ],
+        "publishedDate": "1979",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018389829"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "categories": [
+          "Generals"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6WJsAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6WJsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6WJsAAAAMAAJ&dq=inauthor:%22Francisco+Linares+Alc%C3%A1ntara%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6WJsAAAAMAAJ&dq=inauthor:%22Francisco+Linares+Alc%C3%A1ntara%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Apuntes.html?hl=&id=6WJsAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6WJsAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DDd_swEACAAJ",
+      "etag": "owX5xkmvb54",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DDd_swEACAAJ",
+      "volumeInfo": {
+        "title": "Documentos para la historia de la vida pública del libertador de Colombia, Perú y Bolivia ...",
+        "subtitle": "Puestos por orden cronolólogico, y con adiciones y notas que la ilustran",
+        "authors": [
+          "José Félix Blanco"
+        ],
+        "publishedDate": "1875",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:03024599"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "South America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DDd_swEACAAJ&dq=inauthor:%22Francisco+Linares+Alc%C3%A1ntara%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DDd_swEACAAJ&dq=inauthor:%22Francisco+Linares+Alc%C3%A1ntara%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Documentos_para_la_historia_de_la_vida_p.html?hl=&id=DDd_swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DDd_swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

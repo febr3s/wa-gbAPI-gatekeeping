@@ -1,0 +1,2009 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Carlos%20Brandt\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Carlos%20Brandt\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Carlos%20Brandt\"&maxResults=20&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Carlos%20Brandt\"&maxResults=14&startIndex=20&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 34,
+  "_totalRequestsMade": 2,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "wAmtDwAAQBAJ",
+      "etag": "W/Fa5hJD9vs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wAmtDwAAQBAJ",
+      "volumeInfo": {
+        "title": "El modernismo",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publisher": "Linkgua",
+        "publishedDate": "2019-04-01",
+        "description": "El modernismo es un libro escrito en 1906 inspirado en las ideas de Max Nordau, un desaforado opositor a los decadentistas y, en general, contra todos los artistas del momento. Carlos Brandt, también enemigo enconado del modernismo estético, escribió este libro polémico en extremo, cuestionando las carencias intelectuales y la degeneración física, cerebral y moral de los escritores modernistas. La obra fue centro de discusiones apasionadas en un medio literario que resultaba ajeno y distante para el autor.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788490075821"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8490075824"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 55,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.11.11.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wAmtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wAmtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wAmtDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wAmtDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wAmtDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13900,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 13900,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=wAmtDwAAQBAJ&rdid=book-wAmtDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13900000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 13900000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/El_modernismo-sample-epub.acsm?id=wAmtDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/El_modernismo-sample-pdf.acsm?id=wAmtDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wAmtDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El modernismo es un libro escrito en 1906 inspirado en las ideas de Max Nordau, un desaforado opositor a los decadentistas y, en general, contra todos los artistas del momento."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "c4WZCOySt1QC",
+      "etag": "U8T4r3VKvqw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/c4WZCOySt1QC",
+      "volumeInfo": {
+        "title": "El fundamento de la moral",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1918",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105046703935"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 158,
+        "printType": "BOOK",
+        "categories": [
+          "Ethics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.10.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=c4WZCOySt1QC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=c4WZCOySt1QC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=c4WZCOySt1QC&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=c4WZCOySt1QC&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_fundamento_de_la_moral.html?hl=&id=c4WZCOySt1QC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=c4WZCOySt1QC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8gQvAAAAIAAJ",
+      "etag": "OJr9ED78Fi4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8gQvAAAAIAAJ",
+      "volumeInfo": {
+        "title": "La época del terror en el país de Gómez",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1947",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105011942260"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 246,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8gQvAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8gQvAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8gQvAAAAIAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8gQvAAAAIAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_%C3%A9poca_del_terror_en_el_pa%C3%ADs_de_G%C3%B3m.html?hl=&id=8gQvAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8gQvAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oXnQjWLLk8MC",
+      "etag": "PZpPbDXwswY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oXnQjWLLk8MC",
+      "volumeInfo": {
+        "title": "Jesús el Filósofo por Excelencia",
+        "publisher": "Editorial Kier",
+        "publishedDate": "1939",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "950170808X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789501708080"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 116,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oXnQjWLLk8MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oXnQjWLLk8MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=oXnQjWLLk8MC&printsec=frontcover&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=oXnQjWLLk8MC&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jes%C3%BAs_el_Fil%C3%B3sofo_por_Excelencia.html?hl=&id=oXnQjWLLk8MC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Jes%C3%BAs_el_Fil%C3%B3sofo_por_Excelencia-sample-pdf.acsm?id=oXnQjWLLk8MC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oXnQjWLLk8MC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ow9FAQAAMAAJ",
+      "etag": "MKC1eLIfKKI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ow9FAQAAMAAJ",
+      "volumeInfo": {
+        "title": "La belleza de la mujer",
+        "subtitle": "estudio sobre la perfección del cuerpo humano y su importancia con respecto a la ciencia, las artes y la filosofía",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1905",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCBK:C055157352"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 90,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ow9FAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ow9FAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ow9FAQAAMAAJ&printsec=frontcover&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ow9FAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ow9FAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=ow9FAQAAMAAJ&rdid=book-ow9FAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/La_belleza_de_la_mujer.epub?id=ow9FAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ow9FAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h8lkAAAAMAAJ",
+      "etag": "+nkS7b2P6nw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h8lkAAAAMAAJ",
+      "volumeInfo": {
+        "title": "El misterioso almirante y su enigmático descubrimiento",
+        "subtitle": "biografía",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1949",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018270418"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=h8lkAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=h8lkAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=h8lkAAAAMAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=h8lkAAAAMAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_misterioso_almirante_y_su_enigm%C3%A1tico.html?hl=&id=h8lkAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h8lkAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bLzlgSo1R3UC",
+      "etag": "aKBVG4B84W8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bLzlgSo1R3UC",
+      "volumeInfo": {
+        "title": "Beethoven",
+        "subtitle": "su vida, su obra, y el sentido de su música ...",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433075009922"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 248,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bLzlgSo1R3UC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bLzlgSo1R3UC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=bLzlgSo1R3UC&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=bLzlgSo1R3UC&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beethoven.html?hl=&id=bLzlgSo1R3UC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bLzlgSo1R3UC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TTGCyBUBqUEC",
+      "etag": "ilsgGvBHe7g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TTGCyBUBqUEC",
+      "volumeInfo": {
+        "title": "El fanatismo religioso",
+        "subtitle": "(análisis crítico de la Bibla)",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1934",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015078581900"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 68,
+        "printType": "BOOK",
+        "categories": [
+          "Bible"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TTGCyBUBqUEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TTGCyBUBqUEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TTGCyBUBqUEC&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TTGCyBUBqUEC&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_fanatismo_religioso.html?hl=&id=TTGCyBUBqUEC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TTGCyBUBqUEC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xFJsAAAAMAAJ",
+      "etag": "VaOPlLA6r3Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xFJsAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Bajo la tiranía de Cipranio Castro",
+        "subtitle": "su desgraciada actitud durante el bombardeo y el bloqueo de 1902",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1952",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018389013"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 146,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xFJsAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xFJsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=xFJsAAAAMAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=xFJsAAAAMAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bajo_la_tiran%C3%ADa_de_Cipranio_Castro.html?hl=&id=xFJsAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xFJsAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3352QoP2PyoC",
+      "etag": "OssRW163fIk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3352QoP2PyoC",
+      "volumeInfo": {
+        "title": "The Vital Problem",
+        "subtitle": "The Path to Health, Wisdom and Universal Peace",
+        "authors": [
+          "Charles Brandt",
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433058354717"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "categories": [
+          "Ethics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3352QoP2PyoC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3352QoP2PyoC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=3352QoP2PyoC&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3352QoP2PyoC&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Vital_Problem.html?hl=&id=3352QoP2PyoC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3352QoP2PyoC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FGfqGwAACAAJ",
+      "etag": "BqUgTh2yqbg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FGfqGwAACAAJ",
+      "volumeInfo": {
+        "title": "El problema vital",
+        "subtitle": "el fundamento de la moral : filosofía del vegetarianismo : la clave del misterio",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1942",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55328751"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 300,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=FGfqGwAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=FGfqGwAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_problema_vital.html?hl=&id=FGfqGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FGfqGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hTEH0AEACAAJ",
+      "etag": "Tft2zH5Iu/s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hTEH0AEACAAJ",
+      "volumeInfo": {
+        "title": "La belleza de la mujer",
+        "subtitle": "tratado de las proporciones armoniosas del cuerpo humano y de la importancia filosófica, artística y sociológica de la belleza física",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1939",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1381454786"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hTEH0AEACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hTEH0AEACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_belleza_de_la_mujer.html?hl=&id=hTEH0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hTEH0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Jo9tNQAACAAJ",
+      "etag": "ltdV1qTIrGo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Jo9tNQAACAAJ",
+      "volumeInfo": {
+        "title": "Patología racional",
+        "subtitle": "las enfermedades su origen y curación",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1949",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432107902"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 45,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Jo9tNQAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Jo9tNQAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Patolog%C3%ADa_racional.html?hl=&id=Jo9tNQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Jo9tNQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Uv8YHAAACAAJ",
+      "etag": "TGDgT+tkGr8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Uv8YHAAACAAJ",
+      "volumeInfo": {
+        "title": "Giordano Bruno",
+        "subtitle": "el mártir más auténtico en la historia",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:a41003654"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Uv8YHAAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Uv8YHAAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Giordano_Bruno.html?hl=&id=Uv8YHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Uv8YHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LLjRtAEACAAJ",
+      "etag": "VMEbV+SZ1zc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LLjRtAEACAAJ",
+      "volumeInfo": {
+        "title": "Cervantes y su obra",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1950",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:911119739"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=LLjRtAEACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LLjRtAEACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cervantes_y_su_obra.html?hl=&id=LLjRtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LLjRtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "z4ggOwAACAAJ",
+      "etag": "wnC2LENT+4A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z4ggOwAACAAJ",
+      "volumeInfo": {
+        "title": "Spinoza y el panteismo",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1941",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:29100400"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 313,
+        "printType": "BOOK",
+        "categories": [
+          "Pantheism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=z4ggOwAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=z4ggOwAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Spinoza_y_el_panteismo.html?hl=&id=z4ggOwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=z4ggOwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RfPONAAACAAJ",
+      "etag": "BSYB8Qd+ZHo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RfPONAAACAAJ",
+      "volumeInfo": {
+        "title": "Beethoven, su vida, su obra, y el sentido de su musica",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:54041507"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RfPONAAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RfPONAAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beethoven_su_vida_su_obra_y_el_sentido_d.html?hl=&id=RfPONAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RfPONAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qf5qMwEACAAJ",
+      "etag": "QjEcIIZ4LQQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qf5qMwEACAAJ",
+      "volumeInfo": {
+        "title": "Camino de la perfección",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1930*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:803789990"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 91,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qf5qMwEACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qf5qMwEACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Camino_de_la_perfecci%C3%B3n.html?hl=&id=qf5qMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qf5qMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UyVPHQAACAAJ",
+      "etag": "zGBEezgLdDA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UyVPHQAACAAJ",
+      "volumeInfo": {
+        "title": "El Vegetarismo",
+        "authors": [
+          "Charles Brandt"
+        ],
+        "publishedDate": "1909",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:16877997"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 236,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=UyVPHQAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=UyVPHQAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Vegetarismo.html?hl=&id=UyVPHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UyVPHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WBb3GwAACAAJ",
+      "etag": "3tthUzNyNR8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WBb3GwAACAAJ",
+      "volumeInfo": {
+        "title": "Jesus Christ",
+        "subtitle": "el filosofo por excelencia",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1939",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:80825775"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 130,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WBb3GwAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WBb3GwAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jesus_Christ.html?hl=&id=WBb3GwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WBb3GwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Xw_bAQAACAAJ",
+      "etag": "Gm5+WL3RKPU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Xw_bAQAACAAJ",
+      "volumeInfo": {
+        "title": "Cervantes el titan de la literatura y su obra maestra : El Quijote",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1942",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431858778"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 238,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Xw_bAQAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Xw_bAQAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cervantes_el_titan_de_la_literatura_y_su.html?hl=&id=Xw_bAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Xw_bAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b0TPQwAACAAJ",
+      "etag": "isRAP6zzikk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b0TPQwAACAAJ",
+      "volumeInfo": {
+        "title": "Pitágoras vegetariano",
+        "authors": [
+          "Carlos Brandt",
+          "Instituto de Trofoterapia (Barcelona)"
+        ],
+        "publishedDate": "1970",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431806384"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=b0TPQwAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=b0TPQwAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pit%C3%A1goras_vegetariano.html?hl=&id=b0TPQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b0TPQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1bRbNQAACAAJ",
+      "etag": "giHnP9APwxk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1bRbNQAACAAJ",
+      "volumeInfo": {
+        "title": "Filosofía del vegetarismo",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431806368"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 148,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1bRbNQAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1bRbNQAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Filosof%C3%ADa_del_vegetarismo.html?hl=&id=1bRbNQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1bRbNQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jeCWoAEACAAJ",
+      "etag": "9syBwPyhCps",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jeCWoAEACAAJ",
+      "volumeInfo": {
+        "title": "SociologIa general",
+        "authors": [
+          "Juan Carlos Brandt B."
+        ],
+        "publishedDate": "1979",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:879706629"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 213,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jeCWoAEACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jeCWoAEACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/SociologIa_general.html?hl=&id=jeCWoAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jeCWoAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IxS5QwAACAAJ",
+      "etag": "malvcas8+WQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IxS5QwAACAAJ",
+      "volumeInfo": {
+        "title": "El problema vital",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432672986"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 309,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=IxS5QwAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=IxS5QwAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_problema_vital.html?hl=&id=IxS5QwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IxS5QwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GkvCwwEACAAJ",
+      "etag": "F8UIkSGoxzo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GkvCwwEACAAJ",
+      "volumeInfo": {
+        "title": "La Clave del misterio",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1090836698"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 158,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GkvCwwEACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GkvCwwEACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Clave_del_misterio.html?hl=&id=GkvCwwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GkvCwwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OvKAMwEACAAJ",
+      "etag": "2TjnmQWhFJM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OvKAMwEACAAJ",
+      "volumeInfo": {
+        "title": "El Sendero de la salud",
+        "authors": [
+          "Carlos Brandt",
+          "Nicolás Capo"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:804389433"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 51,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=OvKAMwEACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=OvKAMwEACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Sendero_de_la_salud.html?hl=&id=OvKAMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OvKAMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "U1l8HAAACAAJ",
+      "etag": "j/C9feEecnQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U1l8HAAACAAJ",
+      "volumeInfo": {
+        "title": "La supertición médica",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55435661"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 239,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=U1l8HAAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=U1l8HAAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_supertici%C3%B3n_m%C3%A9dica.html?hl=&id=U1l8HAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U1l8HAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Xxh2QwAACAAJ",
+      "etag": "5b6ou+u98sA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Xxh2QwAACAAJ",
+      "volumeInfo": {
+        "title": "El problema vital",
+        "subtitle": "El fundamento de la moral. Filosofía del vegetarismo. La clave del misterio",
+        "authors": [
+          "Carlos Brandt",
+          "Instituto de Trofoterapia (Barcelona)"
+        ],
+        "publishedDate": "1969",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431806389"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 298,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Xxh2QwAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Xxh2QwAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_problema_vital.html?hl=&id=Xxh2QwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Xxh2QwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cg6qwwEACAAJ",
+      "etag": "fXuWRHSYbc8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cg6qwwEACAAJ",
+      "volumeInfo": {
+        "title": "Patología racional",
+        "subtitle": "la enfermedad, su naturaleza, origen y curación",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1090898596"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 328,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cg6qwwEACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cg6qwwEACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Patolog%C3%ADa_racional.html?hl=&id=cg6qwwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cg6qwwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_inZmgEACAAJ",
+      "etag": "EM238K+utxM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_inZmgEACAAJ",
+      "volumeInfo": {
+        "title": "El problema económico-social",
+        "authors": [
+          "Charles Brandt"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651216061"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 139,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_inZmgEACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_inZmgEACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_problema_econ%C3%B3mico_social.html?hl=&id=_inZmgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_inZmgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-INFAAAACAAJ",
+      "etag": "KO8ZgQ/txic",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-INFAAAACAAJ",
+      "volumeInfo": {
+        "title": "The Frugivorous Nature of Man",
+        "subtitle": "Food for Life",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "2003-02",
+        "description": "Spiral Bound, Card Stock Covers, Acid free Paper,Classic Reprint.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1571794468"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781571794468"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 12,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=-INFAAAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-INFAAAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Frugivorous_Nature_of_Man.html?hl=&id=-INFAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-INFAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Spiral Bound, Card Stock Covers, Acid free Paper,Classic Reprint."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5mdwAQAACAAJ",
+      "etag": "plx62Jfq2Yc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5mdwAQAACAAJ",
+      "volumeInfo": {
+        "title": "Bajo la tiranía de Cipriano Castro",
+        "subtitle": "su desgraciada actitud durante el bombardeo y el bloqueo de 1902",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1952",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253467262"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 130,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5mdwAQAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5mdwAQAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bajo_la_tiran%C3%ADa_de_Cipriano_Castro.html?hl=&id=5mdwAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5mdwAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_DngPgAACAAJ",
+      "etag": "Y22kApLIit0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_DngPgAACAAJ",
+      "volumeInfo": {
+        "title": "Diógenes",
+        "authors": [
+          "Carlos Brandt"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:81314306"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy and religion"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_DngPgAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_DngPgAACAAJ&dq=inauthor:%22Carlos+Brandt%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Di%C3%B3genes.html?hl=&id=_DngPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_DngPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

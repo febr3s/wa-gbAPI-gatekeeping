@@ -1,0 +1,643 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Salustio%20Gonz%C3%A1lez%20Rincones\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Salustio%20Gonz%C3%A1lez%20Rincones\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 11,
+  "_totalFetchedItems": 11,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "MahdAAAAMAAJ",
+      "etag": "wllWf5DiivY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MahdAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Salustio González y la generación de \"La Alborada\".",
+        "authors": [
+          "Salustio González Rincones"
+        ],
+        "publisher": "Fundacion Celarg",
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015043152365"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 468,
+        "printType": "BOOK",
+        "categories": [
+          "Music"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MahdAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MahdAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=MahdAAAAMAAJ&dq=inauthor:%22Salustio+Gonz%C3%A1lez+Rincones%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=MahdAAAAMAAJ&dq=inauthor:%22Salustio+Gonz%C3%A1lez+Rincones%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Salustio_Gonz%C3%A1lez_y_la_generaci%C3%B3n_de_L.html?hl=&id=MahdAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MahdAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "chVJPgAACAAJ",
+      "etag": "0dLvjUQtgM0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/chVJPgAACAAJ",
+      "volumeInfo": {
+        "title": "Antología poética",
+        "authors": [
+          "Salustio González Rincones",
+          "Jesús Sanoja Hernández"
+        ],
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9803520032"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789803520038"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 207,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=chVJPgAACAAJ&dq=inauthor:%22Salustio+Gonz%C3%A1lez+Rincones%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=chVJPgAACAAJ&dq=inauthor:%22Salustio+Gonz%C3%A1lez+Rincones%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antolog%C3%ADa_po%C3%A9tica.html?hl=&id=chVJPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=chVJPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Cx5CAAAAYAAJ",
+      "etag": "BRhgBKiir78",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Cx5CAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Antología poética",
+        "authors": [
+          "Salustio González Rincones"
+        ],
+        "publishedDate": "1977",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024248377"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Cx5CAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Cx5CAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Cx5CAAAAYAAJ&dq=inauthor:%22Salustio+Gonz%C3%A1lez+Rincones%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Cx5CAAAAYAAJ&dq=inauthor:%22Salustio+Gonz%C3%A1lez+Rincones%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antolog%C3%ADa_po%C3%A9tica.html?hl=&id=Cx5CAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Cx5CAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3HtFswEACAAJ",
+      "etag": "9yfv6mAcOus",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3HtFswEACAAJ",
+      "volumeInfo": {
+        "title": "La yerba santa",
+        "subtitle": "(kiu chibatsa)",
+        "authors": [
+          "Otal Susi"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1026016997"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3HtFswEACAAJ&dq=inauthor:%22Salustio+Gonz%C3%A1lez+Rincones%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3HtFswEACAAJ&dq=inauthor:%22Salustio+Gonz%C3%A1lez+Rincones%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_yerba_santa.html?hl=&id=3HtFswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3HtFswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qGaEuAAACAAJ",
+      "etag": "TF8m9bfHrHU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qGaEuAAACAAJ",
+      "volumeInfo": {
+        "title": "Bolivar, el Libertador",
+        "subtitle": "pieza en tres actos ...",
+        "authors": [
+          "Salustio González Rincones"
+        ],
+        "publishedDate": "1943",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:23045080"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 67,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qGaEuAAACAAJ&dq=inauthor:%22Salustio+Gonz%C3%A1lez+Rincones%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qGaEuAAACAAJ&dq=inauthor:%22Salustio+Gonz%C3%A1lez+Rincones%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bolivar_el_Libertador.html?hl=&id=qGaEuAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qGaEuAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eCAVYAAACAAJ",
+      "etag": "g7JfSMYWqX4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eCAVYAAACAAJ",
+      "volumeInfo": {
+        "title": "Cantando germinan",
+        "authors": [
+          "Otal Susi"
+        ],
+        "publishedDate": "1932",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459151708"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=eCAVYAAACAAJ&dq=inauthor:%22Salustio+Gonz%C3%A1lez+Rincones%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eCAVYAAACAAJ&dq=inauthor:%22Salustio+Gonz%C3%A1lez+Rincones%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cantando_germinan.html?hl=&id=eCAVYAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eCAVYAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wcciHQAACAAJ",
+      "etag": "y63gT3kyTJ0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wcciHQAACAAJ",
+      "volumeInfo": {
+        "title": "Canción de cuna con vocales",
+        "authors": [
+          "Salustio González Rincones",
+          "Antonieta Alemán"
+        ],
+        "publishedDate": "198?",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:11267456"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wcciHQAACAAJ&dq=inauthor:%22Salustio+Gonz%C3%A1lez+Rincones%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wcciHQAACAAJ&dq=inauthor:%22Salustio+Gonz%C3%A1lez+Rincones%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Canci%C3%B3n_de_cuna_con_vocales.html?hl=&id=wcciHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wcciHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wbNUMQAACAAJ",
+      "etag": "GWZuR7tZdSw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wbNUMQAACAAJ",
+      "volumeInfo": {
+        "title": "Corridos sagrados y profanos",
+        "authors": [
+          "Salustio González Rincones"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:25786607"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 63,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wbNUMQAACAAJ&dq=inauthor:%22Salustio+Gonz%C3%A1lez+Rincones%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wbNUMQAACAAJ&dq=inauthor:%22Salustio+Gonz%C3%A1lez+Rincones%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Corridos_sagrados_y_profanos.html?hl=&id=wbNUMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wbNUMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zjUPHQAACAAJ",
+      "etag": "hTHyKxtANAI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zjUPHQAACAAJ",
+      "volumeInfo": {
+        "title": "Trece sonetos con estrambote a Σ",
+        "authors": [
+          "Otal Susi"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:32676703"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=zjUPHQAACAAJ&dq=inauthor:%22Salustio+Gonz%C3%A1lez+Rincones%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zjUPHQAACAAJ&dq=inauthor:%22Salustio+Gonz%C3%A1lez+Rincones%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Trece_sonetos_con_estrambote_a_%CE%A3.html?hl=&id=zjUPHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zjUPHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kGie0QEACAAJ",
+      "etag": "3rMrF+PO354",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kGie0QEACAAJ",
+      "volumeInfo": {
+        "title": "Corridos sagrados y profanos",
+        "authors": [
+          "Salustio González Rincones"
+        ],
+        "publishedDate": "1923",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1535654889"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=kGie0QEACAAJ&dq=inauthor:%22Salustio+Gonz%C3%A1lez+Rincones%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=kGie0QEACAAJ&dq=inauthor:%22Salustio+Gonz%C3%A1lez+Rincones%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Corridos_sagrados_y_profanos.html?hl=&id=kGie0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kGie0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2n6X0AEACAAJ",
+      "etag": "6xWk6zFLlNE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2n6X0AEACAAJ",
+      "volumeInfo": {
+        "title": "Obra (in)completa",
+        "authors": [
+          "Salustio González Rincones"
+        ],
+        "publishedDate": "2023",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9801453613"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789801453611"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2n6X0AEACAAJ&dq=inauthor:%22Salustio+Gonz%C3%A1lez+Rincones%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2n6X0AEACAAJ&dq=inauthor:%22Salustio+Gonz%C3%A1lez+Rincones%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obra_in_completa.html?hl=&id=2n6X0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2n6X0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

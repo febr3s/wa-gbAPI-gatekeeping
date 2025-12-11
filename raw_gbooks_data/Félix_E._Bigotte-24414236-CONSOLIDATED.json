@@ -1,0 +1,643 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"F%C3%A9lix%20E.%20Bigotte\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"F%C3%A9lix%20E.%20Bigotte\"&maxResults=20&startIndex=0&key=AIzaSyBB3Yqx1UTdafNKeukK4EKmWoGcP4VU-7Y"
+  ],
+  "_totalQueriedItems": 11,
+  "_totalFetchedItems": 11,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "fE7yEOmWQ1MC",
+      "etag": "W2elWAH80q0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fE7yEOmWQ1MC",
+      "volumeInfo": {
+        "title": "El libro de oro",
+        "subtitle": "A la memoria del General Exequiel Zamora",
+        "authors": [
+          "Félix E. Bigotte"
+        ],
+        "publishedDate": "1868",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "YALE:39002085765825"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "categories": [
+          "Finance, Public"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fE7yEOmWQ1MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fE7yEOmWQ1MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fE7yEOmWQ1MC&printsec=frontcover&dq=inauthor:%22F%C3%A9lix+E.+Bigotte%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fE7yEOmWQ1MC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fE7yEOmWQ1MC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=fE7yEOmWQ1MC&rdid=book-fE7yEOmWQ1MC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/El_libro_de_oro.epub?id=fE7yEOmWQ1MC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fE7yEOmWQ1MC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Rtp8nQEACAAJ",
+      "etag": "CmK8XqQvJQg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Rtp8nQEACAAJ",
+      "volumeInfo": {
+        "title": "Colón y su descubrimiento ;; El nuevo mundo o la Gran Colombia. Obra escrita ... para celebrar el 4\" centenario de Colón por Félix E. Bigotte Akâra. (Vorr.: Ramón Tello Mendoza)",
+        "authors": [
+          "Félix E. Bigotte",
+          "Cristoforo Colombo",
+          "Ramón Tello Mendoza"
+        ],
+        "publishedDate": "1905",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:837686046"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=Rtp8nQEACAAJ&dq=inauthor:%22F%C3%A9lix+E.+Bigotte%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Rtp8nQEACAAJ&dq=inauthor:%22F%C3%A9lix+E.+Bigotte%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Col%C3%B3n_y_su_descubrimiento_El_nuevo_mund.html?hl=&id=Rtp8nQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Rtp8nQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ELsY0AEACAAJ",
+      "etag": "YeQjDitg+P4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ELsY0AEACAAJ",
+      "volumeInfo": {
+        "title": "Colón y su descubrimiento",
+        "subtitle": "El Nuevo mundo o la gran Colombia; obra escrita para el certamen literario que tuvo lugar en Madrid el año 1892, para celebrar el 4. centenario de Colón; Volume 03",
+        "authors": [
+          "Félix E Bigotte"
+        ],
+        "publisher": "Legare Street Press",
+        "publishedDate": "2023-07-18",
+        "description": "Este libro es una obra escrita por Félix E. Bigotte en 1892 para un concurso literario celebrando el cuarto centenario del descubrimiento de América por parte de Cristóbal Colón. Ofrece una detallada mirada a la vida de Colón, sus viajes y el impacto que tuvo en el mundo. Esta edición ofrece una oportunidad de experimentar la visión del autor sobre uno de los momentos más importantes de la historia. This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the \"public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1021469327"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781021469328"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ELsY0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ELsY0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ELsY0AEACAAJ&dq=inauthor:%22F%C3%A9lix+E.+Bigotte%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ELsY0AEACAAJ&dq=inauthor:%22F%C3%A9lix+E.+Bigotte%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Col%C3%B3n_y_su_descubrimiento.html?hl=&id=ELsY0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ELsY0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the &quot;public domain in the United States of America, and possibly other nations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nX4tygAACAAJ",
+      "etag": "5pMX8B1Q/Uw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nX4tygAACAAJ",
+      "volumeInfo": {
+        "title": "Varios Documentos relativos á la vida pública del Excmo. Sr. D. Melchor Ordoñez y Ortega. (Signé : Félix E. Bigotte.).",
+        "authors": [
+          "Félix E. Bigotte"
+        ],
+        "publishedDate": "1891",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458540593"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 70,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nX4tygAACAAJ&dq=inauthor:%22F%C3%A9lix+E.+Bigotte%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nX4tygAACAAJ&dq=inauthor:%22F%C3%A9lix+E.+Bigotte%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Varios_Documentos_relativos_%C3%A1_la_vida_p.html?hl=&id=nX4tygAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nX4tygAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kXeHPgAACAAJ",
+      "etag": "oJ1yeumIf5s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kXeHPgAACAAJ",
+      "volumeInfo": {
+        "title": "La verdad revelada",
+        "authors": [
+          "Félix E. Bigotte"
+        ],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:237800670"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 31,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=kXeHPgAACAAJ&dq=inauthor:%22F%C3%A9lix+E.+Bigotte%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=kXeHPgAACAAJ&dq=inauthor:%22F%C3%A9lix+E.+Bigotte%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_verdad_revelada.html?hl=&id=kXeHPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kXeHPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hQucNgAACAAJ",
+      "etag": "a6Zqlc/V494",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hQucNgAACAAJ",
+      "volumeInfo": {
+        "title": "Colón y su descubrimiento",
+        "subtitle": "el Nuevo Mundo o La Gran Colombia",
+        "authors": [
+          "Félix E. (Akara) Bigotte"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:434421146"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hQucNgAACAAJ&dq=inauthor:%22F%C3%A9lix+E.+Bigotte%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hQucNgAACAAJ&dq=inauthor:%22F%C3%A9lix+E.+Bigotte%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Col%C3%B3n_y_su_descubrimiento.html?hl=&id=hQucNgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hQucNgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hF0vzwEACAAJ",
+      "etag": "EjXP5kimywI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hF0vzwEACAAJ",
+      "volumeInfo": {
+        "title": "Colón y su descubrimiento el nuevo mundo o la gran Colombia",
+        "subtitle": "obra escrita para el certamen literario que tuvo lugar en madrid el año de 1892, para celebrar el 4° centenario de Colón",
+        "authors": [
+          "Félix E. Bigotte"
+        ],
+        "publishedDate": "1901",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318911704"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hF0vzwEACAAJ&dq=inauthor:%22F%C3%A9lix+E.+Bigotte%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hF0vzwEACAAJ&dq=inauthor:%22F%C3%A9lix+E.+Bigotte%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Col%C3%B3n_y_su_descubrimiento_el_nuevo_mund.html?hl=&id=hF0vzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hF0vzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ksvwwQEACAAJ",
+      "etag": "VgL4s0exOpU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ksvwwQEACAAJ",
+      "volumeInfo": {
+        "title": "Colón y su descubrimiento: el Nuevo Mundo o la Gran Colombia",
+        "subtitle": "obra escrita para el certamen literario que tuvo lugar en Madrid el año 1892, para celebrar el 4o. centenario de Colón",
+        "authors": [
+          "Félix E. Bigotte"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:776511193"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ksvwwQEACAAJ&dq=inauthor:%22F%C3%A9lix+E.+Bigotte%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ksvwwQEACAAJ&dq=inauthor:%22F%C3%A9lix+E.+Bigotte%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Col%C3%B3n_y_su_descubrimiento_el_Nuevo_Mund.html?hl=&id=ksvwwQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ksvwwQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rAsQMwEACAAJ",
+      "etag": "ugnlOFQAUn8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rAsQMwEACAAJ",
+      "volumeInfo": {
+        "title": "Colón Y Su Descubrimiento: El Nuevo Mundo O la Gran Colombia, Etc",
+        "authors": [
+          "Félix E. BIGOTTE"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:558050622"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=rAsQMwEACAAJ&dq=inauthor:%22F%C3%A9lix+E.+Bigotte%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rAsQMwEACAAJ&dq=inauthor:%22F%C3%A9lix+E.+Bigotte%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Col%C3%B3n_Y_Su_Descubrimiento_El_Nuevo_Mund.html?hl=&id=rAsQMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rAsQMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UkDmzQEACAAJ",
+      "etag": "oCASal8xA0o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UkDmzQEACAAJ",
+      "volumeInfo": {
+        "title": "El libro de oro",
+        "subtitle": "a la memoria del General Exequiel Zamora, dícese asesinado en San Cárlos por órden de los generales Falcon y Guzman el dia 19 de enero del año de 1860 ...",
+        "authors": [
+          "Félix E. Bigotte"
+        ],
+        "publishedDate": "1868",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1194206471"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Venezuela"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=UkDmzQEACAAJ&dq=inauthor:%22F%C3%A9lix+E.+Bigotte%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=UkDmzQEACAAJ&dq=inauthor:%22F%C3%A9lix+E.+Bigotte%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_libro_de_oro.html?hl=&id=UkDmzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UkDmzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o6SSPgAACAAJ",
+      "etag": "pPLC6jkMj2M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o6SSPgAACAAJ",
+      "volumeInfo": {
+        "title": "Colón y su descubrimiento",
+        "authors": [
+          "Félix E. Bigotte",
+          "Ramón Tello Mendoza"
+        ],
+        "publishedDate": "1905",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:251905675"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=o6SSPgAACAAJ&dq=inauthor:%22F%C3%A9lix+E.+Bigotte%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=o6SSPgAACAAJ&dq=inauthor:%22F%C3%A9lix+E.+Bigotte%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Col%C3%B3n_y_su_descubrimiento.html?hl=&id=o6SSPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o6SSPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}
