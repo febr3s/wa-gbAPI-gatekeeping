@@ -173,7 +173,42 @@ class GoogleBooksToZoteroParser:
         # Case 3: Shouldn't reach here if filtering is correct, but provide fallback
         return volume_info.get('infoLink', '')
     
-    def should_include_item(self, item: Dict, debug: bool = False) -> bool:
+    def get_image_links(self, image_links: Dict) -> str:
+        """Get the best available image link from imageLinks object."""
+        if not image_links:
+            return ""
+        
+        # Prefer higher quality images in this order
+        image_priorities = [
+            'extraLarge',
+            'large',
+            'medium',
+            'small',
+            'thumbnail',
+            'smallThumbnail'
+        ]
+        
+        for priority in image_priorities:
+            if priority in image_links and image_links[priority]:
+                return image_links[priority]
+        
+        return ""
+    
+    def clean_html_from_description(self, description: str) -> str:
+        """Remove HTML tags from description if present."""
+        if not description:
+            return ""
+        
+        # Simple HTML tag removal (can be enhanced if needed)
+        clean_text = re.sub(r'<[^>]+>', '', description)
+        # Replace HTML entities
+        clean_text = clean_text.replace('&amp;', '&').replace('&lt;', '<').replace('&gt;', '>').replace('&quot;', '"').replace('&#39;', "'")
+        # Clean up multiple spaces and newlines
+        clean_text = re.sub(r'\s+', ' ', clean_text).strip()
+        
+        return clean_text
+    
+    def should_include_item(self, item: Dict, debug: bool = True ) -> bool:
         """Check if item meets inclusion criteria."""
         access_info = item.get('accessInfo', {})
         sale_info = item.get('saleInfo', {})
@@ -237,6 +272,17 @@ class GoogleBooksToZoteroParser:
         # Get current timestamp for Date Added/Modified
         current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         
+        # Extract Publisher
+        publisher = volume_info.get('publisher', '')
+        
+        # Extract and clean Notes (description)
+        description = volume_info.get('description', '')
+        notes = self.clean_html_from_description(description)
+        
+        # Extract image links for attachments
+        image_links = volume_info.get('imageLinks', {})
+        file_attachments = self.get_image_links(image_links)
+        
         # Create the Zotero record
         record = {
             "Key": "",  # Empty as requested
@@ -265,7 +311,7 @@ class GoogleBooksToZoteroParser:
             "Series Number": "",
             "Series Text": "",
             "Series Title": "",
-            "Publisher": volume_info.get('publisher', ''),
+            "Publisher": publisher,  # Fixed: Now properly using publisher variable
             "Place": "",
             "Language": volume_info.get('language', ''),
             "Rights": "",
@@ -275,8 +321,8 @@ class GoogleBooksToZoteroParser:
             "Library Catalog": "",
             "Call Number": "",
             "Extra": "Venezuela",
-            "Notes": volume_info.get('description', ''),
-            "File Attachments": volume_info.get('imageLinks', {}).get('thumbnail', ''),
+            "Notes": notes,  # Fixed: Now using cleaned description
+            "File Attachments": file_attachments,  # Fixed: Now using best available image link
             "Link Attachments": "",
             "Manual Tags": "",
             "Automatic Tags": "",
@@ -328,6 +374,15 @@ class GoogleBooksToZoteroParser:
             "Legislative Body": ""
         }
         
+        # Debug output for the three fields
+        debug_output = False
+        if debug_output:
+            print(f"\nDebug for item {index}:")
+            print(f"  Title: {full_title}")
+            print(f"  Publisher: '{publisher}'")
+            print(f"  Notes (first 100 chars): '{notes[:100]}...'")
+            print(f"  File Attachments (image): '{file_attachments}'")
+        
         return record
     
     def parse_json_file(self, json_file_path: str, debug: bool = False) -> Tuple[List[Dict], List[Dict], int, str]:
@@ -377,6 +432,9 @@ class GoogleBooksToZoteroParser:
                         print(f"  PDF available with downloadLink: {pdf_info.get('isAvailable', False) and 'downloadLink' in pdf_info}")
                         print(f"  Saleability FREE: {sale_info.get('saleability', '').upper() == 'FREE'}")
                         print(f"  Selected URL: {record['Url'][:100]}..." if len(record['Url']) > 100 else f"  Selected URL: {record['Url']}")
+                        print(f"  Publisher: '{record['Publisher']}'")
+                        print(f"  Notes (first 100 chars): '{record['Notes'][:100]}...'" if record['Notes'] else f"  Notes: '{record['Notes']}'")
+                        print(f"  File Attachments: '{record['File Attachments']}'")
                     
                     # Categorize based on match status
                     if is_a_match:

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:z="http://www.zotero.org/namespaces/export#" xmlns:bib="http://purl.org/net/biblio#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:link="http://purl.org/rss/1.0/modules/link/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <bib:Memo rdf:about="#item_1_1">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;Analyse: Description sommaire.&lt;/p&gt;&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_1_1">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>content?id=lr7DbrTgJk0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</dc:title>
+        <link:type>text/plain</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="https://books.google.com/books/download/the_flora_of_the_pays_denhaut_switzerland.pdf?id=lr7DbrTgJk0C&amp;output=pdf">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fabrega</foaf:surname>
+                        <foaf:givenName>Henri François Pittier De</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Flora of the Pays D'Enhaut (Switzerland): A Botanical Account</dc:title>
+        <dc:date>1885</dc:date>
+        <z:language>en</z:language>
+        <z:archive>Google Books</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://books.google.com/books/download/the_flora_of_the_pays_denhaut_switzerland.pdf?id=lr7DbrTgJk0C&amp;output=pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Venezuela</dc:description>
+        <z:numPages>22</z:numPages>
+        <dcterms:isReferencedBy rdf:resource="#item_1_1"/>
+        <link:link rdf:resource="#item_1_1"/>
+    </bib:Book>
+</rdf:RDF>

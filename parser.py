@@ -1,7 +1,10 @@
 import json
 import csv
+import os
+import re
+import urllib.parse
 from datetime import datetime
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Tuple
 
 class GoogleBooksToZoteroParser:
     def __init__(self):
@@ -25,6 +28,36 @@ class GoogleBooksToZoteroParser:
             "History", "Legislative Body"
         ]
         
+    def extract_author_from_url(self, url: str) -> str:
+        """
+        Extract author name from Google Books API URL.
+        Example: https://www.googleapis.com/books/v1/volumes?q=inauthor:"Francisco%20de%20Miranda"
+        Returns: "Francisco de Miranda"
+        """
+        if not url:
+            return ""
+        
+        try:
+            # Parse the URL
+            parsed = urllib.parse.urlparse(url)
+            query_params = urllib.parse.parse_qs(parsed.query)
+            
+            # Get the 'q' parameter
+            q_param = query_params.get('q', [''])[0]
+            
+            # Extract author from inauthor:"Author Name"
+            match = re.search(r'inauthor:"([^"]+)"', q_param)
+            if match:
+                author_encoded = match.group(1)
+                # Decode URL encoding (e.g., %20 -> space)
+                author_decoded = urllib.parse.unquote(author_encoded)
+                return author_decoded
+            
+        except Exception as e:
+            print(f"Error extracting author from URL: {e}")
+        
+        return ""
+    
     def format_authors(self, authors: List[str]) -> str:
         """Convert author names from 'First Last' to 'Last, First' format."""
         if not authors:
@@ -80,11 +113,38 @@ class GoogleBooksToZoteroParser:
         
         return ""
     
+    def create_title_slug(self, title: str) -> str:
+        """Convert title to a slug for the PDF URL."""
+        if not title:
+            return ""
+        
+        # Convert to lowercase
+        slug = title.lower()
+        
+        # Replace spaces with underscores
+        slug = slug.replace(' ', '_')
+        
+        # Remove or replace special characters
+        slug = re.sub(r'[^\w\s-]', '', slug)  # Remove non-alphanumeric except spaces and hyphens
+        slug = re.sub(r'[-\s]+', '_', slug)   # Replace spaces and multiple hyphens with underscore
+        
+        # Remove leading/trailing underscores
+        slug = slug.strip('_')
+        
+        # Limit length (optional, but good for URLs)
+        if len(slug) > 100:
+            slug = slug[:100]
+        
+        return slug
+    
     def get_url(self, item: Dict) -> str:
         """Get URL based on availability."""
         volume_info = item.get('volumeInfo', {})
         access_info = item.get('accessInfo', {})
         sale_info = item.get('saleInfo', {})
+        
+        # Get volume ID
+        volume_id = item.get('id', '')
         
         # Check if PDF is available AND has downloadLink
         pdf_info = access_info.get('pdf', {})
@@ -99,11 +159,18 @@ class GoogleBooksToZoteroParser:
         if pdf_available and has_download_link:
             return pdf_info.get('downloadLink', '')
         
-        # Case 2: Saleability is FREE (PDF can be available or not)
-        elif is_free:
-            return sale_info.get('buyLink', volume_info.get('infoLink', ''))
+        # Case 2: PDF is FALSE but saleability is FREE - compose special URL
+        elif not pdf_available and is_free:
+            title = volume_info.get('title', '')
+            title_slug = self.create_title_slug(title)
+            
+            if title_slug and volume_id:
+                return f"https://books.google.com/books/download/{title_slug}.pdf?id={volume_id}&output=pdf"
+            else:
+                # Fallback to buyLink or infoLink
+                return sale_info.get('buyLink', volume_info.get('infoLink', ''))
         
-        # Case 3: Default (shouldn't reach here if filtering is correct)
+        # Case 3: Shouldn't reach here if filtering is correct, but provide fallback
         return volume_info.get('infoLink', '')
     
     def should_include_item(self, item: Dict, debug: bool = False) -> bool:
@@ -130,20 +197,24 @@ class GoogleBooksToZoteroParser:
         # Include item if: (PDF available AND has downloadLink) OR (saleability is FREE)
         return (pdf_available and has_download_link) or is_free
     
-    def is_match(self, item: Dict, debug: bool = False) -> bool:
+    def is_match(self, item: Dict, target_author: str, debug: bool = False) -> bool:
         """
-        Check if item is a match - author must contain "Francisco de Miranda".
+        Check if item is a match - author must contain the target author name.
         Other authors can also be present.
         """
         volume_info = item.get('volumeInfo', {})
         authors = volume_info.get('authors', [])
         
-        # Check if "Francisco de Miranda" is in the authors list
-        is_match = "Francisco de Miranda" in authors
+        # If no target_author is specified, everything is a match
+        if not target_author:
+            return True
+        
+        # Check if the target_author is in the authors list
+        is_match = target_author in authors
         
         if debug:
             print(f"  Authors: {authors}")
-            print(f"  Contains 'Francisco de Miranda': {is_match}")
+            print(f"  Contains '{target_author}': {is_match}")
         
         return is_match
     
@@ -259,11 +330,23 @@ class GoogleBooksToZoteroParser:
         
         return record
     
-    def parse_json_to_csv(self, json_file_path: str, matches_csv_path: str, non_matches_csv_path: str, debug: bool = False):
-        """Main function to parse JSON file and create two CSV outputs."""
+    def parse_json_file(self, json_file_path: str, debug: bool = False) -> Tuple[List[Dict], List[Dict], int, str]:
+        """
+        Parse a single JSON file and return matches, non-matches, excluded count, and detected author.
+        """
         # Read JSON file
         with open(json_file_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
+        
+        # Extract author from the getRequest URL
+        get_request = data.get('getRequest', '')
+        target_author = self.extract_author_from_url(get_request)
+        
+        if not target_author:
+            # Try to extract from _requestUrls if getRequest is empty
+            request_urls = data.get('_requestUrls', [])
+            if request_urls:
+                target_author = self.extract_author_from_url(request_urls[0])
         
         # Parse all items, filtering by criteria
         items = data.get('items', [])
@@ -282,8 +365,8 @@ class GoogleBooksToZoteroParser:
                 include_item = self.should_include_item(item, debug)
                 
                 if include_item:
-                    # Second check: Is it a match?
-                    is_a_match = self.is_match(item, debug)
+                    # Second check: Is it a match for the target author?
+                    is_a_match = self.is_match(item, target_author, debug)
                     
                     record = self.parse_item(item, i)
                     
@@ -309,44 +392,103 @@ class GoogleBooksToZoteroParser:
                         print(f"  → EXCLUDED - Doesn't meet inclusion criteria")
                     excluded_count += 1
             except Exception as e:
-                print(f"Error parsing item {i}: {e}")
+                print(f"Error parsing item {i} in {json_file_path}: {e}")
                 excluded_count += 1
                 continue
         
-        # Write matches to CSV
+        return matches_records, non_matches_records, excluded_count, target_author
+    
+    def parse_folder_to_csv(self, input_folder: str, matches_csv_path: str, non_matches_csv_path: str, debug: bool = False):
+        """
+        Parse all JSON files in a folder and create consolidated CSV outputs.
+        
+        Args:
+            input_folder: Path to folder containing JSON files
+            matches_csv_path: Path for consolidated matches CSV
+            non_matches_csv_path: Path for consolidated non-matches CSV
+            debug: Enable debug output
+        """
+        # Get all JSON files in the folder
+        json_files = []
+        for file in os.listdir(input_folder):
+            if file.lower().endswith('.json'):
+                json_files.append(os.path.join(input_folder, file))
+        
+        if not json_files:
+            print(f"No JSON files found in {input_folder}")
+            return 0, 0
+        
+        print(f"Found {len(json_files)} JSON files to process")
+        
+        # Initialize consolidated records
+        all_matches = []
+        all_non_matches = []
+        total_excluded = 0
+        total_files_processed = 0
+        authors_processed = []
+        
+        # Process each JSON file
+        for i, json_file in enumerate(json_files, 1):
+            try:
+                print(f"\n[{i}/{len(json_files)}] Processing: {os.path.basename(json_file)}")
+                
+                matches, non_matches, excluded, target_author = self.parse_json_file(json_file, debug)
+                
+                all_matches.extend(matches)
+                all_non_matches.extend(non_matches)
+                total_excluded += excluded
+                total_files_processed += 1
+                
+                if target_author:
+                    authors_processed.append(target_author)
+                
+                print(f"  Detected author: '{target_author}'")
+                print(f"  File results: {len(matches)} matches, {len(non_matches)} non-matches, {excluded} excluded")
+                
+            except Exception as e:
+                print(f"Error processing file {json_file}: {e}")
+                continue
+        
+        # Write consolidated matches to CSV
         with open(matches_csv_path, 'w', newline='', encoding='utf-8') as f:
             writer = csv.DictWriter(f, fieldnames=self.csv_headers, 
                                    quoting=csv.QUOTE_ALL, 
                                    quotechar='"')
             writer.writeheader()
-            writer.writerows(matches_records)
+            writer.writerows(all_matches)
         
-        # Write non-matches to CSV
+        # Write consolidated non-matches to CSV
         with open(non_matches_csv_path, 'w', newline='', encoding='utf-8') as f:
             writer = csv.DictWriter(f, fieldnames=self.csv_headers, 
                                    quoting=csv.QUOTE_ALL, 
                                    quotechar='"')
             writer.writeheader()
-            writer.writerows(non_matches_records)
+            writer.writerows(all_non_matches)
         
-        print(f"\n=== SUMMARY ===")
-        print(f"Matches: {len(matches_records)} items → {matches_csv_path}")
-        print(f"Non-matches: {len(non_matches_records)} items → {non_matches_csv_path}")
-        print(f"Excluded: {excluded_count} items (didn't meet inclusion criteria)")
-        return len(matches_records), len(non_matches_records)
+        print(f"\n{'='*60}")
+        print(f"=== PROCESSING COMPLETE ===")
+        print(f"{'='*60}")
+        print(f"Files processed: {total_files_processed}/{len(json_files)}")
+        print(f"Authors processed: {', '.join(set(authors_processed))}")
+        print(f"Total matches: {len(all_matches)} items → {matches_csv_path}")
+        print(f"Total non-matches: {len(all_non_matches)} items → {non_matches_csv_path}")
+        print(f"Total excluded: {total_excluded} items (didn't meet inclusion criteria)")
+        print(f"{'='*60}")
+        
+        return len(all_matches), len(all_non_matches)
 
 
 # Usage example
 if __name__ == "__main__":
     parser = GoogleBooksToZoteroParser()
     
-    # Example usage - add debug=True to see what's happening
-    input_json = "raw_gbooks_data/Francisco_de_Miranda-27068875-CONSOLIDATED.json"
-    matches_csv = "matches_output.csv"
-    non_matches_csv = "non_matches_output.csv"
+    # Process an entire folder
+    input_folder = "raw_gbooks_data"  # Folder containing all JSON files
+    consolidated_matches_csv = "consolidated_matches.csv"
+    consolidated_non_matches_csv = "consolidated_non_matches.csv"
     
-    # Parse the data with debugging
-    match_count, non_match_count = parser.parse_json_to_csv(
-        input_json, matches_csv, non_matches_csv, debug=True
+    # Parse all JSON files in the folder
+    match_count, non_match_count = parser.parse_folder_to_csv(
+        input_folder, consolidated_matches_csv, consolidated_non_matches_csv, debug=False
     )
-    print(f"Processed {match_count} matches and {non_match_count} non-matches")
+    print(f"\nFinal totals: {match_count} matches and {non_match_count} non-matches")
