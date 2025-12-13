@@ -4,7 +4,7 @@ from xml.dom import minidom
 import os
 
 class ZoteroCSVtoRDFConverter:
-    """Convert Zotero CSV export to RDF format"""
+    """Convert Zotero CSV export to RDF format using dc:subject for attachments"""
     
     # Namespace definitions
     NAMESPACES = {
@@ -13,7 +13,6 @@ class ZoteroCSVtoRDFConverter:
         'bib': "http://purl.org/net/biblio#",
         'foaf': "http://xmlns.com/foaf/0.1/",
         'dcterms': "http://purl.org/dc/terms/",
-        'link': "http://purl.org/rss/1.0/modules/link/",
         'dc': "http://purl.org/dc/elements/1.1/"
     }
     
@@ -26,15 +25,13 @@ class ZoteroCSVtoRDFConverter:
         'conferencePaper': 'bib:Paper',
         'report': 'bib:Report',
         'document': 'bib:Document',
-        'memo': 'bib:Memo',
-        'attachment': 'z:Attachment'
+        'memo': 'bib:Memo'
     }
     
     def __init__(self):
         self.root = None
         self.item_counter = 1
         self.note_counter = 1
-        self.attachment_counter = 1
         
     def register_namespaces(self):
         """Register all namespaces for proper XML output"""
@@ -124,6 +121,20 @@ class ZoteroCSVtoRDFConverter:
         
         return identifier_elem
     
+    def create_subject_element(self, attachment_string):
+        """Create subject element for file attachments using dcterms:LCC"""
+        if not attachment_string:
+            return None
+            
+        subject_elem = ET.Element('dc:subject')
+        lcc_elem = ET.SubElement(subject_elem, 'dcterms:LCC')
+        value_elem = ET.SubElement(lcc_elem, 'rdf:value')
+        
+        # Use the attachment string as-is
+        value_elem.text = attachment_string
+        
+        return subject_elem
+    
     def create_item_element(self, row, item_key):
         """Create main item element based on item type"""
         item_type = row.get('Item Type', 'book').lower()
@@ -183,6 +194,25 @@ class ZoteroCSVtoRDFConverter:
             if identifier_elem is not None:
                 item_elem.append(identifier_elem)
         
+        # Add file attachments to subject field
+        file_attachments = row.get('File Attachments', '')
+        if file_attachments:
+            # Take the first attachment if multiple are separated by semicolon
+            first_attachment = file_attachments.split(';')[0].strip()
+            if first_attachment:
+                subject_elem = self.create_subject_element(first_attachment)
+                if subject_elem is not None:
+                    item_elem.append(subject_elem)
+        
+        # If no file attachments, check for link attachments
+        elif row.get('Link Attachments', ''):
+            link_attachments = row.get('Link Attachments', '')
+            first_attachment = link_attachments.split(';')[0].strip()
+            if first_attachment:
+                subject_elem = self.create_subject_element(first_attachment)
+                if subject_elem is not None:
+                    item_elem.append(subject_elem)
+        
         # Add description/abstract
         description = row.get('Abstract Note', '')
         if description:
@@ -203,6 +233,36 @@ class ZoteroCSVtoRDFConverter:
         if num_pages:
             pages_elem = ET.SubElement(item_elem, 'z:numPages')
             pages_elem.text = num_pages
+        
+        # Add publication title/source
+        pub_title = row.get('Publication Title', '')
+        if pub_title:
+            source_elem = ET.SubElement(item_elem, 'dc:source')
+            source_elem.text = pub_title
+        
+        # Add publisher
+        publisher = row.get('Publisher', '')
+        if publisher:
+            pub_elem = ET.SubElement(item_elem, 'dc:publisher')
+            pub_elem.text = publisher
+        
+        # Add place/location
+        place = row.get('Place', '')
+        if place:
+            place_elem = ET.SubElement(item_elem, 'dc:location')
+            place_elem.text = place
+        
+        # Add rights
+        rights = row.get('Rights', '')
+        if rights:
+            rights_elem = ET.SubElement(item_elem, 'dc:rights')
+            rights_elem.text = rights
+        
+        # Add type
+        doc_type = row.get('Type', '')
+        if doc_type:
+            type_elem = ET.SubElement(item_elem, 'dc:type')
+            type_elem.text = doc_type
     
     def create_note_element(self, note_content, note_id):
         """Create note element for referenced notes"""
@@ -217,81 +277,6 @@ class ZoteroCSVtoRDFConverter:
         value_elem.text = formatted_note
         
         return note_elem
-    
-    def extract_attachment_info(self, attachment_string):
-        """Extract filename and path from attachment string"""
-        if not attachment_string:
-            return None, None
-        
-        # Zotero CSV attachment format can vary
-        # Common formats: "filename.pdf" or "path/to/file:filename.pdf"
-        
-        # Split by colon (common in Zotero exports)
-        if ':' in attachment_string:
-            # Format like "path:filename.pdf"
-            parts = attachment_string.split(':')
-            filename = parts[-1].strip() if parts[-1] else "attachment"
-        else:
-            # Just a filename or path
-            filename = os.path.basename(attachment_string)
-        
-        # Clean up the filename
-        filename = filename.strip()
-        
-        # Get MIME type from extension
-        mime_type = self.get_mime_type(filename)
-        
-        return filename, mime_type
-    
-    def get_mime_type(self, filename):
-        """Determine MIME type from filename extension"""
-        filename_lower = filename.lower()
-        
-        if filename_lower.endswith('.pdf'):
-            return 'application/pdf'
-        elif filename_lower.endswith('.txt'):
-            return 'text/plain'
-        elif filename_lower.endswith(('.jpg', '.jpeg')):
-            return 'image/jpeg'
-        elif filename_lower.endswith('.png'):
-            return 'image/png'
-        elif filename_lower.endswith('.gif'):
-            return 'image/gif'
-        elif filename_lower.endswith(('.doc', '.docx')):
-            return 'application/msword'
-        elif filename_lower.endswith(('.xls', '.xlsx')):
-            return 'application/vnd.ms-excel'
-        elif filename_lower.endswith(('.ppt', '.pptx')):
-            return 'application/vnd.ms-powerpoint'
-        elif filename_lower.endswith('.html'):
-            return 'text/html'
-        else:
-            return 'text/plain'  # default
-    
-    def create_attachment_element(self, attachment_string, attachment_id):
-        """Create attachment element from attachment string"""
-        if not attachment_string:
-            return None
-        
-        filename, mime_type = self.extract_attachment_info(attachment_string)
-        if not filename:
-            return None
-        
-        attach_elem = ET.Element('z:Attachment', attrib={'rdf:about': f"#item_{attachment_id}"})
-        
-        # Add item type
-        type_elem = ET.SubElement(attach_elem, 'z:itemType')
-        type_elem.text = 'attachment'
-        
-        # Add title (filename)
-        title_elem = ET.SubElement(attach_elem, 'dc:title')
-        title_elem.text = filename
-        
-        # Add link type (MIME type)
-        link_elem = ET.SubElement(attach_elem, 'link:type')
-        link_elem.text = mime_type
-        
-        return attach_elem
     
     def convert_csv_to_rdf(self, csv_file_path, output_rdf_path):
         """Main conversion method"""
@@ -335,41 +320,6 @@ class ZoteroCSVtoRDFConverter:
                     ref_elem.set('rdf:resource', f"#item_{note_id}")
                     self.note_counter += 1
                 
-                # Handle file attachments (if present)
-                file_attachments = cleaned_row.get('File Attachments', '')
-                if file_attachments:
-                    # Zotero CSV typically has attachments separated by semicolon
-                    attachments = [a.strip() for a in file_attachments.split(';') if a.strip()]
-                    
-                    for attachment_string in attachments:
-                        if attachment_string:  # Check not empty
-                            attach_id = f"{item_key}_{self.attachment_counter}"
-                            attach_elem = self.create_attachment_element(attachment_string, attach_id)
-                            if attach_elem is not None:
-                                self.root.append(attach_elem)
-                            
-                            # Add link from main item to attachment
-                            link_elem = ET.SubElement(item_elem, 'link:link')
-                            link_elem.set('rdf:resource', f"#item_{attach_id}")
-                            self.attachment_counter += 1
-                
-                # Also check Link Attachments column
-                link_attachments = cleaned_row.get('Link Attachments', '')
-                if link_attachments and not file_attachments:  # Only if no file attachments
-                    attachments = [a.strip() for a in link_attachments.split(';') if a.strip()]
-                    
-                    for attachment_string in attachments:
-                        if attachment_string:
-                            attach_id = f"{item_key}_{self.attachment_counter}"
-                            attach_elem = self.create_attachment_element(attachment_string, attach_id)
-                            if attach_elem is not None:
-                                self.root.append(attach_elem)
-                            
-                            # Add link from main item to attachment
-                            link_elem = ET.SubElement(item_elem, 'link:link')
-                            link_elem.set('rdf:resource', f"#item_{attach_id}")
-                            self.attachment_counter += 1
-                
                 # Add item to root
                 self.root.append(item_elem)
                 self.item_counter += 1
@@ -392,27 +342,46 @@ class ZoteroCSVtoRDFConverter:
         return True
 
 
-# Example usage
-def convert_zotero_csv_to_rdf():
-    """Convert Zotero CSV to RDF format"""
+# Test function with your example CSV structure
+def test_conversion():
+    """Test the converter with your example data"""
     converter = ZoteroCSVtoRDFConverter()
     
-    # Example with the provided CSV structure
-    csv_content = """Key,Item Type,Title,Author,Publication Year,File Attachments
-,book,Gramatica de la lengua castellana,Bello, Andrés,1875,this is an attachment.txt
-,book,The Flora of the Pays D'Enhaut,Fabrega, Henri François Pittier De,1885,flora.pdf;notes.txt"""
+    # Create a test CSV with your data structure
+    csv_content = '''"Key","Item Type","Publication Year","Author","Title","Publication Title","ISBN","ISSN","DOI","Url","Abstract Note","Date","Date Added","Date Modified","Access Date","Pages","Num Pages","Issue","Volume","Number Of Volumes","Journal Abbreviation","Short Title","Series","Series Number","Series Text","Series Title","Publisher","Place","Language","Rights","Type","Archive","Archive Location","Library Catalog","Call Number","Extra","Notes","File Attachments","Link Attachments","Manual Tags","Automatic Tags","Editor","Series Editor","Translator","Contributor","Attorney Agent","Book Author","Cast Member","Commenter","Composer","Cosponsor","Counsel","Interviewer","Producer","Recipient","Reviewed Author","Scriptwriter","Words By","Guest","Number","Edition","Running Time","Scale","Medium","Artwork Size","Filing Date","Application Number","Assignee","Issuing Authority","Country","Meeting Name","Conference Name","Court","References","Reporter","Legal Status","Priority Numbers","Programming Language","Version","System","Code","Code Number","Section","Session","Committee","History","Legislative Body"
+"","book","1885","Fabrega, Henri François Pittier De","The Flora of the Pays D'Enhaut (Switzerland): A Botanical Account","","","","","https://books.google.com/books/download/the_flora_of_the_pays_denhaut_switzerland.pdf?id=lr7DbrTgJk0C&output=pdf","","1885","2025-12-12 21:29:21","2025-12-12 21:29:21","","","22","","","","","","","","","","","","en","","","Google Books","","","","Venezuela","Analyse: Description sommaire.","http://books.google.com/books/content?id=lr7DbrTgJk0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""'''
     
-    # Write sample CSV
-    with open('zotero_sample.csv', 'w', encoding='utf-8') as f:
+    # Write test CSV file
+    with open('test_zotero.csv', 'w', encoding='utf-8') as f:
         f.write(csv_content)
     
     # Convert to RDF
-    converter.convert_csv_to_rdf('zotero_sample.csv', 'zotero_output.rdf')
+    converter.convert_csv_to_rdf('test_zotero.csv', 'output.rdf')
     
-    # Read and display the result
-    with open('zotero_output.rdf', 'r', encoding='utf-8') as f:
+    # Display the result
+    print("Generated RDF output:")
+    print("-" * 80)
+    with open('output.rdf', 'r', encoding='utf-8') as f:
         print(f.read())
 
 
+# Example of how to use the converter
+def main():
+    """Main function to run the converter"""
+    converter = ZoteroCSVtoRDFConverter()
+    
+    # Convert your actual CSV file
+    input_csv = "zotero.csv"  # Change to your CSV file name
+    output_rdf = "zotero_output.rdf"  # Output RDF file name
+    
+    try:
+        converter.convert_csv_to_rdf(input_csv, output_rdf)
+        print(f"\nConversion complete! Check '{output_rdf}' for the RDF output.")
+    except FileNotFoundError:
+        print(f"Error: File '{input_csv}' not found.")
+        print("Creating a sample file and trying again...")
+        test_conversion()
+
+
 if __name__ == "__main__":
-    convert_zotero_csv_to_rdf()
+    main()
