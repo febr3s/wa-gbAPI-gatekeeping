@@ -371,7 +371,7 @@ def main():
     converter = ZoteroCSVtoRDFConverter()
     
     # Convert your actual CSV file
-    input_csv = "consolidated-non-matches-curated-csv.csv"  # Change to your CSV file name
+    input_csv = "consolidated-matches-curated-csv.csv"  # Change to your CSV file name
     output_rdf = "zotero_output.rdf"  # Output RDF file name
     
     try:
