@@ -352,16 +352,16 @@ def test_conversion():
 "","book","1885","Fabrega, Henri François Pittier De","The Flora of the Pays D'Enhaut (Switzerland): A Botanical Account","","","","","https://books.google.com/books/download/the_flora_of_the_pays_denhaut_switzerland.pdf?id=lr7DbrTgJk0C&output=pdf","","1885","2025-12-12 21:29:21","2025-12-12 21:29:21","","","22","","","","","","","","","","","","en","","","Google Books","","","","Venezuela","Analyse: Description sommaire.","http://books.google.com/books/content?id=lr7DbrTgJk0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""'''
     
     # Write test CSV file
-    with open('test_zotero.csv', 'w', encoding='utf-8') as f:
+    with open('consolidated_all_pdf_matches.csv', 'w', encoding='utf-8') as f:
         f.write(csv_content)
     
     # Convert to RDF
-    converter.convert_csv_to_rdf('test_zotero.csv', 'output.rdf')
+    converter.convert_csv_to_rdf('consolidated_all_pdf_matches.csv', 'zotero_output.rdf')
     
     # Display the result
     print("Generated RDF output:")
     print("-" * 80)
-    with open('output.rdf', 'r', encoding='utf-8') as f:
+    with open('zotero_output.rdf', 'r', encoding='utf-8') as f:
         print(f.read())
 
 
@@ -371,7 +371,7 @@ def main():
     converter = ZoteroCSVtoRDFConverter()
     
     # Convert your actual CSV file
-    input_csv = "zotero.csv"  # Change to your CSV file name
+    input_csv = "consolidated_all_pdf_matches.csv"  # Change to your CSV file name
     output_rdf = "zotero_output.rdf"  # Output RDF file name
     
     try:
