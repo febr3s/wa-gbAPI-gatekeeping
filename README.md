@@ -33,6 +33,30 @@ This workflow helps you build a clean dataset of freely downloadable PDF books t
 4. **Prepare country‑specific parameters:**
    Before running the scripts, you must edit `wikidata.py` to define the country and the copyright cutoff year.
 
+5. **Create a Python environment (recommended)**
+
+   Using a virtual environment keeps dependencies isolated.
+
+   **macOS / Linux:**
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
+
+   **Windows:**
+   ```bash
+   python -m venv venv
+   venv\Scripts\activate
+   ```
+
+   Once the environment is active (your terminal prompt will show `(venv)`), install the required packages:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+Copy everything from "### Create a Python virtual environment" down to the last triple backtick. That's the actual snippet for the README.
+
 ## Step‑by‑Step Usage
 
 ### Step 1: Fetch authors from Wikidata
