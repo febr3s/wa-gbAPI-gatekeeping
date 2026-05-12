@@ -79,7 +79,7 @@ For every author in the JSON file, the script calls the Google Books API and sav
 Run `parser.py`.
 
 **What this does:**  
-The script scans every `data/*.json` file and extracts books that have a downloadable PDF link. It then applies a nationality check (based on Wikidata data) to separate likely matches from likely mismatches:
+The script scans every `raw_gobooks_data/*.json` file and extracts books that have a downloadable PDF link. It then applies a nationality check (based on Wikidata data) to separate likely matches from likely mismatches:
 
 - **`consolidated_matches.csv`** – Books that appear to be by an author of the target nationality.
 - **`consolidated_non_matches.csv`** – Books that have a PDF but the metadata suggests the author might not match (e.g., a different person with the same name).
