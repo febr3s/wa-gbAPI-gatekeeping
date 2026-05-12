@@ -26,7 +26,7 @@ except (KeyError, IndexError):
 # 3. BASE SETUP
 encoded_author = quote(author_name)
 safe_name = author_name.replace(' ', '_')
-output_dir = 'raw_gbooks_data'
+output_dir = 'output/raw_gbooks_data'
 os.makedirs(output_dir, exist_ok=True)
 
 # 4. PAGINATION LOGIC - SINGLE FILE OUTPUT
