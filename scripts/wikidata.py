@@ -13,8 +13,8 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 # =====================================================================
 # DYNAMIC PARAMETERS – the only things you need to change per country
 # =====================================================================
-COUNTRY_NAME = "nicaragua"          # used in the output filename (no spaces, lowercase)
-COUNTRY_QID  = "wd:Q811"            # Wikidata item for the country (include "wd:")
+COUNTRY_NAME = "guam"          # used in the output filename (no spaces, lowercase)
+COUNTRY_QID  = "wd:Q16635"            # Wikidata item for the country (include "wd:")
 DATE_CUTOFF  = "1956-01-01"         # include deaths before this date (YYYY-MM-DD)
 # =====================================================================
 

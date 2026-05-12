@@ -7,8 +7,8 @@ from datetime import datetime
 
 # ================= CONFIGURATION =================
 API_KEY = os.environ.get('GOOGLE_BOOKS_API_KEY')
-INPUT_JSON_FILE = 'venezuelan_authors.json'
-OUTPUT_BASE_DIR = 'output/raw_gbooks_data'
+INPUT_JSON_FILE = 'output/authors_nicaragua.json'
+OUTPUT_BASE_DIR = 'output'
 DELAY_BETWEEN_AUTHORS = 5  # Seconds to wait after finishing one author
 DELAY_BETWEEN_PAGES = 0.3  # Seconds to wait between pagination requests for one author
 BATCH_SIZE = 20
@@ -157,7 +157,7 @@ for idx, author_entry in enumerate(all_authors):
     
     # Save individual consolidated JSON file
     filename = f"{safe_name}-{viaf}-CONSOLIDATED.json"
-    filepath = os.path.join(OUTPUT_BASE_DIR, filename)
+    filepath = os.path.join(OUTPUT_BASE_DIR, "raw_gbooks_data", filename)
     
     try:
         with open(filepath, 'w', encoding='utf-8') as f:
