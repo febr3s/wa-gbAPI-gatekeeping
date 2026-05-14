@@ -1,5 +1,5 @@
 import os
-import glob
+import glob                      # <-- ADDED for wildcard matching
 import requests
 import json
 import time
@@ -11,10 +11,10 @@ from datetime import datetime
 # ================= CONFIGURATION =================
 API_KEY = os.environ.get('GOOGLE_BOOKS_API_KEY')
 COUNTRY_ABBREV = "NIC"  # 3-letter ISO code for the country, used in output paths
-INPUT_JSON_FILE = f'output/{COUNTRY_ABBREV}/authors_{COUNTRY_ABBREV}_*.json' # Follow the pattern: output/{COUNTRY_ABBREV}/authors_{COUNTRY_ABBREV}_{DATE}.json
-OUTPUT_BASE_DIR = f'output/{COUNTRY_ABBREV}' # Base directory for output files (e.g., output/{COUNTRY_ABBREV})
-DELAY_BETWEEN_AUTHORS = 5  # Seconds to wait after finishing one author
-DELAY_BETWEEN_PAGES = 0.3  # Seconds to wait between pagination requests for one author
+INPUT_JSON_PATTERN = f'output/{COUNTRY_ABBREV}/authors_{COUNTRY_ABBREV}_*.json'  # pattern, not a literal filename
+OUTPUT_BASE_DIR = f'output/{COUNTRY_ABBREV}'  # Base directory for output files
+DELAY_BETWEEN_AUTHORS = 5
+DELAY_BETWEEN_PAGES = 0.3
 BATCH_SIZE = 20
 
 # ================= SETUP =================
@@ -22,14 +22,22 @@ if not API_KEY:
     print("ERROR: Set the 'GOOGLE_BOOKS_API_KEY' environment variable first.")
     exit()
 
-# Load the author data
+# ---- Load the most recent author data file matching the pattern ----
+matching_files = glob.glob(INPUT_JSON_PATTERN)
+if not matching_files:
+    print(f"ERROR: No files found matching '{INPUT_JSON_PATTERN}'")
+    exit()
+
+# Choose the most recent file by modification time
+input_file = max(matching_files, key=os.path.getmtime)
+
 try:
-    with open(INPUT_JSON_FILE, 'r', encoding='utf-8') as f:
+    with open(input_file, 'r', encoding='utf-8') as f:
         author_data = json.load(f)
     all_authors = author_data['results']['bindings']
-    print(f"📚 Loaded data for {len(all_authors)} authors.")
+    print(f"📚 Loaded data for {len(all_authors)} authors from {os.path.basename(input_file)}")
 except (KeyError, FileNotFoundError, json.JSONDecodeError) as e:
-    print(f"ERROR: Could not load or parse '{INPUT_JSON_FILE}': {e}")
+    print(f"ERROR: Could not load or parse '{input_file}': {e}")
     exit()
 
 # Prepare logs and summary
@@ -124,6 +132,10 @@ def fetch_all_books_for_author(author_name, author_viaf):
         start_index += BATCH_SIZE
         time.sleep(DELAY_BETWEEN_PAGES)  # Small delay between pages
     
+    # ---- Redact API key before storing URLs ----
+    first_request_url = first_request_url.replace(API_KEY, "REDACTED") if first_request_url else None
+    request_urls = [url.replace(API_KEY, "REDACTED") for url in request_urls]
+
     # Compile final result for this author
     final_data = {
         "getRequest": first_request_url,
@@ -159,7 +171,10 @@ for idx, author_entry in enumerate(all_authors):
     
     # Save individual consolidated JSON file
     filename = f"{safe_name}-{viaf}-CONSOLIDATED.json"
-    filepath = os.path.join(OUTPUT_BASE_DIR, "raw_data", {COUNTRY_ABBREV}, filename)
+    filepath = os.path.join(OUTPUT_BASE_DIR, "raw_data", filename)  # fixed: removed {} around COUNTRY_ABBREV
+    
+    # Ensure the directory exists BEFORE writing
+    os.makedirs(os.path.dirname(filepath), exist_ok=True)
     
     try:
         with open(filepath, 'w', encoding='utf-8') as f:
@@ -168,9 +183,6 @@ for idx, author_entry in enumerate(all_authors):
     except IOError as e:
         print(f"   ❌ Failed to save file: {e}")
         # Continue processing other authors even if save fails
-
-    # Create output directory if it doesn't exist
-    os.makedirs(os.path.dirname(filepath), exist_ok=True)
     
     # Update summary
     summary_data["authorsProcessed"].append({
