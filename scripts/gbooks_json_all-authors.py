@@ -1,11 +1,12 @@
 import os
+import glob
 import requests
 import json
 import time
 from urllib.parse import quote
 from datetime import datetime
 
-from scripts.wikidata import COUNTRY_ABBREV
+# from scripts.wikidata import COUNTRY_ABBREV
 
 # ================= CONFIGURATION =================
 API_KEY = os.environ.get('GOOGLE_BOOKS_API_KEY')
@@ -20,8 +21,6 @@ BATCH_SIZE = 20
 if not API_KEY:
     print("ERROR: Set the 'GOOGLE_BOOKS_API_KEY' environment variable first.")
     exit()
-
-os.makedirs(OUTPUT_BASE_DIR, exist_ok=True)
 
 # Load the author data
 try:
@@ -169,6 +168,9 @@ for idx, author_entry in enumerate(all_authors):
     except IOError as e:
         print(f"   ❌ Failed to save file: {e}")
         # Continue processing other authors even if save fails
+
+    # Create output directory if it doesn't exist
+    os.makedirs(os.path.dirname(filepath), exist_ok=True)
     
     # Update summary
     summary_data["authorsProcessed"].append({
