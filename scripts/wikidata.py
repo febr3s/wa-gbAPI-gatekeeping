@@ -1,8 +1,8 @@
 """
 Minimal Wikidata query – only country of citizenship and date cutoff are dynamic.
 To determine parameters, see:
-- For country qid, search:   https://www.wikidata.org/wiki/Special:Search
 - For A-3 country abbreviations: https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
+- For country qid, search:   https://www.wikidata.org/wiki/Special:Search
 - ForPublic Domain date cutoff: https://upload.wikimedia.org/wikipedia/commons/5/59/World_copyright_terms.svg
 """
 
@@ -14,9 +14,9 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 # =====================================================================
 # DYNAMIC PARAMETERS – the only things you need to change per country
 # =====================================================================
-COUNTRY_ABBREV = "HND"             # used in the output filename (3-letter ISO code)
-COUNTRY_QID  = "wd:Q783"            # Wikidata item for the country (include "wd:")
-DATE_CUTOFF  = "1966-01-01"         # include deaths before this date (YYYY-MM-DD)
+COUNTRY_ABBREV = "NIC"             # used in the output filename (3-letter ISO code)
+COUNTRY_QID  = "wd:Q811"            # Wikidata item for the country (include "wd:")
+DATE_CUTOFF  = "1956-01-01"         # include deaths before this date (YYYY-MM-DD)
 # =====================================================================
 
 # Build the SPARQL query – only the country value and the cutoff are inserted.
@@ -43,7 +43,7 @@ os.makedirs(os.path.dirname(output_filename), exist_ok=True)
 
 # Query Wikidata and save results to JSON file
 sparql = SPARQLWrapper("https://query.wikidata.org/sparql")
-sparql.agent = "PublicDomainAuthorScraper/1.0 (contact: proyectomorel@gmail.com)"
+sparql.agent = "MOREL/2.0 (contact: eduardofebres@gmail.com)"
 sparql.setReturnFormat(JSON)
 sparql.setQuery(query_string)
 
