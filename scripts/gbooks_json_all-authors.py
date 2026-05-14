@@ -1,5 +1,5 @@
 import os
-import glob                      # <-- ADDED for wildcard matching
+import glob
 import requests
 import json
 import time
@@ -18,11 +18,13 @@ def get_query_origin():
 # ================= CONFIGURATION =================
 API_KEY = os.environ.get('GOOGLE_BOOKS_API_KEY')
 COUNTRY_ABBREV = "NIC"  # 3-letter ISO code for the country, used in output paths
-INPUT_JSON_PATTERN = f'output/{COUNTRY_ABBREV}/authors_{COUNTRY_ABBREV}_*.json'  # pattern, not a literal filename
-OUTPUT_BASE_DIR = f'output/{COUNTRY_ABBREV}'  # Base directory for output files
+INPUT_JSON_PATTERN = f'output/{COUNTRY_ABBREV}/authors_{COUNTRY_ABBREV}_*.json'
+OUTPUT_BASE_DIR = f'output/{COUNTRY_ABBREV}'
 DELAY_BETWEEN_AUTHORS = 5
 DELAY_BETWEEN_PAGES = 0.3
 BATCH_SIZE = 20
+RETRY_DELAY_SECONDS = 5      # Wait this long before retrying a 503
+MAX_RETRIES = 3              # Maximum retries per request
 
 # ================= SETUP =================
 if not API_KEY:
@@ -31,7 +33,7 @@ if not API_KEY:
     
 # ---- Determine query origin IP & location ----
 query_origin = get_query_origin()
-origin_country = query_origin.get("country", "unknown")   # fallback if unknown
+origin_country = query_origin.get("country", "unknown")
 
 # ---- Load the most recent author data file matching the pattern ----
 matching_files = glob.glob(INPUT_JSON_PATTERN)
@@ -39,7 +41,6 @@ if not matching_files:
     print(f"ERROR: No files found matching '{INPUT_JSON_PATTERN}'")
     exit()
 
-# Choose the most recent file by modification time
 input_file = max(matching_files, key=os.path.getmtime)
 
 try:
@@ -53,24 +54,30 @@ except (KeyError, FileNotFoundError, json.JSONDecodeError) as e:
 
 # Prepare logs and summary
 log_file_path = os.path.join(OUTPUT_BASE_DIR, f"run_log_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt")
+
+# Write origin info as the log’s first line (once, before the loop)
+with open(log_file_path, 'w', encoding='utf-8') as log:
+    ip = query_origin.get("ip", "unknown")
+    city = query_origin.get("city", "unknown")
+    country = query_origin.get("country", "unknown")
+    log.write(f"Query origin: IP {ip} ({city}, {country})\n")
+
 summary_data = {
     "scriptRunTimestamp": datetime.now().isoformat(),
-    "_queryOrigin": query_origin,          # <-- new
+    "_queryOrigin": query_origin,
     "totalAuthorsQueried": len(all_authors),
     "authorsProcessed": [],
     "_config": {
         "delayBetweenAuthors": DELAY_BETWEEN_AUTHORS,
         "delayBetweenPages": DELAY_BETWEEN_PAGES,
-        "batchSize": BATCH_SIZE
+        "batchSize": BATCH_SIZE,
+        "retryDelaySeconds": RETRY_DELAY_SECONDS,
+        "maxRetries": MAX_RETRIES
     }
 }
 
 # ================= CORE PAGINATION FUNCTION =================
 def fetch_all_books_for_author(author_name, author_viaf):
-    """
-    Fetches ALL books for a given author using the consolidated pagination logic
-    with bug workarounds. Returns a dictionary ready for export.
-    """
     encoded_name = quote(author_name)
     safe_name = author_name.replace(' ', '_')
     
@@ -86,21 +93,37 @@ def fetch_all_books_for_author(author_name, author_viaf):
     while True:
         request_count += 1
         
-        # Build request URL
         current_url = f'https://www.googleapis.com/books/v1/volumes?q=inauthor:"{encoded_name}"&maxResults={BATCH_SIZE}&startIndex={start_index}&key={API_KEY}'
         request_urls.append(current_url)
         
         if first_request_url is None:
             first_request_url = current_url
         
-        # Make request
-        try:
-            response = requests.get(current_url, timeout=30)
-            response.raise_for_status()
-            current_data = response.json()
-        except requests.exceptions.RequestException as e:
-            print(f"      ⚠️ Request #{request_count} failed: {e}")
-            break  # Stop pagination for this author on request error
+        # --- REQUEST WITH RETRY FOR 503 ---
+        retry_count = 0
+        response = None
+        while retry_count <= MAX_RETRIES:
+            try:
+                response = requests.get(current_url, timeout=30)
+                if response.status_code == 503:
+                    retry_count += 1
+                    if retry_count <= MAX_RETRIES:
+                        print(f"      ⚠️ Got 503, waiting {RETRY_DELAY_SECONDS}s (attempt {retry_count}/{MAX_RETRIES})...")
+                        time.sleep(RETRY_DELAY_SECONDS)
+                        continue
+                    else:
+                        print(f"      ✗ Max retries exceeded after {MAX_RETRIES} attempts.")
+                        break
+                else:
+                    response.raise_for_status()      # Raise for any other HTTP error
+                    break                            # Success – exit retry loop
+            except requests.exceptions.RequestException as e:
+                print(f"      ⚠️ Request #{request_count} failed: {e}")
+                break   # Non‑recoverable error → stop pagination
+        if response is None or response.status_code != 200:
+            break   # Pagination stops for this author
+        current_data = response.json()
+        # ------------------------------------
         
         current_total_estimate = current_data.get('totalItems', 0)
         current_items = current_data.get('items', [])
@@ -109,12 +132,10 @@ def fetch_all_books_for_author(author_name, author_viaf):
         if request_count == 1:
             initial_total_estimate = current_total_estimate
         
-        # TERMINATION RULE 1: totalItems is 0
         if current_total_estimate == 0:
             print(f"      No results found (totalItems=0).")
             break
         
-        # BUG WORKAROUND: Empty items list but totalItems > 0
         if fetched_count == 0 and current_total_estimate > 0:
             print(f"      ⚠️ API Bug: Empty page. Attempting rescue with maxResults={current_total_estimate}...")
             rescue_url = f'https://www.googleapis.com/books/v1/volumes?q=inauthor:"{encoded_name}"&maxResults={current_total_estimate}&startIndex={start_index}&key={API_KEY}'
@@ -130,25 +151,21 @@ def fetch_all_books_for_author(author_name, author_viaf):
                     all_items.extend(rescue_items)
             except requests.exceptions.RequestException as e:
                 print(f"      ✗ Rescue request also failed: {e}")
-            break  # Stop after rescue attempt
+            break
         
-        # NORMAL CASE: Items received
         if fetched_count > 0:
             all_items.extend(current_items)
         
-        # TERMINATION RULE 2: Natural end (partial page)
         if fetched_count < BATCH_SIZE:
             break
         
-        # Prepare for next page
         start_index += BATCH_SIZE
-        time.sleep(DELAY_BETWEEN_PAGES)  # Small delay between pages
+        time.sleep(DELAY_BETWEEN_PAGES)
     
-    # ---- Redact API key before storing URLs ----
+    # Redact API key before storing URLs
     first_request_url = first_request_url.replace(API_KEY, "REDACTED") if first_request_url else None
     request_urls = [url.replace(API_KEY, "REDACTED") for url in request_urls]
 
-    # Compile final result for this author
     final_data = {
         "getRequest": first_request_url,
         "_requestUrls": request_urls,
@@ -178,14 +195,11 @@ for idx, author_entry in enumerate(all_authors):
     
     print(f"\n[{idx+1}/{len(all_authors)}] Processing: {author_name} (VIAF: {author_viaf})")
     
-    # Fetch all data for this author
     safe_name, viaf, author_result_data = fetch_all_books_for_author(author_name, author_viaf)
     
-    # Save individual consolidated JSON file
     filename = f"{safe_name}-{viaf}-CONSOLIDATED.json"
     filepath = os.path.join(OUTPUT_BASE_DIR, "raw_data", f"from_{origin_country}", filename)
     
-    # Ensure the directory exists BEFORE writing
     os.makedirs(os.path.dirname(filepath), exist_ok=True)
     
     try:
@@ -194,9 +208,7 @@ for idx, author_entry in enumerate(all_authors):
         print(f"   💾 Saved to: {filename}")
     except IOError as e:
         print(f"   ❌ Failed to save file: {e}")
-        # Continue processing other authors even if save fails
     
-    # Update summary
     summary_data["authorsProcessed"].append({
         "authorLabel": author_name,
         "viaf": viaf,
@@ -207,19 +219,10 @@ for idx, author_entry in enumerate(all_authors):
         "requestsMade": author_result_data["_totalRequestsMade"]
     })
     
-    # Write running log
     with open(log_file_path, 'a', encoding='utf-8') as log:
         timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         log.write(f"{timestamp} | {author_name} | {author_result_data['_totalFetchedItems']} items | {filename}\n")
     
-    # Write origin info as the log’s first line
-    with open(log_file_path, 'w', encoding='utf-8') as log:
-        ip = query_origin.get("ip", "unknown")
-        city = query_origin.get("city", "unknown")
-        country = query_origin.get("country", "unknown")
-        log.write(f"Query origin: IP {ip} ({city}, {country})\n")
-
-    # Delay before next author (unless it's the last one)
     if idx < len(all_authors) - 1:
         print(f"   ⏳ Waiting {DELAY_BETWEEN_AUTHORS} seconds before next author...")
         time.sleep(DELAY_BETWEEN_AUTHORS)
@@ -229,7 +232,6 @@ print("\n" + "="*60)
 print("PROCESSING COMPLETE")
 print("="*60)
 
-# Save master summary file
 summary_filename = os.path.join(OUTPUT_BASE_DIR, f"{COUNTRY_ABBREV}_query_report_{origin_country}.json")
 try:
     with open(summary_filename, 'w', encoding='utf-8') as f:
@@ -238,7 +240,6 @@ try:
 except IOError as e:
     print(f"   ❌ Failed to save summary file: {e}")
 
-# Print final stats
 successful = [a for a in summary_data["authorsProcessed"] if a["totalFetched"] > 0]
 print(f"\n📈 Results:")
 print(f"   • Total authors processed: {len(summary_data['authorsProcessed'])}")
