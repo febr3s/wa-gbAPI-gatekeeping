@@ -5,10 +5,13 @@ import time
 from urllib.parse import quote
 from datetime import datetime
 
+from scripts.wikidata import COUNTRY_ABBREV
+
 # ================= CONFIGURATION =================
 API_KEY = os.environ.get('GOOGLE_BOOKS_API_KEY')
-INPUT_JSON_FILE = 'output/authors_nicaragua.json'
-OUTPUT_BASE_DIR = 'output'
+COUNTRY_ABBREV = "NIC"  # 3-letter ISO code for the country, used in output paths
+INPUT_JSON_FILE = f'output/{COUNTRY_ABBREV}/authors_{COUNTRY_ABBREV}_*.json' # Follow the pattern: output/{COUNTRY_ABBREV}/authors_{COUNTRY_ABBREV}_{DATE}.json
+OUTPUT_BASE_DIR = f'output/{COUNTRY_ABBREV}' # Base directory for output files (e.g., output/{COUNTRY_ABBREV})
 DELAY_BETWEEN_AUTHORS = 5  # Seconds to wait after finishing one author
 DELAY_BETWEEN_PAGES = 0.3  # Seconds to wait between pagination requests for one author
 BATCH_SIZE = 20
@@ -157,7 +160,7 @@ for idx, author_entry in enumerate(all_authors):
     
     # Save individual consolidated JSON file
     filename = f"{safe_name}-{viaf}-CONSOLIDATED.json"
-    filepath = os.path.join(OUTPUT_BASE_DIR, "raw_gbooks_data", filename)
+    filepath = os.path.join(OUTPUT_BASE_DIR, "raw_data", {COUNTRY_ABBREV}, filename)
     
     try:
         with open(filepath, 'w', encoding='utf-8') as f:
