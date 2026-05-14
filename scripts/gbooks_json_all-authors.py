@@ -6,7 +6,14 @@ import time
 from urllib.parse import quote
 from datetime import datetime
 
-# from scripts.wikidata import COUNTRY_ABBREV
+def get_query_origin():
+    """Return dict with public IP and location info, or an error message."""
+    try:
+        resp = requests.get("https://ipinfo.io/json", timeout=5)
+        resp.raise_for_status()
+        return resp.json()   # contains ip, city, region, country, loc, org
+    except Exception as e:
+        return {"error": f"Could not determine origin: {e}"}
 
 # ================= CONFIGURATION =================
 API_KEY = os.environ.get('GOOGLE_BOOKS_API_KEY')
@@ -21,6 +28,10 @@ BATCH_SIZE = 20
 if not API_KEY:
     print("ERROR: Set the 'GOOGLE_BOOKS_API_KEY' environment variable first.")
     exit()
+    
+# ---- Determine query origin IP & location ----
+query_origin = get_query_origin()
+origin_country = query_origin.get("country", "unknown")   # fallback if unknown
 
 # ---- Load the most recent author data file matching the pattern ----
 matching_files = glob.glob(INPUT_JSON_PATTERN)
@@ -44,6 +55,7 @@ except (KeyError, FileNotFoundError, json.JSONDecodeError) as e:
 log_file_path = os.path.join(OUTPUT_BASE_DIR, f"run_log_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt")
 summary_data = {
     "scriptRunTimestamp": datetime.now().isoformat(),
+    "_queryOrigin": query_origin,          # <-- new
     "totalAuthorsQueried": len(all_authors),
     "authorsProcessed": [],
     "_config": {
@@ -171,7 +183,7 @@ for idx, author_entry in enumerate(all_authors):
     
     # Save individual consolidated JSON file
     filename = f"{safe_name}-{viaf}-CONSOLIDATED.json"
-    filepath = os.path.join(OUTPUT_BASE_DIR, "raw_data", filename)  # fixed: removed {} around COUNTRY_ABBREV
+    filepath = os.path.join(OUTPUT_BASE_DIR, "raw_data", f"from_{origin_country}", filename)
     
     # Ensure the directory exists BEFORE writing
     os.makedirs(os.path.dirname(filepath), exist_ok=True)
@@ -200,6 +212,13 @@ for idx, author_entry in enumerate(all_authors):
         timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         log.write(f"{timestamp} | {author_name} | {author_result_data['_totalFetchedItems']} items | {filename}\n")
     
+    # Write origin info as the log’s first line
+    with open(log_file_path, 'w', encoding='utf-8') as log:
+        ip = query_origin.get("ip", "unknown")
+        city = query_origin.get("city", "unknown")
+        country = query_origin.get("country", "unknown")
+        log.write(f"Query origin: IP {ip} ({city}, {country})\n")
+
     # Delay before next author (unless it's the last one)
     if idx < len(all_authors) - 1:
         print(f"   ⏳ Waiting {DELAY_BETWEEN_AUTHORS} seconds before next author...")
@@ -211,7 +230,7 @@ print("PROCESSING COMPLETE")
 print("="*60)
 
 # Save master summary file
-summary_filename = os.path.join(OUTPUT_BASE_DIR, "_processing_summary.json")
+summary_filename = os.path.join(OUTPUT_BASE_DIR, f"{COUNTRY_ABBREV}_query_report_{origin_country}.json")
 try:
     with open(summary_filename, 'w', encoding='utf-8') as f:
         json.dump(summary_data, f, indent=2, ensure_ascii=False)
