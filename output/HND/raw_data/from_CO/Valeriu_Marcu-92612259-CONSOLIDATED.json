@@ -1,0 +1,4296 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Valeriu%20Marcu\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Valeriu%20Marcu\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Valeriu%20Marcu\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Valeriu%20Marcu\"&maxResults=20&startIndex=40&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Valeriu%20Marcu\"&maxResults=20&startIndex=60&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Valeriu%20Marcu\"&maxResults=13&startIndex=60&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 73,
+  "_totalRequestsMade": 4,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "cN1GAAAAIAAJ",
+      "etag": "uHE2ptv3gF8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cN1GAAAAIAAJ",
+      "volumeInfo": {
+        "title": "La expulsión de los judios de España",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1945",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B290892"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+          "Crypto-Jews"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cN1GAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cN1GAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cN1GAAAAIAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cN1GAAAAIAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_expulsi%C3%B3n_de_los_judios_de_Espa%C3%B1a.html?hl=&id=cN1GAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cN1GAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-ZXYzgEACAAJ",
+      "etag": "BzkiSz0JbS0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-ZXYzgEACAAJ",
+      "volumeInfo": {
+        "title": "La expulsión de los judíos de España",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "2021",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8418818328"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788418818325"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-ZXYzgEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-ZXYzgEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_expulsi%C3%B3n_de_los_jud%C3%ADos_de_Espa%C3%B1a.html?hl=&id=-ZXYzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-ZXYzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oR9cACrdDmMC",
+      "etag": "NyfY1VJKafE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oR9cACrdDmMC",
+      "volumeInfo": {
+        "title": "Maquiavelo",
+        "subtitle": "la escuela del poder",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1945",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112106259275"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 274,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oR9cACrdDmMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oR9cACrdDmMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=oR9cACrdDmMC&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=oR9cACrdDmMC&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Maquiavelo.html?hl=&id=oR9cACrdDmMC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oR9cACrdDmMC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GiwBAAAAMAAJ",
+      "etag": "sJnWN8FuH94",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GiwBAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Lenin",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015026691074"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 452,
+        "printType": "BOOK",
+        "categories": [
+          "Communism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GiwBAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GiwBAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=GiwBAAAAMAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GiwBAAAAMAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lenin.html?hl=&id=GiwBAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GiwBAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2fwPAQAAIAAJ",
+      "etag": "bng58fr2SFo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2fwPAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Lenin",
+        "subtitle": "eine Biographie",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1970",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B2851257"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 332,
+        "printType": "BOOK",
+        "categories": [
+          "Communism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2fwPAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2fwPAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=2fwPAQAAIAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2fwPAQAAIAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lenin.html?hl=&id=2fwPAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2fwPAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2yyHAAAAMAAJ",
+      "etag": "AzYo4YCVRAM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2yyHAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Men and Forces of Our Time",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89087897252"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 264,
+        "printType": "BOOK",
+        "categories": [
+          "Europe"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2yyHAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2yyHAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=2yyHAAAAMAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2yyHAAAAMAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Men_and_Forces_of_Our_Time.html?hl=&id=2yyHAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2yyHAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R33UAAAAMAAJ",
+      "etag": "ocs06ck/kVU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R33UAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Expulsion of the Jews from Spain",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1935",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89100052315"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 204,
+        "printType": "BOOK",
+        "categories": [
+          "Crypto-Jews"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=R33UAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=R33UAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=R33UAAAAMAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=R33UAAAAMAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Expulsion_of_the_Jews_from_Spain.html?hl=&id=R33UAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R33UAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4Y0BAAAAMAAJ",
+      "etag": "YtPtb+nit0g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4Y0BAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Birth of the Nations",
+        "subtitle": "From the Unity of Faith to the Democracy of Money",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1932",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015063008802"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 326,
+        "printType": "BOOK",
+        "categories": [
+          "Europe"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4Y0BAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4Y0BAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=4Y0BAAAAMAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4Y0BAAAAMAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Birth_of_the_Nations.html?hl=&id=4Y0BAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4Y0BAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WmAcAAAAMAAJ",
+      "etag": "GRJ9TIdPpCk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WmAcAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Accent on Power",
+        "subtitle": "The Life and Times of Machiavelli",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1939",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015010427154"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 340,
+        "printType": "BOOK",
+        "categories": [
+          "Florence (Italy)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WmAcAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WmAcAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=WmAcAAAAMAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WmAcAAAAMAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Accent_on_Power.html?hl=&id=WmAcAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WmAcAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wLlBAQAAIAAJ",
+      "etag": "yOxsigivx2g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wLlBAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Die Vertreibung der Juden aus Spanien",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1934",
+        "description": "Describes the position of the Jews in Spain in the 15th century, including discussion of disputations between representatives of Jews and Christians (particularly converted Jews who were eager to attack the Jewish religion), the population's hatred of the Conversos, and racist theories propagated during the reign of Isabella. Focuses on the role of the Inquisition, on blood libel trials, on host desecration accusations, and on the edict of expulsion in 1492. Pp. 217-285 of the 1991 edition contain an essay, written especially for this edition, on the life and work of Valeriu Marcu by Andrei Corbea, also analyzing the similarity between persecution of Jews in 1492 and during the Nazi regime.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B378784"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Crypto-Jews"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wLlBAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wLlBAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=wLlBAQAAIAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wLlBAQAAIAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Die_Vertreibung_der_Juden_aus_Spanien.html?hl=&id=wLlBAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wLlBAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Pp. 217-285 of the 1991 edition contain an essay, written especially for this edition, on the life and work of Valeriu Marcu by Andrei Corbea, also analyzing the similarity between persecution of Jews in 1492 and during the Nazi regime."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GlUqAAAACAAJ",
+      "etag": "exa4WOCIuE8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GlUqAAAACAAJ",
+      "volumeInfo": {
+        "title": "\"Ein Kopf ist mehr als vierhundert Kehlköpfe\"",
+        "subtitle": "gesammelte Essays ; im 60. Todesjahr Valeriu Marcu zum Gedenken",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "2002-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3896497367"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783896497369"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "categories": [
+          "Europe"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GlUqAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GlUqAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=GlUqAAAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GlUqAAAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ein_Kopf_ist_mehr_als_vierhundert_Kehlk.html?hl=&id=GlUqAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GlUqAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nlAZAAAAIAAJ",
+      "etag": "QoW3SZYsm/c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nlAZAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Schatten der Geschichte",
+        "subtitle": "15 europäische Profile",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1925",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105025861068"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "categories": [
+          "Authors"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.9.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nlAZAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nlAZAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=nlAZAAAAIAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nlAZAAAAIAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Schatten_der_Geschichte.html?hl=&id=nlAZAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nlAZAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "e0_xDwAAQBAJ",
+      "etag": "wuejWtUVt0A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/e0_xDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Machiavelli. Magtens skole",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publisher": "Lindhardt og Ringhof",
+        "publishedDate": "2020-08-04",
+        "description": "Niccolò Machiavelli (1469-1527) er en af renæssancens mest betydningsfulde skikkelser, og hans politiske filosofi var så banebrydende, at han selv kom til at lægge navn til den. Valeriu Marcus bog fortæller om machiavellismen, om hovedværket \"Fyrsten\", forholdet til huset Medici i Firenze og den enorme indflydelse, Machiavelli igennem dette forhold fik på hele Europa i løbet af sin korte levetid. Valeriu Marcu (1899-1942) var en jødisk-rumænsk digter, forfatter og historiker. Som ung omgikkes han med blandt andre Leon Trotskij og Vladimir Lenin, om hvem han i 1927 skrev den første biografi. I 1940 flygtede Valeriu Marcu og hans familie til USA for at undslippe nazisternes jødeforfølgelse. Valeriu Marcu udgav flere bøger i løbet af sit liv.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788726468595"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "872646859X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 305,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=e0_xDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=e0_xDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "da",
+        "previewLink": "http://books.google.com.co/books?id=e0_xDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=e0_xDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=e0_xDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 46818,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 32773,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=e0_xDwAAQBAJ&rdid=book-e0_xDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 46818000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 32773000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Machiavelli_Magtens_skole-sample-epub.acsm?id=e0_xDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=e0_xDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "I 1940 flygtede Valeriu Marcu og hans familie til USA for at undslippe nazisternes jødeforfølgelse. Valeriu Marcu udgav flere bøger i løbet af sit liv."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "U5DbAAAAMAAJ",
+      "etag": "CXRkHaCNatQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U5DbAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Lénine, 1870-1924",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89100437680"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 420,
+        "printType": "BOOK",
+        "categories": [
+          "Soviet Union"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.6.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=U5DbAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=U5DbAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=U5DbAAAAMAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=U5DbAAAAMAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L%C3%A9nine_1870_1924.html?hl=&id=U5DbAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U5DbAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zhBFeHQxHREC",
+      "etag": "hyQ611RNHek",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zhBFeHQxHREC",
+      "volumeInfo": {
+        "title": "Männer und Mächte der Gegenwart",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433100829864"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "categories": [
+          "Europe"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zhBFeHQxHREC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zhBFeHQxHREC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=zhBFeHQxHREC&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zhBFeHQxHREC&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/M%C3%A4nner_und_M%C3%A4chte_der_Gegenwart.html?hl=&id=zhBFeHQxHREC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zhBFeHQxHREC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4UwNAQAAIAAJ",
+      "etag": "YpxZS6zulfE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4UwNAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Machiavelli",
+        "subtitle": "die schule der macht",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1937",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B555201"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 378,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4UwNAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4UwNAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=4UwNAQAAIAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4UwNAQAAIAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Machiavelli.html?hl=&id=4UwNAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4UwNAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "m8QZAAAAIAAJ",
+      "etag": "w7d2WVDV22o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m8QZAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Das grosse Kommando Scharnhorsts",
+        "subtitle": "die Geburt einer Militärmacht in Europa",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105037961690"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 378,
+        "printType": "BOOK",
+        "categories": [
+          "Armies"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m8QZAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m8QZAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=m8QZAAAAIAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=m8QZAAAAIAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Das_grosse_Kommando_Scharnhorsts.html?hl=&id=m8QZAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m8QZAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "asr4SQAACAAJ",
+      "etag": "U22+HL9en00",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/asr4SQAACAAJ",
+      "volumeInfo": {
+        "title": "Schatten der Geschichte",
+        "subtitle": "europäische Profile",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:14450422"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 290,
+        "printType": "BOOK",
+        "categories": [
+          "Authors"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=asr4SQAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=asr4SQAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Schatten_der_Geschichte.html?hl=&id=asr4SQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=asr4SQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "W4CHvgAACAAJ",
+      "etag": "N2RtoNGGOL4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/W4CHvgAACAAJ",
+      "volumeInfo": {
+        "title": "Im Schatten der Geschichte",
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:742362204"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=W4CHvgAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=W4CHvgAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Im_Schatten_der_Geschichte.html?hl=&id=W4CHvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=W4CHvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SG0pAQAAMAAJ",
+      "etag": "VudqvJ8zCUM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SG0pAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Die Geburt der Nationen",
+        "subtitle": "von der Einheit des Glaubens zur Demokratie des Geldes",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NWU:35556009361882"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+          "Europe"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SG0pAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SG0pAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=SG0pAQAAMAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SG0pAQAAMAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Die_Geburt_der_Nationen.html?hl=&id=SG0pAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SG0pAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YHJBPQAACAAJ",
+      "etag": "bQ4Dc9VqXtU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YHJBPQAACAAJ",
+      "volumeInfo": {
+        "title": "Machiavelli",
+        "subtitle": "die Schule der Macht ; im Anhang: Reflexionen des Autors zu Lenin und Hitler",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3882217952"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783882217957"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 380,
+        "printType": "BOOK",
+        "categories": [
+          "Florence (Italy)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=YHJBPQAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YHJBPQAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Machiavelli.html?hl=&id=YHJBPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YHJBPQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LH7ptwAACAAJ",
+      "etag": "yPiWvMEJr2w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LH7ptwAACAAJ",
+      "volumeInfo": {
+        "title": "Maquiavelo",
+        "subtitle": "la escuela del poder",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1967",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:19357339"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 241,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=LH7ptwAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LH7ptwAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Maquiavelo.html?hl=&id=LH7ptwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LH7ptwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vMBNvgAACAAJ",
+      "etag": "EMuFmkaDUI8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vMBNvgAACAAJ",
+      "volumeInfo": {
+        "title": "1871",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-08-23",
+        "description": "Si vous voulez savoir pourquoi, en 1934, pour un Allemand germanophone né en Roumanie, l'année 1871 revêtait une importance toute particulière, rendez-vous à l'intérieur -de cette édition bilingue du seul texte en roumain d'un essayiste injustement oublié, Valeriu Marcu (1899-1942).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1537185187"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781537185187"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vMBNvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vMBNvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=vMBNvgAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vMBNvgAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/1871.html?hl=&id=vMBNvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vMBNvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Si vous voulez savoir pourquoi, en 1934, pour un Allemand germanophone né en Roumanie, l&#39;année 1871 revêtait une importance toute particulière, rendez-vous à l&#39;intérieur de cette édition bilingue du seul texte en roumain d&#39;un ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "t5N0XwAACAAJ",
+      "etag": "9HzLZGOgLaI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t5N0XwAACAAJ",
+      "volumeInfo": {
+        "title": "Lenin, 30 Jahre Russland, von Valeriu Marcu...",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459920833"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 364,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=t5N0XwAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=t5N0XwAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lenin_30_Jahre_Russland_von_Valeriu_Marc.html?hl=&id=t5N0XwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t5N0XwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TFU3ngEACAAJ",
+      "etag": "/hUWYOxwh/M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TFU3ngEACAAJ",
+      "volumeInfo": {
+        "title": "Lenin",
+        "authors": [
+          "Valeriu Marcu",
+          "E. W. Dickes"
+        ],
+        "publishedDate": "2013-10",
+        "description": "This is a new release of the original 1928 edition.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1494109492"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781494109493"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 446,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TFU3ngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TFU3ngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=TFU3ngEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TFU3ngEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lenin.html?hl=&id=TFU3ngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TFU3ngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is a new release of the original 1928 edition."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6q0XMwEACAAJ",
+      "etag": "j6t8EndTMKQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6q0XMwEACAAJ",
+      "volumeInfo": {
+        "title": "Lenin. 30 Jahre Russland. Lenin. (Translated by E.W. Dickes.) With Plates, Including Portraits.",
+        "authors": [
+          "Valeriu MARCU",
+          "Ernest Walter DICKES"
+        ],
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:562144347"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 419,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=6q0XMwEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6q0XMwEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lenin_30_Jahre_Russland_Lenin_Translated.html?hl=&id=6q0XMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6q0XMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q7xbMwEACAAJ",
+      "etag": "9gQk/W0OW0c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q7xbMwEACAAJ",
+      "volumeInfo": {
+        "title": "Männer und Mächte Der Gegenwart. Men and Forces of Our Time. Translated by Eden and Cedar Paul",
+        "authors": [
+          "Valeriu MARCU",
+          "Maurice Eden PAUL"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:562144375"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=q7xbMwEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=q7xbMwEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/M%C3%A4nner_und_M%C3%A4chte_Der_Gegenwart_Men_an.html?hl=&id=q7xbMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q7xbMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lXhN0AEACAAJ",
+      "etag": "iGi9iBgud3M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lXhN0AEACAAJ",
+      "volumeInfo": {
+        "title": "Shadow of History. European Profiles",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1404776108"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=lXhN0AEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lXhN0AEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shadow_of_History_European_Profiles.html?hl=&id=lXhN0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lXhN0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NFUVMwEACAAJ",
+      "etag": "OGBmCe+ENsI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NFUVMwEACAAJ",
+      "volumeInfo": {
+        "title": "Die Geburt Der Nationen. The Birth of the Nations: from the Unity of Faith to the Democracy of Money ... Translated by Eden and Cedar Paul. With Plates.",
+        "authors": [
+          "Valeriu MARCU",
+          "Maurice Eden PAUL"
+        ],
+        "publishedDate": "1932",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:562144317"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 287,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=NFUVMwEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NFUVMwEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Die_Geburt_Der_Nationen_The_Birth_of_the.html?hl=&id=NFUVMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NFUVMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4-g8MwEACAAJ",
+      "etag": "REd3qqO4rt0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4-g8MwEACAAJ",
+      "volumeInfo": {
+        "title": "Die Vertreibung Der Juden Aus Spanien. The Expulsion of the Jews from Spain. Translated ... by Moray Firth",
+        "authors": [
+          "Valeriu MARCU",
+          "Moray FIRTH"
+        ],
+        "publishedDate": "1935",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:562144368"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 181,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=4-g8MwEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4-g8MwEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Die_Vertreibung_Der_Juden_Aus_Spanien_Th.html?hl=&id=4-g8MwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4-g8MwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LOjw0AEACAAJ",
+      "etag": "67IPUHSSAHQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LOjw0AEACAAJ",
+      "volumeInfo": {
+        "title": "Machiavelli",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1937",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:499295528"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "nl",
+        "previewLink": "http://books.google.com.co/books?id=LOjw0AEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LOjw0AEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Machiavelli.html?hl=&id=LOjw0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LOjw0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X3DpoQEACAAJ",
+      "etag": "XJc+0lCKVkk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X3DpoQEACAAJ",
+      "volumeInfo": {
+        "title": "Men and Forces of Out Time",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1968",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:890482064"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "categories": [
+          "Europe"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=X3DpoQEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=X3DpoQEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Men_and_Forces_of_Out_Time.html?hl=&id=X3DpoQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X3DpoQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BQtyHQAACAAJ",
+      "etag": "d0XeiTXpVYs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BQtyHQAACAAJ",
+      "volumeInfo": {
+        "title": "Lenin",
+        "subtitle": "Třicet let Ruska",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:85295084"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "cs",
+        "previewLink": "http://books.google.com.co/books?id=BQtyHQAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BQtyHQAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lenin.html?hl=&id=BQtyHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BQtyHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s_5GPgAACAAJ",
+      "etag": "liC0zS9kboo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s_5GPgAACAAJ",
+      "volumeInfo": {
+        "title": "Valeriu Marcu. Lénine 1870-1924",
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:494230498"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 383,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=s_5GPgAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=s_5GPgAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Valeriu_Marcu_L%C3%A9nine_1870_1924.html?hl=&id=s_5GPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s_5GPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fq50twAACAAJ",
+      "etag": "uyQstR/6zVY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fq50twAACAAJ",
+      "volumeInfo": {
+        "title": "Machiavell",
+        "subtitle": "die Schule der Macht",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1937",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:768105219"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 343,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "nl",
+        "previewLink": "http://books.google.com.co/books?id=fq50twAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fq50twAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Machiavell.html?hl=&id=fq50twAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fq50twAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Q7JwzwEACAAJ",
+      "etag": "WjotMzRhKIk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q7JwzwEACAAJ",
+      "volumeInfo": {
+        "title": "Lenin",
+        "subtitle": "30 Jahre Russland",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:879532798"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=Q7JwzwEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Q7JwzwEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lenin.html?hl=&id=Q7JwzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Q7JwzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6-1wtAEACAAJ",
+      "etag": "mZ76aglJSos",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6-1wtAEACAAJ",
+      "volumeInfo": {
+        "title": "Lenin, 30 Jahre Russland",
+        "subtitle": "Mit zahlr., teilw. unveröff. Bildern [auf Taf.]",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:718842644"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 356,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=6-1wtAEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6-1wtAEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lenin_30_Jahre_Russland.html?hl=&id=6-1wtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6-1wtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vW_izQEACAAJ",
+      "etag": "DRye+8hc4mA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vW_izQEACAAJ",
+      "volumeInfo": {
+        "title": "Lenin, 30 Jahre Russland",
+        "subtitle": "Mit zahlreichen, teilweise unveröffentlichten Bildern",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1198154473"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 356,
+        "printType": "BOOK",
+        "categories": [
+          "Soviet Union"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=vW_izQEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vW_izQEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lenin_30_Jahre_Russland.html?hl=&id=vW_izQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vW_izQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vq6VswEACAAJ",
+      "etag": "APylfkJHQPc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vq6VswEACAAJ",
+      "volumeInfo": {
+        "title": "Lenin",
+        "subtitle": "samenzweerder en dictator in het oosten",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:915776533"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 347,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "nl",
+        "previewLink": "http://books.google.com.co/books?id=vq6VswEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vq6VswEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lenin.html?hl=&id=vq6VswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vq6VswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K0xLygEACAAJ",
+      "etag": "h8HAyBYtkro",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K0xLygEACAAJ",
+      "volumeInfo": {
+        "title": "Wilhelm Liebknecht",
+        "subtitle": "1826-1926",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1119379212"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 46,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=K0xLygEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=K0xLygEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Wilhelm_Liebknecht.html?hl=&id=K0xLygEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K0xLygEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5Q48GQAACAAJ",
+      "etag": "24vT5lc+peA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5Q48GQAACAAJ",
+      "volumeInfo": {
+        "title": "De verdrijving der Joden uit Spanje",
+        "subtitle": "[Die Vertreibung der Juden aus Spanien]",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:174652718"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "nl",
+        "previewLink": "http://books.google.com.co/books?id=5Q48GQAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5Q48GQAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_verdrijving_der_Joden_uit_Spanje.html?hl=&id=5Q48GQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5Q48GQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cozGSAAACAAJ",
+      "etag": "AXEcAdvoIsA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cozGSAAACAAJ",
+      "volumeInfo": {
+        "title": "Il Dramma del dittatore bolcevico (Lenin)...",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:493402583"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 314,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "it",
+        "previewLink": "http://books.google.com.co/books?id=cozGSAAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cozGSAAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Il_Dramma_del_dittatore_bolcevico_Lenin.html?hl=&id=cozGSAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cozGSAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QLhXMwEACAAJ",
+      "etag": "H6IyDlK9bE4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QLhXMwEACAAJ",
+      "volumeInfo": {
+        "title": "Das grosse Kommando Scharnhorsts : die Geburt einer Militärmacht in Europa ; Mit Bildern",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:771688519"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 346,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=QLhXMwEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=QLhXMwEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Das_grosse_Kommando_Scharnhorsts_die_Geb.html?hl=&id=QLhXMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QLhXMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IrzJsgEACAAJ",
+      "etag": "BTdPIHfUrg8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IrzJsgEACAAJ",
+      "volumeInfo": {
+        "title": "Machiavelli",
+        "subtitle": "a hatalom iskolája",
+        "publishedDate": "1937",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:908999499"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 349,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "hu",
+        "previewLink": "http://books.google.com.co/books?id=IrzJsgEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=IrzJsgEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Machiavelli.html?hl=&id=IrzJsgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IrzJsgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5WL4rQEACAAJ",
+      "etag": "7sRgd2OWqpk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5WL4rQEACAAJ",
+      "volumeInfo": {
+        "title": "Französische Politiker und Journalisten",
+        "subtitle": "Von Diderot bis Clemenceau",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:897393564"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=5WL4rQEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=45&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5WL4rQEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Franz%C3%B6sische_Politiker_und_Journalisten.html?hl=&id=5WL4rQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5WL4rQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CCKtXwAACAAJ",
+      "etag": "yVvqUbo1ABU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CCKtXwAACAAJ",
+      "volumeInfo": {
+        "title": "Lénine 1870-1924. Traduit de l'allemand par A. Lecourt. Avec 28 photographies hors texte",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458075117"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 383,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=CCKtXwAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=46&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CCKtXwAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L%C3%A9nine_1870_1924_Traduit_de_l_allemand.html?hl=&id=CCKtXwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CCKtXwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mgNNzQEACAAJ",
+      "etag": "rTiRVHdGdHw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mgNNzQEACAAJ",
+      "volumeInfo": {
+        "title": "Wilhelm Liebknecht : 1826 - 29. März - 1926 ; e. Bild d. dt. Arbeiterbewegung",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:251472461"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 45,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=mgNNzQEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=47&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mgNNzQEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Wilhelm_Liebknecht_1826_29_M%C3%A4rz_1926_e.html?hl=&id=mgNNzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mgNNzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IsOlGwAACAAJ",
+      "etag": "98+otKuL5J0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IsOlGwAACAAJ",
+      "volumeInfo": {
+        "title": "Lenin, samenzweerder en dictator in het Oosten. Nederlandsche bew. [van] C.C. Bender",
+        "authors": [
+          "Valeriu Marcu",
+          "C. C. Bender"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:81644261"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 346,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=IsOlGwAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=48&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=IsOlGwAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lenin_samenzweerder_en_dictator_in_het_O.html?hl=&id=IsOlGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IsOlGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "691_nQEACAAJ",
+      "etag": "SskjuXb8qiU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/691_nQEACAAJ",
+      "volumeInfo": {
+        "title": "Il dramma del dittatore bolscevico",
+        "subtitle": "(Lenin)",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:797642990"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 307,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "it",
+        "previewLink": "http://books.google.com.co/books?id=691_nQEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=49&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=691_nQEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Il_dramma_del_dittatore_bolscevico.html?hl=&id=691_nQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=691_nQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-kc10AEACAAJ",
+      "etag": "EXZB13dpYks",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-kc10AEACAAJ",
+      "volumeInfo": {
+        "title": "Jahrbuch 1934-1935",
+        "subtitle": "mit 13 Bildtafeln der Autoren im Anhang",
+        "authors": [
+          "René Schickele",
+          "Karl Tschuppik",
+          "Alfred Neumann",
+          "Joseph Roth",
+          "Alfred Polgar",
+          "Valeriu Marcu",
+          "Egon Erwin Kisch",
+          "Georg Bernhard",
+          "Bertolt Brecht",
+          "Max Brod"
+        ],
+        "publishedDate": "1934",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1398980141"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "German literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=-kc10AEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=50&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-kc10AEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jahrbuch_1934_1935.html?hl=&id=-kc10AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-kc10AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Pi0ynQEACAAJ",
+      "etag": "fA40CIqMdjo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Pi0ynQEACAAJ",
+      "volumeInfo": {
+        "title": "Die weisse und rote Armee",
+        "authors": [
+          "Wallmar",
+          "Willi Münzenberg"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:7027360"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 37,
+        "printType": "BOOK",
+        "categories": [
+          "Communism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=Pi0ynQEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=51&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Pi0ynQEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Die_weisse_und_rote_Armee.html?hl=&id=Pi0ynQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Pi0ynQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lCW0swEACAAJ",
+      "etag": "xzbvZVAbTZI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lCW0swEACAAJ",
+      "volumeInfo": {
+        "title": "Lenin",
+        "subtitle": "80 Jahre Russland",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:473801538"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=lCW0swEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=52&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lCW0swEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lenin.html?hl=&id=lCW0swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lCW0swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "loqhQwAACAAJ",
+      "etag": "dhD15UMuDTg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/loqhQwAACAAJ",
+      "volumeInfo": {
+        "title": "Die Vertreibung aus Spanien",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1934",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432595032"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 215,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "nl",
+        "previewLink": "http://books.google.com.co/books?id=loqhQwAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=53&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=loqhQwAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Die_Vertreibung_aus_Spanien.html?hl=&id=loqhQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=loqhQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3PirHAAACAAJ",
+      "etag": "nl8w2yoA5S0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3PirHAAACAAJ",
+      "volumeInfo": {
+        "title": "Machiavelli",
+        "subtitle": "renässansmänniskan och maktfilosofen",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1939",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:185564911"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 369,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "sv",
+        "previewLink": "http://books.google.com.co/books?id=3PirHAAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=54&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3PirHAAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Machiavelli.html?hl=&id=3PirHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3PirHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jmdlswEACAAJ",
+      "etag": "kURxtDiEwqw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jmdlswEACAAJ",
+      "volumeInfo": {
+        "title": "De verdrijving der Joden uit Spanje",
+        "subtitle": "[Die Vertreibung der Juden aus Spanien]",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:723990655"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=jmdlswEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=55&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jmdlswEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_verdrijving_der_Joden_uit_Spanje.html?hl=&id=jmdlswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jmdlswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zEcGjwEACAAJ",
+      "etag": "cmi6CjEBKwU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zEcGjwEACAAJ",
+      "volumeInfo": {
+        "title": "Wilhelm Liebknecht",
+        "subtitle": "1826 - 29. März - 1926 ; Ein Bild der deutschen Arbeiterbewegung ; Im Anh.: Unser Programm in Wort und Bild ; Das Programm der Sozialdemokratischen Partei Deutschl.(beschlossen zu Heidelberg am 18. Septbr. 1925).",
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:914840352"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=zEcGjwEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=56&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zEcGjwEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Wilhelm_Liebknecht.html?hl=&id=zEcGjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zEcGjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "F4KwGwAACAAJ",
+      "etag": "CfINQ/QSktE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/F4KwGwAACAAJ",
+      "volumeInfo": {
+        "title": "Imperialismus und Friede",
+        "subtitle": "Raubkrieg u. Revolution",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:71960021"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=F4KwGwAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=57&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=F4KwGwAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Imperialismus_und_Friede.html?hl=&id=F4KwGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=F4KwGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nHpIwgEACAAJ",
+      "etag": "jOviZWOXX6s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nHpIwgEACAAJ",
+      "volumeInfo": {
+        "title": "Das grosse Kommando Scharnhorsts",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:250463210"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 346,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=nHpIwgEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=58&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nHpIwgEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Das_grosse_Kommando_Scharnhorsts.html?hl=&id=nHpIwgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nHpIwgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HpILGwAACAAJ",
+      "etag": "BNLuKtsRfNA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HpILGwAACAAJ",
+      "volumeInfo": {
+        "title": "Wilhelm Liebknecht 1826-29 März- 1926",
+        "subtitle": "ein Bild der deutschen Arbeiterbewegung",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:256275185"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 45,
+        "printType": "BOOK",
+        "categories": [
+          "Labor movement"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=HpILGwAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=59&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HpILGwAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Wilhelm_Liebknecht_1826_29_M%C3%A4rz_1926.html?hl=&id=HpILGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HpILGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "B043HQAACAAJ",
+      "etag": "+c14PwgyyZ4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B043HQAACAAJ",
+      "volumeInfo": {
+        "title": "Imperialismus und Friede",
+        "subtitle": "Raubkrieg und Revolution : zum 10. Jahrestag des Kriegausbruchs",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:4854713"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 125,
+        "printType": "BOOK",
+        "categories": [
+          "Europe"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=B043HQAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=60&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=B043HQAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Imperialismus_und_Friede.html?hl=&id=B043HQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B043HQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lhleHAAACAAJ",
+      "etag": "H7KZSaEtNhk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lhleHAAACAAJ",
+      "volumeInfo": {
+        "title": "Das grosse Kommando",
+        "subtitle": "die Geburt einer militärmacht in Europa",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:67471827"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 346,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=lhleHAAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=61&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lhleHAAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Das_grosse_Kommando.html?hl=&id=lhleHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lhleHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "00x90AEACAAJ",
+      "etag": "knlNuJKSTc8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/00x90AEACAAJ",
+      "volumeInfo": {
+        "title": "Machiavelli",
+        "subtitle": "renässansmänniskan och maktfilosofen",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1939",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:185564911"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "sv",
+        "previewLink": "http://books.google.com.co/books?id=00x90AEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=62&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=00x90AEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Machiavelli.html?hl=&id=00x90AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=00x90AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TSNmtAEACAAJ",
+      "etag": "BKCgPUYXOhU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TSNmtAEACAAJ",
+      "volumeInfo": {
+        "title": "Maenner und Maechte der Gegenwart",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:970968096"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 259,
+        "printType": "BOOK",
+        "categories": [
+          "Europe"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=TSNmtAEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=63&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TSNmtAEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Maenner_und_Maechte_der_Gegenwart.html?hl=&id=TSNmtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TSNmtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ECvAAQAACAAJ",
+      "etag": "FyeNQMzjtzE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ECvAAQAACAAJ",
+      "volumeInfo": {
+        "title": "Lenin",
+        "subtitle": "samenzweerder en dictator in het oosten",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:915776533"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 347,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "nl",
+        "previewLink": "http://books.google.com.co/books?id=ECvAAQAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=64&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ECvAAQAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lenin.html?hl=&id=ECvAAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ECvAAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iTz2vgEACAAJ",
+      "etag": "J5DHwYVXLow",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iTz2vgEACAAJ",
+      "volumeInfo": {
+        "title": "Lenin. 30 Jahre Russland, etc. [With plates, including portraits.].",
+        "authors": [
+          "Valeriu MARCU"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1064231775"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 356,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=iTz2vgEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=65&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=iTz2vgEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lenin_30_Jahre_Russland_etc_With_plates.html?hl=&id=iTz2vgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iTz2vgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rbDNzQEACAAJ",
+      "etag": "C73OqAx77OI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rbDNzQEACAAJ",
+      "volumeInfo": {
+        "title": "De verdrijving der Jjoden uit Spanje",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1185552859"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "nl",
+        "previewLink": "http://books.google.com.co/books?id=rbDNzQEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=66&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rbDNzQEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_verdrijving_der_Jjoden_uit_Spanje.html?hl=&id=rbDNzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rbDNzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5MKBHAAACAAJ",
+      "etag": "EihuB+4Lbo4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5MKBHAAACAAJ",
+      "volumeInfo": {
+        "title": "Maximilian Robespierre",
+        "subtitle": "Reden, mit historischer Einleitung",
+        "authors": [
+          "Maximilien Robespierre",
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:27987339"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 85,
+        "printType": "BOOK",
+        "categories": [
+          "France"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=5MKBHAAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=67&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5MKBHAAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Maximilian_Robespierre.html?hl=&id=5MKBHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5MKBHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vkqiswEACAAJ",
+      "etag": "zjtU+ZCHO1U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vkqiswEACAAJ",
+      "volumeInfo": {
+        "title": "Das grosse Kommando Scharnhorsts ; die Geburt einer Militaermacht in Europa. Mit zahlreichen Bildern",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:970842017"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 346,
+        "printType": "BOOK",
+        "categories": [
+          "Prussia"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=vkqiswEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=68&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vkqiswEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Das_grosse_Kommando_Scharnhorsts_die_Geb.html?hl=&id=vkqiswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vkqiswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wSanAQAACAAJ",
+      "etag": "qMfeEhY/aBg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wSanAQAACAAJ",
+      "volumeInfo": {
+        "title": "Der Rebell und die Demokratie. (Zur Krise des Sozialismus",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:215492579"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=wSanAQAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=69&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wSanAQAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Der_Rebell_und_die_Demokratie_Zur_Krise.html?hl=&id=wSanAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wSanAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ggwFMwEACAAJ",
+      "etag": "xW+8xlrpZZg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ggwFMwEACAAJ",
+      "volumeInfo": {
+        "title": "Männerund Mächt der Gegenwart",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:499295535"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=ggwFMwEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=70&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ggwFMwEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/M%C3%A4nnerund_M%C3%A4cht_der_Gegenwart.html?hl=&id=ggwFMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ggwFMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GDDcrQEACAAJ",
+      "etag": "t759h+p0dM8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GDDcrQEACAAJ",
+      "volumeInfo": {
+        "title": "Cercetari in legatura cu adenopatiile cervicale maligne",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:895668309"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 350,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "ro",
+        "previewLink": "http://books.google.com.co/books?id=GDDcrQEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=71&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GDDcrQEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cercetari_in_legatura_cu_adenopatiile_ce.html?hl=&id=GDDcrQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GDDcrQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "58d2GwAACAAJ",
+      "etag": "25PEl0GNh10",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/58d2GwAACAAJ",
+      "volumeInfo": {
+        "title": "Machiavelli",
+        "subtitle": "szkoła władzy",
+        "authors": [
+          "Valeriu Marcu"
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:69612343"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 279,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pl",
+        "previewLink": "http://books.google.com.co/books?id=58d2GwAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=72&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=58d2GwAACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Machiavelli.html?hl=&id=58d2GwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=58d2GwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nIcQzwEACAAJ",
+      "etag": "n8YOfc083FY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nIcQzwEACAAJ",
+      "volumeInfo": {
+        "title": "Machiavelli. Die Schule der Macht, etc",
+        "authors": [
+          "Valeriu MARCU"
+        ],
+        "publishedDate": "1937",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1308535601"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 343,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=nIcQzwEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&cd=73&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nIcQzwEACAAJ&dq=inauthor:%22Valeriu+Marcu%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Machiavelli_Die_Schule_der_Macht_etc.html?hl=&id=nIcQzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nIcQzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

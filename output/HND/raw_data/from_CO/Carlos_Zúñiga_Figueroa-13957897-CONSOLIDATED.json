@@ -1,0 +1,240 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Carlos%20Z%C3%BA%C3%B1iga%20Figueroa\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Carlos%20Z%C3%BA%C3%B1iga%20Figueroa\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 4,
+  "_totalFetchedItems": 4,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "6qowAAAAYAAJ",
+      "etag": "iHgygrx+EbE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6qowAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Recopilación de escritos publicados en la sección \"Un poco\" del diario \"La Epoca\"",
+        "authors": [
+          "Carlos Zúñiga Figueroa"
+        ],
+        "publishedDate": "1950",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018079548"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 528,
+        "printType": "BOOK",
+        "categories": [
+          "Honduran essays"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6qowAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6qowAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6qowAAAAYAAJ&dq=inauthor:%22Carlos+Z%C3%BA%C3%B1iga+Figueroa%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6qowAAAAYAAJ&dq=inauthor:%22Carlos+Z%C3%BA%C3%B1iga+Figueroa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Recopilaci%C3%B3n_de_escritos_publicados_en.html?hl=&id=6qowAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6qowAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4bmjzwEACAAJ",
+      "etag": "r67ewxW6c30",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4bmjzwEACAAJ",
+      "volumeInfo": {
+        "title": "Carlos Zúñiga Figueroa",
+        "authors": [
+          "Carlos Zúñiga Figueroa"
+        ],
+        "publishedDate": "1951",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1025746052"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4bmjzwEACAAJ&dq=inauthor:%22Carlos+Z%C3%BA%C3%B1iga+Figueroa%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4bmjzwEACAAJ&dq=inauthor:%22Carlos+Z%C3%BA%C3%B1iga+Figueroa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carlos_Z%C3%BA%C3%B1iga_Figueroa.html?hl=&id=4bmjzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4bmjzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bTNqzgAACAAJ",
+      "etag": "4UYvigEwN9U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bTNqzgAACAAJ",
+      "volumeInfo": {
+        "title": "Estadisticas demograficas, 1926-1951",
+        "authors": [
+          "Honduras. Dirección General de Censos y Estadísticas",
+          "Carlos Zúñiga Figueroa"
+        ],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:36853511"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=bTNqzgAACAAJ&dq=inauthor:%22Carlos+Z%C3%BA%C3%B1iga+Figueroa%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=bTNqzgAACAAJ&dq=inauthor:%22Carlos+Z%C3%BA%C3%B1iga+Figueroa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estadisticas_demograficas_1926_1951.html?hl=&id=bTNqzgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bTNqzgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_UhDHAAACAAJ",
+      "etag": "BNpN7kZPKgg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_UhDHAAACAAJ",
+      "volumeInfo": {
+        "title": "Las Actividades estadísticas de Honduras",
+        "authors": [
+          "Carlos Zúñiga Figueroa"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:57725774"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 33,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_UhDHAAACAAJ&dq=inauthor:%22Carlos+Z%C3%BA%C3%B1iga+Figueroa%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_UhDHAAACAAJ&dq=inauthor:%22Carlos+Z%C3%BA%C3%B1iga+Figueroa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_Actividades_estad%C3%ADsticas_de_Hondura.html?hl=&id=_UhDHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_UhDHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

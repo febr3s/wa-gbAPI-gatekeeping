@@ -1,0 +1,135 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Thomas%20Vincent%20Ramos\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Thomas%20Vincent%20Ramos\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 2,
+  "_totalFetchedItems": 2,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "K6pqAAAAMAAJ",
+      "etag": "X/dhhL89unI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K6pqAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Thomas Vincent Ramos",
+        "subtitle": "The Man and His Writings",
+        "authors": [
+          "Thomas Vincent Ramos",
+          "Adele Ramos"
+        ],
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173014518555"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "categories": [
+          "Belize"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=K6pqAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=K6pqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=K6pqAAAAMAAJ&dq=inauthor:%22Thomas+Vincent+Ramos%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=K6pqAAAAMAAJ&dq=inauthor:%22Thomas+Vincent+Ramos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Thomas_Vincent_Ramos.html?hl=&id=K6pqAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K6pqAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CbZlNwAACAAJ",
+      "etag": "oewpwVloC4Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CbZlNwAACAAJ",
+      "volumeInfo": {
+        "title": "Roles of the [gamma] Chain of the High Affinity Fc Œ Receptor on T-Cell Activation",
+        "authors": [
+          "Thomas Vincent Ramos",
+          "California State Polytechnic University, Pomona. Department of Biological Sciences"
+        ],
+        "publishedDate": "2002",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55025821"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "T cells"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=CbZlNwAACAAJ&dq=inauthor:%22Thomas+Vincent+Ramos%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CbZlNwAACAAJ&dq=inauthor:%22Thomas+Vincent+Ramos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Roles_of_the_gamma_Chain_of_the_High_Aff.html?hl=&id=CbZlNwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CbZlNwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

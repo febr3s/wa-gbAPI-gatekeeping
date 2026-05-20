@@ -1,0 +1,67 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Lucila%20Gamero%20Medina\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Lucila%20Gamero%20Medina\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "osahlwEACAAJ",
+      "etag": "L9As5RI2qjg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/osahlwEACAAJ",
+      "volumeInfo": {
+        "title": "Lucila Gamero de Medina",
+        "subtitle": "una mujer ante el espejo",
+        "authors": [
+          "Juan Ramón Martínez",
+          "Universidad Nacional Autónoma de Honduras"
+        ],
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253125378"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 99,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=osahlwEACAAJ&dq=inauthor:%22Lucila+Gamero+Medina%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=osahlwEACAAJ&dq=inauthor:%22Lucila+Gamero+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lucila_Gamero_de_Medina.html?hl=&id=osahlwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=osahlwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

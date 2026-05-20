@@ -1,0 +1,1382 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Marco%20Aurelio%20Soto\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Marco%20Aurelio%20Soto\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Marco%20Aurelio%20Soto\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Marco%20Aurelio%20Soto\"&maxResults=3&startIndex=20&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 23,
+  "_totalRequestsMade": 2,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "YxGkQwAACAAJ",
+      "etag": "Tlif8zVjJ1Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YxGkQwAACAAJ",
+      "volumeInfo": {
+        "title": "Biografía del Doctor Marco Aurelio Soto",
+        "authors": [
+          "Marco Aurelio Soto",
+          "Rómulo E. Durón"
+        ],
+        "publishedDate": "1946",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432836970"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 215,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YxGkQwAACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YxGkQwAACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Biograf%C3%ADa_del_Doctor_Marco_Aurelio_Soto.html?hl=&id=YxGkQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YxGkQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Be1qAAAAMAAJ",
+      "etag": "VPnkef6zo5I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Be1qAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Carta dirijda [i.e. dirijida] por el doctor Marco A. Soto al señor jeneral presidente don J. Rufino Barrios, y contestación a ella",
+        "authors": [
+          "Marco Aurelio Soto"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018227372"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Be1qAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Be1qAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Be1qAAAAMAAJ&printsec=frontcover&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Be1qAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Be1qAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Be1qAAAAMAAJ&rdid=book-Be1qAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Carta_dirijda_i_e_dirijida_por_el_doctor.epub?id=Be1qAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Carta_dirijda_i_e_dirijida_por_el_doctor.pdf?id=Be1qAAAAMAAJ&hl=&output=pdf&sig=ACfU3U0_bN1fVdFU1_exCMik-GxHhTEUlA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Be1qAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Vczd-ozqeLsC",
+      "etag": "SCj77wJDsYs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Vczd-ozqeLsC",
+      "volumeInfo": {
+        "title": "Desembarcó Cristóbal Colón en tierra firme del continente americano?",
+        "authors": [
+          "Marco Aurelio Soto"
+        ],
+        "publishedDate": "1882",
+        "description": "Editorial comment signed by Ramón Rosa in the Tegucigalpa newspaper, La Paz, inspired by correspondence between President Marco Aurelio Soto of Honduras and José Milla, in which the former questioned the theory that Columbus landed in Honduras or any other part of the American mainland, followed by three letters of J. Carrera, Honduran consul in Madrid, on the same subject.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044014337752"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "categories": [
+          "America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Vczd-ozqeLsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Vczd-ozqeLsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Vczd-ozqeLsC&printsec=frontcover&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Vczd-ozqeLsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Vczd-ozqeLsC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Vczd-ozqeLsC&rdid=book-Vczd-ozqeLsC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Desembarc%C3%B3_Crist%C3%B3bal_Col%C3%B3n_en_tierra.epub?id=Vczd-ozqeLsC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Desembarc%C3%B3_Crist%C3%B3bal_Col%C3%B3n_en_tierra.pdf?id=Vczd-ozqeLsC&hl=&output=pdf&sig=ACfU3U2Bk6EZU8NJC7mA5u0Fo-2zPHs14Q&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Vczd-ozqeLsC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Editorial comment signed by Ramón Rosa in the Tegucigalpa newspaper, La Paz, inspired by correspondence between President Marco Aurelio Soto of Honduras and José Milla, in which the former questioned the theory that Columbus landed in ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "g8Pj4yjy4esC",
+      "etag": "LUj6sYwuYyA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g8Pj4yjy4esC",
+      "volumeInfo": {
+        "title": "Despachos y protocolo relativos al asunto del vice-cónsul británico don Juan Magee",
+        "publishedDate": "1874",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UFL:31262073644311"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "categories": [
+          "Consular jurisdiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=g8Pj4yjy4esC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=g8Pj4yjy4esC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=g8Pj4yjy4esC&printsec=frontcover&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=g8Pj4yjy4esC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=g8Pj4yjy4esC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=g8Pj4yjy4esC&rdid=book-g8Pj4yjy4esC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Despachos_y_protocolo_relativos_al_asunt.epub?id=g8Pj4yjy4esC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g8Pj4yjy4esC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YNjRHwAACAAJ",
+      "etag": "S+7DVIlekn8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YNjRHwAACAAJ",
+      "volumeInfo": {
+        "title": "El doctor don Marco Aurelio Soto y su candidatura",
+        "authors": [
+          "Marco Aurelio Soto"
+        ],
+        "publishedDate": "1902",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:23124102"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 13,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YNjRHwAACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YNjRHwAACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_doctor_don_Marco_Aurelio_Soto_y_su_ca.html?hl=&id=YNjRHwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YNjRHwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7BtRMwEACAAJ",
+      "etag": "4J1/VJM3IHA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7BtRMwEACAAJ",
+      "volumeInfo": {
+        "title": "Contestaciones dadas al mensaje del Sr. presidente, Dr. don Marco Aurelio Soto",
+        "authors": [
+          "Abelardo Zelaya",
+          "Marco Aurelio Soto",
+          "Honduras"
+        ],
+        "publishedDate": "1877",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:794189647"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 14,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7BtRMwEACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7BtRMwEACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Contestaciones_dadas_al_mensaje_del_Sr_p.html?hl=&id=7BtRMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7BtRMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y8JnQwAACAAJ",
+      "etag": "WG3ck1J995E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y8JnQwAACAAJ",
+      "volumeInfo": {
+        "title": "Biografía de... Marco Aurelio Soto... [Varios mensajes de Marco Aurelio Soto.].",
+        "authors": [
+          "Rómulo Ernesto Durón",
+          "Marco Aurelio Soto"
+        ],
+        "publishedDate": "1944",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459645049"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 219,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=y8JnQwAACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=y8JnQwAACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Biograf%C3%ADa_de_Marco_Aurelio_Soto_Varios.html?hl=&id=y8JnQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y8JnQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6NHPGwAACAAJ",
+      "etag": "kiqQHhAmuSg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6NHPGwAACAAJ",
+      "volumeInfo": {
+        "title": "Carta del general Justo Rufino Barrios al doctor Marco Aurelio Soto",
+        "authors": [
+          "Justo Rufino Barrios",
+          "Marco Aurelio Soto"
+        ],
+        "publishedDate": "1883*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:20031591"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 6,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6NHPGwAACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6NHPGwAACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_del_general_Justo_Rufino_Barrios_a.html?hl=&id=6NHPGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6NHPGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9Ay7tgAACAAJ",
+      "etag": "/XxjX2DuT0g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9Ay7tgAACAAJ",
+      "volumeInfo": {
+        "title": "Memoria de los trabajos de la Sociedad Económica de Amigos de Guatemala",
+        "subtitle": "con que dió cuenta á la junta jeneral, celebrada el 16 de enero de 1870, el secretario de gobierno Lic. D. Marco Aurelio Soto",
+        "authors": [
+          "Sociedad Económica de Amigos del País (Guatemala)",
+          "Marco Aurelio Soto"
+        ],
+        "publishedDate": "1870",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12483930"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 31,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9Ay7tgAACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9Ay7tgAACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memoria_de_los_trabajos_de_la_Sociedad_E.html?hl=&id=9Ay7tgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9Ay7tgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NTSF0AEACAAJ",
+      "etag": "TTLBNkubT+c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NTSF0AEACAAJ",
+      "volumeInfo": {
+        "title": "Memoria de los trabajos de la Sociedad Económica de Amigos de Guatemala",
+        "subtitle": "con que dió cuenta á la junta jeneral, celebrada el 16 de enero de 1870, el secretario de gobierno Lic. D. Marco Aurelio Soto",
+        "authors": [
+          "Sociedad Económica de Amigos del País (Guatemala)"
+        ],
+        "publishedDate": "1870",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12483930"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NTSF0AEACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NTSF0AEACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memoria_de_los_trabajos_de_la_Sociedad_E.html?hl=&id=NTSF0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NTSF0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "l96SAQAACAAJ",
+      "etag": "9kaXXJo+wD4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/l96SAQAACAAJ",
+      "volumeInfo": {
+        "title": "Circular",
+        "subtitle": "Señor Jefe político del Departamento de............",
+        "authors": [
+          "Marco Aurelio Soto"
+        ],
+        "publishedDate": "1873",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:963853996"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=l96SAQAACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=l96SAQAACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Circular.html?hl=&id=l96SAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=l96SAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WeH0jwEACAAJ",
+      "etag": "EkWt253FGD0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WeH0jwEACAAJ",
+      "volumeInfo": {
+        "title": "A los hondureños",
+        "publishedDate": "1876",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:936210944"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "categories": [
+          "El Salvador"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WeH0jwEACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WeH0jwEACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_los_hondure%C3%B1os.html?hl=&id=WeH0jwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WeH0jwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SpXkHAAACAAJ",
+      "etag": "sWJoeIPbbTY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SpXkHAAACAAJ",
+      "volumeInfo": {
+        "title": "Circular dirijida por el Ministro de Relaciones Exteriores del gobierno de Guatemala a los gobiernos de las repúblicas del Salvador, Honduras, Nicaragua y Costa-Rica, sobre unión centro-americana",
+        "authors": [
+          "Guatemala. Ministerio de Relaciones Exteriores"
+        ],
+        "publishedDate": "1875",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:30115001"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 4,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SpXkHAAACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SpXkHAAACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Circular_dirijida_por_el_Ministro_de_Rel.html?hl=&id=SpXkHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SpXkHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PqR5MwEACAAJ",
+      "etag": "77wSfohLEoA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PqR5MwEACAAJ",
+      "volumeInfo": {
+        "title": "Considerando",
+        "subtitle": "que en decreto de 12 de setiembre de 1876 el gobierno prometio dar un arreglo al pago de la deuda interior del estado, cuando tuviese por base la reorganización de las rentas nacionales.....",
+        "authors": [
+          "Marco Aurelio Soto"
+        ],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:809853557"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 9,
+        "printType": "BOOK",
+        "categories": [
+          "Debts, Public"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PqR5MwEACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PqR5MwEACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Considerando.html?hl=&id=PqR5MwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PqR5MwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CgIXHQAACAAJ",
+      "etag": "ExKqtSquBn4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CgIXHQAACAAJ",
+      "volumeInfo": {
+        "title": "Textos políticos",
+        "authors": [
+          "Marco Aurelio Soto"
+        ],
+        "publishedDate": "1987",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:90225160"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=CgIXHQAACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CgIXHQAACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Textos_pol%C3%ADticos.html?hl=&id=CgIXHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CgIXHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NZWUtgAACAAJ",
+      "etag": "u2VJimq16tQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NZWUtgAACAAJ",
+      "volumeInfo": {
+        "title": "Proyecto de una institución de Crédito Nacional Hipotecario, presentado á la Comisión de Agricultura de la Sociedad Económica de Guatemala",
+        "authors": [
+          "Marco Aurelio Soto"
+        ],
+        "publishedDate": "1870",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12531223"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "categories": [
+          "Agricultural credit"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NZWUtgAACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NZWUtgAACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Proyecto_de_una_instituci%C3%B3n_de_Cr%C3%A9dito.html?hl=&id=NZWUtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NZWUtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MFrvzwEACAAJ",
+      "etag": "+Ch9do0rMYU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MFrvzwEACAAJ",
+      "volumeInfo": {
+        "title": "Manifiesto leido por el señor presidente provisional de la República de Honduras ...",
+        "subtitle": "ante la Asamblea Nacional Constituyente. 1908",
+        "authors": [
+          "Fernando Somoza Vivas",
+          "Honduras. Dirección General de Estadística y Censos",
+          "Honduras. Dirección General de Instrucción Primaria",
+          "Honduras. President",
+          "José Trinidad Francisco Cabañas",
+          "Marco Aurelio Soto"
+        ],
+        "publishedDate": "1889",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:ca10000793"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Holidays"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=MFrvzwEACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=MFrvzwEACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifiesto_leido_por_el_se%C3%B1or_president.html?hl=&id=MFrvzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MFrvzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Cq6s0QEACAAJ",
+      "etag": "CXuWnMTBO6M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Cq6s0QEACAAJ",
+      "volumeInfo": {
+        "title": "Desembarcó Cristóbal Colón en tierra firme del continente americano?",
+        "authors": [
+          "Marco Aurelio Soto",
+          "José Milla"
+        ],
+        "publishedDate": "2024-04-05",
+        "description": "Reimpresión del original, primera publicación en 1882.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3368044079"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783368044077"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Cq6s0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Cq6s0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Cq6s0QEACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Cq6s0QEACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Desembarc%C3%B3_Crist%C3%B3bal_Col%C3%B3n_en_tierra.html?hl=&id=Cq6s0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Cq6s0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Reimpresión del original, primera publicación en 1882."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UYFhMwEACAAJ",
+      "etag": "GCv/elpaTyA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UYFhMwEACAAJ",
+      "volumeInfo": {
+        "title": "Considerando",
+        "subtitle": "que los intereses del comercio i de la hacienda pública indican la conveniencia de modificar la ley orgánica de 1.° de diciembre de 1876, en la parte que se refiere a la venta por mayor i menor de licores fuertes estranjeros...",
+        "authors": [
+          "Marco Aurelio Soto",
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:809853555"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Liquor industry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=UYFhMwEACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=UYFhMwEACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Considerando.html?hl=&id=UYFhMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UYFhMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ah_HngEACAAJ",
+      "etag": "dYOw4sWSq+4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ah_HngEACAAJ",
+      "volumeInfo": {
+        "title": "Considerando",
+        "subtitle": "que todos los pueblos de la república, por medio de sus municipios, han presentado al gobierno actas en que piden la abolición del diezmo...",
+        "authors": [
+          "Marco Aurelio Soto",
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1879",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:854900692"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Taxation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ah_HngEACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ah_HngEACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Considerando.html?hl=&id=ah_HngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ah_HngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ON62YgEACAAJ",
+      "etag": "Z66hLmCx4vQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ON62YgEACAAJ",
+      "volumeInfo": {
+        "title": "Poesías",
+        "authors": [
+          "José Joaquín Palma",
+          "Marco Aurelio Soto"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651231719"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 257,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ON62YgEACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ON62YgEACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas.html?hl=&id=ON62YgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ON62YgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L-mX0AEACAAJ",
+      "etag": "F2VWMITolP0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L-mX0AEACAAJ",
+      "volumeInfo": {
+        "title": "A los habitantes de la Ciudad De Santa Rosa (Departamento de Copan)",
+        "authors": [
+          "Marco Aurelio Soto"
+        ],
+        "publishedDate": "1877",
+        "description": "An address to the people of the city of Santa Rosa de Cópan addressing the earthquake which they had recently suffered. He urges them to overcome the suffering of the event and pledges legislative support to help.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1420077825"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=L-mX0AEACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=L-mX0AEACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_los_habitantes_de_la_Ciudad_De_Santa_R.html?hl=&id=L-mX0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L-mX0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An address to the people of the city of Santa Rosa de Cópan addressing the earthquake which they had recently suffered. He urges them to overcome the suffering of the event and pledges legislative support to help."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WaSI0AEACAAJ",
+      "etag": "J1i/k8Dlu4k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WaSI0AEACAAJ",
+      "volumeInfo": {
+        "title": "Address Before the Chamber of Commerce, and Board of Trade, of San Francisco ... June 22d, 1883",
+        "authors": [
+          "Marco Aurelio Soto"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:27649332"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=WaSI0AEACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WaSI0AEACAAJ&dq=inauthor:%22Marco+Aurelio+Soto%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Address_Before_the_Chamber_of_Commerce_a.html?hl=&id=WaSI0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WaSI0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

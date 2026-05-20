@@ -1,0 +1,4156 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20de%20Aguilar\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20de%20Aguilar\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20de%20Aguilar\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20de%20Aguilar\"&maxResults=20&startIndex=40&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20de%20Aguilar\"&maxResults=20&startIndex=60&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20de%20Aguilar\"&maxResults=11&startIndex=60&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 71,
+  "_totalRequestsMade": 4,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "amwacgAACAAJ",
+      "etag": "4kyTILkYy1c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/amwacgAACAAJ",
+      "volumeInfo": {
+        "title": "Vocabulario de las dos lenguas Toscana y Castellana",
+        "subtitle": "con una introducion para leer, y pronunciar bien entrambas lenguas",
+        "authors": [
+          "Christoval de Las Casas",
+          "Alonso Escrivano"
+        ],
+        "publishedDate": "1570",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:644107583"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=amwacgAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=amwacgAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vocabulario_de_las_dos_lenguas_Toscana_y.html?hl=&id=amwacgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=amwacgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_7G0Zf0jLLcC",
+      "etag": "XFI8lmdnfFY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_7G0Zf0jLLcC",
+      "volumeInfo": {
+        "title": "Memoria leida en la solemne apertura del curso académico de..., del Instituto-Colegio de Segunda Enseñanza de la Purísima Concepción de la ciudad de Cabra ...",
+        "authors": [
+          "Instituto de Segunda Enseñanza de Cabra (Córdoba)"
+        ],
+        "publishedDate": "1863",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCM:5328075525"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_7G0Zf0jLLcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_7G0Zf0jLLcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_7G0Zf0jLLcC&printsec=frontcover&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_7G0Zf0jLLcC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_7G0Zf0jLLcC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=_7G0Zf0jLLcC&rdid=book-_7G0Zf0jLLcC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Memoria_leida_en_la_solemne_apertura_del.epub?id=_7G0Zf0jLLcC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_7G0Zf0jLLcC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dtRVAAAAMAAJ",
+      "etag": "8IYj0yynB/g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dtRVAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Relación breve de la conquista de la Nueva España",
+        "authors": [
+          "Francisco de Aguilar"
+        ],
+        "publishedDate": "1977",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018147648"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 236,
+        "printType": "BOOK",
+        "categories": [
+          "Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dtRVAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dtRVAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=dtRVAAAAMAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dtRVAAAAMAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Relaci%C3%B3n_breve_de_la_conquista_de_la_Nu.html?hl=&id=dtRVAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dtRVAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KVNlAAAAMAAJ",
+      "etag": "rrCO8Bn2Bd0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KVNlAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Historia de la Nueva España",
+        "authors": [
+          "Francisco de Aguilar"
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173022873734"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "categories": [
+          "Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KVNlAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KVNlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=KVNlAAAAMAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KVNlAAAAMAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_de_la_Nueva_Espa%C3%B1a.html?hl=&id=KVNlAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KVNlAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bnIhEAAAQBAJ",
+      "etag": "C3WukdWZahg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bnIhEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Vade Mecum Policial",
+        "subtitle": "Legislação selecionada para carreiras policiais",
+        "authors": [
+          "Bernardo Gonçalves Fernandes",
+          "Christiano Leonardo Gonzaga Gomes",
+          "Cristiano Campidelli",
+          "Daniel Buchmuller",
+          "Elisa Moreira Caetano Ribeiro de Lima",
+          "Flávia Campos Pereira Grandi",
+          "Francisco de Aguilar Menezes",
+          "João Paulo Ladeira",
+          "Murillo Ribeiro de Lima",
+          "Rodrigo Bello"
+        ],
+        "publisher": "Editora Foco",
+        "publishedDate": "2021-03-04",
+        "description": "\"Seja muito bem-vindo à 9a Edição do VADE MECUM POLICIAL! Após o sucesso das quatro primeiras edições, que se esgotaram, apresentamos esta, ainda mais completa e focada nos concursos policiais. Como professor de cursos preparatórios para concursos públicos desde o ano de 2002, percebemos claramente a cobrança cada vez mais específica e relacionada ao cargo pretendido. É a chamada pertinência temática. Neste sentido, inicia-se a busca pela melhor preparação possível, devendo o candidato frequentar cursos, ler doutrina e jurisprudência direcionadas e, claro, ter acesso à vasta legislação exigida pelos editais. É o que naturalmente ocorre também no âmbito das carreiras policiais, a exemplo de Delegado de Polícia, Agente, Investigador, Escrivão, Papiloscopista, Perito Criminal, Policial Rodoviário Federal, Oficial ou Soldado das Polícias Militares. A preparação para tais concursos envolve o acesso a legislação específica, confecção de peças de polícia judiciária, testes de aptidão física, exames médicos rigorosos, investigação social, aprovação em cursos de formação promovidos por academias de polícia entre outros desafios. Com o objetivo de atender aos seus anseios em busca do objetivo final, as principais leis exigidas nos concursos policiais foram reunidas e sistematizadas por uma experiente equipe de professores. Elaboramos uma criteriosa remissão de artigos e súmulas a fim de facilitar os estudos de nosso futuro colega policial: você! Foi desta forma que criamos o produto que agora tem em suas mãos e que certamente colaborará não apenas em sua jornada como candidato, mas também no exercício da nobre profissão de policial. Aos estudos!\" Bruno Zampier",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786555152067"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6555152060"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 3361,
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bnIhEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bnIhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=bnIhEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=bnIhEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bnIhEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 114900,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 114900,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=bnIhEAAAQBAJ&rdid=book-bnIhEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 114900000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 114900000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Vade_Mecum_Policial-sample-epub.acsm?id=bnIhEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Vade_Mecum_Policial-sample-pdf.acsm?id=bnIhEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bnIhEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Seja muito bem-vindo à 9a Edição do VADE MECUM POLICIAL!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nW_xDwAAQBAJ",
+      "etag": "9liG9Hd7grg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nW_xDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Vademecum POLICIAL",
+        "subtitle": "Legislação selecionada para carreiras policiais",
+        "authors": [
+          "Bernardo Gonçalves Fernandes",
+          "Bruno Torquato Zampier Lacerda",
+          "Christiano Leonardo Gonzaga Gomes",
+          "Cristiano Campidelli",
+          "Daniel Buchmuller",
+          "Elisa Moreira Caetano Ribeiro de Lima",
+          "Flávia Campos Pereira Grandi",
+          "Francisco de Aguilar Menezes",
+          "João Paulo Ladeira",
+          "Murillo Ribeiro de Lima",
+          "Rodrigo Bello"
+        ],
+        "publisher": "Editora Foco",
+        "publishedDate": "2020-07-31",
+        "description": "\"Seja muito bem-vindo à 8a Edição do VADE MECUM POLICIAL! Após o sucesso das sete primeiras edições, que se esgotaram, apresentamos esta, ainda mais completa e focada nos concursos policiais. Como professor de cursos preparatórios para concursos públicos desde o ano de 2002, percebemos claramente a cobrança cada vez mais específica e relacionada ao cargo pretendido. É a chamada pertinência temática. Neste sentido, inicia-se a busca pela melhor preparação possível, devendo o candidato frequentar cursos, ler doutrina e jurisprudência direcionadas e, claro, ter acesso à vasta legislação exigida pelos editais. É o que naturalmente ocorre também no âmbito das carreiras policiais, a exemplo de Delegado de Polícia, Agente, Investigador, Escrivão, Papiloscopista, Perito Criminal, Policial Rodoviário Federal, Oficial ou Soldado das Polícias Militares. A preparação para tais concursos envolve o acesso a legislação específica, confecção de peças de polícia judiciária, testes de aptidão física, exames médicos rigorosos, investigação social, aprovação em cursos de formação promovidos por academias de polícia entre outros desafios. Com o objetivo de atender aos seus anseios em busca do objetivo final, as principais leis exigidas nos concursos policiais foram reunidas e sistematizadas por uma experiente equipe de professores. Elaboramos uma criteriosa remissão de artigos e súmulas a fim de facilitar os estudos de nosso futuro colega policial: você! Foi desta forma que criamos o produto que agora tem em suas mãos e que certamente colaborará não apenas em sua jornada como candidato, mas também no exercício da nobre profissão de policial. Por fim, ressaltamos duas grandes novidades aos nossos leitores: 1) os SHORT VIDEOS, que são vídeos de curta duração com dicas de TEMAS SELECIONADOS e 2) ATUALIZAÇÃO em PDF e VÍDEO do conteúdo da obra até dezembro de 2020. Aos estudos! Bruno Zampier\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786555151145"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6555151145"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 5971,
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nW_xDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nW_xDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=nW_xDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nW_xDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nW_xDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 112900,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 112900,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=nW_xDwAAQBAJ&rdid=book-nW_xDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 112900000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 112900000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Vademecum_POLICIAL-sample-epub.acsm?id=nW_xDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Vademecum_POLICIAL-sample-pdf.acsm?id=nW_xDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nW_xDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Aos estudos! Bruno Zampier&quot;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BHANAQAAIAAJ",
+      "etag": "MPrPRk4+prQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BHANAQAAIAAJ",
+      "volumeInfo": {
+        "title": "O marquez de Pombal",
+        "subtitle": "cem annos depois da sua morte. Consideraçoes a respeito do seu primeiro centenario",
+        "authors": [
+          "Francisco de Azeredo Teixeira de Aguilar Samodães (Conde de)"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B547542"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 358,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BHANAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BHANAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=BHANAQAAIAAJ&printsec=frontcover&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=BHANAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BHANAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=BHANAQAAIAAJ&rdid=book-BHANAQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/O_marquez_de_Pombal.epub?id=BHANAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/O_marquez_de_Pombal.pdf?id=BHANAQAAIAAJ&hl=&output=pdf&sig=ACfU3U1qLOO3GM6LmcqT6TnBfz1zHHhHLw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BHANAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1zI7AQAAMAAJ",
+      "etag": "c+nhPnx+lr0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1zI7AQAAMAAJ",
+      "volumeInfo": {
+        "title": "A questão da Real Companhia Vinicola do Norte de Portugal",
+        "subtitle": "conflicto entre o governo e a companhia : exposição aos accionistas",
+        "authors": [
+          "Francisco de Azeredo Teixeira de Aguilar Samodães (Conde de)"
+        ],
+        "publishedDate": "1889",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCD:31175035131237"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 70,
+        "printType": "BOOK",
+        "categories": [
+          "Wine industry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.11.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1zI7AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1zI7AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=1zI7AQAAMAAJ&printsec=frontcover&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1zI7AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1zI7AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=1zI7AQAAMAAJ&rdid=book-1zI7AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/A_quest%C3%A3o_da_Real_Companhia_Vinicola_do.epub?id=1zI7AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1zI7AQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YgylPH2UzlsC",
+      "etag": "upQ1k6Ut4QM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YgylPH2UzlsC",
+      "volumeInfo": {
+        "title": "A liberdade da egreja em Portugal",
+        "subtitle": "escriptos avulsos a propósito dos exames synodães",
+        "authors": [
+          "Francisco de Azeredo Teixeira de Aguilar Samodães (Conde de)"
+        ],
+        "publishedDate": "1880",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000118946650"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Church and state"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YgylPH2UzlsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YgylPH2UzlsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=YgylPH2UzlsC&printsec=frontcover&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YgylPH2UzlsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YgylPH2UzlsC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=YgylPH2UzlsC&rdid=book-YgylPH2UzlsC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/A_liberdade_da_egreja_em_Portugal.epub?id=YgylPH2UzlsC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YgylPH2UzlsC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eyqyKF6NE6wC",
+      "etag": "m6hLmU/KPWk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eyqyKF6NE6wC",
+      "volumeInfo": {
+        "title": "Apontamentos biographicos de Francisco de Paula d'Azeredo, conde de Samodães",
+        "authors": [
+          "Francisco de Azeredo Teixeira de Aguilar Samodães (Conde de)"
+        ],
+        "publishedDate": "1866",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015058556831"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 296,
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eyqyKF6NE6wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eyqyKF6NE6wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=eyqyKF6NE6wC&printsec=frontcover&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=eyqyKF6NE6wC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=eyqyKF6NE6wC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=eyqyKF6NE6wC&rdid=book-eyqyKF6NE6wC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Apontamentos_biographicos_de_Francisco_d.epub?id=eyqyKF6NE6wC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Apontamentos_biographicos_de_Francisco_d.pdf?id=eyqyKF6NE6wC&hl=&output=pdf&sig=ACfU3U1mU0EQobmxzmSU7YZaoTykgNQmJA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eyqyKF6NE6wC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zD87AQAAMAAJ",
+      "etag": "63PiJexIpSw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zD87AQAAMAAJ",
+      "volumeInfo": {
+        "title": "Instrucções regulamentares para a revenda de vinhos, aguas-ardentes e vinagres da Real Companhia Vinicola do Norte de Portugal",
+        "authors": [
+          "Francisco de Azeredo Teixeira de Aguilar Samodães (Conde de)"
+        ],
+        "publishedDate": "1894",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCD:31175035130254"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "categories": [
+          "Wine industry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zD87AQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zD87AQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=zD87AQAAMAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zD87AQAAMAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Instruc%C3%A7%C3%B5es_regulamentares_para_a_reve.html?hl=&id=zD87AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zD87AQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-ispxQEACAAJ",
+      "etag": "+XixMNvzsOo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-ispxQEACAAJ",
+      "volumeInfo": {
+        "title": "Sermon de Santa Isabel Reyna de Ungria, predicado en la Congregacion General que celebrò en la imperial ciudad de Toledo, la dilatada, y esclarecida Familia del Grande Patriarcha San Francisco Año de 1673",
+        "authors": [
+          "Francisco de Aguilar"
+        ],
+        "publishedDate": "1674",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1097803547"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-ispxQEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-ispxQEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sermon_de_Santa_Isabel_Reyna_de_Ungria_p.html?hl=&id=-ispxQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-ispxQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "li8mxQEACAAJ",
+      "etag": "yjXSlESYqIw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/li8mxQEACAAJ",
+      "volumeInfo": {
+        "title": "Relación breve de la conquista de la Nueva España",
+        "authors": [
+          "Francisco de Aguilar (fray)"
+        ],
+        "publishedDate": "1980",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1097846573"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=li8mxQEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=li8mxQEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Relaci%C3%B3n_breve_de_la_conquista_de_la_Nu.html?hl=&id=li8mxQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=li8mxQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MDeGHAAACAAJ",
+      "etag": "TVMENFiHnok",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MDeGHAAACAAJ",
+      "volumeInfo": {
+        "title": "Accion de gracias del Convento de N.P.S. Augustin de la ciudad de Nra. Señora de la Concepcion de Zelaya, a Dios Nro",
+        "subtitle": "Señor Sacramentado por la victoria que en Villaviciosa consiguiò nuestro ynclito monarca, y señor D. Philippo V. rey de España, y emperador de la Indias. A cuya suprema, soberana, augusta, real, y catholica magestad la dedica, y con animo reverente consagra D. Lvcas de Agvilar, y Artiaga ... à cuyas expensas saliò à luz, y se diô à la estampa",
+        "authors": [
+          "bp. Francisco de Izguirre",
+          "Lucas de Aguilar y Artiaga"
+        ],
+        "publishedDate": "1712",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:44174080"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=MDeGHAAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=MDeGHAAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Accion_de_gracias_del_Convento_de_N_P_S.html?hl=&id=MDeGHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MDeGHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Te77oQEACAAJ",
+      "etag": "GZAmDG8m0BQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Te77oQEACAAJ",
+      "volumeInfo": {
+        "title": "Vocabvlario de las dos lengvas toscana y castellana",
+        "authors": [
+          "Cristóbal de las Casas",
+          "Francisco Aguilar",
+          "Alonso Escribano",
+          "Convent de Santa Caterina (Barcelona, Catalunya)"
+        ],
+        "publishedDate": "1570",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:892132062"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 536,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Te77oQEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Te77oQEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vocabvlario_de_las_dos_lengvas_toscana_y.html?hl=&id=Te77oQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Te77oQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ndg4uAAACAAJ",
+      "etag": "M4QyvbLd89M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ndg4uAAACAAJ",
+      "volumeInfo": {
+        "title": "Historia de la Nueva España",
+        "authors": [
+          "Francisco de Aguilar"
+        ],
+        "publishedDate": "1903",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:248912032"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 25,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ndg4uAAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ndg4uAAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_de_la_Nueva_Espa%C3%B1a.html?hl=&id=ndg4uAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ndg4uAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "McGyMwEACAAJ",
+      "etag": "VYBbSn16+lE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/McGyMwEACAAJ",
+      "volumeInfo": {
+        "title": "Hieroglyphica, siue Symbola mariana",
+        "subtitle": "quibus Matris Dei mysteria laudantur, cum novenario de Mysterio Conceptionis, viginti quinque orationibus exarata ...",
+        "authors": [
+          "Francisco de Aguilar (O.F.M.)"
+        ],
+        "publishedDate": "1724",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:810111076"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=McGyMwEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=McGyMwEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hieroglyphica_siue_Symbola_mariana.html?hl=&id=McGyMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=McGyMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R4TxwAEACAAJ",
+      "etag": "MVupHtzQrw8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R4TxwAEACAAJ",
+      "volumeInfo": {
+        "title": "Relato breve de la conquista de la Nueva España",
+        "authors": [
+          "Francisco de Aguilar"
+        ],
+        "publishedDate": "1943",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1025813950"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 73,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=R4TxwAEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=R4TxwAEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Relato_breve_de_la_conquista_de_la_Nueva.html?hl=&id=R4TxwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R4TxwAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QIcU0AEACAAJ",
+      "etag": "zZUXc2kJZdU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QIcU0AEACAAJ",
+      "volumeInfo": {
+        "title": "Cursus philosophicus dictatus Limae a P. Iosepho de Aguilar... ; tomus secundus...",
+        "authors": [
+          "José de (S.I.) Aguilar"
+        ],
+        "publishedDate": "1701",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1388651106"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=QIcU0AEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=QIcU0AEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cursus_philosophicus_dictatus_Limae_a_P.html?hl=&id=QIcU0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QIcU0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QRv4jgEACAAJ",
+      "etag": "SW1KcAkqZ3Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QRv4jgEACAAJ",
+      "volumeInfo": {
+        "title": "Por doña Catalina Fernandez de Argote y Aguayo. Contra don Iuan Fernandez de Argote y Aguayo, y don Fernando Ioseph de los Rios. Sobre la tenuta de cinco Mayorazgos, que fundaron doña Ines de Aguilar, Alonso de Argote, doña Francisca de Aguayo, y don Diego de Argote y Aguayo ..",
+        "publishedDate": "1612",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:928654778"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=QRv4jgEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=QRv4jgEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Por_do%C3%B1a_Catalina_Fernandez_de_Argote_y.html?hl=&id=QRv4jgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QRv4jgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0pfDjwEACAAJ",
+      "etag": "JHs3Aa9qi3w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0pfDjwEACAAJ",
+      "volumeInfo": {
+        "title": "בין העמודים",
+        "subtitle": "ספר-עזר ומוניטור מצויר ללימוד הבניה החפשית",
+        "publishedDate": "1964",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:233058716"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Freemasonry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0pfDjwEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0pfDjwEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D7%91%D7%99%D7%9F_%D7%94%D7%A2%D7%9E%D7%95%D7%93%D7%99%D7%9D.html?hl=&id=0pfDjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0pfDjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BW8U0AEACAAJ",
+      "etag": "qnwbM42XU9Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BW8U0AEACAAJ",
+      "volumeInfo": {
+        "title": "Cursus philosophicus dictatus Limae a P. Iosepho de Aguilar... ; tomus tertius...",
+        "authors": [
+          "José de (S.I.) Aguilar"
+        ],
+        "publishedDate": "1701",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1388650472"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BW8U0AEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BW8U0AEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cursus_philosophicus_dictatus_Limae_a_P.html?hl=&id=BW8U0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BW8U0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JeHejgEACAAJ",
+      "etag": "oJvlOzLhQZg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JeHejgEACAAJ",
+      "volumeInfo": {
+        "title": "Tractado quarto el qual contiene vn breue summario y epilogo en que se declara que cosa sea Indulgencia y el modo de ganarla perfectamente",
+        "publishedDate": "1584",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:928256060"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JeHejgEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JeHejgEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tractado_quarto_el_qual_contiene_vn_breu.html?hl=&id=JeHejgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JeHejgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VpOZzwEACAAJ",
+      "etag": "E01dcXpMeak",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VpOZzwEACAAJ",
+      "volumeInfo": {
+        "title": "Relacion Breve de la Conquista de la Nueva Espana",
+        "authors": [
+          "Francisco de Aguilar"
+        ],
+        "publishedDate": "1977",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1355270937"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=VpOZzwEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VpOZzwEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Relacion_Breve_de_la_Conquista_de_la_Nue.html?hl=&id=VpOZzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VpOZzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JNmC0AEACAAJ",
+      "etag": "i7PmYAuNIUw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JNmC0AEACAAJ",
+      "volumeInfo": {
+        "title": "Accion de gracias del Convento de N.P.S. Augustin de la ciudad de Nra. Señora de la Concepcion de Zelaya, a Dios Nro. señor sacramentado por la victoria que en Villaviciosa consiguiò nuestro ynclito monarca, y señor D. Philippo V. rey de España, y emperador de la Indias",
+        "subtitle": "A cuya suprema, soberana, augusta, real, y catholica magestad la dedica, y con animo reverente consagra D. Lucas de Aguilar, y Artiaga, regidor, y depositario general del cavildo, y regimiento de la dicha ciudad, à cuyas expensas saliò à luz, y se diô à la estampa",
+        "authors": [
+          "Francisco de Izaguirre"
+        ],
+        "publishedDate": "1712",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1238118982"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Spanish Succession, War of, 1701-1714"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JNmC0AEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JNmC0AEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Accion_de_gracias_del_Convento_de_N_P_S.html?hl=&id=JNmC0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JNmC0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3PGZAQAACAAJ",
+      "etag": "qW+A4JGDXFU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3PGZAQAACAAJ",
+      "volumeInfo": {
+        "title": "Sermón de Santa Isabel Reyna de Vngría, predicado en la congregación general, que celebró en la imperial ciudad de Toledo, la dila, rada, y esclarecida familia del grande patriarcha San Francisco año de 1673",
+        "authors": [
+          "Francisco de Aguilar"
+        ],
+        "publishedDate": "1674",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:970523435"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3PGZAQAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3PGZAQAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Serm%C3%B3n_de_Santa_Isabel_Reyna_de_Vngr%C3%ADa.html?hl=&id=3PGZAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3PGZAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SQSGXwAACAAJ",
+      "etag": "jFCQjRhdUDw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SQSGXwAACAAJ",
+      "volumeInfo": {
+        "title": "Libro de indulgencias y gracias concedidas por nuestro muy Sancto Padre Gregorio XIII y por otros muchos Summos Pontifices, a los coffadres [sic] de la Correa del glorioso Padre ... Sanct Augustin",
+        "authors": [
+          "Francisco de Aguilar",
+          "Iglesia Católica . Papa (1572-1585: Gregorio XIII)"
+        ],
+        "publishedDate": "1584",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:715997517"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SQSGXwAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SQSGXwAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Libro_de_indulgencias_y_gracias_concedid.html?hl=&id=SQSGXwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SQSGXwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "maJyMwEACAAJ",
+      "etag": "QSOdiXJQ1Oo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/maJyMwEACAAJ",
+      "volumeInfo": {
+        "title": "Relación breve de la conquista de la Nueva España",
+        "authors": [
+          "Francisco de Aguilar (Fray).)"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:806993868"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 115,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=maJyMwEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=maJyMwEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Relaci%C3%B3n_breve_de_la_conquista_de_la_Nu.html?hl=&id=maJyMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=maJyMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hq6bGwAACAAJ",
+      "etag": "tfiSWmEQdEU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hq6bGwAACAAJ",
+      "volumeInfo": {
+        "title": "Sermones en lengua Pokonchi",
+        "authors": [
+          "Francisco de Aguilar",
+          "William Gates"
+        ],
+        "publishedDate": "1914*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:80165583"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 370,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hq6bGwAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hq6bGwAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sermones_en_lengua_Pokonchi.html?hl=&id=hq6bGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hq6bGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9iEZogEACAAJ",
+      "etag": "206IVPvUF2Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9iEZogEACAAJ",
+      "volumeInfo": {
+        "title": "Coronica general de la orden de los minimos de S. Francisco de Pavla sv fvndador",
+        "subtitle": "donde trata de sv vida y milagros, origen de la religion, erection de prouincias y varones insignes della",
+        "authors": [
+          "Lucas de Montoya (OMinim.)",
+          "Juan Francisco Cusseneri",
+          "Luis Tribaldos de Toledo",
+          "Francisco López de Aguilar",
+          "Iacobus Bonaventura Hepburnus",
+          "Francesc (de Paula, sant)",
+          "GuzmánBernardino de"
+        ],
+        "publishedDate": "1619",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:892327435"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 895,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9iEZogEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9iEZogEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Coronica_general_de_la_orden_de_los_mini.html?hl=&id=9iEZogEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9iEZogEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aH_SuQEACAAJ",
+      "etag": "5J9p0p1kehE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aH_SuQEACAAJ",
+      "volumeInfo": {
+        "title": "Sermon que predico a la Magestad del Rey don Felipe Tercero nuestro Señor el Doctor Francisco de Aguilar de Terrones su Predicador, en las honras que su Magestad hizo al catolico Rey don Felipe Segundo su padre ... en san Hieronimo de Madrid, a 19 del mes de Octubre de 1598 años",
+        "authors": [
+          "Francisco Terrones Aguilar del Caño",
+          "Jerónimo Barrionuevo de Peralta"
+        ],
+        "publishedDate": "1599",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1043003612"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=aH_SuQEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=aH_SuQEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sermon_que_predico_a_la_Magestad_del_Rey.html?hl=&id=aH_SuQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aH_SuQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HTxBngAACAAJ",
+      "etag": "oekH1o6REmo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HTxBngAACAAJ",
+      "volumeInfo": {
+        "title": "Tizón de España",
+        "subtitle": "discurso de algunos linajes de Castilla, Aragón, Portugal y Navarra, sacados de la relación que el Cardenal Arzobispo de Burgos, Don Francisco de Mendoza y Bobadilla, dió a la Magestad de Felipe II.",
+        "authors": [
+          "Francisco Mendoza y Bobadilla"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:956267969"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HTxBngAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HTxBngAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tiz%C3%B3n_de_Espa%C3%B1a.html?hl=&id=HTxBngAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HTxBngAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "k4xRwAEACAAJ",
+      "etag": "8wKBaT20GeA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/k4xRwAEACAAJ",
+      "volumeInfo": {
+        "title": "Descripción y mapa de Los Molares (Sevilla) y sus alrededores",
+        "authors": [
+          "Francisco de Aguilar"
+        ],
+        "publishedDate": "1788",
+        "description": "Informe sobre Los Molares de Francisco de Aguilar, fechado en Los Molares el 25 de agosto de 1788 (h. 246r-251v), en respuesta a la solicitud de Tomás López Acompaña un mapa de los Molares, autógrafo de Tomás López (h. 253v).",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1077563175"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=k4xRwAEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=k4xRwAEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Descripci%C3%B3n_y_mapa_de_Los_Molares_Sevil.html?hl=&id=k4xRwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=k4xRwAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Informe sobre Los Molares de Francisco de Aguilar, fechado en esta villa el 25 de agosto de 1788 (h. 246r-251v), en respuesta a la solicitud de Tomás López Acompaña un mapa de los Molares, autógrafo de Tomás López, en papel ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R0cEvwEACAAJ",
+      "etag": "OIL6L6j4fI8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R0cEvwEACAAJ",
+      "volumeInfo": {
+        "title": "Hieroglyphica, sive symbola Mariana",
+        "authors": [
+          "Francisco de Aguilar"
+        ],
+        "publishedDate": "1724",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1073947734"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=R0cEvwEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=R0cEvwEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hieroglyphica_sive_symbola_Mariana.html?hl=&id=R0cEvwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R0cEvwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ag6WjwEACAAJ",
+      "etag": "Kv4AX2oFybk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ag6WjwEACAAJ",
+      "volumeInfo": {
+        "title": "Romances",
+        "publishedDate": "1610",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:933893331"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ag6WjwEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ag6WjwEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Romances.html?hl=&id=ag6WjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ag6WjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L2JtzgEACAAJ",
+      "etag": "0Fj4qUVplhg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L2JtzgEACAAJ",
+      "volumeInfo": {
+        "title": "A Collection of Documents Related to Jacques Cartier. And the Sieur de Roberval",
+        "authors": [
+          "Henry Percival Biggar",
+          "Philip II (King of Spain)",
+          "Francis I (King of France)",
+          "fl. Anonymous European Male",
+          "John Wallop",
+          "Bartholomew Warner (fl. 1540)",
+          "John III (King of Portugal)",
+          "Francois Bonvallot (fl. 1540)",
+          "Juan Tavera",
+          "Luis Sarmiento (fl. 1540)",
+          "Francisco de los Cobos (fl. 1540)",
+          "Christoval de Haro (fl. 1540)",
+          "fl. 1540 Anonymous Bishop",
+          "G. Eberard (fl. 1540)",
+          "G. Payen (fl. 1541)",
+          "Juan de Castro (fl. 1541)",
+          "D. Colin (fl. 1541)",
+          "Marquis de Aguilar (fl. 1541)",
+          "Francisco de Valencuela (fl. 1541)",
+          "R. Le Gracieux (fl. 1541)",
+          "Jean Francois De La Rocque",
+          "Juan de Granada (fl. 1541)",
+          "Joannes Morone (fl. 1541)",
+          "fl. 1541 Anonymous Cardinal",
+          "Pedro de Santiago (fl. 1541)",
+          "fl. 1541 Anonymous Spanish Ambassador",
+          "Gregorio de Franquera (fl. 1541)",
+          "William Paget (fl. 1542)",
+          "Antonio de Ubilla (fl. 1542)",
+          "Charles V (Holy Roman Emperor)"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1126460376"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 577,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=L2JtzgEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=L2JtzgEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Collection_of_Documents_Related_to_Jac.html?hl=&id=L2JtzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L2JtzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eLKl0QEACAAJ",
+      "etag": "A5LBjT3N0Io",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eLKl0QEACAAJ",
+      "volumeInfo": {
+        "title": "Historia de la Nueva España",
+        "authors": [
+          "Francisco de Aguilar (16e siècle)"
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:422251483"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=eLKl0QEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eLKl0QEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_de_la_Nueva_Espa%C3%B1a.html?hl=&id=eLKl0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eLKl0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PEr5ygEACAAJ",
+      "etag": "HD/+Tnj1GLc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PEr5ygEACAAJ",
+      "volumeInfo": {
+        "title": "Memorial ajustado del pleyto que en este S.S.R.C. de Aragon está pendiente ... entre partes ... D. Pasqual Francisco de Borja, Duque de Gandia ... D. Otger Catala Carros y Centellas Casa 49. cuyo derecho ha salido coadjubando D. Joseph Català Carròs y Centellas, si hijo, Casa 55. Don Alonso Sanz Tolsa, Casa 52. que cediò su derecho en el Ilustre Duque de Gandia. D. Antonio Juan de Centellas, Marques de Centellas, Casa 54. que por su muerte conntinùa [i.e. continùa] D. Joseph Juan de Centellas su hijo, Marques de Centellas, Casa 58. D. Antonio Fernando Coloma, Conde de Aná. Casa 60. Sobre la immission en possession del Estado, y Marquesado de Nulles, y todos los bienes comprehendidos en el Mayorazgo ... y Marquesado de Quirra ... que vacaron por fin, y muerte de D. Ioachin Carròs y Centellas, vltimo posseedor de ambos Marquesados ...",
+        "authors": [
+          "Pascual Francisco de Borja y Ponce de León Gandía (Duque de)"
+        ],
+        "publishedDate": "1690",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1121537112"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PEr5ygEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PEr5ygEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorial_ajustado_del_pleyto_que_en_este.html?hl=&id=PEr5ygEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PEr5ygEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GYUxmgEACAAJ",
+      "etag": "rrT+U80+Npk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GYUxmgEACAAJ",
+      "volumeInfo": {
+        "title": "Orbis eucharisticus. Ubi materialis mundi creatio, figuraeque antiqui testamenti ad eucharistiae sacramentum adaptantur aliaque argumenta usque ad viginti quinque orationes de hoc mysterio inter quas duplex octavarium ordinatum invenitur, ... Per R. adm. P. F. Franciscum de Aguilar, ...",
+        "authors": [
+          "Francisco de Aguilar"
+        ],
+        "publishedDate": "1725",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:494661600"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 396,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "la",
+        "previewLink": "http://books.google.com.co/books?id=GYUxmgEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GYUxmgEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Orbis_eucharisticus_Ubi_materialis_mundi.html?hl=&id=GYUxmgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GYUxmgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9zN8QwAACAAJ",
+      "etag": "M8YNuXf8xHY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9zN8QwAACAAJ",
+      "volumeInfo": {
+        "title": "Hieroglyphica, sive Symbola Mariana quibus Matris Dei mysteria laudantur, cum novenario de mysterio Conceptionis, viginti quinque orationibus exarata et psalterio decem chordarum superaddito... per R. adm. P. F. Franciscum de Aguilar,...",
+        "authors": [
+          "Le P. Francisco de Aguilar"
+        ],
+        "publishedDate": "1724",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:457335060"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "la",
+        "previewLink": "http://books.google.com.co/books?id=9zN8QwAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9zN8QwAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hieroglyphica_sive_Symbola_Mariana_quibu.html?hl=&id=9zN8QwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9zN8QwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "upTPSAAACAAJ",
+      "etag": "xskHXsV9tHc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/upTPSAAACAAJ",
+      "volumeInfo": {
+        "title": "Orbis eucharisticus",
+        "subtitle": "ubi materialis mundi creatio, figuraeque Antiqui Testamenti ad eucharistiae sacramentum adaptantur, aliaque argumenta usque ad viginti quinque orations de hoc mysterio",
+        "authors": [
+          "Francisco de Aguilar"
+        ],
+        "publishedDate": "1725",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:433199619"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 396,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "la",
+        "previewLink": "http://books.google.com.co/books?id=upTPSAAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=upTPSAAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Orbis_eucharisticus.html?hl=&id=upTPSAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=upTPSAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "REI3jwEACAAJ",
+      "etag": "GqtxNnWs1qk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/REI3jwEACAAJ",
+      "volumeInfo": {
+        "title": "Orbis eucharisticus",
+        "subtitle": "ubi materialis mundi creatio, figuraeque Antiqui Testamenti ad eucharistiae sacramentum adaptantur ...",
+        "publishedDate": "1725",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:929248825"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 396,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "la",
+        "previewLink": "http://books.google.com.co/books?id=REI3jwEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=REI3jwEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Orbis_eucharisticus.html?hl=&id=REI3jwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=REI3jwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_NH4GgAACAAJ",
+      "etag": "FAR7VmUlDk8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_NH4GgAACAAJ",
+      "volumeInfo": {
+        "title": "Psalterium decem chordarum superadditum hieroglyphicis marianis, decem orationibus compositum, in quibus dolores",
+        "subtitle": "B. Virginis Maria in passione filij sui exprimuntur",
+        "authors": [
+          "Francisco de Aguilar"
+        ],
+        "publishedDate": "1724",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55279722"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 135,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "la",
+        "previewLink": "http://books.google.com.co/books?id=_NH4GgAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_NH4GgAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Psalterium_decem_chordarum_superadditum.html?hl=&id=_NH4GgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_NH4GgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9dfpSAAACAAJ",
+      "etag": "SOzEDovUQmg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9dfpSAAACAAJ",
+      "volumeInfo": {
+        "title": "Hieroglyphica, sive Symbola Mariana quibus Matris Dei Mysteria laudantur, cum novenario de Mysterio Conceptionis, viginti quinque oriationibus exarata, & Psalterio: Cum quadruplici indice...",
+        "authors": [
+          "Francisco de Aguilar"
+        ],
+        "publishedDate": "1724",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:433199617"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "la",
+        "previewLink": "http://books.google.com.co/books?id=9dfpSAAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9dfpSAAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hieroglyphica_sive_Symbola_Mariana_quibu.html?hl=&id=9dfpSAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9dfpSAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GAYXjwEACAAJ",
+      "etag": "sPY+3HYvimE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GAYXjwEACAAJ",
+      "volumeInfo": {
+        "title": "Psalterium decem chordarum superadditum hieroglyphicis Marianis, decem orationibus compositum, in quibus dolores B. Virginis Mariae in passione Fillii sui exprimuntur ...",
+        "publishedDate": "1724",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:929248837"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 135,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "la",
+        "previewLink": "http://books.google.com.co/books?id=GAYXjwEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=45&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GAYXjwEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Psalterium_decem_chordarum_superadditum.html?hl=&id=GAYXjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GAYXjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6uRBzQEACAAJ",
+      "etag": "veinzTH/+FM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6uRBzQEACAAJ",
+      "volumeInfo": {
+        "title": "Hieroglyphica, sive symbola Mariana, quibus Matris Dei mysteria laudantur ...",
+        "authors": [
+          "Francisco de Aguilar"
+        ],
+        "publishedDate": "1724",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1131720421"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Immaculate Conception"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "la",
+        "previewLink": "http://books.google.com.co/books?id=6uRBzQEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=46&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6uRBzQEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hieroglyphica_sive_symbola_Mariana_quibu.html?hl=&id=6uRBzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6uRBzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GhrDYgEACAAJ",
+      "etag": "ZzfdfOAOzA4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GhrDYgEACAAJ",
+      "volumeInfo": {
+        "title": "Hieroglyplica, sive, Symbola Mariana",
+        "subtitle": "quibus matris de mysteria laudantur, cum novenario de mysterio conceptionis viginti quinque orationibus exarata",
+        "authors": [
+          "Francisco de Aguilar (O.F.M.)"
+        ],
+        "publishedDate": "1724",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651229433"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "la",
+        "previewLink": "http://books.google.com.co/books?id=GhrDYgEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=47&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GhrDYgEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hieroglyplica_sive_Symbola_Mariana.html?hl=&id=GhrDYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GhrDYgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nozlSAAACAAJ",
+      "etag": "7R/+Ei0Rqkc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nozlSAAACAAJ",
+      "volumeInfo": {
+        "title": "Psalterium decem chordarum superadditum hieroglyphicis Marianis, decem orationibus compositum, in quibus dolores B. Virginis Maria in Passione Filii sui exprimuntur...",
+        "authors": [
+          "Francisco de Aguilar"
+        ],
+        "publishedDate": "1724",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:433199628"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 135,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "la",
+        "previewLink": "http://books.google.com.co/books?id=nozlSAAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=48&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nozlSAAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Psalterium_decem_chordarum_superadditum.html?hl=&id=nozlSAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nozlSAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TDVw0QEACAAJ",
+      "etag": "RwagzxMgtQU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TDVw0QEACAAJ",
+      "volumeInfo": {
+        "title": "Hieroglyphica, sive symbola mariana",
+        "subtitle": "quibus Matris Dei mysteria laudantur, cum novenario de Mysterio Conceptionis ...",
+        "authors": [
+          "Francisco de Aguilar (O.F.M.)"
+        ],
+        "publishedDate": "1724",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1522366303"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "la",
+        "previewLink": "http://books.google.com.co/books?id=TDVw0QEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=49&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TDVw0QEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hieroglyphica_sive_symbola_mariana.html?hl=&id=TDVw0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TDVw0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pDyFQwAACAAJ",
+      "etag": "pWDh9x/68bE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pDyFQwAACAAJ",
+      "volumeInfo": {
+        "title": "Orbis eucharisticus, ubi materialis mundi creatio figuraeque Antiqui Testamenti ad Eucharistiae sacramentum adaptantur. aliaque argumenta, usque ad viginti quinque orationes de hoc mysterio... per R. adm. P. F. Franciscum de Aguilar,...",
+        "authors": [
+          "Le P. Francisco de Aguilar"
+        ],
+        "publishedDate": "1725",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:457335068"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 396,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "la",
+        "previewLink": "http://books.google.com.co/books?id=pDyFQwAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=50&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=pDyFQwAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Orbis_eucharisticus_ubi_materialis_mundi.html?hl=&id=pDyFQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pDyFQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hN8RGwAACAAJ",
+      "etag": "ZKlGK55BAF4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hN8RGwAACAAJ",
+      "volumeInfo": {
+        "title": "Uma visita a Lourdes",
+        "subtitle": "á cidade da Immaculada Conceição no mez de Setembro de 1886: narração de um romeiro",
+        "authors": [
+          "Francisco de Azeredo Teixeira de Aguilar Samodães (conde de)"
+        ],
+        "publishedDate": "1887",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55921958"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=hN8RGwAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=51&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hN8RGwAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Uma_visita_a_Lourdes.html?hl=&id=hN8RGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hN8RGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nhUU0AEACAAJ",
+      "etag": "dz1zwmc/CV4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nhUU0AEACAAJ",
+      "volumeInfo": {
+        "title": "Cursus philosophicus dictatus Limae a P. Iosepho de Aguilar... ; tomus primus...",
+        "authors": [
+          "José de (S.I.) Aguilar"
+        ],
+        "publishedDate": "1701",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1388652071"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "la",
+        "previewLink": "http://books.google.com.co/books?id=nhUU0AEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=52&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nhUU0AEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cursus_philosophicus_dictatus_Limae_a_P.html?hl=&id=nhUU0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nhUU0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3in8GwAACAAJ",
+      "etag": "uZGtiadP4hA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3in8GwAACAAJ",
+      "volumeInfo": {
+        "title": "A reforma da carta eo beneplacito regio",
+        "authors": [
+          "Francisco de Azeredo Teixeira de Aguilar Samodães (Conde de)"
+        ],
+        "publishedDate": "1884",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:43293650"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=3in8GwAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=53&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3in8GwAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_reforma_da_carta_eo_beneplacito_regio.html?hl=&id=3in8GwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3in8GwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VrPDGwAACAAJ",
+      "etag": "s8gmDc+ias0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VrPDGwAACAAJ",
+      "volumeInfo": {
+        "title": "O culto de Maria Santissima na Diocese do Porto",
+        "subtitle": "memoria apresentada ao Congresso Mariano celebrado na cidade do Porto em Novembro de 1904 ...",
+        "authors": [
+          "Francisco de Azeredo Teixeira de Aguilar Samodães (Conde de)"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:44535717"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 362,
+        "printType": "BOOK",
+        "categories": [
+          "Porto (Portugal)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=VrPDGwAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=54&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VrPDGwAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/O_culto_de_Maria_Santissima_na_Diocese_d.html?hl=&id=VrPDGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VrPDGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QqjwSAAACAAJ",
+      "etag": "phVh4D2JlNY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QqjwSAAACAAJ",
+      "volumeInfo": {
+        "title": "Psalterium decem Chordarum supperadditum hieroglyphicis Marianis, in quibus Dolores B. birginis Maria in Passione filii sui exprimuntur",
+        "authors": [
+          "Francisco de Aguilar"
+        ],
+        "publishedDate": "1724",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:433199624"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "la",
+        "previewLink": "http://books.google.com.co/books?id=QqjwSAAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=55&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=QqjwSAAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Psalterium_decem_Chordarum_supperadditum.html?hl=&id=QqjwSAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QqjwSAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eIqOygAACAAJ",
+      "etag": "Fn69XB4IZuY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eIqOygAACAAJ",
+      "volumeInfo": {
+        "title": "Os episodios miraculosos de Lourdes",
+        "subtitle": "continuação e tomo segundo de Nossa Senhora de Lourdes",
+        "authors": [
+          "Henri Lasserre",
+          "Francisco de Azeredo Teixeira de Aguilar Samodães (Conde de)"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:50489498"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 346,
+        "printType": "BOOK",
+        "categories": [
+          "Lourdes, Our Lady of"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=eIqOygAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=56&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eIqOygAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Os_episodios_miraculosos_de_Lourdes.html?hl=&id=eIqOygAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eIqOygAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "k5s0HQAACAAJ",
+      "etag": "S4iwS63qLoU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/k5s0HQAACAAJ",
+      "volumeInfo": {
+        "title": "Hieroglyphica",
+        "subtitle": "sive Symbola Mariana : quibus Matris Dei mysteria laudantur : cum novenario de mysterio conceptionis : viginti quinque orationibus exarata & psalterio decem chordarum superaddito : cum quadruplici indice, I. Orationum, II. Materiae cujuslibet exordij & discursus, III. Sacrae Scripturae, & IV. conceptuum",
+        "authors": [
+          "Francisco de Aguilar"
+        ],
+        "publishedDate": "1724",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55233218"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+          "Immaculate Conception"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "la",
+        "previewLink": "http://books.google.com.co/books?id=k5s0HQAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=57&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=k5s0HQAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hieroglyphica.html?hl=&id=k5s0HQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=k5s0HQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RZ09YAAACAAJ",
+      "etag": "JJDUy+mZ5U0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RZ09YAAACAAJ",
+      "volumeInfo": {
+        "title": "O setimo centenario de Santo Antonio no Congresso Catholico Internacional de Lisboa",
+        "subtitle": "memoria sobre o decimo quarto assumpto proposto ao congreso, Meios de moralisar as fabricas",
+        "authors": [
+          "Francisco de Azeredo Teixeira de Aguilar Samodães (Conde de)"
+        ],
+        "publishedDate": "1895",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:733881059"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 102,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=RZ09YAAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=58&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RZ09YAAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/O_setimo_centenario_de_Santo_Antonio_no.html?hl=&id=RZ09YAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RZ09YAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J9LptgAACAAJ",
+      "etag": "eg8LWMJuMIk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J9LptgAACAAJ",
+      "volumeInfo": {
+        "title": "Psalterium decem Choradarum super additum hieroglyphis Marianis, decem orationibus compositum, in quibus dolores B. Virginis Mariae in passione filii sui exprimuntur",
+        "authors": [
+          "Francisco de Aguilar"
+        ],
+        "publishedDate": "1724",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:250251940"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=J9LptgAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=59&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=J9LptgAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Psalterium_decem_Choradarum_super_additu.html?hl=&id=J9LptgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J9LptgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hWECmwEACAAJ",
+      "etag": "9a1/MQxz0Hs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hWECmwEACAAJ",
+      "volumeInfo": {
+        "title": "Casas senhorais portuguesas",
+        "subtitle": "Viagem de estudo do IBI",
+        "authors": [
+          "Francisco de Samodães"
+        ],
+        "publishedDate": "1978",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:254411310"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 158,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=hWECmwEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=60&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hWECmwEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Casas_senhorais_portuguesas.html?hl=&id=hWECmwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hWECmwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h4RBzQEACAAJ",
+      "etag": "7LIsNRic+80",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h4RBzQEACAAJ",
+      "volumeInfo": {
+        "title": "Fortifications entourèes de d'eau au Portugal",
+        "authors": [
+          "Francisco de Azeredo Teixeira de Aguilar de Samodães"
+        ],
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1137358691"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=h4RBzQEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=61&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=h4RBzQEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fortifications_entour%C3%A8es_de_d_eau_au_Po.html?hl=&id=h4RBzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h4RBzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "avzrtAEACAAJ",
+      "etag": "V48kTtNIM9M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/avzrtAEACAAJ",
+      "volumeInfo": {
+        "title": "Catálogo da importante preciossima livraria que pertenceu aos notaveis escritores e bibliófilos",
+        "subtitle": "condes de Azevedo e de Samodães : enriquecido de notas bibliográficas e noticias de varias edições de muitas das obras descritas. E tambem de numerosos \"fac-similes\" de portadas, frontispicios, paginas, gravuras, registos de lugar e de data de impressão das mesmas obras, etc",
+        "authors": [
+          "José dos Santos"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:905652320"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 870,
+        "printType": "BOOK",
+        "categories": [
+          "Private libraries"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=avzrtAEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=62&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=avzrtAEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cat%C3%A1logo_da_importante_preciossima_livr.html?hl=&id=avzrtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=avzrtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vfkPtwAACAAJ",
+      "etag": "bsJCTD0yKnE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vfkPtwAACAAJ",
+      "volumeInfo": {
+        "title": "Psalterium decem chordarvm superadditum hieroglyphicis Marianis ...",
+        "authors": [
+          "Francisco de Aguilar"
+        ],
+        "publishedDate": "1724",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:64830881"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "la",
+        "previewLink": "http://books.google.com.co/books?id=vfkPtwAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=63&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vfkPtwAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Psalterium_decem_chordarvm_superadditum.html?hl=&id=vfkPtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vfkPtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C0b3twEACAAJ",
+      "etag": "XIW7d+Kf0gk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C0b3twEACAAJ",
+      "volumeInfo": {
+        "title": "Catálogo da importante e preciosissima livraria que perteneceu aos notaveis escritores e bibliófilos condes de Azevedo e de Samodães, enriquecido de notas bibliográficas e noticias de varias edições de muitas das obras descritas: p. [801]-870",
+        "authors": [
+          "Francisco Lopes de Azevedo Velho da Fonseca Azevedo (Conde de)",
+          "José dos Santos"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:24004384"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Portuguese literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=C0b3twEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=64&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=C0b3twEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cat%C3%A1logo_da_importante_e_preciosissima.html?hl=&id=C0b3twEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C0b3twEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8VagngEACAAJ",
+      "etag": "3yO71Y5BTGk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8VagngEACAAJ",
+      "volumeInfo": {
+        "title": "A Seraphina do Carmelo",
+        "subtitle": "homenagem a Santa Thereza de Jesus no seu tricentenario",
+        "authors": [
+          "Francisco de Azeredo Teixeira de Aguilar Samodães (Conde de)",
+          "Teresa de Jesús (Santa)"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:868829905"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 350,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=8VagngEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=65&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8VagngEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Seraphina_do_Carmelo.html?hl=&id=8VagngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8VagngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "N76lAQAACAAJ",
+      "etag": "iNODig7mvk4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N76lAQAACAAJ",
+      "volumeInfo": {
+        "title": "O Marquez de Pombal cem annos depois da sua morte",
+        "authors": [
+          "Francisco de Azeredo Teixeira de Aguilar (Conde de Samodães.)"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:959093561"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 334,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=N76lAQAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=66&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=N76lAQAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/O_Marquez_de_Pombal_cem_annos_depois_da.html?hl=&id=N76lAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N76lAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yQkpxQEACAAJ",
+      "etag": "d4iW+YACYdo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yQkpxQEACAAJ",
+      "volumeInfo": {
+        "title": "Cursus philosophicus dictatus limæ",
+        "authors": [
+          "José de Aguilar (S.I.)"
+        ],
+        "publishedDate": "1701",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1097714726"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 535,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "la",
+        "previewLink": "http://books.google.com.co/books?id=yQkpxQEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=67&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yQkpxQEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cursus_philosophicus_dictatus_lim%C3%A6.html?hl=&id=yQkpxQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yQkpxQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yDLYGwAACAAJ",
+      "etag": "pa274G3h5q8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yDLYGwAACAAJ",
+      "volumeInfo": {
+        "title": "Uma visita a Lourdes á cidade da immaculada conceição no mez de setembro de 1886",
+        "authors": [
+          "Francisco de Azeredo Teixeira de Aguilar Samodães (Conde de)"
+        ],
+        "publishedDate": "1886",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:44447350"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+          "Lourdes, Our Lady of"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=yDLYGwAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=68&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yDLYGwAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Uma_visita_a_Lourdes_%C3%A1_cidade_da_immacu.html?hl=&id=yDLYGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yDLYGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qJw4xwEACAAJ",
+      "etag": "/6SCryuswpI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qJw4xwEACAAJ",
+      "volumeInfo": {
+        "title": "O marquez de Pombal",
+        "subtitle": "cem annos depois da sua morte. Consideraçoes a respeito do seu primeiro centenario",
+        "authors": [
+          "Francisco de Azeredo Teixeira de Aguilar Samodães (Conde de)"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:28235858"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 334,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=qJw4xwEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=69&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qJw4xwEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/O_marquez_de_Pombal.html?hl=&id=qJw4xwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qJw4xwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OmOVAQAACAAJ",
+      "etag": "K9PGS9bsgqk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OmOVAQAACAAJ",
+      "volumeInfo": {
+        "title": "Catálogo da importante e preciosissima livraria que pertenceu aos notaveis escritores e bibliófilos Condes de Azevedo e de Samodães [...]",
+        "authors": [
+          "Anselmo Braamcamp Freire"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:959066208"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=OmOVAQAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=70&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=OmOVAQAACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cat%C3%A1logo_da_importante_e_preciosissima.html?hl=&id=OmOVAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OmOVAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FjZ80AEACAAJ",
+      "etag": "otZJ0Q441Rk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FjZ80AEACAAJ",
+      "volumeInfo": {
+        "title": "A Franc-maçonaria e a revolução",
+        "authors": [
+          "François-Xavier Gautrelet"
+        ],
+        "publishedDate": "1873",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:35240781"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "France"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=FjZ80AEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&cd=71&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=FjZ80AEACAAJ&dq=inauthor:%22Francisco+de+Aguilar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Franc_ma%C3%A7onaria_e_a_revolu%C3%A7%C3%A3o.html?hl=&id=FjZ80AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FjZ80AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

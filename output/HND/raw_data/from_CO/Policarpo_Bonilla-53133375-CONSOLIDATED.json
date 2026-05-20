@@ -1,0 +1,2082 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Policarpo%20Bonilla\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Policarpo%20Bonilla\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Policarpo%20Bonilla\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Policarpo%20Bonilla\"&maxResults=15&startIndex=20&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 35,
+  "_totalRequestsMade": 2,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "hYGizqoi8a8C",
+      "etag": "ngSYg/l6dwo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hYGizqoi8a8C",
+      "volumeInfo": {
+        "title": "Collección de escritos",
+        "authors": [
+          "Policarpo Bonilla"
+        ],
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433067340681"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 382,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.12.14.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hYGizqoi8a8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hYGizqoi8a8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hYGizqoi8a8C&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hYGizqoi8a8C&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Collecci%C3%B3n_de_escritos.html?hl=&id=hYGizqoi8a8C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hYGizqoi8a8C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IwIcAQAAMAAJ",
+      "etag": "GTEkp92e9rU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IwIcAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Colección de escritos, recogidos y ordenados",
+        "authors": [
+          "Policarpo Bonilla"
+        ],
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015059497316"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 504,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.16.18.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IwIcAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IwIcAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=IwIcAQAAMAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=IwIcAQAAMAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Colecci%C3%B3n_de_escritos_recogidos_y_orden.html?hl=&id=IwIcAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IwIcAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Trae dedicatoria del Sr. Romulo E. Duron al Sr. Carlos e. Restrepo."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lVxIAQAAMAAJ",
+      "etag": "P20Mriq3v58",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lVxIAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Colección de escritos",
+        "subtitle": "recogidos y ordenados por B. E. Duron",
+        "authors": [
+          "Policarpo Bonilla"
+        ],
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "SRLF:A0011332517"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lVxIAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lVxIAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lVxIAQAAMAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lVxIAQAAMAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Colecci%C3%B3n_de_escritos.html?hl=&id=lVxIAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lVxIAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BnMEL4BJjTEC",
+      "etag": "hvO8XpoMvZ8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BnMEL4BJjTEC",
+      "volumeInfo": {
+        "title": "Colección de escritos",
+        "subtitle": "recogidos y ordenados",
+        "authors": [
+          "Policarpo Bonilla"
+        ],
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "ONB:+Z324568909"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BnMEL4BJjTEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BnMEL4BJjTEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BnMEL4BJjTEC&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BnMEL4BJjTEC&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Colecci%C3%B3n_de_escritos.html?hl=&id=BnMEL4BJjTEC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BnMEL4BJjTEC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kjh7AAAAMAAJ",
+      "etag": "2ForzhSqDew",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kjh7AAAAMAAJ",
+      "volumeInfo": {
+        "title": "Wilson Doctrine",
+        "subtitle": "How the Speech of President Wilson at Mobile, Ala., Has Been Interpreted by the Latin-American Countries",
+        "authors": [
+          "Policarpo Bonilla"
+        ],
+        "publishedDate": "1914",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015025022222"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 52,
+        "printType": "BOOK",
+        "categories": [
+          "America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kjh7AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kjh7AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=kjh7AAAAMAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=kjh7AAAAMAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Wilson_Doctrine.html?hl=&id=kjh7AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kjh7AAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cx3j0QEACAAJ",
+      "etag": "p+0THWE9EHU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cx3j0QEACAAJ",
+      "volumeInfo": {
+        "title": "Policarpo Bonilla, Fundador Del Partido Liberal de Honduras",
+        "subtitle": "Escritos Tomo III: 1893-1899",
+        "authors": [
+          "Policarpo Bonilla"
+        ],
+        "publisher": "Coleccion Erandique",
+        "publishedDate": "2026-03-17",
+        "description": "\"Me veo en la dolorosa necesidad de colocarme otra vez al frente de la revolución liberal, para derrocar el actual Gobierno, nacido de la usurpación y del crimen\". Así comienza el último libro de la trilogía de escritos de Policarpo Bonilla. Un libro abarca una época de intrigas políticas y revoluciones. Presidente de Honduras de 1894 a 1899, fundador del Partido Liberal (1891), candidato en 1923 (perdió), uno de los principales provocadores de la guerra civil de 1924 -la peor en la historia del país-; editor de periódicos y escritor, Policarpo Bonilla es, sin duda, uno de los grandes personajes políticos del país. Este libro (el último de tres tomos), a casi cien años de su fallecimiento, nos permite descubrir una pequeña parte de su leyenda. POLICARPO BONILLA. Nació en Tegucigalpa el 17 de marzo de 1858. Falleció en Nueva Orleans el 11 de septiembre de 1926. Presidente de Honduras, editor de periódicos, diputado al Congreso Nacional. Obras: Colección de Escritos Tomos I, II y III. Esta edición abarca artículos que publicó en \"El Bien Público\" de 1893 a 1899.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798892675925"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cx3j0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cx3j0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=cx3j0QEACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cx3j0QEACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Policarpo_Bonilla_Fundador_Del_Partido_L.html?hl=&id=cx3j0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cx3j0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Presidente de Honduras de 1894 a 1899, fundador del Partido Liberal (1891), candidato en 1923 (perdió), uno de los principales provocadores de la guerra civil de 1924 -la peor en la historia del país-; editor de periódicos y escritor, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GkHvcQAACAAJ",
+      "etag": "/NV/5NkNx4A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GkHvcQAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje del Señor Presidente de la República de Honduras Dr. Don Policarpo Bonilla acerca de los actos ejecutados durante su administración en el año económico de 1897 á 1898",
+        "subtitle": "presentado al Congreso Nacional Legislativo",
+        "authors": [
+          "Honduras Presidente (1893-1903 : Policarpo Bonilla)",
+          "Honduras Congreso Nacional"
+        ],
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:433797367"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GkHvcQAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GkHvcQAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_del_Se%C3%B1or_Presidente_de_la_Rep.html?hl=&id=GkHvcQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GkHvcQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IyDe0QEACAAJ",
+      "etag": "iCknnH7OY/Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IyDe0QEACAAJ",
+      "volumeInfo": {
+        "title": "Policarpo Bonilla, Fundador Del Partido Liberal de Honduras",
+        "subtitle": "Escritos Tomo I: 1881-1890",
+        "authors": [
+          "Policarpo Bonilla"
+        ],
+        "publisher": "Coleccion Erandique",
+        "publishedDate": "2026-02-28",
+        "description": "\"Hombre jerárquico que había dominado voluntades, dirigido multitudes, y que, como nadie antes en Honduras, disfrutó de una popularidad majestuosa, Bonilla tuvo ese prestigio interior que se exteriorizaba en actitudes y en palabras que le daba una elegancia de decoro republicano. Así deben de haber sido Dionisio de Herrera, Trinidad Cabañas y Céleo Arias\". Rafael Heliodoro Valle. Presidente de Honduras de 1894 a 1899, fundador del Partido Liberal (1891), candidato en 1923 (perdió), uno de los principales provocadores de la guerra civil de 1924 -la peor en la historia del país-; editor de periódicos y escritor, Policarpo Bonilla es, sin duda, uno de los grandes personajes políticos del país. Este libro (el primero de tres tomos), a casi cien años de su fallecimiento, nos permite descubrir una pequeña parte de su leyenda. POLICARPO BONILLA. Nació en Tegucigalpa el 17 de marzo de 1858. Falleció en Nueva Orleans el 11 de septiembre de 1926. Presidente de Honduras, editor de periódicos, diputado al Congreso Nacional. Obras: Colección de Escritos Tomos I, II y III. Esta edición abarca artículos que publicó en \"El Bien Público\" de 1881 a 1891.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798892675819"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IyDe0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IyDe0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=IyDe0QEACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=IyDe0QEACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Policarpo_Bonilla_Fundador_Del_Partido_L.html?hl=&id=IyDe0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IyDe0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Presidente de Honduras de 1894 a 1899, fundador del Partido Liberal (1891), candidato en 1923 (perdió), uno de los principales provocadores de la guerra civil de 1924 -la peor en la historia del país-; editor de periódicos y escritor, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fP1cHAAACAAJ",
+      "etag": "h1XWSAzcFdg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fP1cHAAACAAJ",
+      "volumeInfo": {
+        "title": "La voz de la inocencia",
+        "subtitle": "defensa del Doctor Policarpo Bonilla",
+        "authors": [
+          "Policarpo Bonilla"
+        ],
+        "publishedDate": "1905",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:61690207"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 175,
+        "printType": "BOOK",
+        "categories": [
+          "Trials (Sedition)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fP1cHAAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fP1cHAAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_voz_de_la_inocencia.html?hl=&id=fP1cHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fP1cHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lXEtcgAACAAJ",
+      "etag": "vEdoK7xVcrc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lXEtcgAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje presentado por el presidente de la república Dr. Don Policarpo Bonilla á la Asamblea Nacional Constituyente sobre los actos de su gobierno provisional hasta el 31 de Diciembre de 1894",
+        "authors": [
+          "Honduras. President (1895-1899 : Policarpo)",
+          "Policarpo Bonilla",
+          "Honduras. Asamblea Nacional Constituyente"
+        ],
+        "publishedDate": "1895",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:642596705"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 73,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lXEtcgAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lXEtcgAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_presentado_por_el_presidente_de.html?hl=&id=lXEtcgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lXEtcgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GETvcQAACAAJ",
+      "etag": "3p2zYqgYWww",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GETvcQAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje del Jefe del Estado de Honduras Dr. don Policarpo Bonilla acerca de los actos ejecutados durante su administración en el año económico de 1896 a 1897, presentado al Congreso Nacional Legislativo",
+        "authors": [
+          "Honduras Presidente (1893-1903 : Policarpo Bonilla)"
+        ],
+        "publishedDate": "1898",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:433797345"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 59,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GETvcQAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GETvcQAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_del_Jefe_del_Estado_de_Honduras.html?hl=&id=GETvcQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GETvcQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jFB20QEACAAJ",
+      "etag": "xJCdHl4RLKM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jFB20QEACAAJ",
+      "volumeInfo": {
+        "title": "CollecciÃ3n De Escritos",
+        "authors": [
+          "Policarpo Bonilla"
+        ],
+        "publisher": "Hutson Street Press",
+        "publishedDate": "2025-05-22",
+        "description": "ColecciÃ3n De Escritos, Volumen 1, presents a compilation of the writings of Policarpo Bonilla, a significant figure in Honduran history. This volume offers insights into Bonilla's political thought and his contributions to the intellectual landscape of late 19th-century Central America. These essays provide a valuable resource for understanding the political and social issues of the period. Bonilla's writings reflect his progressive ideas and his commitment to modernizing Honduras. This collection serves as an important historical document, shedding light on the challenges and aspirations of a nation striving for progress and stability. Readers interested in Latin American history, political science, and the biography of influential figures will find this volume to be a compelling and informative resource. This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1023895730"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781023895736"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jFB20QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jFB20QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jFB20QEACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jFB20QEACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Collecci%C3%833n_De_Escritos.html?hl=&id=jFB20QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jFB20QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This volume offers insights into Bonilla&#39;s political thought and his contributions to the intellectual landscape of late 19th-century Central America."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mURBHAAACAAJ",
+      "etag": "QURcGxN//Xk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mURBHAAACAAJ",
+      "volumeInfo": {
+        "title": "Carta del eminente internacionalista Mr. John Bassett Moore para el Dr. Don Policarpo Bonilla",
+        "subtitle": "representante de Honduras durante la mediación en Washington, 1918-1921, en la que se refirió al absurdo alegato de nulidad del Laudo emitido por Su Majestad el Rey de España, el 23 de diciembre de 1906",
+        "authors": [
+          "John Bassett Moore",
+          "Policarpo Bonilla"
+        ],
+        "publishedDate": "1954*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:10097591"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 9,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mURBHAAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mURBHAAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_del_eminente_internacionalista_Mr.html?hl=&id=mURBHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mURBHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eit6XwAACAAJ",
+      "etag": "DrwzyVaK5ZE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eit6XwAACAAJ",
+      "volumeInfo": {
+        "title": "Federación de Centro América, discursos pronunciados en la sesión inaugural de la Asamblea nacional constituyente, el día 20 de julio de 1921 por los señores lic. José Vicente Martínez,... y Dr. Policarpo Bonilla,...",
+        "authors": [
+          "José Vicente Martínez",
+          "Policarpo Bonilla"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:457348451"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 9,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=eit6XwAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eit6XwAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Federaci%C3%B3n_de_Centro_Am%C3%A9rica_discursos.html?hl=&id=eit6XwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eit6XwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Rq6nGwAACAAJ",
+      "etag": "YOAEkR2S3kI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Rq6nGwAACAAJ",
+      "volumeInfo": {
+        "title": "Proclamas que dirigen á sus correligionarios el jefe y vicejefe del partido liberal al entrar éste en el ejercicio de su encargo",
+        "authors": [
+          "Policarpo Bonilla (pres. Honduras)",
+          "Manuel Bonilla"
+        ],
+        "publishedDate": "1894",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:17733663"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 9,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Rq6nGwAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Rq6nGwAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Proclamas_que_dirigen_%C3%A1_sus_correligion.html?hl=&id=Rq6nGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Rq6nGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "99aAMwEACAAJ",
+      "etag": "bonu41+4DNU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/99aAMwEACAAJ",
+      "volumeInfo": {
+        "title": "La Inocencia del Dr. P. Bonilla",
+        "authors": [
+          "José María MONCADA",
+          "Policarpo BONILLA (President of the Republic of Honduras.)"
+        ],
+        "publishedDate": "1905",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:563887394"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 75,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=99aAMwEACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=99aAMwEACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Inocencia_del_Dr_P_Bonilla.html?hl=&id=99aAMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=99aAMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QWkAMwEACAAJ",
+      "etag": "ySQIfRd0YHE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QWkAMwEACAAJ",
+      "volumeInfo": {
+        "title": "Policarpo Bonilla. Algunos apuntes biográficos. Un estudio del Dr. Ricardo D. Alduvín y Esquema para una biografía por Rafael Heliodoro Valle",
+        "authors": [
+          "Aro Sanso (pseud. [i.e. Ismael Mejía Deras])",
+          "Policarpo Bonilla (President of the Republic of Honduras.)"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:497540031"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 558,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=QWkAMwEACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=QWkAMwEACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Policarpo_Bonilla_Algunos_apuntes_biogr.html?hl=&id=QWkAMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QWkAMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PygVHAAACAAJ",
+      "etag": "khY9qOfjaZ4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PygVHAAACAAJ",
+      "volumeInfo": {
+        "title": "Federación de Centro América",
+        "subtitle": "Discursos pronunciados en la sesión inaugural de la Asamblea nacional constituyente, el día 20 de julio de 1921",
+        "authors": [
+          "José Vicente Martínez",
+          "Policarpo Bonilla"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:22017255"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 9,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PygVHAAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PygVHAAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Federaci%C3%B3n_de_Centro_Am%C3%A9rica.html?hl=&id=PygVHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PygVHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "92oGswEACAAJ",
+      "etag": "wItisv7oABs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/92oGswEACAAJ",
+      "volumeInfo": {
+        "title": "La Union de Centro America",
+        "subtitle": "Conferencia Dada en El Instituto de Las Españas, Universidad de Columbia, New York City, El 24 de Febrero de 1921",
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:911235696"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=92oGswEACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=92oGswEACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Union_de_Centro_America.html?hl=&id=92oGswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=92oGswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s-jBGwAACAAJ",
+      "etag": "oyAbQrSd5rM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s-jBGwAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje ... acerca de los actos ejecutados durante su administración en el año económico de 1897 á 1898",
+        "subtitle": "presentado al Congreso Nacional Legislativo",
+        "authors": [
+          "Honduras. Presidente (1894-1899 : Policarpo Bonilla)",
+          "Honduras. Congreso Nacional"
+        ],
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:26914946"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 239,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=s-jBGwAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=s-jBGwAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_acerca_de_los_actos_ejecutados_d.html?hl=&id=s-jBGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s-jBGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NIBb0AEACAAJ",
+      "etag": "8UUVVEhITIo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NIBb0AEACAAJ",
+      "volumeInfo": {
+        "title": "Collección de escritos, recogidos y ordenados por Romulo E. Duron",
+        "authors": [
+          "Policarpo Bonilla"
+        ],
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1407842191"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=NIBb0AEACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NIBb0AEACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Collecci%C3%B3n_de_escritos_recogidos_y_orde.html?hl=&id=NIBb0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NIBb0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x6cISQAACAAJ",
+      "etag": "Jcs8uC6bEHw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x6cISQAACAAJ",
+      "volumeInfo": {
+        "title": "Señor--",
+        "authors": [
+          "Policarpo Bonilla"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:492423289"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=x6cISQAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=x6cISQAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Se%C3%B1or.html?hl=&id=x6cISQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x6cISQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Jg9AHQAACAAJ",
+      "etag": "/DPsHZ8F7Qg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Jg9AHQAACAAJ",
+      "volumeInfo": {
+        "title": "Al ejército nicaraguense",
+        "authors": [
+          "Policarpo Bonilla"
+        ],
+        "publishedDate": "1895*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:18795460"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Jg9AHQAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Jg9AHQAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Al_ej%C3%A9rcito_nicaraguense.html?hl=&id=Jg9AHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Jg9AHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uitRnQEACAAJ",
+      "etag": "cGljU4+QNxk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uitRnQEACAAJ",
+      "volumeInfo": {
+        "title": "Discursos pronunciados en la sesión inaugural de la Asamblea Nacional Constituyente, el día 20 de julio de 1921",
+        "authors": [
+          "Central America (Federal Republic). Asamblea nacional constituyente",
+          "José Vicente Martínez",
+          "Policarpo Bonilla"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:41022504"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 9,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=uitRnQEACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=uitRnQEACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discursos_pronunciados_en_la_sesi%C3%B3n_ina.html?hl=&id=uitRnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uitRnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o5PpMgEACAAJ",
+      "etag": "GNrPZjhpBvw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o5PpMgEACAAJ",
+      "volumeInfo": {
+        "title": "La Unión de Centro América. Conferencia, etc",
+        "authors": [
+          "Policarpo BONILLA (President of the Republic of Honduras.)"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:557739308"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=o5PpMgEACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=o5PpMgEACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Uni%C3%B3n_de_Centro_Am%C3%A9rica_Conferencia.html?hl=&id=o5PpMgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o5PpMgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VTARtwAACAAJ",
+      "etag": "J5xkMY6UI9k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VTARtwAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje del jefe del estado de Honduras acerca de los actos ejecutados durante su administración en el año económico de 1896 a 1897, presentado al Congreso Nacional Legislativo",
+        "authors": [
+          "Policarpo Bonilla"
+        ],
+        "publishedDate": "1898",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:312728721"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 59,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VTARtwAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VTARtwAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_del_jefe_del_estado_de_Honduras.html?hl=&id=VTARtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VTARtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6sPJGwAACAAJ",
+      "etag": "RgQx2U4TJGc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6sPJGwAACAAJ",
+      "volumeInfo": {
+        "title": "Discursos pronunciados por el presidente provisional de la República y por el presidente de la Asamblea Nacional Constituyente en el acto de su solemne instalación el 11 de julio de 1894",
+        "authors": [
+          "Honduras. Presidente (1894-1899 : Policarpo Bonilla)",
+          "Honduras. Asamblea Nacional Constituyente"
+        ],
+        "publishedDate": "1894",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:15616297"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6sPJGwAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6sPJGwAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discursos_pronunciados_por_el_presidente.html?hl=&id=6sPJGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6sPJGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dH8ekgAACAAJ",
+      "etag": "8JOJ3MYyVTs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dH8ekgAACAAJ",
+      "volumeInfo": {
+        "title": "Proyecto de constitución política para Nicaragua",
+        "authors": [
+          "Policarpo Bonilla"
+        ],
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:85597292"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=dH8ekgAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dH8ekgAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Proyecto_de_constituci%C3%B3n_pol%C3%ADtica_para.html?hl=&id=dH8ekgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dH8ekgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r_eq0AEACAAJ",
+      "etag": "SBvr7LiDLlQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r_eq0AEACAAJ",
+      "volumeInfo": {
+        "title": "Hondureños",
+        "subtitle": "¡a las armas! Colección de Escritos",
+        "authors": [
+          "Policarpo Bonilla"
+        ],
+        "publishedDate": "2024-03-15",
+        "description": "En 1899 salieron de la imprenta de la Tipografía Nacional tres tomos del libro Colección de Escritos, una recopilación realizada por el historiador Rómulo E. Durón de artículos firmados por Policarpo Bonilla antes de ser presidente de Honduras, y publicados en el periódico EL BIEN PÚBLICO. Colección Erandique ha realizado una selección de los tomos I y II con el objetivo de que los hondureños conozcan las ideas de un hombre que ejerció una fuerte influencia en el país durante más de cuarenta años.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798892670692"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=r_eq0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=r_eq0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=r_eq0AEACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=r_eq0AEACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hondure%C3%B1os.html?hl=&id=r_eq0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r_eq0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Colección Erandique ha realizado una selección de los tomos I y II con el objetivo de que los hondureños conozcan las ideas de un hombre que ejerció una fuerte influencia en el país durante más de cuarenta años."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0TgkMwEACAAJ",
+      "etag": "hRHC85g2sSk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0TgkMwEACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje del Sr. Presidente del estado, contestación del Congreso y memorias de los secretariados de estado, referentes a los actos del poder ejecutivo, durante el año económico de 1896 a 1897",
+        "authors": [
+          "Honduras. President (1894-1899 : Bonilla)"
+        ],
+        "publishedDate": "1898",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:499922670"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 521,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0TgkMwEACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0TgkMwEACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_del_Sr_Presidente_del_estado_con.html?hl=&id=0TgkMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0TgkMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rvuFAQAACAAJ",
+      "etag": "qq3zqL73mLU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rvuFAQAACAAJ",
+      "volumeInfo": {
+        "title": "Alfajayucan",
+        "subtitle": "Noticias acerca de este pueblo leidas en la sociedad mexicana de geografia y estadistica el 13 de agosto y 14 de septiembre de 1908 ...",
+        "authors": [
+          "Carlos Paz Soldán",
+          "Colombia. Consejo de Estado",
+          "Federico Henríquez i Carvajal",
+          "José María Valladares",
+          "Juan Ignacio Gálvez",
+          "Mexico. Congreso",
+          "Policarpo Bonilla",
+          "Unión Ibero-Americana",
+          "Uruguay",
+          "V. Márquez Bustillos",
+          "Vicente de Paula Andrade"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:19011622"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "categories": [
+          "Brazil"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=rvuFAQAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rvuFAQAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Alfajayucan.html?hl=&id=rvuFAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rvuFAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WpjKAQAACAAJ",
+      "etag": "+HBGWgNNBN8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WpjKAQAACAAJ",
+      "volumeInfo": {
+        "title": "Colección de escritos, recogidos y ordenados por Romulo E. Duron",
+        "authors": [
+          "Policarpo Bonilla"
+        ],
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:457096039"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WpjKAQAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WpjKAQAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Colecci%C3%B3n_de_escritos_recogidos_y_orden.html?hl=&id=WpjKAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WpjKAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_x5hQwAACAAJ",
+      "etag": "ovnbUFfUT6o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_x5hQwAACAAJ",
+      "volumeInfo": {
+        "title": "Proyecto de constitución política",
+        "authors": [
+          "Nicaragua",
+          "Policarpo Bonilla"
+        ],
+        "publishedDate": "1894",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:369167767"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_x5hQwAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_x5hQwAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Proyecto_de_constituci%C3%B3n_pol%C3%ADtica.html?hl=&id=_x5hQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_x5hQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2KiWtQEACAAJ",
+      "etag": "l0ihS3eHyUU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2KiWtQEACAAJ",
+      "volumeInfo": {
+        "title": "Convención sobre demarcación de límites territoriales entre Honduras y Nicaragua",
+        "subtitle": "celebrada el 7 de octubre de 1894",
+        "authors": [
+          "Honduras"
+        ],
+        "publishedDate": "1894",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1027319958"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2KiWtQEACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2KiWtQEACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Convenci%C3%B3n_sobre_demarcaci%C3%B3n_de_l%C3%ADmit.html?hl=&id=2KiWtQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2KiWtQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CCDZtgAACAAJ",
+      "etag": "t4VFrsVGnY4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CCDZtgAACAAJ",
+      "volumeInfo": {
+        "title": "The Union of Central America",
+        "subtitle": "Conference Addressed at the Instituto de Las Españas, University of Columbia, New York City, February 24th, 1921",
+        "authors": [
+          "Policarpo Bonilla"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:37763644"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "categories": [
+          "Central America (Federal Republic : 1823-1840)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=CCDZtgAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CCDZtgAACAAJ&dq=inauthor:%22Policarpo+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Union_of_Central_America.html?hl=&id=CCDZtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CCDZtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

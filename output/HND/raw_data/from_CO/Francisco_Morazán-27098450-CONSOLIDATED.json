@@ -1,0 +1,5064 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20Moraz%C3%A1n\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20Moraz%C3%A1n\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20Moraz%C3%A1n\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20Moraz%C3%A1n\"&maxResults=20&startIndex=40&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20Moraz%C3%A1n\"&maxResults=20&startIndex=60&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20Moraz%C3%A1n\"&maxResults=20&startIndex=80&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20Moraz%C3%A1n\"&maxResults=5&startIndex=80&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 85,
+  "_totalRequestsMade": 5,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "o-UWAAAAYAAJ",
+      "etag": "H0ex18VZdT4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o-UWAAAAYAAJ",
+      "volumeInfo": {
+        "title": "El pensamiento de Francisco Morazán",
+        "authors": [
+          "Adalberto Santana",
+          "Francisco Morazán"
+        ],
+        "publisher": "Universidad Nacional Autonoma de Mexico",
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X002302649"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 134,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=o-UWAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=o-UWAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=o-UWAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=o-UWAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_pensamiento_de_Francisco_Moraz%C3%A1n.html?hl=&id=o-UWAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o-UWAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iGsXAAAAIAAJ",
+      "etag": "5mzXMSi5UaQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iGsXAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Testamento del General Francisco Morazán, mártir de la Unión de Centro-América",
+        "authors": [
+          "Francisco Morazán"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105036142607"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.10.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iGsXAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iGsXAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=iGsXAAAAIAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=iGsXAAAAIAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Testamento_del_General_Francisco_Moraz%C3%A1.html?hl=&id=iGsXAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iGsXAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oOQWAAAAYAAJ",
+      "etag": "hjbmWqg9KSI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oOQWAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Pensamiento político del general Francisco Morazán",
+        "authors": [
+          "Francisco Morazán",
+          "Rafael Bardales B."
+        ],
+        "publishedDate": "1985",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X001257776"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 234,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oOQWAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oOQWAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=oOQWAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=oOQWAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pensamiento_pol%C3%ADtico_del_general_Franci.html?hl=&id=oOQWAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oOQWAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_X5ZAAAAcAAJ",
+      "etag": "v4RNjy0xUfM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_X5ZAAAAcAAJ",
+      "volumeInfo": {
+        "title": "Memorias del benemérito Jeneral D. Francisco Morazan ... Escritas por èl mismo ... en 1840. Edicion del Rol",
+        "authors": [
+          "Francisco MORAZÁN (President of the Republic of Central America.)"
+        ],
+        "publishedDate": "1855",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BL:A0018032011"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 60,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_X5ZAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_X5ZAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=_X5ZAAAAcAAJ&printsec=frontcover&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_X5ZAAAAcAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_X5ZAAAAcAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=_X5ZAAAAcAAJ&rdid=book-_X5ZAAAAcAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Memorias_del_benem%C3%A9rito_Jeneral_D_Franc.epub?id=_X5ZAAAAcAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_X5ZAAAAcAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6dMSAQAAIAAJ",
+      "etag": "AH+3qv1nABI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6dMSAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Escritos del General Francisco Morazán",
+        "authors": [
+          "Francisco Morazán",
+          "Carlos Meléndez Chaverri"
+        ],
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105020435546"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 428,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6dMSAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6dMSAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6dMSAQAAIAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6dMSAQAAIAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Escritos_del_General_Francisco_Moraz%C3%A1n.html?hl=&id=6dMSAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6dMSAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XjprAAAAMAAJ",
+      "etag": "UlRio7m2oPE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XjprAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Memorias",
+        "subtitle": "Manifiesto de David ; Testamento",
+        "authors": [
+          "Francisco Morazán"
+        ],
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173001541179"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.9.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XjprAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XjprAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=XjprAAAAMAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=XjprAAAAMAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias.html?hl=&id=XjprAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XjprAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "idBqAAAAMAAJ",
+      "etag": "E+JP/wK8f/Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/idBqAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Memorias del benemérito general D. Francisco Morazán",
+        "authors": [
+          "Francisco Morazán"
+        ],
+        "publishedDate": "1971",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018712345"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 84,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=idBqAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=idBqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=idBqAAAAMAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=idBqAAAAMAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias_del_benem%C3%A9rito_general_D_Franc.html?hl=&id=idBqAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=idBqAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5BxcAAAAcAAJ",
+      "etag": "0KF38ddrw1I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5BxcAAAAcAAJ",
+      "volumeInfo": {
+        "title": "Carrera y Morazan. Artículo que con este título se ha publicado en una obra titulada “Coleccion de noticias de Centro-America, recojidas y publicadas por la Compañía Belga de Colonizacion.” Impresa Paris en 1844. Fr. & Span",
+        "authors": [
+          "Rafael CARRERA (President of the Republic of Central America.)"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BL:A0018576359"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 12,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5BxcAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5BxcAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=5BxcAAAAcAAJ&printsec=frontcover&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=5BxcAAAAcAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5BxcAAAAcAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=5BxcAAAAcAAJ&rdid=book-5BxcAAAAcAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Carrera_y_Morazan_Art%C3%ADculo_que_con_este.epub?id=5BxcAAAAcAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5BxcAAAAcAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o1UQAAAAYAAJ",
+      "etag": "fReqz4GRC2g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o1UQAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Informe anual de labores - Escuela Superior del Profesorado Francisco Morazán",
+        "authors": [
+          "Escuela Superior del Profesorado Francisco Morazán"
+        ],
+        "publishedDate": "1977",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173025346270"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=o1UQAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=o1UQAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=o1UQAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=o1UQAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Informe_anual_de_labores_Escuela_Superio.html?hl=&id=o1UQAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o1UQAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Vog6AQAAMAAJ",
+      "etag": "HXphsTowbNY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Vog6AQAAMAAJ",
+      "volumeInfo": {
+        "title": "Memorias del benemérito general don Francisco Morazán",
+        "authors": [
+          "Francisco Morazán"
+        ],
+        "publishedDate": "1970",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CORNELL:31924105791366"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 74,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Vog6AQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Vog6AQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Vog6AQAAMAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Vog6AQAAMAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias_del_benem%C3%A9rito_general_don_Fra.html?hl=&id=Vog6AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Vog6AQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LaT1O_XVZs8C",
+      "etag": "KUTdmjlaAvE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LaT1O_XVZs8C",
+      "volumeInfo": {
+        "title": "Memorias",
+        "authors": [
+          "Francisco Morazán"
+        ],
+        "publishedDate": "1981",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112041448843"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LaT1O_XVZs8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LaT1O_XVZs8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=LaT1O_XVZs8C&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LaT1O_XVZs8C&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias.html?hl=&id=LaT1O_XVZs8C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LaT1O_XVZs8C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X01CAQAAMAAJ",
+      "etag": "x9UVd44Va2E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X01CAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Los abuelos de mármol",
+        "subtitle": "Album patriotico",
+        "authors": [
+          "Club Estudiantil Unionista Francisco Morazán, Tegucigalpa, Honduras"
+        ],
+        "publishedDate": "1917",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$C199485"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 60,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=X01CAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=X01CAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=X01CAQAAMAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=X01CAQAAMAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_abuelos_de_m%C3%A1rmol.html?hl=&id=X01CAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X01CAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r1rNAAAAMAAJ",
+      "etag": "7xT2n6f2aK0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r1rNAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Revista de la Universidad",
+        "authors": [
+          "Universidad Central (Tegucigalpa, Francisco Morazán, Honduras)",
+          "Universidad Nacional Autónoma de Honduras"
+        ],
+        "publishedDate": "1912",
+        "description": "Includes music (Honduras national hymn, etc.)",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015074719686"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 732,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.13.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=r1rNAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=r1rNAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=r1rNAAAAMAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=r1rNAAAAMAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Revista_de_la_Universidad.html?hl=&id=r1rNAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r1rNAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Includes music (Honduras national hymn, etc.)"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "l8ZqAAAAMAAJ",
+      "etag": "7c7cNCDa37M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/l8ZqAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Altura cívica de Francisco Morazán",
+        "authors": [
+          "Francisco Morazán"
+        ],
+        "publishedDate": "1977",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018227565"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=l8ZqAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=l8ZqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=l8ZqAAAAMAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=l8ZqAAAAMAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Altura_c%C3%ADvica_de_Francisco_Moraz%C3%A1n.html?hl=&id=l8ZqAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=l8ZqAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qWUQAAAAYAAJ",
+      "etag": "bl+VrXUVOC8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qWUQAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Memoria anual",
+        "authors": [
+          "Universidad Pedagógica Nacional Francisco Morazán"
+        ],
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059172131080187"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 78,
+        "printType": "BOOK",
+        "categories": [
+          "Teachers colleges"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qWUQAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qWUQAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qWUQAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qWUQAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memoria_anual.html?hl=&id=qWUQAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qWUQAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wE8QAAAAYAAJ",
+      "etag": "d5oKk+kZsBA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wE8QAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Estadísticas",
+        "authors": [
+          "Universidad Pedagógica Nacional Francisco Morazán"
+        ],
+        "publishedDate": "2006",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059172149132236"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wE8QAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wE8QAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wE8QAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wE8QAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estad%C3%ADsticas.html?hl=&id=wE8QAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wE8QAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4V8QAAAAYAAJ",
+      "etag": "9sqtU2K4jr4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4V8QAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Programa experimental sobre organización y administración de un nucleo educativo en función del proceso integral de desarrollo en la zona de Guanchías",
+        "authors": [
+          "Escuela Superior del Profesorado Francisco Morazán"
+        ],
+        "publishedDate": "1976",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173025424409"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4V8QAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4V8QAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4V8QAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4V8QAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Programa_experimental_sobre_organizaci%C3%B3.html?hl=&id=4V8QAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4V8QAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6E4QAAAAYAAJ",
+      "etag": "FF8YwF7IN8Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6E4QAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Memoria de labores",
+        "authors": [
+          "Universidad Pedagógica Nacional Francisco Morazán"
+        ],
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059172143644676"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 362,
+        "printType": "BOOK",
+        "categories": [
+          "Teachers colleges"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6E4QAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6E4QAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6E4QAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6E4QAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memoria_de_labores.html?hl=&id=6E4QAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6E4QAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K_tqAAAAMAAJ",
+      "etag": "qJssUPMuoEM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K_tqAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Memoria",
+        "authors": [
+          "Comisión Organizadora del Bicentenario del Nacimiento del General Francisco Morazán"
+        ],
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173002100703"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=K_tqAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=K_tqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=K_tqAAAAMAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=K_tqAAAAMAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memoria.html?hl=&id=K_tqAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K_tqAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u6MQAAAAYAAJ",
+      "etag": "mpWLvLIJu5c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u6MQAAAAYAAJ",
+      "volumeInfo": {
+        "title": "El modelo de aprendizaje a excelencia",
+        "authors": [
+          "Escuela Superior del Profesorado Francisco Morazán. Centro de Mejoramiento Docente"
+        ],
+        "publishedDate": "1979",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173025467536"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "categories": [
+          "Study skills"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u6MQAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=u6MQAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=u6MQAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=u6MQAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_modelo_de_aprendizaje_a_excelencia.html?hl=&id=u6MQAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u6MQAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FvFGAAAAYAAJ",
+      "etag": "n68Ont80CxU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FvFGAAAAYAAJ",
+      "volumeInfo": {
+        "title": "\"Nunca antes lo había hablado\"",
+        "subtitle": "el aborto : testimonios de mujeres hondureñas",
+        "authors": [
+          "Centro de Derechos de Mujeres (Tegucigalpa, Francisco Morazán, Honduras)"
+        ],
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173019053561"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "categories": [
+          "Abortion"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FvFGAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FvFGAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=FvFGAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=FvFGAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nunca_antes_lo_hab%C3%ADa_hablado.html?hl=&id=FvFGAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FvFGAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CEFZAAAAMAAJ",
+      "etag": "UMwofZnOkBY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CEFZAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Escuela Nacional de Bellas Artes, 1940-1948",
+        "authors": [
+          "Tegucigalpa (Francisco Morazán, Honduras). Escuela Nacional de Bellas Artes de Honduras"
+        ],
+        "publishedDate": "1948",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173005572334"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 114,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CEFZAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CEFZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=CEFZAAAAMAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CEFZAAAAMAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Escuela_Nacional_de_Bellas_Artes_1940_19.html?hl=&id=CEFZAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CEFZAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Y2AQAAAAYAAJ",
+      "etag": "obupOFPQbKA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Y2AQAAAAYAAJ",
+      "volumeInfo": {
+        "title": "?Cuál modelo de instrucción es el más adecuado para mi?",
+        "authors": [
+          "Escuela Superior del Profesorado Francisco Morazán. Centro de Mejoramiento Docente"
+        ],
+        "publishedDate": "1979",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173025423767"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "categories": [
+          "Teaching"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Y2AQAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Y2AQAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Y2AQAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Y2AQAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cu%C3%A1l_modelo_de_instrucci%C3%B3n_es_el_m%C3%A1s.html?hl=&id=Y2AQAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Y2AQAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EE8QAAAAYAAJ",
+      "etag": "Qei7E1kFHx8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EE8QAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Universidad Pedagógica Nacional Francisco Morazán en cifras",
+        "authors": [
+          "Universidad Pedagógica Nacional Francisco Morazán"
+        ],
+        "publishedDate": "1980",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059172132120946"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 94,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EE8QAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EE8QAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EE8QAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EE8QAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Universidad_Pedag%C3%B3gica_Nacional_Francis.html?hl=&id=EE8QAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EE8QAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "m6AQAAAAYAAJ",
+      "etag": "GTUfmzmPc6Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m6AQAAAAYAAJ",
+      "volumeInfo": {
+        "title": "El sistema de instrucción personalizada",
+        "authors": [
+          "Escuela Superior del Profesorado Francisco Morazán. Centro de Mejoramiento Docente"
+        ],
+        "publishedDate": "1979",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173025469859"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 10,
+        "printType": "BOOK",
+        "categories": [
+          "Individualized instruction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m6AQAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m6AQAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=m6AQAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=m6AQAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_sistema_de_instrucci%C3%B3n_personalizada.html?hl=&id=m6AQAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m6AQAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jPlmAAAAMAAJ",
+      "etag": "2rU1Mk4k3+o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jPlmAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Memorias de David",
+        "subtitle": "y Manifiesto al pueblo centroamericano",
+        "authors": [
+          "Francisco Morazán"
+        ],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173022898429"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jPlmAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jPlmAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jPlmAAAAMAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jPlmAAAAMAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias_de_David.html?hl=&id=jPlmAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jPlmAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wfRamwEACAAJ",
+      "etag": "5enaT1q9Kh4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wfRamwEACAAJ",
+      "volumeInfo": {
+        "title": "Vida, obra y pensamiento",
+        "authors": [
+          "Francisco Morazán"
+        ],
+        "publishedDate": "2012",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9802765023"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789802765027"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 179,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wfRamwEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wfRamwEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vida_obra_y_pensamiento.html?hl=&id=wfRamwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wfRamwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3s5qAAAAMAAJ",
+      "etag": "9vfrJtQw2oY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3s5qAAAAMAAJ",
+      "volumeInfo": {
+        "title": "La organización del Estado de Honduras",
+        "authors": [
+          "Francisco Morazán"
+        ],
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059172119580158"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 492,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3s5qAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3s5qAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3s5qAAAAMAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3s5qAAAAMAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_organizaci%C3%B3n_del_Estado_de_Honduras.html?hl=&id=3s5qAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3s5qAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MYf71Qi4JUYC",
+      "etag": "JC+JaEisqEs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MYf71Qi4JUYC",
+      "volumeInfo": {
+        "title": "Al Sr. General D. F. Morazán, Presidente de la República federal de Centro-América. [Observations upon certain expressions in the President's Message relating to the pardon of political offenders.]",
+        "authors": [
+          "Juan MONTÚFAR (and (Manuel))"
+        ],
+        "publishedDate": "1837",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BL:A0023385096"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 12,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MYf71Qi4JUYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MYf71Qi4JUYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=MYf71Qi4JUYC&printsec=frontcover&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MYf71Qi4JUYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MYf71Qi4JUYC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=MYf71Qi4JUYC&rdid=book-MYf71Qi4JUYC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Al_Sr_General_D_F_Moraz%C3%A1n_Presidente_de.epub?id=MYf71Qi4JUYC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MYf71Qi4JUYC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ck4QAAAAYAAJ",
+      "etag": "sc1vQCzfE8M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ck4QAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Memoria anual de labores",
+        "authors": [
+          "Universidad Pedagógica Nacional Francisco Morazán"
+        ],
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059172131900225"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 68,
+        "printType": "BOOK",
+        "categories": [
+          "Teachers colleges"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ck4QAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ck4QAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ck4QAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ck4QAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memoria_anual_de_labores.html?hl=&id=ck4QAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ck4QAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Gm9bAAAAcAAJ",
+      "etag": "ctH9bV9yEoc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Gm9bAAAAcAAJ",
+      "volumeInfo": {
+        "title": "The Personal Archive of Francisco Morazán",
+        "authors": [
+          "Francisco Morazán"
+        ],
+        "publishedDate": "1977",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCM:4900187247"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Gm9bAAAAcAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Gm9bAAAAcAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Gm9bAAAAcAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Gm9bAAAAcAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Personal_Archive_of_Francisco_Moraz.html?hl=&id=Gm9bAAAAcAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Gm9bAAAAcAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AV0QAAAAYAAJ",
+      "etag": "VUQFcImUa4Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AV0QAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Prospecto, 1976",
+        "authors": [
+          "Escuela Superior del Profesorado Francisco Morazán"
+        ],
+        "publishedDate": "1976",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173025347308"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": [
+          "Teachers colleges"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AV0QAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AV0QAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=AV0QAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=AV0QAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Prospecto_1976.html?hl=&id=AV0QAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AV0QAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "M48QAAAAYAAJ",
+      "etag": "yt13Pmmekzo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M48QAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Informe sobre factores asociados al rendimiento académico, Honduras 2002",
+        "subtitle": "español, matemáticas y ciencias naturales, tercero y sexto grado",
+        "authors": [
+          "Universidad Pedagógica Nacional Francisco Morazán. Unidad Externa de Medición de la Calidad de la Educación"
+        ],
+        "publishedDate": "2002",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173016144570"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "categories": [
+          "Education, Elementary"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=M48QAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=M48QAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=M48QAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=M48QAAAAYAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Informe_sobre_factores_asociados_al_rend.html?hl=&id=M48QAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=M48QAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LNztDqODQ_kC",
+      "etag": "4aFCUJtFMLg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LNztDqODQ_kC",
+      "volumeInfo": {
+        "title": "No es Morondanga. [A humorous pamphlet, signed: Aliquis, occasioned by the reported insurrection against General Morazán, President of the Republic of Guatemala.]",
+        "publishedDate": "1837",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BL:A0023385098"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 6,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.0.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LNztDqODQ_kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LNztDqODQ_kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=LNztDqODQ_kC&printsec=frontcover&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LNztDqODQ_kC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LNztDqODQ_kC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=LNztDqODQ_kC&rdid=book-LNztDqODQ_kC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LNztDqODQ_kC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mD-lAQAACAAJ",
+      "etag": "HsJmSlyUGaA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mD-lAQAACAAJ",
+      "volumeInfo": {
+        "title": "Pensamiento político de Francisco Morazán",
+        "authors": [
+          "Rafael Bardales B."
+        ],
+        "publishedDate": "1985",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:144700837"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 222,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mD-lAQAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mD-lAQAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pensamiento_pol%C3%ADtico_de_Francisco_Moraz.html?hl=&id=mD-lAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mD-lAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "19iYnQEACAAJ",
+      "etag": "o5sp9l4I41Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/19iYnQEACAAJ",
+      "volumeInfo": {
+        "title": "Memorias del benemérito General D. Francisco Morazán, antiguo Presidente de la República de Centro-América, escritas por el mismo en David (Nueva Granada) en 1840",
+        "authors": [
+          "Francisco Morazán"
+        ],
+        "publishedDate": "1870",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432664083"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=19iYnQEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=19iYnQEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias_del_benem%C3%A9rito_General_D_Franc.html?hl=&id=19iYnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=19iYnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xjZYQwAACAAJ",
+      "etag": "Dz1VKdrohWY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xjZYQwAACAAJ",
+      "volumeInfo": {
+        "title": "Memorias",
+        "subtitle": "de ... Francisco Morazán, antiguo Presidente de la República de Centro-América, escritas por el mismo en David, Nueva Granada, en 1840",
+        "authors": [
+          "Francisco Morazán"
+        ],
+        "publishedDate": "1971",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:462715970"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 74,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=xjZYQwAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=xjZYQwAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias.html?hl=&id=xjZYQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xjZYQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MP_UMgEACAAJ",
+      "etag": "k2sJaH6NceY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MP_UMgEACAAJ",
+      "volumeInfo": {
+        "title": "Rasgos biográficos de Francisco Morazán. Apuntes para la historia de Centro-América. 4a ed",
+        "authors": [
+          "Agustı́n Mencos F.",
+          "Francisco Morazán (President of the Republic of Central America.)"
+        ],
+        "publishedDate": "1906",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:497323633"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 254,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=MP_UMgEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=MP_UMgEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rasgos_biogr%C3%A1ficos_de_Francisco_Moraz%C3%A1.html?hl=&id=MP_UMgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MP_UMgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1fvCnQEACAAJ",
+      "etag": "p/HY9i+9iKg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1fvCnQEACAAJ",
+      "volumeInfo": {
+        "title": "Memorias del benemérito general D. Francisco Morazán, antiguo presidente de la República de Centro-América",
+        "authors": [
+          "Francisco Morazán (Pres. de América Central)"
+        ],
+        "publishedDate": "1870",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651291457"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1fvCnQEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1fvCnQEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias_del_benem%C3%A9rito_general_D_Franc.html?hl=&id=1fvCnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1fvCnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-OA-0QEACAAJ",
+      "etag": "HpxlI/ekae8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-OA-0QEACAAJ",
+      "volumeInfo": {
+        "title": "Memorias del benemérito general Don Francisco Morazán",
+        "subtitle": "escritas por él mismo en David (Nueva Granada) en 1840",
+        "authors": [
+          "Francisco Morazán (Pres. América Central)"
+        ],
+        "publishedDate": "1970",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1511618647"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-OA-0QEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-OA-0QEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias_del_benem%C3%A9rito_general_Don_Fra.html?hl=&id=-OA-0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-OA-0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DwFEzQEACAAJ",
+      "etag": "d9UO2mWg6Vg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DwFEzQEACAAJ",
+      "volumeInfo": {
+        "title": "Francisco Morazán, por él mismo",
+        "authors": [
+          "Francisco Morazán"
+        ],
+        "publishedDate": "2018",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1130310124"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 44,
+        "printType": "BOOK",
+        "categories": [
+          "Presidents"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DwFEzQEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DwFEzQEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Francisco_Moraz%C3%A1n_por_%C3%A9l_mismo.html?hl=&id=DwFEzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DwFEzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fYYd0QEACAAJ",
+      "etag": "w/Qn/EJJZl0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fYYd0QEACAAJ",
+      "volumeInfo": {
+        "title": "Alta Es la Noche Y El General Escribe",
+        "subtitle": "Cartas de 1823 a 1842",
+        "authors": [
+          "Francisco Morazán"
+        ],
+        "publisher": "Coleccion Erandique",
+        "publishedDate": "2025-03-20",
+        "description": "Al general Francisco Morazán lo conocemos a través de sus batallas, pero muy poco por sus cartas. Además de su valor histórico, en sus misivas descubrimos al estadista, al vencedor que perdona a sus enemigos, al vencido que sigue soñando. En un lapso de dos décadas, el vencedor de La Trinidad, Belén Gualcho, San Pedro Perulapán, Espíritu Santo y Guatemala, entre muchas otras, mandó partes de guerra, cartas de negocios y familiares, saludos a los pueblos centroamericanos, advertencias y perdón a sus enemigos. Las cartas revelan a un político magnánimo, a un amigo entrañable, a un líder con un profundo amor por su gente. Sobre el autor: JOSÉ FRANCISCO MORAZÁN QUEZADA. Nació en Tegucigalpa, Honduras, el 3 de octubre de 1792 y murió fusilado en San José, Costa Rica, el 15 de septiembre de 1842. Militar, estadista, político y unionista, fue presidente de la República Federal de Centroamérica en dos ocasiones, así como de Honduras, El Salvador y Costa Rica. Entre sus obras destacadas se encuentran: Memorias, Manifiesto de David y Testamento.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798892673310"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fYYd0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fYYd0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fYYd0QEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fYYd0QEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Alta_Es_la_Noche_Y_El_General_Escribe.html?hl=&id=fYYd0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fYYd0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Al general Francisco Morazán lo conocemos a través de sus batallas, pero muy poco por sus cartas."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ct0_kgAACAAJ",
+      "etag": "BkRfkJsNYFE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ct0_kgAACAAJ",
+      "volumeInfo": {
+        "title": "Cartas a Morazán",
+        "authors": [
+          "Vicente Sáenz",
+          "Francisco Morazán"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:87405298"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Ct0_kgAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Ct0_kgAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cartas_a_Moraz%C3%A1n.html?hl=&id=Ct0_kgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ct0_kgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C5y-PgAACAAJ",
+      "etag": "SB2833rwr64",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C5y-PgAACAAJ",
+      "volumeInfo": {
+        "title": "Memorias del general Morazán (escritas en David, N.G. en 1841",
+        "authors": [
+          "Francisco Morazán"
+        ],
+        "publishedDate": "1905",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:252941003"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=C5y-PgAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=C5y-PgAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias_del_general_Moraz%C3%A1n_escritas_e.html?hl=&id=C5y-PgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C5y-PgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eI11zgEACAAJ",
+      "etag": "2KQhNeUf1wY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eI11zgEACAAJ",
+      "volumeInfo": {
+        "title": "Violación de las garantías constitucionales de libertad de petición y asociación",
+        "subtitle": "represión y listas regras en las empresas maquiladoras de honduras",
+        "authors": [
+          "Centro de Derechos de Mujeres (Tegucigalpa, Francisco Morazán, Honduras)"
+        ],
+        "publishedDate": "2007",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1250489227"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 93,
+        "printType": "BOOK",
+        "categories": [
+          "Assembly, Right of"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=eI11zgEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=45&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eI11zgEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Violaci%C3%B3n_de_las_garant%C3%ADas_constitucio.html?hl=&id=eI11zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eI11zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p3dw0QEACAAJ",
+      "etag": "AGP+qRp9w3Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p3dw0QEACAAJ",
+      "volumeInfo": {
+        "title": "Memorias del benemerito general don Francisco Morazan",
+        "authors": [
+          "Francisco Morazán"
+        ],
+        "publishedDate": "1971",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1025786378"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=p3dw0QEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=46&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=p3dw0QEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias_del_benemerito_general_don_Fran.html?hl=&id=p3dw0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p3dw0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QHGgtgEACAAJ",
+      "etag": "ifQLDJUBUyE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QHGgtgEACAAJ",
+      "volumeInfo": {
+        "title": "La patria de los amigos de la libertad",
+        "subtitle": "proclamas, decretos y documentos",
+        "authors": [
+          "Francisco Morazán"
+        ],
+        "publishedDate": "2017",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6077456403"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786077456407"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=QHGgtgEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=47&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=QHGgtgEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_patria_de_los_amigos_de_la_libertad.html?hl=&id=QHGgtgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QHGgtgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GXCY0QEACAAJ",
+      "etag": "DmgRxgARSVE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GXCY0QEACAAJ",
+      "volumeInfo": {
+        "title": "Estudio ciberviolencia contra mujeres en Honduras",
+        "authors": [
+          "Centro de Derechos de Mujeres (Tegucigalpa, Francisco Morazán, Honduras)"
+        ],
+        "publishedDate": "2023",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1534433808"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Cyberbullying"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GXCY0QEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=48&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GXCY0QEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estudio_ciberviolencia_contra_mujeres_en.html?hl=&id=GXCY0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GXCY0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BLBKHAAACAAJ",
+      "etag": "6zccdDGxMeY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BLBKHAAACAAJ",
+      "volumeInfo": {
+        "title": "Al pueblo centro-americano",
+        "authors": [
+          "Francisco Morazán"
+        ],
+        "publishedDate": "1841",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:26729800"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BLBKHAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=49&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BLBKHAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Al_pueblo_centro_americano.html?hl=&id=BLBKHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BLBKHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lLqRlAEACAAJ",
+      "etag": "JRL5aN26wBY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lLqRlAEACAAJ",
+      "volumeInfo": {
+        "title": "El Presidente de la República se ha servido dirigirme el Decreto que sigue",
+        "subtitle": "el Presidente de la República Federal de Centro-América : por cuanto el Congreso decreta y el Senado sanciona el siguiente Decreto ... considerando, que sin faltar a la proporción en que deben estar siempre las dotaciones de los funcionarios ...",
+        "authors": [
+          "Central América (Federal Republic : 1823-1840). President (1830-1834 : Morazán)",
+          "Pedro José Ignacio de Santa Marta Valenzuela y Jáuregui"
+        ],
+        "publishedDate": "1831",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:820305065"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "categories": [
+          "Broadsides"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lLqRlAEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=50&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lLqRlAEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Presidente_de_la_Rep%C3%BAblica_se_ha_ser.html?hl=&id=lLqRlAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lLqRlAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VOZ3uAAACAAJ",
+      "etag": "KKW5jrvyXpI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VOZ3uAAACAAJ",
+      "volumeInfo": {
+        "title": "Obras",
+        "authors": [
+          "Francisco Morazán",
+          "Víctor Cáceres Lara"
+        ],
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:93149590"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VOZ3uAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=51&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VOZ3uAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras.html?hl=&id=VOZ3uAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VOZ3uAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UA-kHAAACAAJ",
+      "etag": "aB4t79kPOV8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UA-kHAAACAAJ",
+      "volumeInfo": {
+        "title": "Memorias",
+        "subtitle": "escritas en David, N[ueva] G[ranada] en 1841",
+        "authors": [
+          "Francisco Morazán (President Central America)"
+        ],
+        "publishedDate": "1905",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:26138854"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=UA-kHAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=52&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=UA-kHAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias.html?hl=&id=UA-kHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UA-kHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8GAetwAACAAJ",
+      "etag": "uNS9JZ4fEts",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8GAetwAACAAJ",
+      "volumeInfo": {
+        "title": "Prospecto",
+        "authors": [
+          "Escuela Superior del Profesorado Francisco Morazán"
+        ],
+        "publishedDate": "1967",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:62854577"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "categories": [
+          "Teachers colleges"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8GAetwAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=53&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8GAetwAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Prospecto.html?hl=&id=8GAetwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8GAetwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NFFnuAAACAAJ",
+      "etag": "o8tA7BrtRWI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NFFnuAAACAAJ",
+      "volumeInfo": {
+        "title": "Cuatro exponentes del magisterio nacional",
+        "authors": [
+          "Tegucigalpa (Francisco Morazán, Honduras). Instituto Normal \"Mariínez-Fuentes.\""
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:18935517"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "categories": [
+          "Teachers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NFFnuAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=54&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NFFnuAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuatro_exponentes_del_magisterio_naciona.html?hl=&id=NFFnuAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NFFnuAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KzmiGwAACAAJ",
+      "etag": "foEn5j9RNl0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KzmiGwAACAAJ",
+      "volumeInfo": {
+        "title": "Estatutos y reglamento interior de la Escuela técnico-práctica de señoritas",
+        "authors": [
+          "Tegucigalpa (Francisco Morazán, Honduras). Escuela técnico-práctica de señoritas"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:18953678"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=KzmiGwAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=55&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KzmiGwAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estatutos_y_reglamento_interior_de_la_Es.html?hl=&id=KzmiGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KzmiGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DZFIOAAACAAJ",
+      "etag": "WDCCg/9EEmQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DZFIOAAACAAJ",
+      "volumeInfo": {
+        "title": "Apuntes sobre la revolución de 1829",
+        "authors": [
+          "Francisco Morazán",
+          "Ephraim George Squier"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:26729797"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 18,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DZFIOAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=56&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DZFIOAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Apuntes_sobre_la_revoluci%C3%B3n_de_1829.html?hl=&id=DZFIOAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DZFIOAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3I_DzgEACAAJ",
+      "etag": "QckE/pjxzuU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3I_DzgEACAAJ",
+      "volumeInfo": {
+        "title": "Testamento Del Jeneral Francisco Morazan",
+        "subtitle": "San Jose, Setiembre 15 de 1842 Dia Del Aniversario de la Independencia, Cuya Intergridad He Peocurado Mantener...",
+        "authors": [
+          "Francisco Morazan"
+        ],
+        "publishedDate": "1843",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:2021769680"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=3I_DzgEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=57&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3I_DzgEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Testamento_Del_Jeneral_Francisco_Morazan.html?hl=&id=3I_DzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3I_DzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xtsPHQAACAAJ",
+      "etag": "M5V5Ni4vxFw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xtsPHQAACAAJ",
+      "volumeInfo": {
+        "title": "El dia señalado por la Constitucion se reunirá el pueblo à elegir á los individuos de los Supremos Podéres federales",
+        "authors": [
+          "Central America (Federal Republic : 1823-1840)"
+        ],
+        "publishedDate": "1832",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21623669"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 3,
+        "printType": "BOOK",
+        "categories": [
+          "Elections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=xtsPHQAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=58&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=xtsPHQAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_dia_se%C3%B1alado_por_la_Constitucion_se.html?hl=&id=xtsPHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xtsPHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KOtZQwAACAAJ",
+      "etag": "4xhbMC8F7Rw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KOtZQwAACAAJ",
+      "volumeInfo": {
+        "title": "Memorias del benemérito General",
+        "authors": [
+          "Francisco Morazán"
+        ],
+        "publishedDate": "1970",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432664082"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 58,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=KOtZQwAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=59&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KOtZQwAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias_del_benem%C3%A9rito_General.html?hl=&id=KOtZQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KOtZQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yE1oHAAACAAJ",
+      "etag": "sugZjgt5hmM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yE1oHAAACAAJ",
+      "volumeInfo": {
+        "title": "Momorias",
+        "authors": [
+          "Francisco Morazán (pres. América Central)"
+        ],
+        "publishedDate": "1981",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:48320520"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 101,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yE1oHAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=60&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yE1oHAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Momorias.html?hl=&id=yE1oHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yE1oHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pyBalAEACAAJ",
+      "etag": "HFnwoVXKap0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pyBalAEACAAJ",
+      "volumeInfo": {
+        "title": "El Presidente de la República se ha servido dirigirme el siguiente Decreto",
+        "subtitle": "el Presidente de la República Federal de Centro-América, habiendo cesado con la rendición del Castillo de Omoa los motivos que obligaron al Gobierno á designar por punto de registro el de Gualán ...",
+        "authors": [
+          "Central América (Federal Republic : 1823-1840). President (1830-1834 : Morazán)",
+          "Manuel Yrungaray"
+        ],
+        "publishedDate": "1832",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:820304795"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Broadsides"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=pyBalAEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=61&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=pyBalAEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Presidente_de_la_Rep%C3%BAblica_se_ha_ser.html?hl=&id=pyBalAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pyBalAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FGltMgAACAAJ",
+      "etag": "d0FmqCpid3Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FGltMgAACAAJ",
+      "volumeInfo": {
+        "title": "Manifiesto de David",
+        "authors": [
+          "Francisco Morazán"
+        ],
+        "publishedDate": "19??",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:145017503"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=FGltMgAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=62&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=FGltMgAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifiesto_de_David.html?hl=&id=FGltMgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FGltMgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mxaeHAAACAAJ",
+      "etag": "moBYJlkRANQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mxaeHAAACAAJ",
+      "volumeInfo": {
+        "title": "Las brillantes fiestas dicembrinas",
+        "subtitle": "La reverencia del pueblo de Comayaguela a la Virgin de Concepción. Del 7 al 24 de diciembre la alegría plantará sus tiendas en la plaza de la heroica ciudad indiana",
+        "authors": [
+          "Comayagüela (Francisco Morazán, Honduras)"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:17771043"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": [
+          "Feast of the Immaculate Conception"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mxaeHAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=63&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mxaeHAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_brillantes_fiestas_dicembrinas.html?hl=&id=mxaeHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mxaeHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_C5UGwAACAAJ",
+      "etag": "sXcKK/DlaXY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_C5UGwAACAAJ",
+      "volumeInfo": {
+        "title": "Instituto Nacional, programas de examenes ...",
+        "authors": [
+          "Tegucigalpa (Francisco Morazán, Honduras). Instituto Nacional"
+        ],
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:15652014"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 70,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_C5UGwAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=64&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_C5UGwAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Instituto_Nacional_programas_de_examenes.html?hl=&id=_C5UGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_C5UGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qT5N0QEACAAJ",
+      "etag": "ZjXrlSKqp/4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qT5N0QEACAAJ",
+      "volumeInfo": {
+        "title": "Violación de las garantias constitucionales de libertad de petición y asociación",
+        "subtitle": "represión y listas regras en las empresas maquiladoras de honduras",
+        "authors": [
+          "Centro de Derechos de Mujeres (Tegucigalpa, Francisco Morazán, Honduras)"
+        ],
+        "publishedDate": "2007",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:2010385084"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Assembly, Right of"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qT5N0QEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=65&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qT5N0QEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Violaci%C3%B3n_de_las_garantias_constitucion.html?hl=&id=qT5N0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qT5N0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IRwYlQEACAAJ",
+      "etag": "Ix3om40GCZs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IRwYlQEACAAJ",
+      "volumeInfo": {
+        "title": "El Presidente de la República se ha servido dirigirme el siguiente Decreto ...",
+        "subtitle": "por cuanto el Congreso decreta lo siguiente : el Congreso de la República federal de Centro-américa, convocado para el dia de hoy á sesiones extraordinarias ...",
+        "authors": [
+          "Central América (Federal Republic : 1823-1840). President (1830-1834 : Morazán)",
+          "José Azmitia"
+        ],
+        "publishedDate": "1832",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21750971"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Parliamentary practice"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=IRwYlQEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=66&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=IRwYlQEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Presidente_de_la_Rep%C3%BAblica_se_ha_ser.html?hl=&id=IRwYlQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IRwYlQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HR0WlQEACAAJ",
+      "etag": "VPR0EKhxJWo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HR0WlQEACAAJ",
+      "volumeInfo": {
+        "title": "El Presidente de la República Federal de Centro-América",
+        "subtitle": "por cuanto el Congreso decreta lo siguiente : el Congreso de la República Federal de Centro-América, convocado para el día de hoy a sesiones extraordinarias ... verificada su organización constitucional ... instalado en sesiones extraordinarias, señalando para la apertura de éstas el día 20. del corriente",
+        "authors": [
+          "Central América (Federal Republic : 1823-1840). President (1830-1834 : Morazán)",
+          "José Azmitia"
+        ],
+        "publishedDate": "1832",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:820296474"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Broadsides"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HR0WlQEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=67&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HR0WlQEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Presidente_de_la_Rep%C3%BAblica_Federal_d.html?hl=&id=HR0WlQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HR0WlQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "M5zdPgAACAAJ",
+      "etag": "1zNCCcWGphk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M5zdPgAACAAJ",
+      "volumeInfo": {
+        "title": "Manifesto de David",
+        "subtitle": "testamento",
+        "authors": [
+          "Francisco Morazán"
+        ],
+        "publishedDate": "1987",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:252838417"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=M5zdPgAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=68&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=M5zdPgAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifesto_de_David.html?hl=&id=M5zdPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=M5zdPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C0lJHQAACAAJ",
+      "etag": "Ge1STVsECSc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C0lJHQAACAAJ",
+      "volumeInfo": {
+        "title": "Manifiesto de las alumnas de la Escuela normal central de señoritas, a los Hondureños",
+        "authors": [
+          "Comayagüela (Francisco Morazán, Honduras). Escuela normal central de senoritas"
+        ],
+        "publishedDate": "1937*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:13553435"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=C0lJHQAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=69&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=C0lJHQAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifiesto_de_las_alumnas_de_la_Escuela.html?hl=&id=C0lJHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C0lJHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1ygn0QEACAAJ",
+      "etag": "oU4jkIap1XQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1ygn0QEACAAJ",
+      "volumeInfo": {
+        "title": "Obras, La organización del Estado de Honduras",
+        "authors": [
+          "Francisco Morazán"
+        ],
+        "publishedDate": "2023",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9997976029"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789997976024"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1ygn0QEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=70&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1ygn0QEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_La_organizaci%C3%B3n_del_Estado_de_Hon.html?hl=&id=1ygn0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1ygn0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LBLOHAAACAAJ",
+      "etag": "jQoyXRv7Wyw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LBLOHAAACAAJ",
+      "volumeInfo": {
+        "title": "Plan de arbitrios de la municipalidad de Tegucigalpa",
+        "authors": [
+          "Tegucigalpa (Francisco Morazán, Honduras). Consejo Departamental"
+        ],
+        "publishedDate": "1935",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:15626651"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 27,
+        "printType": "BOOK",
+        "categories": [
+          "Internal revenue"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=LBLOHAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=71&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LBLOHAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Plan_de_arbitrios_de_la_municipalidad_de.html?hl=&id=LBLOHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LBLOHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1-dPYAAACAAJ",
+      "etag": "H3f8NgAnTTw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1-dPYAAACAAJ",
+      "volumeInfo": {
+        "title": "Memorias",
+        "authors": [
+          "Francisco Morazán"
+        ],
+        "publishedDate": "1986",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:728986444"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 101,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1-dPYAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=72&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1-dPYAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias.html?hl=&id=1-dPYAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1-dPYAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3MZGtAEACAAJ",
+      "etag": "qHo9UnJg8O4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3MZGtAEACAAJ",
+      "volumeInfo": {
+        "title": "Femicidios e impunidad",
+        "subtitle": "¿por qué el homicidio de Vanessa se mantiene en la impunidad?",
+        "authors": [
+          "Centro de Derechos de Mujeres (Tegucigalpa, Francisco Morazán, Honduras)"
+        ],
+        "publishedDate": "2014",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1001300241"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 25,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3MZGtAEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=73&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3MZGtAEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Femicidios_e_impunidad.html?hl=&id=3MZGtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3MZGtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SbBvzgEACAAJ",
+      "etag": "T1DNCdvVC9g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SbBvzgEACAAJ",
+      "volumeInfo": {
+        "title": "Comandancia jeneral de los ejercitos aliados protectores de la ley, en la ciudad de Guatemala á veinte de abril de mil ochocientos veinte y nueve ...",
+        "subtitle": "he tenido à bien declerar y declaro: 1.o La capitulacion celegrada con los comisionados del jefe Aycinene en concepto de comandante de armas de esta plaza, es en todas sus partes nula, y de ningun valor y efecto ...",
+        "authors": [
+          "Francisco Morazán"
+        ],
+        "publishedDate": "1829",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:2020772309"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SbBvzgEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=74&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SbBvzgEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Comandancia_jeneral_de_los_ejercitos_ali.html?hl=&id=SbBvzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SbBvzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kiYMMwEACAAJ",
+      "etag": "EtdcTqJanNI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kiYMMwEACAAJ",
+      "volumeInfo": {
+        "title": "Morazánida. De la Epopeya, la Tragedia Y la Apoteosis",
+        "authors": [
+          "Joaquín RODAS M.",
+          "Francisco MORAZÁN (President of the Republic of Central America.)"
+        ],
+        "publishedDate": "1930*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:504431095"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 399,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=kiYMMwEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=75&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=kiYMMwEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Moraz%C3%A1nida_De_la_Epopeya_la_Tragedia_Y.html?hl=&id=kiYMMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kiYMMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "l2QYHQAACAAJ",
+      "etag": "cFWMigqW/nE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/l2QYHQAACAAJ",
+      "volumeInfo": {
+        "title": "Atribuciones de los alcaldes auxiliares",
+        "authors": [
+          "Tegucigalpa (Francisco Morazán, Honduras)"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:15647202"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 5,
+        "printType": "BOOK",
+        "categories": [
+          "Mayors"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=l2QYHQAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=76&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=l2QYHQAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Atribuciones_de_los_alcaldes_auxiliares.html?hl=&id=l2QYHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=l2QYHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Q-UJRAAACAAJ",
+      "etag": "PZY3QbpRLDI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q-UJRAAACAAJ",
+      "volumeInfo": {
+        "title": "El vice presidente de la República federal de Centro-américa",
+        "subtitle": "con el objeto de dar cumplimiento en todas sus partes al decreto del congreso de 7 del po.po. en que manda se concedan los honores del triunfo al general presidente y sus tropas á su entrada en esta ciudad, de conformidad con las leyes, y segun lo permitan las circunstancias; y no exîstiendo, que el P.E. sepa, alguna disposicion legislativa que señale los honores del triunfo a los defensores de la patria ...",
+        "authors": [
+          "Central America (Federal Republic : 1823-1840)",
+          "Francisco Morazán"
+        ],
+        "publishedDate": "1832",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:80825105"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Q-UJRAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=77&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Q-UJRAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_vice_presidente_de_la_Rep%C3%BAblica_fede.html?hl=&id=Q-UJRAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Q-UJRAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yMYzHQAACAAJ",
+      "etag": "SVptkaLfZrY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yMYzHQAACAAJ",
+      "volumeInfo": {
+        "title": "Francisco Morazán, el primer planificador de la educación nacional",
+        "authors": [
+          "Francisco Morazán",
+          "Elisa E. Valle de Martínez Pavetti"
+        ],
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:52926130"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 31,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yMYzHQAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=78&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yMYzHQAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Francisco_Moraz%C3%A1n_el_primer_planificado.html?hl=&id=yMYzHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yMYzHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JDQaPAAACAAJ",
+      "etag": "oWPkLptyiVo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JDQaPAAACAAJ",
+      "volumeInfo": {
+        "title": "Reglamento interior de la Escuela de mecanografía y taquigrafía técnico-práctico",
+        "authors": [
+          "Tegucigalpa (Honduras). Escuela de mecanografía y taquigrafía técnico-practico"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:18954162"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 11,
+        "printType": "BOOK",
+        "categories": [
+          "Business education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JDQaPAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=79&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JDQaPAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Reglamento_interior_de_la_Escuela_de_mec.html?hl=&id=JDQaPAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JDQaPAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VoOVAQAACAAJ",
+      "etag": "F40FcBqclBM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VoOVAQAACAAJ",
+      "volumeInfo": {
+        "title": "Acceso a la justicia en casos de muertes violentas y femicidios",
+        "authors": [
+          "Centro de Derechos de Mujeres (Tegucigalpa, Francisco Morazán, Honduras)"
+        ],
+        "publishedDate": "2014",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9992649925"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789992649923"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 60,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VoOVAQAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=80&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VoOVAQAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Acceso_a_la_justicia_en_casos_de_muertes.html?hl=&id=VoOVAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VoOVAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "V1eTnAEACAAJ",
+      "etag": "7iMY7kvv3Ek",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/V1eTnAEACAAJ",
+      "volumeInfo": {
+        "title": "Commencement, 1946",
+        "authors": [
+          "Tegucigalpa (Francisco Morazán, Honduras). Escuela Agrícola Panamericana"
+        ],
+        "publishedDate": "1946",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:71070607"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=V1eTnAEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=81&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=V1eTnAEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Commencement_1946.html?hl=&id=V1eTnAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=V1eTnAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ir3kHAAACAAJ",
+      "etag": "HtCA7+BYIlI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ir3kHAAACAAJ",
+      "volumeInfo": {
+        "title": "Programa de los examenes públicos que se verificaán en este establecimiento del 1.̊ al 15 del mes de diciembre próximo entrante",
+        "authors": [
+          "Tegucigalpa (Francisco Morazán, Honduras). Instituto Nacional de Segunda Enseñanza"
+        ],
+        "publishedDate": "1896",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:15652006"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 11,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Ir3kHAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=82&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Ir3kHAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Programa_de_los_examenes_p%C3%BAblicos_que_s.html?hl=&id=Ir3kHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ir3kHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4GzRHAAACAAJ",
+      "etag": "7ykNWvY9nas",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4GzRHAAACAAJ",
+      "volumeInfo": {
+        "title": "El Ayuntamiento de Tegucigalpa y la fiesta de San Miguel celebración de dos aniversarios en la historia de la capital",
+        "authors": [
+          "Tegucigalpa (Francisco Morazán, Honduras). Ayuntamiento"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:17737561"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 7,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4GzRHAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=83&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4GzRHAAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Ayuntamiento_de_Tegucigalpa_y_la_fies.html?hl=&id=4GzRHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4GzRHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YNYOMwEACAAJ",
+      "etag": "REP67FL8hrw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YNYOMwEACAAJ",
+      "volumeInfo": {
+        "title": "Congreso Federal. [Propositions Submitted to the Congress.].",
+        "authors": [
+          "Francisco MORAZÁN (President of the Republic of Central America.)"
+        ],
+        "publishedDate": "1833",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:562090557"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=YNYOMwEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=84&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YNYOMwEACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Congreso_Federal_Propositions_Submitted.html?hl=&id=YNYOMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YNYOMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o2P1GgAACAAJ",
+      "etag": "4JdExQE2T7A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o2P1GgAACAAJ",
+      "volumeInfo": {
+        "title": "Acta de inauguración de la Escuela de artes y oficios de Tegucigalpa, tercera sección del Instituto nacional de 2.a enseñanza y de estudios de aplicacion, de la misma ciudad",
+        "subtitle": "15 de septiembre de 1890",
+        "authors": [
+          "Tegucigalpa (Francisco Morazán, Honduras). Escuela de artes y oficios"
+        ],
+        "publishedDate": "1890",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:18954178"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 11,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=o2P1GgAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&cd=85&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=o2P1GgAACAAJ&dq=inauthor:%22Francisco+Moraz%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Acta_de_inauguraci%C3%B3n_de_la_Escuela_de_a.html?hl=&id=o2P1GgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o2P1GgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

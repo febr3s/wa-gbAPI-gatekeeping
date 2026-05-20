@@ -1,0 +1,765 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juan%20Jos%C3%A9%20Alvarado\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juan%20Jos%C3%A9%20Alvarado\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 12,
+  "_totalFetchedItems": 12,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "g1eudfgEd-4C",
+      "etag": "sl4PRp6ysyI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g1eudfgEd-4C",
+      "volumeInfo": {
+        "title": "Echinoderm Research and Diversity in Latin America",
+        "authors": [
+          "Juan José Alvarado",
+          "Francisco Alonso Solis-Marin"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2012-08-07",
+        "description": "This book compiles for the first time the development of echinoderm research in Latin America. The book contains 17 chapters, one introductory, 15 country chapters, and a final biogeographic analysis. It compiles all the investigations published in international and local journals, reports, theses and other gray literature. Each chapter is composed of 7 sections: introduction describes the marine environments, and main oceanographic characteristics, followed by a history of research account divided by specific subjects. The next section addresses patterns of distribution and diversity. A specific section would explain fishery or aquaculture activities. The next sections deal with environmental and anthropogenic threats that are affecting echinoderm, and any conservation or management action. Finally, a section with conclusions, needs and new lines of research. The book will include two appendixes with species lists of all echinoderms with bathimetric data, habitat and distribution.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783642200519"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3642200516"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 665,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.6.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=g1eudfgEd-4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=g1eudfgEd-4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=g1eudfgEd-4C&printsec=frontcover&dq=inauthor:%22Juan+Jos%C3%A9+Alvarado%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=g1eudfgEd-4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=g1eudfgEd-4C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 709800,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 496860,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=g1eudfgEd-4C&rdid=book-g1eudfgEd-4C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 709800000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 496860000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Echinoderm_Research_and_Diversity_in_Lat-sample-epub.acsm?id=g1eudfgEd-4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Echinoderm_Research_and_Diversity_in_Lat-sample-pdf.acsm?id=g1eudfgEd-4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g1eudfgEd-4C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book compiles for the first time the development of echinoderm research in Latin America. The book contains 17 chapters, one introductory, 15 country chapters, and a final biogeographic analysis."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5b7BzgEACAAJ",
+      "etag": "8U0uDSfIazE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5b7BzgEACAAJ",
+      "volumeInfo": {
+        "title": "Gestión de inventarios, gestión del conocimiento, gestión de mantenimiento",
+        "authors": [
+          "Norman David Yuseff M."
+        ],
+        "publishedDate": "2020",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9585590328"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789585590328"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "categories": [
+          "Business logistics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5b7BzgEACAAJ&dq=inauthor:%22Juan+Jos%C3%A9+Alvarado%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5b7BzgEACAAJ&dq=inauthor:%22Juan+Jos%C3%A9+Alvarado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gesti%C3%B3n_de_inventarios_gesti%C3%B3n_del_con.html?hl=&id=5b7BzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5b7BzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "prB8AQAACAAJ",
+      "etag": "BQFqbGPoODQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/prB8AQAACAAJ",
+      "volumeInfo": {
+        "title": "Análisis de BPA para los hospederos de los clados de symbiodinium (dinophycea).",
+        "authors": [
+          "Juan José Alvarado"
+        ],
+        "publishedDate": "2009",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:950769665"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 7,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=prB8AQAACAAJ&dq=inauthor:%22Juan+Jos%C3%A9+Alvarado%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=prB8AQAACAAJ&dq=inauthor:%22Juan+Jos%C3%A9+Alvarado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/An%C3%A1lisis_de_BPA_para_los_hospederos_de.html?hl=&id=prB8AQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=prB8AQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lzrttgAACAAJ",
+      "etag": "B7KGTVtApP0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lzrttgAACAAJ",
+      "volumeInfo": {
+        "title": "Estudios latinoamericanos en equinodermos",
+        "authors": [
+          "Juan José Alvarado"
+        ],
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:488956495"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 387,
+        "printType": "BOOK",
+        "categories": [
+          "Echinodermata"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=lzrttgAACAAJ&dq=inauthor:%22Juan+Jos%C3%A9+Alvarado%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lzrttgAACAAJ&dq=inauthor:%22Juan+Jos%C3%A9+Alvarado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estudios_latinoamericanos_en_equinodermo.html?hl=&id=lzrttgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lzrttgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MqjNswEACAAJ",
+      "etag": "pUdK2ZjB4yY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MqjNswEACAAJ",
+      "volumeInfo": {
+        "title": "Test psicosexual",
+        "authors": [
+          "Juan José Alvarado"
+        ],
+        "publishedDate": "2016",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:978274403"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 87,
+        "printType": "BOOK",
+        "categories": [
+          "Psychosexual development"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=MqjNswEACAAJ&dq=inauthor:%22Juan+Jos%C3%A9+Alvarado%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=MqjNswEACAAJ&dq=inauthor:%22Juan+Jos%C3%A9+Alvarado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Test_psicosexual.html?hl=&id=MqjNswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MqjNswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "je2nAQAACAAJ",
+      "etag": "gaAyxcWlz/s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/je2nAQAACAAJ",
+      "volumeInfo": {
+        "title": "Análisis de BPA para los hospederos de los clados de symbiodinium (dinophycea).",
+        "authors": [
+          "Juan José Alvarado"
+        ],
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:950214099"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 7,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=je2nAQAACAAJ&dq=inauthor:%22Juan+Jos%C3%A9+Alvarado%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=je2nAQAACAAJ&dq=inauthor:%22Juan+Jos%C3%A9+Alvarado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/An%C3%A1lisis_de_BPA_para_los_hospederos_de.html?hl=&id=je2nAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=je2nAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ps7m0AEACAAJ",
+      "etag": "8NJUdx+Fi3s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ps7m0AEACAAJ",
+      "volumeInfo": {
+        "title": "Ximonïk",
+        "authors": [
+          "Juan José Alvarado Sitaví"
+        ],
+        "publishedDate": "2024",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "992973256X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789929732568"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Cakchikel language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ps7m0AEACAAJ&dq=inauthor:%22Juan+Jos%C3%A9+Alvarado%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ps7m0AEACAAJ&dq=inauthor:%22Juan+Jos%C3%A9+Alvarado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ximon%C3%AFk.html?hl=&id=ps7m0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ps7m0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dW-ODAEACAAJ",
+      "etag": "v0dznzHCdeY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dW-ODAEACAAJ",
+      "volumeInfo": {
+        "title": "Infertilidad y endocrinología reproductiva",
+        "publishedDate": "1992*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:920323504"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 215,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=dW-ODAEACAAJ&dq=inauthor:%22Juan+Jos%C3%A9+Alvarado%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dW-ODAEACAAJ&dq=inauthor:%22Juan+Jos%C3%A9+Alvarado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Infertilidad_y_endocrinolog%C3%ADa_reproduct.html?hl=&id=dW-ODAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dW-ODAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_rFiGwAACAAJ",
+      "etag": "aKisK50r3YE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_rFiGwAACAAJ",
+      "volumeInfo": {
+        "title": "El envejecimiento humano",
+        "authors": [
+          "Juan José Alvarado"
+        ],
+        "publishedDate": "1970",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:14417801"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 193,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_rFiGwAACAAJ&dq=inauthor:%22Juan+Jos%C3%A9+Alvarado%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_rFiGwAACAAJ&dq=inauthor:%22Juan+Jos%C3%A9+Alvarado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_envejecimiento_humano.html?hl=&id=_rFiGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_rFiGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JDxj0QEACAAJ",
+      "etag": "aYC0B/+VyO4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JDxj0QEACAAJ",
+      "volumeInfo": {
+        "title": "Marine Biodiversity in the Caribbean",
+        "subtitle": "Regional Estimates and Distribution Patterns",
+        "authors": [
+          "Patricia Miloslavich"
+        ],
+        "publishedDate": "2010",
+        "description": "This paper provides an analysis of the distribution patterns of marine biodiversity and summarizes the major activities of the Census of Marine Life program in the Caribbean region. The coastal Caribbean region is a large marine ecosystem (LME) characterized by coral reefs, mangroves, and seagrasses, but including other environments, such as sandy beaches and rocky shores. These tropical ecosystems incorporate a high diversity of associated flora and fauna, and the nations that border the Caribbean collectively encompass a major global marine biodiversity hot spot. We analyze the state of knowledge of marine biodiversity based on the geographic distribution of georeferenced species records and regional taxonomic lists. A total of 12,046 marine species are reported in this paper for the Caribbean region. These include representatives from 31 animal phyla, two plant phyla, one group of Chromista, and three groups of Protoctista. Sampling effort has been greatest in shallow, nearshore waters, where there is relatively good coverage of species records; offshore and deep environments have been less studied. Additionally, we found that the currently accepted classification of marine ecoregions of the Caribbean did not apply for the benthic distributions of five relatively well known taxonomic groups. Coastal species richness tends to concentrate along the Antillean arc (Cuba to the southernmost Antilles) and the northern coast of South America (Venezuela ? Colombia), while no pattern can be observed in the deep sea with the available data. Several factors make it impossible to determine the extent to which these distribution patterns accurately reflect the true situation for marine biodiversity in general: (1) highly localized concentrations of collecting effort and a lack of collecting in many areas and ecosystems, (2) high variability among collecting methods, (3) limited taxonomic expertise for many groups, and (4) differing levels of activity in the study of different taxa.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1519082122"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=JDxj0QEACAAJ&dq=inauthor:%22Juan+Jos%C3%A9+Alvarado%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JDxj0QEACAAJ&dq=inauthor:%22Juan+Jos%C3%A9+Alvarado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Marine_Biodiversity_in_the_Caribbean.html?hl=&id=JDxj0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JDxj0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This paper provides an analysis of the distribution patterns of marine biodiversity and summarizes the major activities of the Census of Marine Life program in the Caribbean region."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wYUNzAEACAAJ",
+      "etag": "0Dug4DGOhCg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wYUNzAEACAAJ",
+      "volumeInfo": {
+        "title": "Advanced Biomedical Engineering",
+        "authors": [
+          "Gaetano Gargiulo",
+          "Alistair McEwan"
+        ],
+        "publisher": "IntechOpen",
+        "publishedDate": "2011-08-23",
+        "description": "This book presents a collection of recent and extended academic works in selected topics of biomedical signal processing, bio-imaging and biomedical ethics and legislation. This wide range of topics provide a valuable update to researchers in the multidisciplinary area of biomedical engineering and an interesting introduction for engineers new to the area. The techniques covered include modelling, experimentation and discussion with the application areas ranging from acoustics to oncology, health education and cardiovascular disease.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9533075554"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789533075556"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=wYUNzAEACAAJ&dq=inauthor:%22Juan+Jos%C3%A9+Alvarado%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wYUNzAEACAAJ&dq=inauthor:%22Juan+Jos%C3%A9+Alvarado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Advanced_Biomedical_Engineering.html?hl=&id=wYUNzAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wYUNzAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book presents a collection of recent and extended academic works in selected topics of biomedical signal processing, bio-imaging and biomedical ethics and legislation."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yhvlcQAACAAJ",
+      "etag": "KcWzcFpumlA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yhvlcQAACAAJ",
+      "volumeInfo": {
+        "title": "Caracterización del metabolismo mineral de algunas especies de gipsofitos",
+        "authors": [
+          "Juan José Alvarado Guerri",
+          "L. María Romero Monreal"
+        ],
+        "publishedDate": "1995",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8492048220"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788492048229"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 95,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yhvlcQAACAAJ&dq=inauthor:%22Juan+Jos%C3%A9+Alvarado%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yhvlcQAACAAJ&dq=inauthor:%22Juan+Jos%C3%A9+Alvarado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Caracterizaci%C3%B3n_del_metabolismo_mineral.html?hl=&id=yhvlcQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yhvlcQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

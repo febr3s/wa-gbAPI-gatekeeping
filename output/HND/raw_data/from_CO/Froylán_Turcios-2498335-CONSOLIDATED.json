@@ -1,0 +1,2345 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Froyl%C3%A1n%20Turcios\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Froyl%C3%A1n%20Turcios\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Froyl%C3%A1n%20Turcios\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Froyl%C3%A1n%20Turcios\"&maxResults=17&startIndex=20&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 37,
+  "_totalRequestsMade": 2,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "g_pIAAAAYAAJ",
+      "etag": "mCK8owVYwZk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g_pIAAAAYAAJ",
+      "volumeInfo": {
+        "title": "El vampiro",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "1986",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173027942903"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 154,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=g_pIAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=g_pIAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=g_pIAAAAYAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=g_pIAAAAYAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_vampiro.html?hl=&id=g_pIAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g_pIAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tgYuAAAAIAAJ",
+      "etag": "LJhXmrTH0e8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tgYuAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Froylán Turcios en los campos de la estética y el civismo",
+        "authors": [
+          "Medardo Mejía"
+        ],
+        "publishedDate": "1980",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3776962"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tgYuAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tgYuAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tgYuAAAAIAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=tgYuAAAAIAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Froyl%C3%A1n_Turcios_en_los_campos_de_la_est.html?hl=&id=tgYuAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tgYuAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xT9TAAAAMAAJ",
+      "etag": "UQqth3MGPJQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xT9TAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Cuentos del amor y de la muerte",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023997845"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 366,
+        "printType": "BOOK",
+        "categories": [
+          "Amor en la literatura"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xT9TAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xT9TAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=xT9TAAAAMAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=xT9TAAAAMAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuentos_del_amor_y_de_la_muerte.html?hl=&id=xT9TAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xT9TAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-T9TAAAAMAAJ",
+      "etag": "aG3Zs53UBIo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-T9TAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Páginas del ayer",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "1932",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023997867"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": [
+          "Spanish language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-T9TAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-T9TAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-T9TAAAAMAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-T9TAAAAMAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/P%C3%A1ginas_del_ayer.html?hl=&id=-T9TAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-T9TAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XpQ_AQAAMAAJ",
+      "etag": "O2VuvXQA0eA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XpQ_AQAAMAAJ",
+      "volumeInfo": {
+        "title": "Mariposas",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "1895",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MSU:31293014113322"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 316,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XpQ_AQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XpQ_AQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=XpQ_AQAAMAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=XpQ_AQAAMAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mariposas.html?hl=&id=XpQ_AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XpQ_AQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AOxIAAAAYAAJ",
+      "etag": "7q569UsdARM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AOxIAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Memorias y apuntes de viaje",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "2007",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173030502396"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 498,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Honduran"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AOxIAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AOxIAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=AOxIAAAAYAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=AOxIAAAAYAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias_y_apuntes_de_viaje.html?hl=&id=AOxIAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AOxIAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ca3w0AEACAAJ",
+      "etag": "J/d18F4/37M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ca3w0AEACAAJ",
+      "volumeInfo": {
+        "title": "Cuentos de amor y de la muerte",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "2024-10-11",
+        "description": "\"Al anochecer de un dos de noviembre llegué a La Antigua... Un frío viento azotaba las calles oscuras; y las campanas de todas las iglesias, en un redoble monótono y tristísimo, gemían por los difuntos\". EL FANTASMA BLANCO. \"Horrendo espanto produjo en la región el mísero leproso. Apareció súbitamente, calcinado y carcomido, envuelto en sus harapos húmedos de sangre, con su ácido olor a podredumbre\". LA MEJOR LIMOSNA. Froylán Turcios, el maestro de los versos amorosos, nos pone los pelos de punta y nos llena de escalofríos con esta colección de relatos crueles y de terror.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798892672290"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ca3w0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ca3w0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ca3w0AEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ca3w0AEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuentos_de_amor_y_de_la_muerte.html?hl=&id=ca3w0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ca3w0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "LA MEJOR LIMOSNA. Froylán Turcios, el maestro de los versos amorosos, nos pone los pelos de punta y nos llena de escalofríos con esta colección de relatos crueles y de terror."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hPwbAQAAIAAJ",
+      "etag": "qE1KJfO1Iac",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hPwbAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Almas trágicas",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105114932036"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 150,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.6.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hPwbAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hPwbAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hPwbAQAAIAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hPwbAQAAIAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Almas_tr%C3%A1gicas.html?hl=&id=hPwbAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hPwbAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1fwbAQAAIAAJ",
+      "etag": "vFcfUpVPiBU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1fwbAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Todos los cuentos",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105123145299"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 316,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.11.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1fwbAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1fwbAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1fwbAQAAIAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1fwbAQAAIAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Todos_los_cuentos.html?hl=&id=1fwbAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1fwbAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "U2wa0AEACAAJ",
+      "etag": "499YB1FAj5g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U2wa0AEACAAJ",
+      "volumeInfo": {
+        "title": "Renglones, 1899...",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publisher": "Legare Street Press",
+        "publishedDate": "2023-07-18",
+        "description": "Esta es una colección de ensayos políticos y literarios escritos por Froylán Turcios. Publicado en 1899, los ensayos abarcan una amplia variedad de temas, desde la poesía y la literatura hasta la política y la sociedad hondureña. Renglones 1899 es un ejemplo de la alta calidad literaria y enfoque intelectual de Turcios, así como una reflexión valiosa sobre la situación política y cultural de América Central a finales del siglo XIX. This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the \"public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1021256587"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781021256584"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=U2wa0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=U2wa0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=U2wa0AEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=U2wa0AEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Renglones_1899.html?hl=&id=U2wa0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U2wa0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the &quot;public domain in the United States of America, and possibly other nations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qguq0AEACAAJ",
+      "etag": "/hQA2fEixSI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qguq0AEACAAJ",
+      "volumeInfo": {
+        "title": "Boletín de la Defensa Nacional (1924)",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "2024-03-25",
+        "description": "Esta es la BIBLIA DEL PATRIOTISMO. El 19 de marzo de 1924, 200 Marines de Estados Unidos invadieron Tegucigalpa e instalaron su cuartel general en el Hotel Agurcia, a un costado del Parque Central. Honduras vivía la peor guerra civil de su historia, y la excusa fue que el ejército gringo llegaba a proteger la vida y propiedades de sus compatriotas. El viernes 21 de marzo, Froylán Turcios publicó, con dinero de su propio bolsillo, el primer número del Boletín de la Defensa Nacional, donde atacó, con valentía y la colaboración de otras brillantes plumas, a los Marines. Por primera vez, los lectores hondureños podrán leer la edición completa del Boletín de la Defensa Nacional (treintaiún números) gracias a un nuevo aporte de Colección Erandique al rescate de la memoria histórica del país.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798892670784"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qguq0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qguq0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qguq0AEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qguq0AEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bolet%C3%ADn_de_la_Defensa_Nacional_1924.html?hl=&id=qguq0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qguq0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El viernes 21 de marzo, Froylán Turcios publicó, con dinero de su propio bolsillo, el primer número del Boletín de la Defensa Nacional, donde atacó, con valentía y la colaboración de otras brillantes plumas, a los Marines."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aZxrHQAACAAJ",
+      "etag": "KdMBzt1gt4Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aZxrHQAACAAJ",
+      "volumeInfo": {
+        "title": "Renglones",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54160314"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=aZxrHQAACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=aZxrHQAACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Renglones.html?hl=&id=aZxrHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aZxrHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OqwuAAAAYAAJ",
+      "etag": "sMe0EdsR9xA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OqwuAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Anecdotario hondureño",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "2007",
+        "description": "A collection of Honduran anecdotes and narratives by the great Honduran author, written from 1937-1944 and published and edited for the first time in book form by the foremost scholar on Turcios.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173011829934"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "categories": [
+          "Anecdotes"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OqwuAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OqwuAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=OqwuAAAAYAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=OqwuAAAAYAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anecdotario_hondure%C3%B1o.html?hl=&id=OqwuAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OqwuAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A collection of Honduran anecdotes and narratives by the great Honduran author, written from 1937-1944 and published and edited for the first time in book form by the foremost scholar on Turcios."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "twUuAAAAIAAJ",
+      "etag": "o+IBElUdVWY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/twUuAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Memorias",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "1980",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3776961"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 430,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Honduran"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=twUuAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=twUuAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=twUuAAAAIAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=twUuAAAAIAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias.html?hl=&id=twUuAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=twUuAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AAU_HQAACAAJ",
+      "etag": "A03zcqitAx4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AAU_HQAACAAJ",
+      "volumeInfo": {
+        "title": "Floresta sonora",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "1915",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:22004281"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=AAU_HQAACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=AAU_HQAACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Floresta_sonora.html?hl=&id=AAU_HQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AAU_HQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YUBTAAAAMAAJ",
+      "etag": "27Gwp1Q8M0w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YUBTAAAAMAAJ",
+      "volumeInfo": {
+        "title": "El vampiro",
+        "subtitle": "novela",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023997878"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 246,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.10.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YUBTAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YUBTAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YUBTAAAAMAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YUBTAAAAMAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_vampiro.html?hl=&id=YUBTAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YUBTAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0RKstgAACAAJ",
+      "etag": "I1aMfQFsZHc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0RKstgAACAAJ",
+      "volumeInfo": {
+        "title": "Hojas de Otoño",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:433245420"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 321,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0RKstgAACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0RKstgAACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hojas_de_Oto%C3%B1o.html?hl=&id=0RKstgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0RKstgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jdOTEAAAQBAJ",
+      "etag": "1tCm+l+Bouc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jdOTEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Gótico Americano",
+        "authors": [
+          "Nathaniel Hawthorne",
+          "Henry James",
+          "Edgar Allan Poe",
+          "Froylán Turcios",
+          "Horacio Quiroga",
+          "Vicente Huidobro",
+          "Augusto dos Anjos",
+          "Machado de Assis"
+        ],
+        "publisher": "Pandorga Editora",
+        "publishedDate": "2022-11-10",
+        "description": "Você com certeza já ouviu falar do gênero gótico da literatura, com suas histórias ambientadas em ruínas, igrejas antigas, mansões e castelos, cenários tipicamente europeus. Mas será que a América também não seria um lugar para contos de terror desse tipo? Essa é a premissa de \"Gótico Americano\", um volume que reúne sob o mesmo céu nublado autores oriundos da América Latina e do Norte, tratando de temas fantasmagóricos. Alguns deles são velhos conhecidos que você nem imaginaria escrevendo esse tipo de coisa! HORRORES E MISTÉRIOS ORIGINAIS DO NOVO MUNDO, EM UMA COLETÂNEA INÉDITA! MEDO, HORROR E OBSCURIDADE QUE TAMBÉM SÃO A CARA DAS AMÉRICAS Certamente esta coletânea é inédita no mundo, e proporcionará a vocês, caros leitores, todos os efeitos que o gótico pode originalmente proporcionar: o medo, o horror, a beleza e a contemplação da melancolia e da obscuridade, bem como todos os assuntos inerentes ao próprio continente americano como: colonização, questões raciais, socioeconômicas e de gênero. Fiquem alertas, pois nas Américas o mal também pode estar à sua espreita nas sombras, apenas aguardando o momento certo para atacar. CUIDEM-SE E BOA LEITURA!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786555791952"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6555791950"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 206,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jdOTEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jdOTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.co/books?id=jdOTEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jdOTEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jdOTEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 17900,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 17900,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jdOTEAAAQBAJ&rdid=book-jdOTEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 17900000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 17900000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/G%C3%B3tico_Americano-sample-epub.acsm?id=jdOTEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/G%C3%B3tico_Americano-sample-pdf.acsm?id=jdOTEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jdOTEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Essa é a premissa de &quot;Gótico Americano&quot;, um volume que reúne sob o mesmo céu nublado autores oriundos da América Latina e do Norte, tratando de temas fantasmagóricos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yPMH0QEACAAJ",
+      "etag": "Bvm9PUAAobQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yPMH0QEACAAJ",
+      "volumeInfo": {
+        "title": "Obras Maestras de Terror Tomo I",
+        "authors": [
+          "Washington Irving",
+          "Mary W. Shelley",
+          "Sheridan Le Fanu",
+          "Gustavo Bécquer",
+          "Henry James",
+          "Ambrose Bierce",
+          "Bram Stoker",
+          "Guy de Maupassant",
+          "Emilia Pardo-Bazán",
+          "Froylán Turcios",
+          "William Hope Hodgson"
+        ],
+        "publisher": "Astria Ediciones",
+        "publishedDate": "2024-12-31",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798892672719"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yPMH0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yPMH0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yPMH0QEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yPMH0QEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_Maestras_de_Terror_Tomo_I.html?hl=&id=yPMH0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yPMH0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Once de los grandes maestros del terror, entre ellos, el hondureño Froylán Turcios, nos ponen los pelos de punta con las historias más oscuras de la literatura universal."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3T9TAAAAMAAJ",
+      "etag": "/NduH/FRW44",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3T9TAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Flores de almendro",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023997856"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3T9TAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3T9TAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3T9TAAAAMAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3T9TAAAAMAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Flores_de_almendro.html?hl=&id=3T9TAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3T9TAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "37luMwEACAAJ",
+      "etag": "DLJ3uF2TwDY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/37luMwEACAAJ",
+      "volumeInfo": {
+        "title": "Amorios y cartas para Froylan Turcios",
+        "authors": [
+          "Raúl Gilberto Tróchez",
+          "Froylán Turcios"
+        ],
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:810278489"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=37luMwEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=37luMwEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Amorios_y_cartas_para_Froylan_Turcios.html?hl=&id=37luMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=37luMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A8wjYhoeGJsC",
+      "etag": "0aSeG7Omrgc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A8wjYhoeGJsC",
+      "volumeInfo": {
+        "title": "Antología",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UFL:31262053385125"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A8wjYhoeGJsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=A8wjYhoeGJsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=A8wjYhoeGJsC&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=A8wjYhoeGJsC&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antolog%C3%ADa.html?hl=&id=A8wjYhoeGJsC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A8wjYhoeGJsC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "w14I0QEACAAJ",
+      "etag": "1mfGmAMrzLQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/w14I0QEACAAJ",
+      "volumeInfo": {
+        "title": "Obras Maestras de Terror Tomo II",
+        "authors": [
+          "Washington Irving",
+          "Mary Shelley",
+          "Sheridan Le Fanu",
+          "Bram Stoker",
+          "Froylán Turcios",
+          "Horacio Quiroga",
+          "Gustavo Bécquer",
+          "Henry James",
+          "Edgar Allan Poe",
+          "Emilia Pardo Bazán",
+          "W. W. Jacobs",
+          "H. P. Lovecraft",
+          "Antón Chéjov"
+        ],
+        "publishedDate": "2024-12-31",
+        "description": "Si el Tomo I lo dejó con problemas para dormir, Obras maestras de terror, Tomo II, le provocarán escalofríos permanentes. ¿Teme usted ser enterrado vivo? ¿Cómo es la risa de la muerte? ¿Quién se atreve a habitar una mansión maldita? Trece grandes narradores, entre ellos el hondureño Froylán Turcios, diecisiete relatos... Póngales llaves a las puertas y cierre las ventanas, porque La Muerte ronda en estas páginas. LOS AUTORES. Washington Irving, Mary Shelley, Sheridan Le Fanu, Bram Stoker, Horacio Quiroga, Gustavo A. Bécquer, Henry James, Froylán Turcios, Edgar Allan Poe, Emilia Pardo Bazán, W.W. Jacobs, H.P. Lovecraft y Antón Chéjov",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798892672849"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=w14I0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=w14I0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=w14I0QEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=w14I0QEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_Maestras_de_Terror_Tomo_II.html?hl=&id=w14I0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=w14I0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Si el Tomo I lo dejó con problemas para dormir, Obras maestras de terror, Tomo II, le provocarán escalofríos permanentes. ¿Teme usted ser enterrado vivo? ¿Cómo es la risa de la muerte? ¿Quién se atreve a habitar una mansión maldita ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o6wZzwEACAAJ",
+      "etag": "N+58jsxR4gk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o6wZzwEACAAJ",
+      "volumeInfo": {
+        "title": "Cuentos completos",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "1995",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:95153644"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 391,
+        "printType": "BOOK",
+        "categories": [
+          "Cuentos hondureños - Siglos XIX-XX"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=o6wZzwEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=o6wZzwEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuentos_completos.html?hl=&id=o6wZzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o6wZzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vEGPrgEACAAJ",
+      "etag": "/wqgxQ/38XA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vEGPrgEACAAJ",
+      "volumeInfo": {
+        "title": "Froylán Turcios",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "2014",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9992683600"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789992683606"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 126,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vEGPrgEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vEGPrgEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Froyl%C3%A1n_Turcios.html?hl=&id=vEGPrgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vEGPrgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8wjh0AEACAAJ",
+      "etag": "3viOMUaZ+bw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8wjh0AEACAAJ",
+      "volumeInfo": {
+        "title": "El vampiro y cuentos de misterio",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "2023",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798386071967"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8wjh0AEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8wjh0AEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_vampiro_y_cuentos_de_misterio.html?hl=&id=8wjh0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8wjh0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "z-9IAAAAYAAJ",
+      "etag": "M6ZXauoljxk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z-9IAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Tierra maternal (Olancho)",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "1990",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173027942845"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "categories": [
+          "Short stories, Spanish"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=z-9IAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=z-9IAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=z-9IAAAAYAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=z-9IAAAAYAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tierra_maternal_Olancho.html?hl=&id=z-9IAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=z-9IAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cg4a0QEACAAJ",
+      "etag": "irXtQxH3hTM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cg4a0QEACAAJ",
+      "volumeInfo": {
+        "title": "Juan Ramón Molina",
+        "subtitle": "alma gemela de Rubén Darío",
+        "authors": [
+          "RAFAEL HELIODORO. VALLE",
+          "Froylán Turcios",
+          "E. Pérez Cadalso"
+        ],
+        "publisher": "Coleccion Erandique",
+        "publishedDate": "2025-01-30",
+        "description": "\"Señor: tú llamaste / y ella voló a tu lazo / dejándome en la tierra / ¿Mi espíritu has mirado?\". Ser atormentado. Juan Ramón Molina vivió como escribió velozmente. Poeta altanero y orgulloso, tuvo pocos amigos. \"No he sido un hombre bueno. Ni tampoco / malo. Hay en mí una dualidad extraña: / tengo mucho de cuerdo, algo de loco, / mucho de abismo y algo de montaña\". El premio Nobel Miguel Ángel Asturias dijo: \"Molina es el alma gemela de Darío\". El propio poeta nicaragüense le tuvo algo de recelo; eso explica la fría nota que escribió a la muerte del Príncipe de la Poesía. Este libro nos acerca al Molina humano, y nos lleva por un recorrido que inicia con su infancia, pasando por los hechos más importantes de su vida... hasta su dolorosa muerte en una cantina de mala muerte en San Salvador, cuando apenas tenía treinta y tres años.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798892672993"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cg4a0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cg4a0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cg4a0QEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cg4a0QEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Juan_Ram%C3%B3n_Molina.html?hl=&id=cg4a0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cg4a0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Señor: tú llamaste / y ella voló a tu lazo / dejándome en la tierra / ¿Mi espíritu has mirado?&quot;. Ser atormentado. Juan Ramón Molina vivió como escribió velozmente. Poeta altanero y orgulloso, tuvo pocos amigos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L3xMMwEACAAJ",
+      "etag": "Ln6v8ejKbhk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L3xMMwEACAAJ",
+      "volumeInfo": {
+        "title": "Album secreto de Froylán Turcios",
+        "authors": [
+          "Froylán Turcios",
+          "Roberto Sosa"
+        ],
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "999264625X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789992646250"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Manuscripts, Honduran"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=L3xMMwEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=L3xMMwEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Album_secreto_de_Froyl%C3%A1n_Turcios.html?hl=&id=L3xMMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L3xMMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b8On0AEACAAJ",
+      "etag": "VUu5kYibio4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b8On0AEACAAJ",
+      "volumeInfo": {
+        "title": "Crónicas de la Guerra Civil de 1924",
+        "authors": [
+          "Froylán Turcios",
+          "Mario Ribas de Cantruy",
+          "Aro Sanso"
+        ],
+        "publishedDate": "2024-02-28",
+        "description": "Fue la peor de las guerras civiles. Los hospitales colapsaron y los muertos eran enterrados en fosas comunes. La temeridad se apoderó de los dos bandos que se disputaban el poder. Entre febrero y mayo de 1924 las fuerzas revolucionarias lucharon contra el gobierno dictatorial iniciado por el general Rafael López Gutiérrez. Este libro contiene varios relatos, entre ellos, Froylán Turcios, Mario Ribas, Aro Sanso y Benjamin Welles, quien escribe las experiencias de su padre (Sumner Welles), como enviado de paz del gobierno de Estado Unidos a Honduras en ese año de terror. Un libro doloroso, pero fascinante, que retrata una de las épocas más oscuras de un país, cuya historia, como dijo Rafael Heliodoro Valle, puede ser escrita en una lágrima.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798892670531"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=b8On0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=b8On0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=b8On0AEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=b8On0AEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cr%C3%B3nicas_de_la_Guerra_Civil_de_1924.html?hl=&id=b8On0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b8On0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Fue la peor de las guerras civiles. Los hospitales colapsaron y los muertos eran enterrados en fosas comunes. La temeridad se apoderó de los dos bandos que se disputaban el poder."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ng44HQAACAAJ",
+      "etag": "u/NtApGBTuo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ng44HQAACAAJ",
+      "volumeInfo": {
+        "title": "Cuentos crueles",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "1902",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54160421"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Ng44HQAACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Ng44HQAACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuentos_crueles.html?hl=&id=Ng44HQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ng44HQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eh4SzQEACAAJ",
+      "etag": "ptJIc9HDt80",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eh4SzQEACAAJ",
+      "volumeInfo": {
+        "title": "Mariposas, 1895",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "1895",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651245473"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 291,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=eh4SzQEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eh4SzQEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mariposas_1895.html?hl=&id=eh4SzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eh4SzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZBKvjwEACAAJ",
+      "etag": "B6G7/9ZXrOs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZBKvjwEACAAJ",
+      "volumeInfo": {
+        "title": "Himno á los árboles",
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:934350037"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 5,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZBKvjwEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZBKvjwEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Himno_%C3%A1_los_%C3%A1rboles.html?hl=&id=ZBKvjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZBKvjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yDhJewAACAAJ",
+      "etag": "eYoSEbgNGtI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yDhJewAACAAJ",
+      "volumeInfo": {
+        "title": "Prosas nuevas",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "1914",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651488344"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 121,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yDhJewAACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yDhJewAACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Prosas_nuevas.html?hl=&id=yDhJewAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yDhJewAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YP-qzwEACAAJ",
+      "etag": "CMf2avoE0os",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YP-qzwEACAAJ",
+      "volumeInfo": {
+        "title": "The Vampire",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "2023-02-14",
+        "description": "Froylán Turcios' \"El Vampiro\" (1910) - here translated into English for the first time as THE VAMPIRE - is one of this Honduran writer's oddest works, a Romantic/Gothic novel with overtones of Decadence (Italian Decadent Gabriele D'Annunzio was a large influence on Turcios). The idyllic life of young Rogerio Mendoza and his beautiful cousin Luz are disrupted not just by a predatory priest, but by a legacy of violence and mysterious death in his family line, even as their home contains a locked room that must never be opened. Those seeking a Honduran version of DRACULA should seek elsewhere, but this intoxicating and beautiful tragedy casts a strange spell all its own. Includes an Afterword by the Translator.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798987681084"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YP-qzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YP-qzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=YP-qzwEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YP-qzwEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Vampire.html?hl=&id=YP-qzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YP-qzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Froylán Turcios&#39; &quot;El Vampiro&quot; (1910) - here translated into English for the first time as THE VAMPIRE - is one of this Honduran writer&#39;s oddest works, a Romantic/Gothic novel with overtones of Decadence (Italian Decadent Gabriele D ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NX7gcQAACAAJ",
+      "etag": "IwKJPnDLYzY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NX7gcQAACAAJ",
+      "volumeInfo": {
+        "title": "El Vampiro, novela. 2a edición",
+        "authors": [
+          "Froylán Turcios"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458416626"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 223,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NX7gcQAACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NX7gcQAACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Vampiro_novela_2a_edici%C3%B3n.html?hl=&id=NX7gcQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NX7gcQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YVbVtAEACAAJ",
+      "etag": "xJetiITjcyE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YVbVtAEACAAJ",
+      "volumeInfo": {
+        "title": "Mittelamerika",
+        "subtitle": "Novellen aus Guatemala. Übersetzungen von Georg Hellmuth Neuendorff; Illustrationen von Willy Widmann",
+        "authors": [
+          "Carlos Samayoa Chinchilla",
+          "Miguel Angel Asturias",
+          "Julian Lopez Pineda",
+          "Froylán Turcios"
+        ],
+        "publishedDate": "1947",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:991544212"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=YVbVtAEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YVbVtAEACAAJ&dq=inauthor:%22Froyl%C3%A1n+Turcios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mittelamerika.html?hl=&id=YVbVtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YVbVtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

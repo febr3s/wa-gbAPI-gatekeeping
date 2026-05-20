@@ -1,0 +1,68 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20Ferrera\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20Ferrera\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "xUdZnQEACAAJ",
+      "etag": "reM2I8g0dTE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xUdZnQEACAAJ",
+      "volumeInfo": {
+        "title": "Los jenerales de division que suscriben, al Ejército de Honduras",
+        "authors": [
+          "Francisco Ferrera",
+          "Santos Guardiola"
+        ],
+        "publishedDate": "1847",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:27984671"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Mexican War, 1846-1848"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=xUdZnQEACAAJ&dq=inauthor:%22Francisco+Ferrera%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=xUdZnQEACAAJ&dq=inauthor:%22Francisco+Ferrera%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_jenerales_de_division_que_suscriben.html?hl=&id=xUdZnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xUdZnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

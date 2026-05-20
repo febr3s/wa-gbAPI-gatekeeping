@@ -1,0 +1,180 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Rafael%20L%C3%B3pez%20Guti%C3%A9rrez\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Rafael%20L%C3%B3pez%20Guti%C3%A9rrez\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 3,
+  "_totalFetchedItems": 3,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "RGsSAAAAYAAJ",
+      "etag": "4H2wMtF1fsU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RGsSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Rafael López, su vida y su obra",
+        "authors": [
+          "Susana López Gutiérrez"
+        ],
+        "publishedDate": "1965",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173025492635"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 234,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RGsSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RGsSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RGsSAAAAYAAJ&dq=inauthor:%22Rafael+L%C3%B3pez+Guti%C3%A9rrez%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RGsSAAAAYAAJ&dq=inauthor:%22Rafael+L%C3%B3pez+Guti%C3%A9rrez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rafael_L%C3%B3pez_su_vida_y_su_obra.html?hl=&id=RGsSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RGsSAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oXklQwAACAAJ",
+      "etag": "luCvhRRts3E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oXklQwAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje dirigido al Congeso Nacional en la inauguración de sus sesiones de 1921",
+        "subtitle": "por el General Don Rafael López Gutiérrez, Presidente Constitucional de la República de Honduras",
+        "authors": [
+          "Rafael López Gutiérrez"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:433347380"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 66,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=oXklQwAACAAJ&dq=inauthor:%22Rafael+L%C3%B3pez+Guti%C3%A9rrez%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=oXklQwAACAAJ&dq=inauthor:%22Rafael+L%C3%B3pez+Guti%C3%A9rrez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_dirigido_al_Congeso_Nacional_en.html?hl=&id=oXklQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oXklQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8Rv5GwAACAAJ",
+      "etag": "1lUwIi2zAs8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8Rv5GwAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje dirigido al Congreso Nacional en la inauguración de sus sesiones de 1921",
+        "authors": [
+          "Honduras Presidente (1920-1924: Rafael López Gutiérrez)"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:25957521"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 66,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8Rv5GwAACAAJ&dq=inauthor:%22Rafael+L%C3%B3pez+Guti%C3%A9rrez%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8Rv5GwAACAAJ&dq=inauthor:%22Rafael+L%C3%B3pez+Guti%C3%A9rrez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_dirigido_al_Congreso_Nacional_en.html?hl=&id=8Rv5GwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8Rv5GwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

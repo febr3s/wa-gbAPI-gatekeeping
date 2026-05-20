@@ -1,0 +1,2314 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juan%20Ram%C3%B3n%20Molina\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juan%20Ram%C3%B3n%20Molina\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juan%20Ram%C3%B3n%20Molina\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juan%20Ram%C3%B3n%20Molina\"&maxResults=18&startIndex=20&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 38,
+  "_totalRequestsMade": 2,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "7sVkmwEACAAJ",
+      "etag": "8i6NLJ++XSU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7sVkmwEACAAJ",
+      "volumeInfo": {
+        "title": "Juan Ramón Molina",
+        "subtitle": "su obra y su vida. Libro 1",
+        "authors": [
+          "Juan Ramón Molina"
+        ],
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:835366218"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7sVkmwEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7sVkmwEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Juan_Ram%C3%B3n_Molina.html?hl=&id=7sVkmwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7sVkmwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8OwyAQAAIAAJ",
+      "etag": "UMjhFCAL+hk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8OwyAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Apología de Juan Ramón Molina",
+        "authors": [
+          "Jesús Castro"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B731622"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 274,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8OwyAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8OwyAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8OwyAQAAIAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8OwyAQAAIAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Apolog%C3%ADa_de_Juan_Ram%C3%B3n_Molina.html?hl=&id=8OwyAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8OwyAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zb2v0AEACAAJ",
+      "etag": "iQzgf5dIAdE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zb2v0AEACAAJ",
+      "volumeInfo": {
+        "title": "Tierra, mares y cielos",
+        "authors": [
+          "Juan Ramón Molina"
+        ],
+        "publishedDate": "2024-04-25",
+        "description": "Este es un libro dolorosamente bello. Parece una contradicción, pero esto no debe sorprendernos, pues... ¡Se trata de Juan Ramón Molina! Controversial, genial, incomprendido, fue una mente adelantada para su época. El Príncipe de la Poesía, como lo llamaban, era en realidad el rey de los versos. Su obra quedó dispersa, y se hubiera perdido de no ser porque su hermano de letras, Froylán Turcios, la recopiló en Tierras, Mares y Cielos. La edición que hoy publicamos es la de 1937, con prólogo del poeta mexicano Enrique González Martínez y bibliografía de Rafael Heliodoro Valle e ilustraciones de Enrique Galindo. Hay varias cosas que todo hondureño debe hacer. Una de ellas es leer a Molina.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798892670937"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zb2v0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zb2v0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=zb2v0AEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zb2v0AEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tierra_mares_y_cielos.html?hl=&id=zb2v0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zb2v0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Este es un libro dolorosamente bello. Parece una contradicción, pero esto no debe sorprendernos, pues... ¡Se trata de Juan Ramón Molina! Controversial, genial, incomprendido, fue una mente adelantada para su época."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RrI9AQAAIAAJ",
+      "etag": "m2KH079aEbg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RrI9AQAAIAAJ",
+      "volumeInfo": {
+        "title": "Prosas",
+        "authors": [
+          "Juan Ramón Molina"
+        ],
+        "publishedDate": "1948",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B454456"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+          "Honduran fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RrI9AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RrI9AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RrI9AQAAIAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RrI9AQAAIAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Prosas.html?hl=&id=RrI9AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RrI9AQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-cLpAAAAMAAJ",
+      "etag": "cQVpM3baIWc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-cLpAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Tierras, mares y cielos",
+        "authors": [
+          "Juan Ramón Molina"
+        ],
+        "publishedDate": "1982",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000009307476"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 250,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-cLpAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-cLpAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-cLpAAAAMAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-cLpAAAAMAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tierras_mares_y_cielos.html?hl=&id=-cLpAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-cLpAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Qfo9AAAAIAAJ",
+      "etag": "daifKJX2m2U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Qfo9AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Sus mejores páginas",
+        "subtitle": "verso y prosa",
+        "authors": [
+          "Juan Ramón Molina"
+        ],
+        "publishedDate": "1960",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105039092395"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 222,
+        "printType": "BOOK",
+        "categories": [
+          "Honduran literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Qfo9AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Qfo9AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Qfo9AAAAIAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Qfo9AAAAIAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sus_mejores_p%C3%A1ginas.html?hl=&id=Qfo9AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Qfo9AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vWEfAAAAMAAJ",
+      "etag": "3fZQMIjO6vc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vWEfAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Tierras, mares y cielos",
+        "subtitle": "poesías",
+        "authors": [
+          "Juan Ramón Molina"
+        ],
+        "publishedDate": "1947",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015028332107"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Honduran poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vWEfAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vWEfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vWEfAAAAMAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vWEfAAAAMAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tierras_mares_y_cielos.html?hl=&id=vWEfAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vWEfAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s48nzxBRORAC",
+      "etag": "woGoqnBGBJI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s48nzxBRORAC",
+      "volumeInfo": {
+        "title": "Sus mejores páginas",
+        "authors": [
+          "Juan Ramón Molina"
+        ],
+        "publisher": "Editorial Guaymuras",
+        "publishedDate": "2003",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9992633085"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789992633083"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 286,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s48nzxBRORAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s48nzxBRORAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=s48nzxBRORAC&printsec=frontcover&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=s48nzxBRORAC&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sus_mejores_p%C3%A1ginas.html?hl=&id=s48nzxBRORAC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Sus_mejores_p%C3%A1ginas-sample-pdf.acsm?id=s48nzxBRORAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s48nzxBRORAC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y_obAQAAIAAJ",
+      "etag": "x7Ps31Eor04",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y_obAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Obra completa",
+        "subtitle": "verso y prosa",
+        "authors": [
+          "Juan Ramón Molina"
+        ],
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105115182243"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 564,
+        "printType": "BOOK",
+        "categories": [
+          "Spanish poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=y_obAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=y_obAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=y_obAQAAIAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=y_obAQAAIAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obra_completa.html?hl=&id=y_obAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y_obAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "v0QrAAAAIAAJ",
+      "etag": "I1Jd/uTnSbM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v0QrAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Antología, verso y prosa",
+        "authors": [
+          "Juan Ramón Molina"
+        ],
+        "publishedDate": "1972",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105038407610"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 250,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=v0QrAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=v0QrAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=v0QrAAAAIAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=v0QrAAAAIAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antolog%C3%ADa_verso_y_prosa.html?hl=&id=v0QrAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v0QrAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dv6fzkrBBnsC",
+      "etag": "wxFVDbhqjp0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dv6fzkrBBnsC",
+      "volumeInfo": {
+        "title": "Seis narraciones",
+        "authors": [
+          "Juan Ramón Molina"
+        ],
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IOWA:31858010710048"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 52,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dv6fzkrBBnsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dv6fzkrBBnsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=dv6fzkrBBnsC&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dv6fzkrBBnsC&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Seis_narraciones.html?hl=&id=dv6fzkrBBnsC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dv6fzkrBBnsC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "itMPAQAAIAAJ",
+      "etag": "OMRqE076dpw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/itMPAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Los sucesos de la semana",
+        "subtitle": "pasatiempo cómico-lírico en un acto, dividido en cinco cuadros y dos intermedios, en prosa y verso",
+        "authors": [
+          "José María Carbonell",
+          "Antonio Soler"
+        ],
+        "publishedDate": "1908",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B2855706"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 52,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=itMPAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=itMPAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=itMPAQAAIAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=itMPAQAAIAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_sucesos_de_la_semana.html?hl=&id=itMPAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=itMPAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aRtmT3NUVzoC",
+      "etag": "0aQx7lcBF5w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aRtmT3NUVzoC",
+      "volumeInfo": {
+        "title": "Las tres viejas",
+        "subtitle": "zarzuela en un acto y dos cuadros, en prosa",
+        "authors": [
+          "José María Carbonell"
+        ],
+        "publishedDate": "1908",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000121754125"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aRtmT3NUVzoC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aRtmT3NUVzoC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=aRtmT3NUVzoC&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=aRtmT3NUVzoC&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_tres_viejas.html?hl=&id=aRtmT3NUVzoC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aRtmT3NUVzoC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Zg6r0QEACAAJ",
+      "etag": "/L8Gq4bUuCU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Zg6r0QEACAAJ",
+      "volumeInfo": {
+        "title": "Tierras, mares y cielos",
+        "authors": [
+          "Juan Ramón Molina"
+        ],
+        "publishedDate": "1937",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651488321"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Zg6r0QEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Zg6r0QEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tierras_mares_y_cielos.html?hl=&id=Zg6r0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Zg6r0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3PobAQAAIAAJ",
+      "etag": "dwkNxNjzUoA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3PobAQAAIAAJ",
+      "volumeInfo": {
+        "title": "El Chele y otras narraciones",
+        "subtitle": "prosas selectas",
+        "authors": [
+          "Juan Ramón Molina"
+        ],
+        "publishedDate": "1995",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105017586384"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 114,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3PobAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3PobAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3PobAQAAIAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3PobAQAAIAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Chele_y_otras_narraciones.html?hl=&id=3PobAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3PobAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5kmsAQAACAAJ",
+      "etag": "4lzmdk3GQ0o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5kmsAQAACAAJ",
+      "volumeInfo": {
+        "title": "Obras",
+        "authors": [
+          "Juan Ramón Molina"
+        ],
+        "publishedDate": "2012",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9791021314269"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Electronic books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5kmsAQAACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5kmsAQAACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras.html?hl=&id=5kmsAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5kmsAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L5avoQEACAAJ",
+      "etag": "m0klz8x7k+E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L5avoQEACAAJ",
+      "volumeInfo": {
+        "title": "Poemas",
+        "authors": [
+          "Juan Ramón Molina"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2014-10-10",
+        "description": "\"Poemas\", de Juan Ramón Molina. Juan Ramón Molina fue un poeta hondureño representante del modernismo americano (1875-1908)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1502791552"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781502791559"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Honduran poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=L5avoQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=L5avoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=L5avoQEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=L5avoQEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poemas.html?hl=&id=L5avoQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L5avoQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Poemas&quot;, de Juan Ramón Molina. Juan Ramón Molina fue un poeta hondureño representante del modernismo americano (1875-1908)"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "waOIAQAACAAJ",
+      "etag": "8b2QBnxNfd8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/waOIAQAACAAJ",
+      "volumeInfo": {
+        "title": "Juan Ramon Molina Narrador",
+        "publishedDate": "19??",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:795250696"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 76,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=waOIAQAACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=waOIAQAACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Juan_Ramon_Molina_Narrador.html?hl=&id=waOIAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=waOIAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kl6CQwAACAAJ",
+      "etag": "eAD0038KAcU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kl6CQwAACAAJ",
+      "volumeInfo": {
+        "title": "Juan Ramón Molina",
+        "subtitle": "después que muera",
+        "authors": [
+          "Juan Ramón Molina"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9992610948"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789992610947"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 97,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=kl6CQwAACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=kl6CQwAACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Juan_Ram%C3%B3n_Molina.html?hl=&id=kl6CQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kl6CQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bZjToAEACAAJ",
+      "etag": "DWUQnaxi0JY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bZjToAEACAAJ",
+      "volumeInfo": {
+        "title": "Habitante de la Osa. Vida Y Pasión de Juan Ramón Molina",
+        "authors": [
+          "Eliseo PÉREZ CADALSO",
+          "Juan Ramón Molina"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:503715518"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=bZjToAEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=bZjToAEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Habitante_de_la_Osa_Vida_Y_Pasi%C3%B3n_de_Ju.html?hl=&id=bZjToAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bZjToAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_WtKAAAAYAAJ",
+      "etag": "8vO9J6ZfD7U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_WtKAAAAYAAJ",
+      "volumeInfo": {
+        "title": "2 visiones de José Antonio Domínguez",
+        "publishedDate": "1986",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173026666651"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "categories": [
+          "Poets, Honduran"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_WtKAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_WtKAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_WtKAAAAYAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_WtKAAAAYAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/2_visiones_de_Jos%C3%A9_Antonio_Dom%C3%ADnguez.html?hl=&id=_WtKAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_WtKAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "01P4GwAACAAJ",
+      "etag": "EKY7KBltk6w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/01P4GwAACAAJ",
+      "volumeInfo": {
+        "title": "Vida y poesía de Juan Ramon Molina",
+        "authors": [
+          "Juan Ramón Molina",
+          "Carlos Manuel Arita Palomo"
+        ],
+        "publishedDate": "1959",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:83894095"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 91,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=01P4GwAACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=01P4GwAACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vida_y_poes%C3%ADa_de_Juan_Ramon_Molina.html?hl=&id=01P4GwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=01P4GwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K9-FzwEACAAJ",
+      "etag": "jt+hESnDqlk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K9-FzwEACAAJ",
+      "volumeInfo": {
+        "title": "El Príncipe de la Poesía",
+        "authors": [
+          "Oscar Flores"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2022-11-17",
+        "description": "Con este cómic del poeta Juan Ramón Molina, nace Colección Erandique Infantil. Nuestro objetivo es cultivar en nuestros niños y niñas el hábito de la lectura y que, además, aprendan sobre personajes y hechos históricos de Honduras de una manera divertida. Esta edición también cuenta con algunos poemas y relatos en prosa de Molina, a quien muchos llamaban \"el alma gemela de Rubén Darío\". Esperamos que sea leído en las escuelas y en las casas, y que todos lo disfruten. Con eso estaremos más que satisfechos. Es bueno que las nuevas generaciones se enteren que ha habido hondureños que se han ganado el respeto y la admiración a nivel mundial. Como ocurrió con Molina. Estamos convencidos que los hondureños sólo podremos construir un mejor país si conocemos nuestra historia, y aprendemos de las lecciones del pasado. Por eso es tan importante para nosotros el lanzamiento del primer número de Colección Erandique Infantil. Ahora... ¡A leer!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798364342942"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=K9-FzwEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=K9-FzwEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Pr%C3%ADncipe_de_la_Poes%C3%ADa.html?hl=&id=K9-FzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K9-FzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Con este cómic del poeta Juan Ramón Molina, nace Colección Erandique Infantil."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Sl5KAAAAYAAJ",
+      "etag": "UTAKSlVOeuI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Sl5KAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Life and Writings of Honduran Poet Juan Ramón Molina (1875-1908)",
+        "authors": [
+          "Juan Ramón Molina",
+          "John Mitchell Hall"
+        ],
+        "publishedDate": "2002",
+        "description": "The poetry of Juan Ramon Molina is perhaps some of the most undeservingly overlooked Central American work of the 19th century. This work examines the major themes in his work - the struggle to form a vision of God, his political views, and his philosophical preoccupations and the influence of Nietzsche - within a literary context. Poems are presented in facing-page translations.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173013963803"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Sl5KAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Sl5KAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=Sl5KAAAAYAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Sl5KAAAAYAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Life_and_Writings_of_Honduran_Poet_J.html?hl=&id=Sl5KAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Sl5KAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work examines the major themes in his work - the struggle to form a vision of God, his political views, and his philosophical preoccupations and the influence of Nietzsche - within a literary context."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kruVzwEACAAJ",
+      "etag": "8NGvMtEFp7o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kruVzwEACAAJ",
+      "volumeInfo": {
+        "title": "Honduras Literaria",
+        "authors": [
+          "Juan Ramón Molina"
+        ],
+        "publishedDate": "1957",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1024575060"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=kruVzwEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=kruVzwEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Honduras_Literaria.html?hl=&id=kruVzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kruVzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "83eKfFh_Cb0C",
+      "etag": "9J1CbgoI7S4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/83eKfFh_Cb0C",
+      "volumeInfo": {
+        "title": "Antología",
+        "authors": [
+          "Juan Ramón Molina"
+        ],
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCLA:L0074136094"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=83eKfFh_Cb0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=83eKfFh_Cb0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=83eKfFh_Cb0C&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=83eKfFh_Cb0C&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antolog%C3%ADa.html?hl=&id=83eKfFh_Cb0C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=83eKfFh_Cb0C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "48qA0QEACAAJ",
+      "etag": "oeJCvNh0o0s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/48qA0QEACAAJ",
+      "volumeInfo": {
+        "title": "Teguz, Ciudad Amada, Heroica Y Legendaria",
+        "subtitle": "(Antología en Sus 477 Años de Fundación, Tomo I)",
+        "authors": [
+          "Antología de Autores",
+          "Victor Cáceres",
+          "Daniel Laínez",
+          "Juan Ramón Molina",
+          "Luis Marañon Richi",
+          "Argentina Díaz Lozano",
+          "Rómulo E. Durón"
+        ],
+        "publisher": "Erandique Literatura",
+        "publishedDate": "2025-07-25",
+        "description": "Rafael Heliodoro Valle la llamó \"ciudad amada\". Para Daniel Laínez y Salvador Turcios, Tegucigalpa era \"legendaria\". Alfonso Guillén Zelaya la definió como \"heroica\". ¡Nuestra Teguz! Este libro servirá para conocer un poco más de Tegucigalpa, pues reúne artículos de investigadores, exploradores, académicos, poetas, historiadores y escritores. ¿Cuándo fue fundada? ¿En qué año? ¿Quiénes fueron sus primeros alcaldes? ¿Qué significa Tegucigalpa? Este homenaje a Teguz, que coincide con sus 447 años de fundación (29 de septiembre de 1578), contiene hermosos artículos de escritores hondureños y extranjeros. ¿Cómo vivió un diplomático español el aterrizaje en Toncontín en 1968? ¿Qué opinaba Juan Ramón Molina sobre la capital? AUTORES: Víctor Cáceres Lara, José Reina Valenzuela, Elvia Castañeda de Machado, Leticia de Oyuela, William Wells, Daniel Laínez, Salvador Turcios, Yanuario Lanza Blanco, Mario Felipe Martínez Castillo, Luis Marañón Richi, Luis Mariñas Otero, Argentina Díaz Lozano, entre otros.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798892674300"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=48qA0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=48qA0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=48qA0QEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=48qA0QEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Teguz_Ciudad_Amada_Heroica_Y_Legendaria.html?hl=&id=48qA0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=48qA0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "AUTORES: Víctor Cáceres Lara, José Reina Valenzuela, Elvia Castañeda de Machado, Leticia de Oyuela, William Wells, Daniel Laínez, Salvador Turcios, Yanuario Lanza Blanco, Mario Felipe Martínez Castillo, Luis Marañón Richi, Luis ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZTzwZwEACAAJ",
+      "etag": "swgekYhNqfQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZTzwZwEACAAJ",
+      "volumeInfo": {
+        "title": "Molinacien",
+        "subtitle": "compilación de poemas de Juan Ramón Molina en el primer centenario de su muerte",
+        "authors": [
+          "Juan Ramón Molina"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9992673613"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789992673614"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "categories": [
+          "Honduran literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZTzwZwEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZTzwZwEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Molinacien.html?hl=&id=ZTzwZwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZTzwZwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nYvBBAAACAAJ",
+      "etag": "0RjFMnBReUI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nYvBBAAACAAJ",
+      "volumeInfo": {
+        "title": "La niña de la patata y otras narraciones",
+        "authors": [
+          "Juan Ramón Molina"
+        ],
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "999261062X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789992610626"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nYvBBAAACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nYvBBAAACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_ni%C3%B1a_de_la_patata_y_otras_narracione.html?hl=&id=nYvBBAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nYvBBAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "D1xFMwEACAAJ",
+      "etag": "mVpFHmUTMFY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/D1xFMwEACAAJ",
+      "volumeInfo": {
+        "title": "Lecturas para jóvenes y niños",
+        "authors": [
+          "Juan Ramón Molina",
+          "Óscar Armando Valladares Castillo"
+        ],
+        "publishedDate": "2009*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:776884644"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=D1xFMwEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=D1xFMwEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lecturas_para_j%C3%B3venes_y_ni%C3%B1os.html?hl=&id=D1xFMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=D1xFMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3L1vHQAACAAJ",
+      "etag": "0g7Q6BtEWNk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3L1vHQAACAAJ",
+      "volumeInfo": {
+        "title": "Tierras, mareas y cielos",
+        "subtitle": "poesías",
+        "authors": [
+          "Juan Ramón Molina"
+        ],
+        "publishedDate": "1947",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55363399"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 235,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3L1vHQAACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3L1vHQAACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tierras_mareas_y_cielos.html?hl=&id=3L1vHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3L1vHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vs7klgEACAAJ",
+      "etag": "Gao78krTFxo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vs7klgEACAAJ",
+      "volumeInfo": {
+        "title": "Manual técnico de aplicaciones informáticas para la defensa contra incendios forestales",
+        "authors": [
+          "Fco Rodríguez y Silva",
+          "Juan Ramón Molina Martínez",
+          "Juan Francisco Martínez Carmona",
+          "Universidad de Córdoba. Departamento de Ingeniería Forestal"
+        ],
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "846140694X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788461406944"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 117,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vs7klgEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vs7klgEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_t%C3%A9cnico_de_aplicaciones_inform%C3%A1.html?hl=&id=vs7klgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vs7klgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uMysPgAACAAJ",
+      "etag": "03j43zEzpVo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uMysPgAACAAJ",
+      "volumeInfo": {
+        "title": "Brujula eterna",
+        "authors": [
+          "Juan Ramón Molina"
+        ],
+        "publishedDate": "1958",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253828753"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 39,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=uMysPgAACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=uMysPgAACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Brujula_eterna.html?hl=&id=uMysPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uMysPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A2FUygAACAAJ",
+      "etag": "b48XSbgxu8Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A2FUygAACAAJ",
+      "volumeInfo": {
+        "title": "Tierras, mares y cielos, poesías. Prólogo de Argentina Díaz Lozano. Bibliografía de Rafael Heliodoro Valle",
+        "authors": [
+          "Juan Ramón Molina",
+          "Argentina Mejía Bueso Díaz Lozano (Mme)"
+        ],
+        "publishedDate": "1947",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459606487"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 237,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=A2FUygAACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=A2FUygAACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tierras_mares_y_cielos_poes%C3%ADas_Pr%C3%B3logo.html?hl=&id=A2FUygAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A2FUygAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RJFQswEACAAJ",
+      "etag": "wvzmL8ic95k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RJFQswEACAAJ",
+      "volumeInfo": {
+        "title": "Los versos de Honduras",
+        "authors": [
+          "Juan Ramón Molina"
+        ],
+        "publishedDate": "2016",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9992685026"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789992685020"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 142,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RJFQswEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RJFQswEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_versos_de_Honduras.html?hl=&id=RJFQswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RJFQswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AD7uZwEACAAJ",
+      "etag": "X6VEludeoEU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AD7uZwEACAAJ",
+      "volumeInfo": {
+        "title": "Molina total",
+        "authors": [
+          "Juan Ramón Molina"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:670512414"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 461,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=AD7uZwEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=AD7uZwEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Molina_total.html?hl=&id=AD7uZwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AD7uZwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "64ZkMwEACAAJ",
+      "etag": "QGmBbYvlVco",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/64ZkMwEACAAJ",
+      "volumeInfo": {
+        "title": "Historias urbanas",
+        "authors": [
+          "José Luis Varela",
+          "Juan Ramón Molina"
+        ],
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:781860614"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 85,
+        "printType": "BOOK",
+        "categories": [
+          "Short stories"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=64ZkMwEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=64ZkMwEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historias_urbanas.html?hl=&id=64ZkMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=64ZkMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wBDMvQEACAAJ",
+      "etag": "gBVDFNA8y2o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wBDMvQEACAAJ",
+      "volumeInfo": {
+        "title": "Juan Ramón Molina",
+        "subtitle": "sus mejores páginas",
+        "authors": [
+          "Juan Ramón Molina"
+        ],
+        "publishedDate": "2018",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9992654872"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789992654873"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 281,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wBDMvQEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wBDMvQEACAAJ&dq=inauthor:%22Juan+Ram%C3%B3n+Molina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Juan_Ram%C3%B3n_Molina.html?hl=&id=wBDMvQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wBDMvQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

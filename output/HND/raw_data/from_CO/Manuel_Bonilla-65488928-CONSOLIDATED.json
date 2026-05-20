@@ -1,0 +1,4503 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Manuel%20Bonilla\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Manuel%20Bonilla\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Manuel%20Bonilla\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Manuel%20Bonilla\"&maxResults=20&startIndex=40&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Manuel%20Bonilla\"&maxResults=20&startIndex=60&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Manuel%20Bonilla\"&maxResults=16&startIndex=60&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 76,
+  "_totalRequestsMade": 4,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ZpJSEAAAQBAJ",
+      "etag": "5xeksLNxanI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZpJSEAAAQBAJ",
+      "volumeInfo": {
+        "title": "10 Años del Ministerio de Vivienda Ciudad y Territorio, una década construyendo país",
+        "authors": [
+          "Jonathan Malagón González",
+          "Shlomo Angel",
+          "David Ricardo Andrade",
+          "Brigitte  Baptiste",
+          "Manuel Bonilla ",
+          "Ana María Camelo",
+          "Martha  Elena Delgado ",
+          "Nicolás Galarza",
+          "Gerardo Hernández",
+          " Alfredo Manrique",
+          "Carlos  Ruiz Martínez ",
+          "Luis Fernando Mejía",
+          " Leonardo Enrique  Navarro",
+          "Darcy Quinn ",
+          "Marcela Rey ",
+          "Leyla Rojas",
+          "María Mónica Salazar",
+          " Julio Miguel Silva",
+          "Adriana Soto ",
+          "Adriana Vásquez ",
+          " Elkin Velásquez"
+        ],
+        "publisher": "Jonathan Malagón González",
+        "publishedDate": "2021-10-04",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789585502260"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9585502267"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZpJSEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZpJSEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZpJSEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZpJSEAAAQBAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/10_A%C3%B1os_del_Ministerio_de_Vivienda_Ciud.html?hl=&id=ZpJSEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/10_A%C3%B1os_del_Ministerio_de_Vivienda_Ciud-sample-pdf.acsm?id=ZpJSEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZpJSEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "obdqAAAAMAAJ",
+      "etag": "I7LJFVWzcQ8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/obdqAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Imagen de un líder, Manuel Bonilla",
+        "authors": [
+          "Rafael Bardales B."
+        ],
+        "publishedDate": "1985",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018227496"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 332,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=obdqAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=obdqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=obdqAAAAMAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=obdqAAAAMAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Imagen_de_un_l%C3%ADder_Manuel_Bonilla.html?hl=&id=obdqAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=obdqAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mt8aEQAAQBAJ",
+      "etag": "gHtMuXG1ps4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mt8aEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Resiliencia docente en tiempos de crisis. Hacia una gestión pedagógica efectiva",
+        "authors": [
+          "Johny Fernando Sosa Risco",
+          "Gladys Lola Luján Johnson",
+          "Edwin Martín García Ramírez",
+          "Luis Manuel Bonilla Mercado",
+          "Janet Huari Peña"
+        ],
+        "publisher": "Religacion Press",
+        "publishedDate": "2024-08-19",
+        "description": "El libro aborda la resiliencia docente en la gestión pedagógica durante la crisis provocada por la pandemia en Perú. Resalta la necesidad de reforzar las competencias resilientes y el bienestar para hacer frente a las intensas demandas emocionales y profesionales. Proporciona estrategias para docentes, perspectivas para psicólogos organizacionales y herramientas para estudiantes de formación docente. Se hace un llamado a las autoridades educativas para promover el bienestar del profesorado y asegurar la excelencia educativa. El enfoque se centra en la creación de una comunidad educativa resiliente y en la mejora de la educación en momentos de crisis.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789942664075"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9942664076"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 330,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mt8aEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mt8aEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mt8aEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mt8aEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mt8aEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=mt8aEQAAQBAJ&rdid=book-mt8aEQAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mt8aEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El libro aborda la resiliencia docente en la gestión pedagógica durante la crisis provocada por la pandemia en Perú."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EpUSAAAAYAAJ",
+      "etag": "SXKtl35Qbko",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EpUSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Espinas y amapolas",
+        "subtitle": "fotografías nacionales",
+        "authors": [
+          "Manuel Bonilla"
+        ],
+        "publishedDate": "1891",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024339938"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.14.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EpUSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EpUSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EpUSAAAAYAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EpUSAAAAYAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Espinas_y_amapolas.html?hl=&id=EpUSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EpUSAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jwGmEAAAQBAJ",
+      "etag": "N9bY5mePdCo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jwGmEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Los Excéntricos. Antología de cuento corto I",
+        "authors": [
+          "Miguel Alberto Ochoa García",
+          "Abraham Ibáñez Ávila",
+          "Daniela Morán",
+          "Edgar Núñez",
+          "Enya Mariel Contreras",
+          "Fernanda Andablo",
+          "Raquel Hoyos Guzmán",
+          "Javier G. Cozzolino",
+          "José Manuel Bonilla Arredondo",
+          "Juan Carlos Esquivel",
+          "Karen Escobar",
+          "Katia Álvarez",
+          "María Alejandra Alonso Eusebio",
+          "Marisabel Macías",
+          "Marisol Gutiérrez",
+          "Reneé Acosta",
+          "Roberto Carlos Montero ",
+          "Rocío Arellano",
+          "Selene Esmeralda Caamal Rios",
+          "Sofía Guerrero Martínez"
+        ],
+        "publisher": "LAPICERO ROJO",
+        "publishedDate": "2023-01-04",
+        "description": "En Los Excéntricos se encuentran veinte historias que se adentran al territorio de lo extraño e inusual. En esta antología de cuento corto se desenmascara una geometría sangrada y personal donde cada autor es dueño total de la anécdota en sus propios términos estilísticos.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 118,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jwGmEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jwGmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jwGmEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jwGmEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jwGmEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 34999,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 34999,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jwGmEAAAQBAJ&rdid=book-jwGmEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 34999000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 34999000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Los_Exc%C3%A9ntricos_Antolog%C3%ADa_de_cuento_co-sample-epub.acsm?id=jwGmEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Los_Exc%C3%A9ntricos_Antolog%C3%ADa_de_cuento_co-sample-pdf.acsm?id=jwGmEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jwGmEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En Los Excéntricos se encuentran veinte historias que se adentran al territorio de lo extraño e inusual."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "c3qaBQAAQBAJ",
+      "etag": "uf6u/zdCf6w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/c3qaBQAAQBAJ",
+      "volumeInfo": {
+        "title": "Gas Natural",
+        "subtitle": "El accidente de Zarzalico",
+        "authors": [
+          "Juan Manuel Bonilla Martínez",
+          "José Antonio Marín Ayala",
+          "Jesús Belmonte Pérez"
+        ],
+        "publisher": "Ediciones GPS Madrid S.L.",
+        "publishedDate": "2014-11-26",
+        "description": "El 20 de Octubre de 2011, una cisterna cargada con 46.000 litros (~20 Tn) de Gas Natural Licuado (GNL) sufrió un accidente en la autovía A-91, concretamente en la pedanía lorquina de Zarzalico, provincia de Murcia (España). A consecuencia del mismo se produjo el incendio de la cisterna y la ulterior explosión de la carga, falleciendo el conductor del camión. Los efectos producidos sobre el entorno fueron notables en términos de radiación térmica, sobrepresión y proyección de fragmentos, con un comportamiento asimilable a una explosión tipo BLEVE. Afortunadamente, la explosión tuvo lugar en una zona alejada de núcleos de población, lo que evitó que se pudiera desencadenar un desastre como el de Los Alfaques (Tarragona, España), en 1978. El análisis de este siniestro tiene un interés excepcional, por varias circunstancias. El GNL se configura como un combustible estratégico en el mix energético de las próximas décadas, motivo por el que su volumen de transporte se encuentra en continuo crecimiento. La de Zarzalico es la segunda explosión registrada con este tipo de mercancía y unidad de transporte en el mundo, tras la ocurrida en Tivissa (Tarragona) el 22 de junio de 2002. Esta coincidencia, como se verá, no es casual. El estudio de la cisterna monocasco que sufrió el accidente ha permitido identificar algunos elementos vulnerables en el diseño y construcción de este tipo de recipientes a presión, por lo que se proponen medidas concretas para mejorar la seguridad de este tipo de transporte. El trabajo de campo realizado permite tener un mejor conocimiento de los fenómenos de tipo térmico y mecánico implicados y contrastar el grado de ajuste de los modelos de cálculo de consecuencias. La realización de ensayos experimentales a escala real se encuentra bastante limitada por su alto coste, de modo que la investigación de este accidente supone una gran contribución al estado del conocimiento. La intervención de Bomberos fue muy destacada, a pesar de la especial dificultad que supone combatir un incendio completamente desarrollado con este tipo de producto. Se han evaluado dichos factores y se han establecido pautas de actuación ante incendios en cisternas de Gas Natural Licuado. En este trabajo de investigación ‘Gas Natural. El accidente de Zarzalico’ se trata de dar respuesta a todas las cuestiones planteadas de una forma rigurosa y amena. Sin duda, una lectura recomendada tanto para los ciudadanos en general como para los especialistas en la materia: bomberos, gestores de emergencias, consejeros de seguridad, fabricantes de cisternas, conductores de mercancías peligrosas, técnicos de gas natural, especialistas en seguridad industrial....",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788497215442"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8497215443"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": [
+          "Transportation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=c3qaBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=c3qaBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=c3qaBQAAQBAJ&printsec=frontcover&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=c3qaBQAAQBAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gas_Natural.html?hl=&id=c3qaBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=c3qaBQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El 20 de Octubre de 2011, una cisterna cargada con 46.000 litros (~20 Tn) de Gas Natural Licuado (GNL) sufrió un accidente en la autovía A-91, concretamente en la pedanía lorquina de Zarzalico, provincia de Murcia (España)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OUe0tgAACAAJ",
+      "etag": "XieDcgQ3eWk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OUe0tgAACAAJ",
+      "volumeInfo": {
+        "title": "Cristo de la Agonía",
+        "authors": [
+          "Manuel Bonilla Cascado"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8496644766"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788496644762"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": [
+          "Music"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=OUe0tgAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=OUe0tgAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cristo_de_la_Agon%C3%ADa.html?hl=&id=OUe0tgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OUe0tgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "drhVAAAAMAAJ",
+      "etag": "qXgGGRncOdc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/drhVAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Diez an̄os de guerra",
+        "authors": [
+          "Manuel Bonilla (Jr.)"
+        ],
+        "publishedDate": "1976",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018698437"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 398,
+        "printType": "BOOK",
+        "categories": [
+          "Mexico"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=drhVAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=drhVAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=drhVAAAAMAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=drhVAAAAMAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Diez_an%CC%84os_de_guerra.html?hl=&id=drhVAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=drhVAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_vRDAQAAIAAJ",
+      "etag": "xLA0ScdRljQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_vRDAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Los amos del P.S.O.E.",
+        "subtitle": "informe confidencial",
+        "authors": [
+          "Manuel Bonilla Sauras"
+        ],
+        "publishedDate": "1986",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105081736048"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_vRDAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_vRDAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_vRDAQAAIAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_vRDAQAAIAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_amos_del_P_S_O_E.html?hl=&id=_vRDAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_vRDAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G8JqAAAAMAAJ",
+      "etag": "2os8E5KdW9k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G8JqAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Monografía del municipio de Marcala en el Depmto. de La Paz, Honduras, C.A.",
+        "authors": [
+          "Manuel Bonilla"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018228660"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "categories": [
+          "Marcala (Honduras)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=G8JqAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=G8JqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=G8JqAAAAMAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=G8JqAAAAMAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Monograf%C3%ADa_del_municipio_de_Marcala_en.html?hl=&id=G8JqAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G8JqAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "v3jo8gFmhPcC",
+      "etag": "SqNlt6zf0jE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v3jo8gFmhPcC",
+      "volumeInfo": {
+        "title": "El régimen maderista",
+        "authors": [
+          "Manuel Bonilla (Jr.)"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCR:31210014820581"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=v3jo8gFmhPcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=v3jo8gFmhPcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=v3jo8gFmhPcC&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=v3jo8gFmhPcC&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_r%C3%A9gimen_maderista.html?hl=&id=v3jo8gFmhPcC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v3jo8gFmhPcC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iOcUAAAAYAAJ",
+      "etag": "SushPaIcEow",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iOcUAAAAYAAJ",
+      "volumeInfo": {
+        "title": "De Atlatlán a México",
+        "subtitle": "peregrinación de los nahoas",
+        "authors": [
+          "Manuel Bonilla"
+        ],
+        "publishedDate": "1980",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X001879775"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "categories": [
+          "Indians of Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iOcUAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iOcUAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=iOcUAAAAYAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=iOcUAAAAYAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_Atlatl%C3%A1n_a_M%C3%A9xico.html?hl=&id=iOcUAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iOcUAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R2IzAQAAIAAJ",
+      "etag": "a/RHh06mw7E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R2IzAQAAIAAJ",
+      "volumeInfo": {
+        "title": "De Atlatlán a México",
+        "subtitle": "peregrinación de los nahoas : estudio de los petroglifos concernientes a ese problema histórico",
+        "authors": [
+          "Manuel Bonilla"
+        ],
+        "publishedDate": "1942",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B722828"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 142,
+        "printType": "BOOK",
+        "categories": [
+          "Indians of Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=R2IzAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=R2IzAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=R2IzAQAAIAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=R2IzAQAAIAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_Atlatl%C3%A1n_a_M%C3%A9xico.html?hl=&id=R2IzAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R2IzAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fruZtgAACAAJ",
+      "etag": "OibG5rF2GcI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fruZtgAACAAJ",
+      "volumeInfo": {
+        "title": "Nueva Esperanza",
+        "authors": [
+          "Manuel Bonilla Cascado"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8496644782"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788496644786"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "categories": [
+          "Music"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fruZtgAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fruZtgAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nueva_Esperanza.html?hl=&id=fruZtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fruZtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "46sHzQEACAAJ",
+      "etag": "3jrPjZWrVY4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/46sHzQEACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje del señor presidente de la República (Manuel Bonilla). Contestacion de la Asamblea nacional constituyente y otros importantes documentos",
+        "authors": [
+          "Manuel Bonilla (General.)"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458623637"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=46sHzQEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=46sHzQEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_del_se%C3%B1or_presidente_de_la_Rep.html?hl=&id=46sHzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=46sHzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C0NXMwEACAAJ",
+      "etag": "IEdjxPEeJfo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C0NXMwEACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje dirigido a la Asamblea Nacional Constituyente por el señor presidente de la República, general don Manuel Bonilla",
+        "subtitle": "enero de 1906",
+        "authors": [
+          "Honduras Presidente (1903-1907: Manuel Bonilla)"
+        ],
+        "publishedDate": "1906",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:776478046"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=C0NXMwEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=C0NXMwEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_dirigido_a_la_Asamblea_Nacional.html?hl=&id=C0NXMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C0NXMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cev9MgEACAAJ",
+      "etag": "PjR2cmkgCkg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cev9MgEACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje dirigido al Congreso Nacional por el Sr. Presidente constitucional de la República, general don Manuel Bonilla",
+        "subtitle": "enero de 1907",
+        "authors": [
+          "Honduras Presidente (1903-1907: Manuel Bonilla)"
+        ],
+        "publishedDate": "1907",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:776511214"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cev9MgEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cev9MgEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_dirigido_al_Congreso_Nacional_po.html?hl=&id=cev9MgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cev9MgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Omf0yQEACAAJ",
+      "etag": "Btxd1ZTu6g8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Omf0yQEACAAJ",
+      "volumeInfo": {
+        "title": "La Administración del General Don Manuel Bonilla, 1903-1907. Colección de artículos publicados en el diario \"El Observador.\"",
+        "authors": [
+          "Manuel BONILLA (President of the Republic of Honduras.)"
+        ],
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:557739261"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 62,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=Omf0yQEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Omf0yQEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Administraci%C3%B3n_del_General_Don_Manue.html?hl=&id=Omf0yQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Omf0yQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YdkXzQEACAAJ",
+      "etag": "pKMTaevC/b4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YdkXzQEACAAJ",
+      "volumeInfo": {
+        "title": "Manifiesto que el general de division Don Manuel Bonilla dirige a sus conciudadanos al tomar posesion de la presidencia de la Republica, 1o de marzo de 1906",
+        "authors": [
+          "Manuel Bonilla (General.)"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458623633"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YdkXzQEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YdkXzQEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifiesto_que_el_general_de_division_Do.html?hl=&id=YdkXzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YdkXzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "36IZzQEACAAJ",
+      "etag": "09MfJms9wWw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/36IZzQEACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje dirigido al Congreso nacional por el Señor presidente constitucional de la República general Don Manuel Bonilla. [1e de] enero de 1907",
+        "authors": [
+          "Manuel Bonilla (General.)"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458623645"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=36IZzQEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=36IZzQEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_dirigido_al_Congreso_nacional_po.html?hl=&id=36IZzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=36IZzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aYMKMwEACAAJ",
+      "etag": "qUrmxnIdzag",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aYMKMwEACAAJ",
+      "volumeInfo": {
+        "title": "Manifiesto que el General de división Don Manuel Bonilla dirige a sus conciudadanos, al tomar posesión de la Presidencia de la República, 1o. de Marzo de 1906",
+        "authors": [
+          "Manuel Bonilla"
+        ],
+        "publishedDate": "1906*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:776447172"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=aYMKMwEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=aYMKMwEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifiesto_que_el_General_de_divisi%C3%B3n_D.html?hl=&id=aYMKMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aYMKMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zcZfQwAACAAJ",
+      "etag": "ALbqxitJq64",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zcZfQwAACAAJ",
+      "volumeInfo": {
+        "title": "Manifiesto dirigido al pueblo hondureño por el Señor Presidente Constitucional de la Republica General Don Manuel Bonilla 17 de Mayo de 1903",
+        "authors": [
+          "Manuel Bonilla"
+        ],
+        "publishedDate": "1903",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431765513"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=zcZfQwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zcZfQwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifiesto_dirigido_al_pueblo_hondure%C3%B1o.html?hl=&id=zcZfQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zcZfQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6O8WtwAACAAJ",
+      "etag": "OupYCcL3+2w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6O8WtwAACAAJ",
+      "volumeInfo": {
+        "title": "Informe del general don Manuel Bonilla como general en jefe del Ejercito auxiliar de Honduras en Nicaragua",
+        "authors": [
+          "Honduras. Ejército. Ejército auxiliar en Nicaragua",
+          "Manuel Bonilla"
+        ],
+        "publishedDate": "1896",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:40979547"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 14,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6O8WtwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6O8WtwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Informe_del_general_don_Manuel_Bonilla_c.html?hl=&id=6O8WtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6O8WtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "F-40QwAACAAJ",
+      "etag": "gLpFVnZhyTQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/F-40QwAACAAJ",
+      "volumeInfo": {
+        "title": "Manifiesto que el General de división D. Manuel Bonilla dirige á sus conciudadanos, al tomar posesión de la Presidencia de la Republica [de Honduras], 1o. de Marzo de 1906",
+        "authors": [
+          "Manuel Bonilla"
+        ],
+        "publishedDate": "1906",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431765518"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=F-40QwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=F-40QwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifiesto_que_el_General_de_divisi%C3%B3n_D.html?hl=&id=F-40QwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=F-40QwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Y60OzQEACAAJ",
+      "etag": "YS1i137T03U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Y60OzQEACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje del Señor presidente de la República de Honduras general Don Manuel Bonilla, presentado al Congreso nacional legislativo en sus sesiones ordinarias de 1904 (1e de enero).",
+        "authors": [
+          "Manuel Bonilla (General.)"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458623640"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 10,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Y60OzQEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Y60OzQEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_del_Se%C3%B1or_presidente_de_la_Rep.html?hl=&id=Y60OzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Y60OzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NwEuQwAACAAJ",
+      "etag": "2ZtKsJsTJgI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NwEuQwAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje del Señor Presidente de la República de Honduras General Don Manuel Bonilla presentado al Congreso Nacional Legislativo en sus sesiones ordinarias de 1904",
+        "authors": [
+          "Manuel Bonilla"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431765531"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 10,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NwEuQwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NwEuQwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_del_Se%C3%B1or_Presidente_de_la_Rep.html?hl=&id=NwEuQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NwEuQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UHQDywAACAAJ",
+      "etag": "iTXD5X7YkdA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UHQDywAACAAJ",
+      "volumeInfo": {
+        "title": "Conociendo la Realidad El Petroleo Y la Guerra Contra El Terrorismo",
+        "authors": [
+          "Jesus Manuel Bonilla"
+        ],
+        "publisher": "Libros En Red",
+        "publishedDate": "2011-07-01",
+        "description": "La obra parte de los atentados del 11 de septiembre. Durante todo el libro se exponen y critican los errores politicos y militares del gobierno de Bush y se revela el rostro del enemigo, con sus verdaderas motivaciones y aspiraciones. Se incluyen consejos para futuros conflictos belicos y tambien se explica el rol del petroleo en todo el asunto. [Este texto fue escrito sin tildes ni otros caracteres especiales para evitar errores con el navegador.]",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1597546844"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781597546843"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UHQDywAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UHQDywAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=UHQDywAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=UHQDywAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Conociendo_la_Realidad_El_Petroleo_Y_la.html?hl=&id=UHQDywAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UHQDywAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La obra parte de los atentados del 11 de septiembre."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r7Ea0AEACAAJ",
+      "etag": "jWbMsMx28Po",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r7Ea0AEACAAJ",
+      "volumeInfo": {
+        "title": "Diez Años De Guerra",
+        "subtitle": "Sinopsis De La Historia Verdadera De La Revolucíon Mexicana, Volume 1...",
+        "authors": [
+          "Manuel Bonilla"
+        ],
+        "publisher": "Legare Street Press",
+        "publishedDate": "2023-07-18",
+        "description": "Manuel Bonilla es el autor detrás de este libro que presenta una narración detallada y precisa de la Revolución Mexicana. Conocida por muchos como el evento más significativo de la historia mexicana moderna, la Revolución Mexicana cambió la dirección del país y dio forma a su futuro. Diez Años de Guerra ofrece una visión profunda de los problemas, desafíos y crisis que dieron lugar a la Revolución Mexicana. Los lectores interesados en la historia de los movimientos revolucionarios y la política mexicana seguramente disfrutarán la perspectiva única que ofrece Bonilla en este libro. This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the \"public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1021364517"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781021364517"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=r7Ea0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=r7Ea0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=r7Ea0AEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=r7Ea0AEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Diez_A%C3%B1os_De_Guerra.html?hl=&id=r7Ea0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r7Ea0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the &quot;public domain in the United States of America, and possibly other nations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ngYAzwEACAAJ",
+      "etag": "eOPcg9vUz9E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ngYAzwEACAAJ",
+      "volumeInfo": {
+        "title": "Primer concilio de Babel",
+        "subtitle": "el sur que a veces somos : libro intercultural",
+        "authors": [
+          "Juan Manuel Bonilla Soto"
+        ],
+        "publishedDate": "2019",
+        "description": "El sur que a veces somos de Juan Manuel Bonilla Soto rescata no sólo la estética de las lenguas indígenas, sino que presenta el sonoro color de lenguas modernas.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "6078731041"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9786078731046"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 76,
+        "printType": "BOOK",
+        "categories": [
+          "Indians"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "ca",
+        "previewLink": "http://books.google.com.co/books?id=ngYAzwEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ngYAzwEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Primer_concilio_de_Babel.html?hl=&id=ngYAzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ngYAzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El sur que a veces somos de Juan Manuel Bonilla Soto rescata no sólo la estética de las lenguas indígenas, sino que presenta el sonoro color de lenguas modernas."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rgvFGwAACAAJ",
+      "etag": "gMIm6I6vHrk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rgvFGwAACAAJ",
+      "volumeInfo": {
+        "title": "Muralismo",
+        "subtitle": "continuadores y renovadores. Taller de la gráfica popular. Los contemporáneos. El surrealismo",
+        "authors": [
+          "Manuel Bonilla"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:48341755"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=rgvFGwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rgvFGwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Muralismo.html?hl=&id=rgvFGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rgvFGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PCOcYgEACAAJ",
+      "etag": "ZCstdXVPn6M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PCOcYgEACAAJ",
+      "volumeInfo": {
+        "title": "óViva Cristo Rey! Heroico defensor de la libertad religiosa de México",
+        "authors": [
+          "Manuel Bonilla [y Manzano]"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651270624"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 75,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PCOcYgEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PCOcYgEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%C3%B3Viva_Cristo_Rey_Heroico_defensor_de_la.html?hl=&id=PCOcYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PCOcYgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fV1RygEACAAJ",
+      "etag": "3HqMI8G/4Fw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fV1RygEACAAJ",
+      "volumeInfo": {
+        "title": "Contribución al desarrollo de factores de configuración de bolas de fuego con presencia de obstáculos",
+        "authors": [
+          "Juan Manuel Bonilla Martínez"
+        ],
+        "publishedDate": "2018",
+        "description": "Fire is the most common phenomenon that characterizes major accidents that take place in both industrial establishments and in the transport of dangerous goods by road and rail. The formation of a fireball, with or without a BLEVE, is characterized by the strong emission of thermal radiation, capable of causing lethal damage and irreversible injuries to people located at a significant distance. Although the knowledge about this type of accident has improved substantially, are still occurring eventually, so it is necessary to develop proposals aimed at reducing the effects of their consequences. This thesis has as main objective the development of new configuration factors between a fireball and a vulnerable target, considering the shadow effect of a third surface interposed between them. This approach defines a scenario of great practical utility, such as it is the implementation of physical barriers, not considered so far for the prediction of the consequences of major accidents of fireballs over their surroundings. In the literature review, no references has been found related with the raised hypothesis, so it will be in this research the first time they are published, for two particular cases: aboveground and elevated fireball. A novel mathematical method has been developed to determine the configuration factor under the conditions described above, which provides accurate results with reduced execution time and computational cost. Moreover, mathematical equations have been derived, through a semi-analytical method, that allow an acceptable approximation of these factors. The results of this research have allowed the development of a new mathematical model of dynamic fireball considering the shadow effect, whose m a in novelty is that the transitory regime of the fireball evolves through different regions in which the relative visibility can be total, partial and null. Physical barrier design criteria are established to limit the effects of thermal radiation, which until now was limited to walls designed to withstand the shock wave and the hypothetical impact of fragments. It can be integrated into risk analysis methodologies related to land use planning. In summary, this thesis provides knowledge and tools on an effect not considered so far.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1120401295"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 264,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fV1RygEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fV1RygEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Contribuci%C3%B3n_al_desarrollo_de_factores.html?hl=&id=fV1RygEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fV1RygEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the literature review, no references has been found related with the raised hypothesis, so it will be in this research the first time they are published, for two particular cases: aboveground and elevated fireball."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uzattgAACAAJ",
+      "etag": "GCYHl/miR4g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uzattgAACAAJ",
+      "volumeInfo": {
+        "title": "Formulario para manifestaciones",
+        "subtitle": "avisos, solicitudes y escritos diversos, que deben presentarse con arreglo a la nueva ley de hacienda del estado. Número 34 de 16 de mayo de 1901",
+        "authors": [
+          "Manuel Bonilla"
+        ],
+        "publishedDate": "1901",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:20486959"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "categories": [
+          "Finance, Public"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=uzattgAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=uzattgAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Formulario_para_manifestaciones.html?hl=&id=uzattgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uzattgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ietWQwAACAAJ",
+      "etag": "UKNYL4dhU3M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ietWQwAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje dirigido à la Asamblea nacional constituyente por... enero de 1906",
+        "authors": [
+          "Manuel Bonilla (General.)"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458623642"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ietWQwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ietWQwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_dirigido_%C3%A0_la_Asamblea_nacional.html?hl=&id=ietWQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ietWQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iylfywAACAAJ",
+      "etag": "gBdk6OY/kUU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iylfywAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje dirigido al Congreso Nacional por el senor Presidente constitucional de la Republica. - Tegucigalpa, Tipogr. Nacional 1907-Enero de 1907. 1908. 1911",
+        "authors": [
+          "Manuel Bonilla"
+        ],
+        "publishedDate": "1907",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:249386802"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=iylfywAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=iylfywAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_dirigido_al_Congreso_Nacional_po.html?hl=&id=iylfywAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iylfywAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Rq6nGwAACAAJ",
+      "etag": "bE7lRALYEMw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Rq6nGwAACAAJ",
+      "volumeInfo": {
+        "title": "Proclamas que dirigen á sus correligionarios el jefe y vicejefe del partido liberal al entrar éste en el ejercicio de su encargo",
+        "authors": [
+          "Policarpo Bonilla (pres. Honduras)",
+          "Manuel Bonilla"
+        ],
+        "publishedDate": "1894",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:17733663"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 9,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Rq6nGwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Rq6nGwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Proclamas_que_dirigen_%C3%A1_sus_correligion.html?hl=&id=Rq6nGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Rq6nGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rKOmAQAACAAJ",
+      "etag": "zGJTDno+eag",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rKOmAQAACAAJ",
+      "volumeInfo": {
+        "title": "Informe que rinde el Sr. Ing. D. Manuel Bonilla al caudillo Francisco I. Madero, sobre la comisión que le confio para la pacificación de Sinaloa",
+        "authors": [
+          "Manuel Bonilla"
+        ],
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:25012656"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": [
+          "Sinaloa (Mexico : State)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=rKOmAQAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rKOmAQAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Informe_que_rinde_el_Sr_Ing_D_Manuel_Bon.html?hl=&id=rKOmAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rKOmAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DpCRmgEACAAJ",
+      "etag": "g4IZZBIErro",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DpCRmgEACAAJ",
+      "volumeInfo": {
+        "title": "Diez años de guerra",
+        "authors": [
+          "Manuel Bonilla"
+        ],
+        "publishedDate": "1976",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:461581461"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 337,
+        "printType": "BOOK",
+        "categories": [
+          "Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DpCRmgEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DpCRmgEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Diez_a%C3%B1os_de_guerra.html?hl=&id=DpCRmgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DpCRmgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7YJYQwAACAAJ",
+      "etag": "36Zshhf7gVA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7YJYQwAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje dirigido al Congreso Nacional",
+        "authors": [
+          "Manuel Bonilla"
+        ],
+        "publishedDate": "1907",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:434423145"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7YJYQwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7YJYQwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_dirigido_al_Congreso_Nacional.html?hl=&id=7YJYQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7YJYQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iOSHtgAACAAJ",
+      "etag": "dUusZQyh4Zc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iOSHtgAACAAJ",
+      "volumeInfo": {
+        "title": "Santo Sepulcro",
+        "authors": [
+          "Manuel Bonilla Cascado"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8496644790"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788496644793"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "categories": [
+          "Music"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=iOSHtgAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=iOSHtgAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Santo_Sepulcro.html?hl=&id=iOSHtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iOSHtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rheFGwAACAAJ",
+      "etag": "y00xNrCLEIQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rheFGwAACAAJ",
+      "volumeInfo": {
+        "title": "El narcotráfico",
+        "subtitle": "una nueva clase social?",
+        "authors": [
+          "Bonilla Ortíz Bonilla"
+        ],
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:95183800"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 298,
+        "printType": "BOOK",
+        "categories": [
+          "Drug traffic"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=rheFGwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rheFGwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_narcotr%C3%A1fico.html?hl=&id=rheFGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rheFGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KPW-0AEACAAJ",
+      "etag": "bsorXfH4Ktg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KPW-0AEACAAJ",
+      "volumeInfo": {
+        "title": "Turismo como estrategia de desarrollo local",
+        "subtitle": "caso: San Esteban Catarina",
+        "authors": [
+          "Carolina Elizabeth Cerna Aguiñada",
+          "Larissa Guadalupe Martí Tenze de Hernríquez",
+          "José Manuel Bonilla Alvarado"
+        ],
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1435142208"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=KPW-0AEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KPW-0AEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Turismo_como_estrategia_de_desarrollo_lo.html?hl=&id=KPW-0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KPW-0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "N3aAtgAACAAJ",
+      "etag": "xYG6G3arqCk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N3aAtgAACAAJ",
+      "volumeInfo": {
+        "title": "Ole mis niños",
+        "authors": [
+          "Manuel Bonilla Cascado"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "849664474X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788496644748"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "categories": [
+          "Music"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=N3aAtgAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=N3aAtgAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ole_mis_ni%C3%B1os.html?hl=&id=N3aAtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N3aAtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EVCTnQEACAAJ",
+      "etag": "YRQlDMesXDI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EVCTnQEACAAJ",
+      "volumeInfo": {
+        "title": "El régimen maderista",
+        "authors": [
+          "Manuel Bonilla"
+        ],
+        "publishedDate": "1962",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:254073356"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 351,
+        "printType": "BOOK",
+        "categories": [
+          "Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EVCTnQEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EVCTnQEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_r%C3%A9gimen_maderista.html?hl=&id=EVCTnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EVCTnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NWA-tAEACAAJ",
+      "etag": "4SR9WNahbWY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NWA-tAEACAAJ",
+      "volumeInfo": {
+        "title": "Espiga de amor",
+        "authors": [
+          "Manuel Bonilla González"
+        ],
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "968701914X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789687019147"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 99,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NWA-tAEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=45&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NWA-tAEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Espiga_de_amor.html?hl=&id=NWA-tAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NWA-tAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "g1lLuAAACAAJ",
+      "etag": "8n1dbWOR4fc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g1lLuAAACAAJ",
+      "volumeInfo": {
+        "title": "Villa Alhaurín",
+        "authors": [
+          "Manuel Bonilla Cascado"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8496644804"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788496644809"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "categories": [
+          "Music"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=g1lLuAAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=46&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=g1lLuAAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Villa_Alhaur%C3%ADn.html?hl=&id=g1lLuAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g1lLuAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sYeHtgAACAAJ",
+      "etag": "DwFIrFT/l7M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sYeHtgAACAAJ",
+      "volumeInfo": {
+        "title": "Diez años de guerra",
+        "subtitle": "sinopsis de la historia verdadera de la revolución mexicana : primera parte: 1910-1913",
+        "authors": [
+          "Manuel Bonilla"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:760462235"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 337,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=sYeHtgAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=47&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=sYeHtgAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Diez_a%C3%B1os_de_guerra.html?hl=&id=sYeHtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sYeHtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tqxaHQAACAAJ",
+      "etag": "h3jYZ3+K24A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tqxaHQAACAAJ",
+      "volumeInfo": {
+        "title": "Página 33",
+        "authors": [
+          "Juan Manuel Bonilla Soto"
+        ],
+        "publishedDate": "1987",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:48305245"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 39,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tqxaHQAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=48&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=tqxaHQAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/P%C3%A1gina_33.html?hl=&id=tqxaHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tqxaHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VV9KQwAACAAJ",
+      "etag": "bJooPkl2ea0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VV9KQwAACAAJ",
+      "volumeInfo": {
+        "title": "La trama oculta del P:S:O:E",
+        "authors": [
+          "Manuel Bonilla Sauras",
+          "Ricardo de la Cierva"
+        ],
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:434036278"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 381,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VV9KQwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=49&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VV9KQwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_trama_oculta_del_P_S_O_E.html?hl=&id=VV9KQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VV9KQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j34IHAAACAAJ",
+      "etag": "SvbzZLf2TKw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j34IHAAACAAJ",
+      "volumeInfo": {
+        "title": "Apuntes para el estudio del problema agrario",
+        "authors": [
+          "Manuel Bonilla"
+        ],
+        "publishedDate": "1914",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:20272117"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 51,
+        "printType": "BOOK",
+        "categories": [
+          "Agriculture"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=j34IHAAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=50&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=j34IHAAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Apuntes_para_el_estudio_del_problema_agr.html?hl=&id=j34IHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j34IHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5wDItgAACAAJ",
+      "etag": "BwK4GP1pc5U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5wDItgAACAAJ",
+      "volumeInfo": {
+        "title": "Contestación del Congreso nacional al mensaje",
+        "authors": [
+          "Honduras. Presidente, 1912-1913 (Manuel Bonilla)"
+        ],
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21798562"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 35,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5wDItgAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=51&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5wDItgAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Contestaci%C3%B3n_del_Congreso_nacional_al_m.html?hl=&id=5wDItgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5wDItgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "D1zWnQEACAAJ",
+      "etag": "T4gAe118oHc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/D1zWnQEACAAJ",
+      "volumeInfo": {
+        "title": "El régimen maderista",
+        "authors": [
+          "Manuel Bonilla"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:254073356"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=D1zWnQEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=52&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=D1zWnQEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_r%C3%A9gimen_maderista.html?hl=&id=D1zWnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=D1zWnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sCaXHAAACAAJ",
+      "etag": "QF5VfbM7WGg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sCaXHAAACAAJ",
+      "volumeInfo": {
+        "title": "Liberadores de la reforma. Neoexpresionismo. El ojo del pintor. Ultimas tendencias",
+        "authors": [
+          "Manuel Bonilla"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:48341766"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=sCaXHAAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=53&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=sCaXHAAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Liberadores_de_la_reforma_Neoexpresionis.html?hl=&id=sCaXHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sCaXHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C8lbtwAACAAJ",
+      "etag": "ner6km0Ic4M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C8lbtwAACAAJ",
+      "volumeInfo": {
+        "title": "Ma timumachtika nauataketsalis náhuat",
+        "subtitle": "guía metodológica para la enseñanza del náhuat",
+        "authors": [
+          "José Manuel Bonilla Alvarado (coord.)"
+        ],
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:760648911"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 59,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=C8lbtwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=54&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=C8lbtwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ma_timumachtika_nauataketsalis_n%C3%A1huat.html?hl=&id=C8lbtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C8lbtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8xlJGQAACAAJ",
+      "etag": "bjROp4tmZGI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8xlJGQAACAAJ",
+      "volumeInfo": {
+        "title": "La técnica en los instrumentos de viento metal. El trombón",
+        "authors": [
+          "Manuel Bonilla Cascado"
+        ],
+        "publishedDate": "2003-06-10",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8493291196"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788493291198"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 246,
+        "printType": "BOOK",
+        "categories": [
+          "Music"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8xlJGQAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=55&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8xlJGQAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_t%C3%A9cnica_en_los_instrumentos_de_vient.html?hl=&id=8xlJGQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8xlJGQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "buGhMwEACAAJ",
+      "etag": "YDF3cJT1sH8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/buGhMwEACAAJ",
+      "volumeInfo": {
+        "title": "Diseño, proceso y normativa de un recinto industrial para la fabricación de cables eléctricos extrusionados de media y alta tensión",
+        "authors": [
+          "Manuel López Membrilla"
+        ],
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:807894328"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=buGhMwEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=56&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=buGhMwEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dise%C3%B1o_proceso_y_normativa_de_un_recint.html?hl=&id=buGhMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=buGhMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "F5OYYgEACAAJ",
+      "etag": "OrPrcNjACw8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/F5OYYgEACAAJ",
+      "volumeInfo": {
+        "title": "Informe que rinde al caudillo Francisco I. Madero, sobre la comisión que se le confió para la pacificación de Sinaloa",
+        "authors": [
+          "Manuel Bonilla"
+        ],
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651344729"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=F5OYYgEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=57&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=F5OYYgEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Informe_que_rinde_al_caudillo_Francisco.html?hl=&id=F5OYYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=F5OYYgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HAzMzgEACAAJ",
+      "etag": "nThSyDq0P8k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HAzMzgEACAAJ",
+      "volumeInfo": {
+        "title": "El regimen maderista",
+        "authors": [
+          "Manuel Bonilla (Jr.)"
+        ],
+        "publishedDate": "1962",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:24029299"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 351,
+        "printType": "BOOK",
+        "categories": [
+          "Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HAzMzgEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=58&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HAzMzgEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_regimen_maderista.html?hl=&id=HAzMzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HAzMzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2SfTtwAACAAJ",
+      "etag": "3Xl5cpmgrl4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2SfTtwAACAAJ",
+      "volumeInfo": {
+        "title": "El narcotráfico",
+        "subtitle": "una nueva clase social",
+        "authors": [
+          "Manuel Bonilla Ortíz"
+        ],
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253474759"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 298,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2SfTtwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=59&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2SfTtwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_narcotr%C3%A1fico.html?hl=&id=2SfTtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2SfTtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yfuMGwAACAAJ",
+      "etag": "G+Q9TSKA+Ck",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yfuMGwAACAAJ",
+      "volumeInfo": {
+        "title": "Paisajismo. Tradición gráfica: antecedentes de la pintura del siglo XX. Nuevos matices. Muralismo, primera parte: pintura de la revolución",
+        "authors": [
+          "Manuel Bonilla"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:48341628"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yfuMGwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=60&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yfuMGwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Paisajismo_Tradici%C3%B3n_gr%C3%A1fica_anteceden.html?hl=&id=yfuMGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yfuMGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hIgsjwEACAAJ",
+      "etag": "SizLu6gfPVU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hIgsjwEACAAJ",
+      "volumeInfo": {
+        "title": "Regeneración y caracterización de tamices moleculares 5A",
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:914505416"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 802,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hIgsjwEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=61&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hIgsjwEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Regeneraci%C3%B3n_y_caracterizaci%C3%B3n_de_tami.html?hl=&id=hIgsjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hIgsjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "viwVzQEACAAJ",
+      "etag": "ZDnD/oq4weU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/viwVzQEACAAJ",
+      "volumeInfo": {
+        "title": "Manifiesto dirigido al pueblo Hondureño por el señor presidente constitucional de la República general Don Manuel Bonilla. 17 de mayo de 1903",
+        "authors": [
+          "Manuel Bonilla (General.)"
+        ],
+        "publishedDate": "1903",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458623631"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 6,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=viwVzQEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=62&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=viwVzQEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifiesto_dirigido_al_pueblo_Hondure%C3%B1o.html?hl=&id=viwVzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=viwVzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "82KXtgAACAAJ",
+      "etag": "blsplsTb9Bk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/82KXtgAACAAJ",
+      "volumeInfo": {
+        "title": "Semana Santa en Málaga",
+        "authors": [
+          "Manuel Bonilla Cascado"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8496644758"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788496644755"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": [
+          "Music"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=82KXtgAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=63&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=82KXtgAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Semana_Santa_en_M%C3%A1laga.html?hl=&id=82KXtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=82KXtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Q_a6GwAACAAJ",
+      "etag": "rrmF7aKyZ3g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q_a6GwAACAAJ",
+      "volumeInfo": {
+        "title": "Apuntes para la estadística del municipio de Mazatlán correspondientes al año de 1874",
+        "authors": [
+          "Santiago Calderón",
+          "Manuel Bonilla",
+          "Luis María Servo"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:25979405"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 60,
+        "printType": "BOOK",
+        "categories": [
+          "Mazatlán (Sinaloa, Mexico)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Q_a6GwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=64&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Q_a6GwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Apuntes_para_la_estad%C3%ADstica_del_municip.html?hl=&id=Q_a6GwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Q_a6GwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "c90MMwEACAAJ",
+      "etag": "dbD4izdFgcc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/c90MMwEACAAJ",
+      "volumeInfo": {
+        "title": "El Regimen Maderista. (Segunda edición.) [With plates, including portraits.].",
+        "authors": [
+          "Manuel BONILLA GAXIOLA",
+          "Francisco Indalecio MADERO (President of the Mexican Republic.)"
+        ],
+        "publishedDate": "1962",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:557739325"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 351,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=c90MMwEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=65&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=c90MMwEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Regimen_Maderista_Segunda_edici%C3%B3n_Wi.html?hl=&id=c90MMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=c90MMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CP95zwEACAAJ",
+      "etag": "EbtASoJ22sY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CP95zwEACAAJ",
+      "volumeInfo": {
+        "title": "Flash",
+        "authors": [
+          "Juan Manuel Bonilla Soto"
+        ],
+        "publishedDate": "2014",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1346555826"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Cartonera books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=CP95zwEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=66&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CP95zwEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Flash.html?hl=&id=CP95zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CP95zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L6yXzgEACAAJ",
+      "etag": "CcNir86jj5I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L6yXzgEACAAJ",
+      "volumeInfo": {
+        "title": "Wild Life Coloring Book",
+        "subtitle": "Exercise Your Brain",
+        "authors": [
+          "Manuel Bonilla Publishing"
+        ],
+        "publishedDate": "2021-08-09",
+        "description": "A great way to invest in your free time. Have fun coloring, while exercising your brain. Develop a skill or perfect the one you know you already have. Create a master piece of art, out of a colorless design. Put your soul into it, give it life and unleash the possibilities. Hand it over to someone you care for, it will be the best gift coming out from the heart.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798452933199"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 54,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=L6yXzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=L6yXzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=L6yXzgEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=67&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=L6yXzgEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Wild_Life_Coloring_Book.html?hl=&id=L6yXzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L6yXzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A great way to invest in your free time."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UwK0oAEACAAJ",
+      "etag": "CTcAK9vXZys",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UwK0oAEACAAJ",
+      "volumeInfo": {
+        "title": "The Relation of Priestly Celibacy and Evangelization in the Teachings of Blessed John Paul II",
+        "authors": [
+          "Juan Manuel Bonilla"
+        ],
+        "publishedDate": "2012",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:884583428"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 74,
+        "printType": "BOOK",
+        "categories": [
+          "Celibacy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=UwK0oAEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=68&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=UwK0oAEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Relation_of_Priestly_Celibacy_and_Ev.html?hl=&id=UwK0oAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UwK0oAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DJhTzwEACAAJ",
+      "etag": "bNzwb7PxFMQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DJhTzwEACAAJ",
+      "volumeInfo": {
+        "title": "Electroweak Breaking and Neutrino Mass",
+        "authors": [
+          "Manuel Bonilla Díaz"
+        ],
+        "publishedDate": "2017",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1335794192"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=DJhTzwEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=69&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DJhTzwEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Electroweak_Breaking_and_Neutrino_Mass.html?hl=&id=DJhTzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DJhTzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-u2CtgAACAAJ",
+      "etag": "kHJdDxgYigI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-u2CtgAACAAJ",
+      "volumeInfo": {
+        "title": "Virgen de Gracia",
+        "authors": [
+          "Manuel Bonilla Cascado"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8496644812"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788496644816"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "categories": [
+          "Music"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-u2CtgAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=70&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-u2CtgAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Virgen_de_Gracia.html?hl=&id=-u2CtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-u2CtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R-PeXwAACAAJ",
+      "etag": "o/ZrREPU5DM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R-PeXwAACAAJ",
+      "volumeInfo": {
+        "title": "La trama oculta del PSOE",
+        "authors": [
+          "Manuel Bonilla Sauras"
+        ],
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:492000350"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 381,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=R-PeXwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=71&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=R-PeXwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_trama_oculta_del_PSOE.html?hl=&id=R-PeXwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R-PeXwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xy3DuQEACAAJ",
+      "etag": "T8QeSMJEWks",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xy3DuQEACAAJ",
+      "volumeInfo": {
+        "title": "The Latino Facet of Seventh-Day Adventist Congregations in Germany",
+        "subtitle": "Belonging, Church Community and Mission Work",
+        "authors": [
+          "Benjamin Manuel Bonilla López"
+        ],
+        "publishedDate": "2017",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1039720312"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=xy3DuQEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=72&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=xy3DuQEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Latino_Facet_of_Seventh_Day_Adventis.html?hl=&id=xy3DuQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xy3DuQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Vme60AEACAAJ",
+      "etag": "evhw1F6Xfus",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Vme60AEACAAJ",
+      "volumeInfo": {
+        "title": "Rectificaciones y aclaraciones a las Memorias del Gral. Porfirio Díaz",
+        "authors": [
+          "Manuel Bonilla (Jr.)",
+          "Porfirio Díaz"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:92220829"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Generals"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Vme60AEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=73&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Vme60AEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rectificaciones_y_aclaraciones_a_las_Mem.html?hl=&id=Vme60AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Vme60AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "92uGtgAACAAJ",
+      "etag": "WKoLzbG2F7M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/92uGtgAACAAJ",
+      "volumeInfo": {
+        "title": "Crucifixion",
+        "authors": [
+          "Manuel Bonilla Cascado"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8496644774"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788496644779"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "categories": [
+          "Music"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=92uGtgAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=74&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=92uGtgAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Crucifixion.html?hl=&id=92uGtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=92uGtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "41qMXwAACAAJ",
+      "etag": "17OufZC2yvQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/41qMXwAACAAJ",
+      "volumeInfo": {
+        "title": "Alaska Earthquake, March 27, 1964 - Effects on Transportation and Utilities - the Alaska Railroad",
+        "authors": [
+          "Geological Survey (U.S.)",
+          "Manuel Bonilla (G.)",
+          "David S. Mcculloch"
+        ],
+        "publishedDate": "1964",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:631686596"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=41qMXwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=75&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=41qMXwAACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Alaska_Earthquake_March_27_1964_Effects.html?hl=&id=41qMXwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=41qMXwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SL4UMwEACAAJ",
+      "etag": "AmDEvWHjDZ0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SL4UMwEACAAJ",
+      "volumeInfo": {
+        "title": "La Influència dels artistes a la Costa Brava[",
+        "authors": [
+          "Josep Manuel Bonilla Álvarez",
+          "Sílvia Aulet Serrallonga"
+        ],
+        "publishedDate": "2006",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:802997882"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "ca",
+        "previewLink": "http://books.google.com.co/books?id=SL4UMwEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&cd=76&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SL4UMwEACAAJ&dq=inauthor:%22Manuel+Bonilla%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Influ%C3%A8ncia_dels_artistes_a_la_Costa.html?hl=&id=SL4UMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SL4UMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

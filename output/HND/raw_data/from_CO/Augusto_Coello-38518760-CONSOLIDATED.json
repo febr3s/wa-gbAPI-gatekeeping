@@ -1,0 +1,70 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Augusto%20Coello\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Augusto%20Coello\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "iAiJ0AEACAAJ",
+      "etag": "5hrVvu+fNdM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iAiJ0AEACAAJ",
+      "volumeInfo": {
+        "title": "The Unmarried Mother who Relinquishes Her Child",
+        "subtitle": "A Profile of Unmarried Mothers Served by the Children's Aid Society of Winnipeg : Being the Report of a Research Group Project",
+        "authors": [
+          "Lorraine Allison"
+        ],
+        "publishedDate": "1970",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:184846468"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=iAiJ0AEACAAJ&dq=inauthor:%22Augusto+Coello%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=iAiJ0AEACAAJ&dq=inauthor:%22Augusto+Coello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Unmarried_Mother_who_Relinquishes_He.html?hl=&id=iAiJ0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iAiJ0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

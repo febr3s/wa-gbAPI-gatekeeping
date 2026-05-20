@@ -1,0 +1,122 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Miguel%20Oquel%C3%AD%20Bustillo\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Miguel%20Oquel%C3%AD%20Bustillo\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 2,
+  "_totalFetchedItems": 2,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "LQagGwAACAAJ",
+      "etag": "WtlJy974pOg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LQagGwAACAAJ",
+      "volumeInfo": {
+        "title": "Informe que el Comisionado Especial del Gobierno en la costa atlántica presentó al señor presidente de la república en 28 de febrero de 1910",
+        "authors": [
+          "Honduras. Comisionado Especial del Gobierno en la Costa Atlántica",
+          "Miguel Oquelí Bustillo"
+        ],
+        "publishedDate": "1912",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:30869240"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 41,
+        "printType": "BOOK",
+        "categories": [
+          "Atlantic Coast (Honduras)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=LQagGwAACAAJ&dq=inauthor:%22Miguel+Oquel%C3%AD+Bustillo%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LQagGwAACAAJ&dq=inauthor:%22Miguel+Oquel%C3%AD+Bustillo%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Informe_que_el_Comisionado_Especial_del.html?hl=&id=LQagGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LQagGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YNfAPgAACAAJ",
+      "etag": "/qo0kaf512w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YNfAPgAACAAJ",
+      "volumeInfo": {
+        "title": "Informe presentando por Señor agente confidencial",
+        "authors": [
+          "Miguel Oqueli Bustillo"
+        ],
+        "publishedDate": "1908",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:249462541"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 52,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=YNfAPgAACAAJ&dq=inauthor:%22Miguel+Oquel%C3%AD+Bustillo%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YNfAPgAACAAJ&dq=inauthor:%22Miguel+Oquel%C3%AD+Bustillo%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Informe_presentando_por_Se%C3%B1or_agente_co.html?hl=&id=YNfAPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YNfAPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

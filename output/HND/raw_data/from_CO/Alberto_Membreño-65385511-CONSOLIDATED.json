@@ -1,0 +1,1984 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Alberto%20Membre%C3%B1o\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Alberto%20Membre%C3%B1o\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Alberto%20Membre%C3%B1o\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Alberto%20Membre%C3%B1o\"&maxResults=14&startIndex=20&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 34,
+  "_totalRequestsMade": 2,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "brwuAAAAYAAJ",
+      "etag": "TAMMv/oz+4Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/brwuAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Hondureñismos",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "publishedDate": "1982",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173017222034"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "categories": [
+          "Spanish language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=brwuAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=brwuAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=brwuAAAAYAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=brwuAAAAYAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hondure%C3%B1ismos.html?hl=&id=brwuAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=brwuAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CTRdAAAAMAAJ",
+      "etag": "OsSPWiiQd+g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CTRdAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Hondureñismos",
+        "subtitle": "vocabulario de los provincialismos de Honduras",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015025116974"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 300,
+        "printType": "BOOK",
+        "categories": [
+          "Spanish language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.8.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CTRdAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CTRdAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=CTRdAAAAMAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CTRdAAAAMAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hondure%C3%B1ismos.html?hl=&id=CTRdAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CTRdAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HLQuAAAAYAAJ",
+      "etag": "dW7cI0llQaw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HLQuAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Aztequismos de Honduras",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "publishedDate": "1907",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018310920"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 616,
+        "printType": "BOOK",
+        "categories": [
+          "Spanish language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.9.11.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HLQuAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HLQuAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HLQuAAAAYAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HLQuAAAAYAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Aztequismos_de_Honduras.html?hl=&id=HLQuAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HLQuAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sXsz0AEACAAJ",
+      "etag": "QMLANYo1LpY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sXsz0AEACAAJ",
+      "volumeInfo": {
+        "title": "Nombres geográficos indígenas de la República de Honduras",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798518013346"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Names, Geographical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=sXsz0AEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=sXsz0AEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nombres_geogr%C3%A1ficos_ind%C3%ADgenas_de_la_Re.html?hl=&id=sXsz0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sXsz0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xegHAQAAIAAJ",
+      "etag": "AQhCd+VLkBI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xegHAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Límites entre Honduras y Nicaragua",
+        "subtitle": "Réplica al alegato de Nicaragua presentada a Su Majestad católica el rey de España en calidad de árbitro por los representantes de la repca. de Honduras",
+        "authors": [
+          "Honduras"
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3299042"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 206,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xegHAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xegHAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=xegHAQAAIAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=xegHAQAAIAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L%C3%ADmites_entre_Honduras_y_Nicaragua.html?hl=&id=xegHAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xegHAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0IqqZBkPNx8C",
+      "etag": "P6R9TVtFjAs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0IqqZBkPNx8C",
+      "volumeInfo": {
+        "title": "Elementos de práctica forense en materia civil según la legislación hondureña",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "KBR:KBR0000095036"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Civil procedure"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0IqqZBkPNx8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0IqqZBkPNx8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0IqqZBkPNx8C&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0IqqZBkPNx8C&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Elementos_de_pr%C3%A1ctica_forense_en_materi.html?hl=&id=0IqqZBkPNx8C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0IqqZBkPNx8C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZvtNAAAAMAAJ",
+      "etag": "cqsqhElOdOo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZvtNAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Repertorio alfabético de la jurisprudencia establecida por la Corte Suprema de Justicia y Tribunal Supremo de la Guerra en sus sentencia [sic] y autos acordados, 1892",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "publishedDate": "1985",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024538490"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZvtNAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZvtNAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZvtNAAAAMAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZvtNAAAAMAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Repertorio_alfab%C3%A9tico_de_la_jurispruden.html?hl=&id=ZvtNAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZvtNAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "m0rVxdJ0DUcC",
+      "etag": "oVtPaA9GUsw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m0rVxdJ0DUcC",
+      "volumeInfo": {
+        "title": "Toponimias indígenas de Centroamérica",
+        "subtitle": "Honduras, El Salvador, Guatemala y Nicaragua",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSD:31822021086665"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m0rVxdJ0DUcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m0rVxdJ0DUcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=m0rVxdJ0DUcC&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=m0rVxdJ0DUcC&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Toponimias_ind%C3%ADgenas_de_Centroam%C3%A9rica.html?hl=&id=m0rVxdJ0DUcC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m0rVxdJ0DUcC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qWZlAAAAMAAJ",
+      "etag": "peULawf+5fI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qWZlAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Nombres geográficos de la república del Salvador",
+        "subtitle": "(Estudio etimológico)",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "publishedDate": "1908",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018267898"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 66,
+        "printType": "BOOK",
+        "categories": [
+          "Names, Geographical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.12.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qWZlAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qWZlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qWZlAAAAMAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qWZlAAAAMAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nombres_geogr%C3%A1ficos_de_la_rep%C3%BAblica_de.html?hl=&id=qWZlAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qWZlAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1k_qMgEACAAJ",
+      "etag": "FdocoUeTXBA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1k_qMgEACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje dirigido por el señor Presidente de la República Dr don Alberto Membreño al Congreso Nacional en sus sesiones ordinarias de 1916",
+        "authors": [
+          "Honduras. President (1915-1916: Membreño)"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:499376952"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 29,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1k_qMgEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1k_qMgEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_dirigido_por_el_se%C3%B1or_President.html?hl=&id=1k_qMgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1k_qMgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SrRhQwAACAAJ",
+      "etag": "SLYYghLkBEA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SrRhQwAACAAJ",
+      "volumeInfo": {
+        "title": "Hondureñismos, por Alberto Membreño. 3a edición...",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "publishedDate": "1912",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:457631093"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SrRhQwAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SrRhQwAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hondure%C3%B1ismos_por_Alberto_Membre%C3%B1o_3a.html?hl=&id=SrRhQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SrRhQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7USFQwAACAAJ",
+      "etag": "AjFx5cBNSV8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7USFQwAACAAJ",
+      "volumeInfo": {
+        "title": "Repertorio alfabético de la jurisprudencia establecida por la Corte suprema de justicia y tribunal supremo de la guerra... por Alberto Membreño",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "publishedDate": "1892",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:457631127"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 92,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7USFQwAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7USFQwAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Repertorio_alfab%C3%A9tico_de_la_jurispruden.html?hl=&id=7USFQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7USFQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ml3J0AEACAAJ",
+      "etag": "CB7d7RejF/s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ml3J0AEACAAJ",
+      "volumeInfo": {
+        "title": "Nombres Geográficos Indígenas de Honduras",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "publisher": "Coleccion Erandique",
+        "publishedDate": "2024-06-17",
+        "description": "\"Desde niño llamaron mi atención los nombres geográficos de mi país, y creí siempre que algo deberían significar\". Con esa curiosidad en mente, Alberto Membreño comenzó la enorme tarea de descifrar miles de nombres de ciudades y pueblos. Al inicio sufrió algunas decepciones. Finalmente, en 1901, publicó este interesante libro en el que recoge los orígenes y raíces indígenas de muchísimos lugares de Honduras. ¿Y usted sabe qué significa el nombre del pueblo donde nació? Este volumen le puede ayudar a descubrirlo.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798892671378"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ml3J0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ml3J0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Ml3J0AEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Ml3J0AEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nombres_Geogr%C3%A1ficos_Ind%C3%ADgenas_de_Hondu.html?hl=&id=Ml3J0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ml3J0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Con esa curiosidad en mente, Alberto Membreño comenzó la enorme tarea de descifrar miles de nombres de ciudades y pueblos. Al inicio sufrió algunas decepciones."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "c6BqswEACAAJ",
+      "etag": "qgQ9035jX5g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/c6BqswEACAAJ",
+      "volumeInfo": {
+        "title": "Aztequismos de Honduras, por Alberto Membreño",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "publishedDate": "1907",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:457631069"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 28,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=c6BqswEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=c6BqswEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Aztequismos_de_Honduras_por_Alberto_Memb.html?hl=&id=c6BqswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=c6BqswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dB1VQwAACAAJ",
+      "etag": "4laC26JyN2w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dB1VQwAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje dirigido por el señor presidente de la República Alberto Membreño al Congreso nacional en sus sesiones ordinarias de 1916. 1° de enero de 1916",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:457631103"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 29,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=dB1VQwAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dB1VQwAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_dirigido_por_el_se%C3%B1or_president.html?hl=&id=dB1VQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dB1VQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cDqLtgAACAAJ",
+      "etag": "pKZ0zW6AN+U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cDqLtgAACAAJ",
+      "volumeInfo": {
+        "title": "Discursos pronunciados por los señores doctores don Alberto Membreño y don Francisco Bertrand",
+        "subtitle": "con motivo de la transmisión de la Presidencia de la República el 1.o de febrero de 1916",
+        "authors": [
+          "Honduras. President",
+          "President Francisco Bertrand (Honduras.)",
+          "Alberto Membreño"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:16621504"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 14,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cDqLtgAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cDqLtgAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discursos_pronunciados_por_los_se%C3%B1ores.html?hl=&id=cDqLtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cDqLtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JNFdQwAACAAJ",
+      "etag": "ISHVXuh2TBY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JNFdQwAACAAJ",
+      "volumeInfo": {
+        "title": "Nombres geográficos de la República del Salvador (estudio etimológico), por Alberto Membreño",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "publishedDate": "1908",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:457631111"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 55,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JNFdQwAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JNFdQwAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nombres_geogr%C3%A1ficos_de_la_Rep%C3%BAblica_de.html?hl=&id=JNFdQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JNFdQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5yA8QwAACAAJ",
+      "etag": "1gwsnwUELhM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5yA8QwAACAAJ",
+      "volumeInfo": {
+        "title": "Elementos de práctica forense en materia civil, según la legislación hondureña, por Alberto Membreño",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:457631084"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5yA8QwAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5yA8QwAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Elementos_de_pr%C3%A1ctica_forense_en_materi.html?hl=&id=5yA8QwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5yA8QwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dm9GtwAACAAJ",
+      "etag": "07b1Bw/r0aU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dm9GtwAACAAJ",
+      "volumeInfo": {
+        "title": "Nombres geográficos indígenas de la república de Honduras",
+        "authors": [
+          "Alberto Membreño (Pres. de Honduras)"
+        ],
+        "publishedDate": "1901",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651250971"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 118,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=dm9GtwAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dm9GtwAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nombres_geogr%C3%A1ficos_ind%C3%ADgenas_de_la_re.html?hl=&id=dm9GtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dm9GtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "E2FiOwAACAAJ",
+      "etag": "JYqI6SVuhsI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/E2FiOwAACAAJ",
+      "volumeInfo": {
+        "title": "Competencia judicial internacional en materia laboral",
+        "subtitle": "la prorroga convencial",
+        "authors": [
+          "Carlos Alberto Membreño V."
+        ],
+        "publishedDate": "2007",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9962524571"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789962524571"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 60,
+        "printType": "BOOK",
+        "categories": [
+          "Conflict of laws"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=E2FiOwAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=E2FiOwAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Competencia_judicial_internacional_en_ma.html?hl=&id=E2FiOwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=E2FiOwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PTB2wgEACAAJ",
+      "etag": "eqekP7RavkQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PTB2wgEACAAJ",
+      "volumeInfo": {
+        "title": "Repertorio alfabético de la jurisprudencia",
+        "subtitle": "establecida por la Corte Suprema de Justicia y Tribunal Supremo de la Guerra en sus sentencia y autos acordados ; 1892",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "publishedDate": "1985",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:252968235"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PTB2wgEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PTB2wgEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Repertorio_alfab%C3%A9tico_de_la_jurispruden.html?hl=&id=PTB2wgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PTB2wgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WYzctgAACAAJ",
+      "etag": "SbJGLosOQtk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WYzctgAACAAJ",
+      "volumeInfo": {
+        "title": "Hondureñismos",
+        "subtitle": "apendice ; vocabularios Jicaque de Yoro y del Palmar",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:254415742"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 11,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=WYzctgAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WYzctgAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hondure%C3%B1ismos.html?hl=&id=WYzctgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WYzctgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "S_3ltgAACAAJ",
+      "etag": "EZd+LVLkDlA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/S_3ltgAACAAJ",
+      "volumeInfo": {
+        "title": "Hondureñismos",
+        "subtitle": "apendice ; introducción a los vocabularios moreno, zambo, sumo, paya, jicaque, lenco y chorti",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:254415703"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 4,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=S_3ltgAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=S_3ltgAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hondure%C3%B1ismos.html?hl=&id=S_3ltgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=S_3ltgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9du2GwAACAAJ",
+      "etag": "ufBB3Dc6tTo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9du2GwAACAAJ",
+      "volumeInfo": {
+        "title": "Repertorio alfabetico de la jurisprudencia establecida por la corte suprema de justicia y Tribunal suprema de la guerra en sus sentencias y autos acordados",
+        "authors": [
+          "Alberto Membreño",
+          "Honduras. Corte Suprema de Justicia",
+          "Honduras. Tribunal Supremo de la Guerra"
+        ],
+        "publishedDate": "1892",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:82442120"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 92,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9du2GwAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9du2GwAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Repertorio_alfabetico_de_la_jurisprudenc.html?hl=&id=9du2GwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9du2GwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ktParQEACAAJ",
+      "etag": "0bfLZcVf2JY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ktParQEACAAJ",
+      "volumeInfo": {
+        "title": "Hondureñismos",
+        "subtitle": "apendice ; vocabularios Sumo de Honduras y de Nicaragua",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:254416847"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 11,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=ktParQEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ktParQEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hondure%C3%B1ismos.html?hl=&id=ktParQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ktParQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JdEbzQEACAAJ",
+      "etag": "Qf+G1h4BYiA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JdEbzQEACAAJ",
+      "volumeInfo": {
+        "title": "Alocución ... en el momento de recibir el depósito de la presidencia de la República",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:661263593"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=JdEbzQEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JdEbzQEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Alocuci%C3%B3n_en_el_momento_de_recibir_el_d.html?hl=&id=JdEbzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JdEbzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Q7890QEACAAJ",
+      "etag": "szvikrUyBDw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q7890QEACAAJ",
+      "volumeInfo": {
+        "title": "Nombres Geográficos Indígenas de Honduras",
+        "subtitle": "Departamento de Copán",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "publishedDate": "1970",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1511602910"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=Q7890QEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Q7890QEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nombres_Geogr%C3%A1ficos_Ind%C3%ADgenas_de_Hondu.html?hl=&id=Q7890QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Q7890QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7qszMwEACAAJ",
+      "etag": "HaVOn+m6WJg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7qszMwEACAAJ",
+      "volumeInfo": {
+        "title": "La prueba ilícitamente obtenida",
+        "subtitle": "implica vulneración de derechos fundamentales y consecuente ineficicia procesal : especial aplicación en el proceso laboral panameño",
+        "authors": [
+          "Carlos Alberto Membreño"
+        ],
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9962525780"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789962525783"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 198,
+        "printType": "BOOK",
+        "categories": [
+          "Exclusionary rule (Evidence)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7qszMwEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7qszMwEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_prueba_il%C3%ADcitamente_obtenida.html?hl=&id=7qszMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7qszMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RsJt0QEACAAJ",
+      "etag": "gfCBLbObCrU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RsJt0QEACAAJ",
+      "volumeInfo": {
+        "title": "Elementos de practica forense en materia civil segun la legislacion Hondureña",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1025871717"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RsJt0QEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RsJt0QEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Elementos_de_practica_forense_en_materia.html?hl=&id=RsJt0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RsJt0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MX0-0QEACAAJ",
+      "etag": "zYFutQhGe98",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MX0-0QEACAAJ",
+      "volumeInfo": {
+        "title": "Nombres Geográficos Indígenas de Honduras",
+        "subtitle": "Departamento de Lempira",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "publishedDate": "1969",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1511617751"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=MX0-0QEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=MX0-0QEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nombres_Geogr%C3%A1ficos_Ind%C3%ADgenas_de_Hondu.html?hl=&id=MX0-0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MX0-0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jhJKtwAACAAJ",
+      "etag": "mpCeYlteTp0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jhJKtwAACAAJ",
+      "volumeInfo": {
+        "title": "Discursos pronunciados por los señores doctores don Alberto Membreño y don Francisco Bertrand, con motivo de la trasmisión de la presidencia de la República, il 1° de febrero de 1916",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:759678821"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 14,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jhJKtwAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jhJKtwAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discursos_pronunciados_por_los_se%C3%B1ores.html?hl=&id=jhJKtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jhJKtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "goy5tgAACAAJ",
+      "etag": "VHG9sIJjAiI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/goy5tgAACAAJ",
+      "volumeInfo": {
+        "title": "Hondureñismos",
+        "subtitle": "apendice ; vocabulario Zambo ó Mosco",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:254418631"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 5,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=goy5tgAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=goy5tgAACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hondure%C3%B1ismos.html?hl=&id=goy5tgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=goy5tgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A_OXtQEACAAJ",
+      "etag": "GTP6g1Zsx10",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A_OXtQEACAAJ",
+      "volumeInfo": {
+        "title": "Hondureñismos",
+        "subtitle": "apendice ; vocabulario Zambo ó Mosco",
+        "authors": [
+          "Alberto Membreño"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:254416523"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=A_OXtQEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=A_OXtQEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hondure%C3%B1ismos.html?hl=&id=A_OXtQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A_OXtQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "v8ovMwEACAAJ",
+      "etag": "WXRTBTyzScE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v8ovMwEACAAJ",
+      "volumeInfo": {
+        "title": "Hondureñismos. ... Segunda edicion ... aumentada, etc",
+        "authors": [
+          "Alberto MEMBREÑO"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:562100404"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 269,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=v8ovMwEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=v8ovMwEACAAJ&dq=inauthor:%22Alberto+Membre%C3%B1o%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hondure%C3%B1ismos_Segunda_edicion_aumentada.html?hl=&id=v8ovMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v8ovMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

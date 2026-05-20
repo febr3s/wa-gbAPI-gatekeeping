@@ -1,0 +1,66 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Carlos%20Hartling\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Carlos%20Hartling\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "hGEouwAACAAJ",
+      "etag": "u/0Jz9Y4eMw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hGEouwAACAAJ",
+      "volumeInfo": {
+        "title": "Himno nacional de Honduras",
+        "authors": [
+          "Augusto C. Coello",
+          "Carlos Hartling"
+        ],
+        "publishedDate": "1955",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:492725567"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hGEouwAACAAJ&dq=inauthor:%22Carlos+Hartling%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hGEouwAACAAJ&dq=inauthor:%22Carlos+Hartling%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Himno_nacional_de_Honduras.html?hl=&id=hGEouwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hGEouwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Miguel%20Paz%20Barahona\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Miguel%20Paz%20Barahona\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 2,
+  "_totalFetchedItems": 2,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "MS3fXwAACAAJ",
+      "etag": "YYk1Kca/LI8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MS3fXwAACAAJ",
+      "volumeInfo": {
+        "title": "Manifesto del ex-presidente de Honduras, doctor Miguel Paz Barahona",
+        "subtitle": "Enviado desde Parʹis, condenando el crimen político de la actual administración de Carias",
+        "authors": [
+          "Miguel Paz Barahona (pres. Honduras)"
+        ],
+        "publishedDate": "1936*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21965393"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=MS3fXwAACAAJ&dq=inauthor:%22Miguel+Paz+Barahona%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=MS3fXwAACAAJ&dq=inauthor:%22Miguel+Paz+Barahona%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifesto_del_ex_presidente_de_Honduras.html?hl=&id=MS3fXwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MS3fXwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZCOjzgEACAAJ",
+      "etag": "S9d01ZIUNBI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZCOjzgEACAAJ",
+      "volumeInfo": {
+        "title": "Manifiesto del ex-presidente de Honduras, Doctor Miguel Paz Baraona",
+        "subtitle": "Enviado desde París, condenando el crimen político de la actual administración de Carlas. Al Pueblo Hondureño ... Paris, Marzo 18 de 1936",
+        "authors": [
+          "Miguel Paz Baraona"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:2020782590"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZCOjzgEACAAJ&dq=inauthor:%22Miguel+Paz+Barahona%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZCOjzgEACAAJ&dq=inauthor:%22Miguel+Paz+Barahona%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifiesto_del_ex_presidente_de_Honduras.html?hl=&id=ZCOjzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZCOjzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

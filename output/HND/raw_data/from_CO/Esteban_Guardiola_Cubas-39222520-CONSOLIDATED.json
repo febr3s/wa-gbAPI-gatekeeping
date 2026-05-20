@@ -1,0 +1,1610 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Esteban%20Guardiola%20Cubas\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Esteban%20Guardiola%20Cubas\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Esteban%20Guardiola%20Cubas\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Esteban%20Guardiola%20Cubas\"&maxResults=7&startIndex=20&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 27,
+  "_totalRequestsMade": 2,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "o7r-ygEACAAJ",
+      "etag": "+mfssgfmpOk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o7r-ygEACAAJ",
+      "volumeInfo": {
+        "title": "Vida y hechos del General Santos Guardiola",
+        "authors": [
+          "Esteban Guardiola Cubas"
+        ],
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253722250"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=o7r-ygEACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=o7r-ygEACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vida_y_hechos_del_General_Santos_Guardio.html?hl=&id=o7r-ygEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o7r-ygEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nrIWAAAAYAAJ",
+      "etag": "pHMgKVQBpz0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nrIWAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Vida y hechos del general Santos Guardiola",
+        "subtitle": "biografía",
+        "authors": [
+          "Esteban Guardiola Cubas"
+        ],
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X004030089"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 282,
+        "printType": "BOOK",
+        "categories": [
+          "Generals"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nrIWAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nrIWAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nrIWAAAAYAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nrIWAAAAYAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vida_y_hechos_del_general_Santos_Guardio.html?hl=&id=nrIWAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nrIWAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Y68SAAAAYAAJ",
+      "etag": "3gilYT3nQOU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Y68SAAAAYAAJ",
+      "volumeInfo": {
+        "title": "San Antonio de Oriente, poema",
+        "authors": [
+          "Esteban Guardiola Cubas"
+        ],
+        "publishedDate": "1945",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024465207"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 28,
+        "printType": "BOOK",
+        "categories": [
+          "Miners"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Y68SAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Y68SAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Y68SAAAAYAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Y68SAAAAYAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/San_Antonio_de_Oriente_poema.html?hl=&id=Y68SAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Y68SAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sRcBAAAAMAAJ",
+      "etag": "7JmAh/U3dEY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sRcBAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Pastorelas del presbítero dr. don José Trinidad Reyes",
+        "authors": [
+          "José Trinidad Reyes"
+        ],
+        "publishedDate": "1905",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015062941037"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 514,
+        "printType": "BOOK",
+        "categories": [
+          "Spanish poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.12.10.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sRcBAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sRcBAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=sRcBAAAAMAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=sRcBAAAAMAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pastorelas_del_presb%C3%ADtero_dr_don_Jos%C3%A9.html?hl=&id=sRcBAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sRcBAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YWcmAQAAMAAJ",
+      "etag": "qBaGNbpFPAg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YWcmAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Don Francisco Antonio Xavier Botelo, bosquejo biográfico",
+        "authors": [
+          "Esteban Guardiola Cubas"
+        ],
+        "publishedDate": "1942",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:35112101181743"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YWcmAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YWcmAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YWcmAQAAMAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YWcmAQAAMAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Don_Francisco_Antonio_Xavier_Botelo_bosq.html?hl=&id=YWcmAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YWcmAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NfFqAAAAMAAJ",
+      "etag": "n3IcWkGJzYM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NfFqAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Biografía del doctor Rafael Alvarado Manzano",
+        "authors": [
+          "Esteban Guardiola Cubas"
+        ],
+        "publishedDate": "1939",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018229866"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NfFqAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NfFqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NfFqAAAAMAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NfFqAAAAMAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Biograf%C3%ADa_del_doctor_Rafael_Alvarado_Ma.html?hl=&id=NfFqAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NfFqAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YWA8AQAAIAAJ",
+      "etag": "Si28KsHzid8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YWA8AQAAIAAJ",
+      "volumeInfo": {
+        "title": "Impugnación al folleto que, con el título de \"Juridicción territorial atlántica de la república de Nicaragua",
+        "subtitle": "civil, política y eclesiástica,\" ha publicado in los talleres nacionales de Managua, en el corriente año, el presbo. Ramón Ignacio Matus. Responden por esta impugnación, los licenciados:Esteban Guardiola y Félix Salgado",
+        "authors": [
+          "Esteban Guardiola Cubas",
+          "Félix Salgado"
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105048913557"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 134,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YWA8AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YWA8AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YWA8AQAAIAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YWA8AQAAIAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Impugnaci%C3%B3n_al_folleto_que_con_el_t%C3%ADtu.html?hl=&id=YWA8AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YWA8AQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u4hnAAAAMAAJ",
+      "etag": "0o8au8pOzUY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u4hnAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Biografía del dr. Rafael Alvarado Manzano ...",
+        "authors": [
+          "Esteban Guardiola Cubas"
+        ],
+        "publishedDate": "1934",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173022908330"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u4hnAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=u4hnAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=u4hnAAAAMAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=u4hnAAAAMAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Biograf%C3%ADa_del_dr_Rafael_Alvarado_Manzan.html?hl=&id=u4hnAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u4hnAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rVTC6NJmlWcC",
+      "etag": "EgL+zG4/g1A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rVTC6NJmlWcC",
+      "volumeInfo": {
+        "title": "Réplica a la impugnación del manifiesto de la Sociedad de abogados de Honduras",
+        "authors": [
+          "Esteban Guardiola Cubas",
+          "Ramón E. Cruz"
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CORNELL:31924021061613"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rVTC6NJmlWcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rVTC6NJmlWcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=rVTC6NJmlWcC&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rVTC6NJmlWcC&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/R%C3%A9plica_a_la_impugnaci%C3%B3n_del_manifiest.html?hl=&id=rVTC6NJmlWcC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rVTC6NJmlWcC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VY8PAQAAIAAJ",
+      "etag": "zur76Owe2e0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VY8PAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Historia de la Universidad de Honduras en la primera centuria de su fundación",
+        "subtitle": "seguida de un estudio crítico de las pastorelas del doctor José Trinidad Reyes",
+        "authors": [
+          "Esteban Guardiola Cubas"
+        ],
+        "publishedDate": "1952",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105037503302"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VY8PAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VY8PAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VY8PAQAAIAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VY8PAQAAIAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_de_la_Universidad_de_Honduras_e.html?hl=&id=VY8PAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VY8PAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Yq8SAAAAYAAJ",
+      "etag": "682VLd0Rv5Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Yq8SAAAAYAAJ",
+      "volumeInfo": {
+        "title": "El Río Patuca",
+        "subtitle": "poema descriptivo y patriótico",
+        "authors": [
+          "Esteban Guardiola Cubas"
+        ],
+        "publishedDate": "1952",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024465218"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "categories": [
+          "Poetry of places"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Yq8SAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Yq8SAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Yq8SAAAAYAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Yq8SAAAAYAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_R%C3%ADo_Patuca.html?hl=&id=Yq8SAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Yq8SAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DCOyNQAACAAJ",
+      "etag": "1UzQYb5NUrQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DCOyNQAACAAJ",
+      "volumeInfo": {
+        "title": "Vida y heches",
+        "authors": [
+          "Esteban Guardiola Cubas"
+        ],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:221017979"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DCOyNQAACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DCOyNQAACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vida_y_heches.html?hl=&id=DCOyNQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DCOyNQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ciK7zQEACAAJ",
+      "etag": "09j7w7mIjUs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ciK7zQEACAAJ",
+      "volumeInfo": {
+        "title": "Impugnación al folleto que",
+        "authors": [
+          "Esteban Guardiola Cubas",
+          "Félix Salgado"
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:39021362"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 123,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ciK7zQEACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ciK7zQEACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Impugnaci%C3%B3n_al_folleto_que.html?hl=&id=ciK7zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ciK7zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pxdUMwEACAAJ",
+      "etag": "7z1HotgxZuw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pxdUMwEACAAJ",
+      "volumeInfo": {
+        "title": "Ligero estudio acerca de los temas I, II, III y VIII",
+        "subtitle": "propuestos á aquella Asamblea",
+        "authors": [
+          "Esteban Guardiola Cubas"
+        ],
+        "publishedDate": "1894",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:794241379"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "categories": [
+          "Congreso Pedagógico Centroamericano"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=pxdUMwEACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=pxdUMwEACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ligero_estudio_acerca_de_los_temas_I_II.html?hl=&id=pxdUMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pxdUMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "osIWzQEACAAJ",
+      "etag": "d5wJWV6jlx0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/osIWzQEACAAJ",
+      "volumeInfo": {
+        "title": "Réplica a la impugnación del manifiesto de la Sociedad de Abogados de Honduras",
+        "subtitle": "publicaciones de la Sociedad de Abogados",
+        "authors": [
+          "Esteban Guardiola Cubas"
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:864176623"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 23,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=osIWzQEACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=osIWzQEACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/R%C3%A9plica_a_la_impugnaci%C3%B3n_del_manifiest.html?hl=&id=osIWzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=osIWzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7Zo3nQEACAAJ",
+      "etag": "XUZM9ZkaC1Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7Zo3nQEACAAJ",
+      "volumeInfo": {
+        "title": "Historia de la Universidad de Honduras",
+        "authors": [
+          "Esteban Guardiola Cubas"
+        ],
+        "publishedDate": "1952",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21458373"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 163,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7Zo3nQEACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7Zo3nQEACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_de_la_Universidad_de_Honduras.html?hl=&id=7Zo3nQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7Zo3nQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0GwfywEACAAJ",
+      "etag": "j89E/aPjla8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0GwfywEACAAJ",
+      "volumeInfo": {
+        "title": "Impugnación al folleto que, con el título de \"Jurisdicción Territorial Atlántica de la República de Nicaragua, Civil, Política y Eclesiástica\" ha publicado en los Talleres Nacional de Managua, en el corriente año, el Presbo. Ramón Ignacio Matus",
+        "authors": [
+          "Esteban Guardiola Cubas"
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1123506160"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0GwfywEACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0GwfywEACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Impugnaci%C3%B3n_al_folleto_que_con_el_t%C3%ADtu.html?hl=&id=0GwfywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0GwfywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9CUwQwAACAAJ",
+      "etag": "iHi67EZuFk8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9CUwQwAACAAJ",
+      "volumeInfo": {
+        "title": "Memoria del Secretario de Estado en el Despacho de Instruccioń Pública por la ley, presentada al Congreso Nacional, 1914 á 1915",
+        "authors": [
+          "Esteban Guardiola Cubas",
+          "Honduras. Ministerio de Instrucción Pública"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:367612853"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9CUwQwAACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9CUwQwAACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memoria_del_Secretario_de_Estado_en_el_D.html?hl=&id=9CUwQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9CUwQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kGfCswEACAAJ",
+      "etag": "/ZBH+/tNo6g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kGfCswEACAAJ",
+      "volumeInfo": {
+        "title": "Impugnación al folleto que, con el título de \"Jurisdicción territorial atlántica de la república de Nicaragua, civil, política y eclesiástica,\" ha publicado en los talleres nacionales de Managua, en el corriente año, el presbo. Ramón Ignacio Matus",
+        "authors": [
+          "Esteban Guardiola Cubas"
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:22411963"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 123,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=kGfCswEACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=kGfCswEACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Impugnaci%C3%B3n_al_folleto_que_con_el_t%C3%ADtu.html?hl=&id=kGfCswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kGfCswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r1c8QwAACAAJ",
+      "etag": "fIjKkbJ3GBg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r1c8QwAACAAJ",
+      "volumeInfo": {
+        "title": "Boceto biográfico del doctor Ramón Rosa",
+        "authors": [
+          "Esteban Guardiola Cubas"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432796312"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 44,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=r1c8QwAACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=r1c8QwAACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Boceto_biogr%C3%A1fico_del_doctor_Ram%C3%B3n_Ros.html?hl=&id=r1c8QwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r1c8QwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9PGvPgAACAAJ",
+      "etag": "OBK33O9w+uo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9PGvPgAACAAJ",
+      "volumeInfo": {
+        "title": "Impugnación",
+        "subtitle": "al folleto que, con el título de \"Jurisdicción territorial atlántica de la República de Nicaragua, civil, política y eclesiástica\", ha publicado en los Talleres Nacionales de Managua, en el corriente año, el Presbo",
+        "authors": [
+          "Estéban Guardiola",
+          "Ramón Ignacio Matus",
+          "Felix Salgado"
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253668523"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 123,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9PGvPgAACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9PGvPgAACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Impugnaci%C3%B3n.html?hl=&id=9PGvPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9PGvPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OtAytAEACAAJ",
+      "etag": "vza/fJWVLMA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OtAytAEACAAJ",
+      "volumeInfo": {
+        "title": "Historia de la Universad de Honduras en la Primera Centria de Su Fundación",
+        "subtitle": "Seguida de Un Estudio Crítico de Las Pasrtorelas Del Doctor José Trinidad Reyes",
+        "authors": [
+          "Esteban Guardiola Cubas"
+        ],
+        "publishedDate": "1952",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:56026664"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 207,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=OtAytAEACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=OtAytAEACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_de_la_Universad_de_Honduras_en.html?hl=&id=OtAytAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OtAytAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0D3rSAAACAAJ",
+      "etag": "FuEvDowJr+I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0D3rSAAACAAJ",
+      "volumeInfo": {
+        "title": "Historia de la Universidad de Honduras",
+        "subtitle": "Por ... Esteban Guardiola. Centenario del Padre Reyes",
+        "authors": [
+          "Esteban Guardiola",
+          "Estebán Guardiola Cubas"
+        ],
+        "publishedDate": "1955",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459625289"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 163,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0D3rSAAACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0D3rSAAACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_de_la_Universidad_de_Honduras.html?hl=&id=0D3rSAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0D3rSAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ULuwYgEACAAJ",
+      "etag": "xRMGjK25iow",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ULuwYgEACAAJ",
+      "volumeInfo": {
+        "title": "Ofrenda filial",
+        "authors": [
+          "Esteban Guardiola Cubas"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651351214"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ULuwYgEACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ULuwYgEACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ofrenda_filial.html?hl=&id=ULuwYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ULuwYgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Mjau0AEACAAJ",
+      "etag": "lbwNcFRWO7Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Mjau0AEACAAJ",
+      "volumeInfo": {
+        "title": "General Francisco Morazan",
+        "subtitle": "Boceto biográfico escrito con motivo del Primer Centenario de la Muerte de aquel preclaro Repúblico",
+        "authors": [
+          "Esteban Guardiola Cubas"
+        ],
+        "publishedDate": "1943",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1427689451"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Mjau0AEACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Mjau0AEACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/General_Francisco_Morazan.html?hl=&id=Mjau0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Mjau0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tfjztgAACAAJ",
+      "etag": "Sr4CDSlyK6s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tfjztgAACAAJ",
+      "volumeInfo": {
+        "title": "Las pastorelas del padre Reyes",
+        "authors": [
+          "Esteban Guardiola Cubas",
+          "José Trinidad Reyes"
+        ],
+        "publishedDate": "1955",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:318460850"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tfjztgAACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=tfjztgAACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_pastorelas_del_padre_Reyes.html?hl=&id=tfjztgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tfjztgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iipmQwAACAAJ",
+      "etag": "iWM/r8Fn+ss",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iipmQwAACAAJ",
+      "volumeInfo": {
+        "title": "Impugnación al folleto que, con el titulo de \"Jurisdicción territorial atlantica de la Republica de Nicaragua, civil, politica y eclesiastica\", ha publicado... Ramon Ignacio Matus. Responden",
+        "subtitle": "por esta impugnación... Esteban Guardiola y Felix Salgado",
+        "authors": [
+          "Felix Salgado",
+          "Esteban Guardiola",
+          "Estebán Guardiola Cubas"
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459325401"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 125,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=iipmQwAACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=iipmQwAACAAJ&dq=inauthor:%22Esteban+Guardiola+Cubas%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Impugnaci%C3%B3n_al_folleto_que_con_el_titul.html?hl=&id=iipmQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iipmQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

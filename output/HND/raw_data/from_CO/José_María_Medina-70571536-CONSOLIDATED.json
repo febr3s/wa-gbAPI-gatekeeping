@@ -1,0 +1,4412 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Mar%C3%ADa%20Medina\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Mar%C3%ADa%20Medina\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Mar%C3%ADa%20Medina\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Mar%C3%ADa%20Medina\"&maxResults=20&startIndex=40&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Mar%C3%ADa%20Medina\"&maxResults=20&startIndex=60&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Mar%C3%ADa%20Medina\"&maxResults=16&startIndex=60&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 76,
+  "_totalRequestsMade": 4,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "835xDwAAQBAJ",
+      "etag": "YH4O0DJLMg8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/835xDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Haciendo realidad el derecho a la alimentación en España",
+        "authors": [
+          "José María Medina Rey",
+          "Ignacio Trueba",
+          "Juan Carlos García Cebolla",
+          "Miguel Ángel Martín López",
+          "Héctor Silveira",
+          "Lidia García-García",
+          "Sergio García Magariño",
+          "Leila Sant Massarrat",
+          "María Amparo Novo Vázquez",
+          "José Ramón Mauleón",
+          "María Rosario Alonso Ibáñez",
+          "Gloria Doménech Martínez",
+          "Adriana Fillol Mazo",
+          "Ana Cristina Gallego Hernández",
+          "Montserrat Tafalla Plana",
+          "Ana María Porcel Gálvez",
+          "Marta Lima Serrano",
+          "Federico Alonso Trujillo",
+          "Ana-Regina Segura"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2018-09-14",
+        "description": "Este libro se publica en un momento en el que, por tercer año consecutivo aumenta el número personas que sufren Inseguridad Alimentaria en el mundo, llegando a 821 millones de personas con hambre, cuando la obesidad afecta a 672 millones y otras problemáticas vinculadas a la mala alimentación, como la anemia en mujeres en edad reproductiva, están creciendo a lo largo y ancho del planeta. España no es ajena a estos retos tanto en su vertiente de política exterior y cooperación al desarrollo como en el abordaje nacional de los mismos. La inseguridad alimentaria, emergió con la crisis en determinados espacios, la obesidad supera la cuarta parte de la población adulta española y es patente la necesidad de transitar hacia sistemas alimentarios más sostenibles con un menor impacto ambiental, que permitan conservar la capacidad productiva de los recursos naturales, garantizar la adecuada alimentación de futuras generaciones y un medio rural vivo.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788417270612"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8417270612"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=835xDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=835xDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=835xDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=835xDwAAQBAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Haciendo_realidad_el_derecho_a_la_alimen.html?hl=&id=835xDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Haciendo_realidad_el_derecho_a_la_alimen-sample-pdf.acsm?id=835xDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=835xDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Este libro se publica en un momento en el que, por tercer año consecutivo aumenta el número personas que sufren Inseguridad Alimentaria en el mundo, llegando a 821 millones de personas con hambre, cuando la obesidad afecta a 672 millones ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ISlyDwAAQBAJ",
+      "etag": "FrJVjddq3A8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ISlyDwAAQBAJ",
+      "volumeInfo": {
+        "title": "La Reforma del derecho de la persona y de la familia",
+        "subtitle": "Jurisdicción voluntaria y protección a la infancia y a la adolescencia",
+        "authors": [
+          "Xavier O'Callaghan Muñoz (coord.)",
+          "M.ª Begoña Fernández González",
+          "José M.ª Abella Rubio",
+          "Héctor Ayllón Santiago",
+          "Silvia Bueno Núñez",
+          "M.ª ángeles Fernández González-Regueral",
+          "Vanessa Gil-Rodríguez de Clara",
+          "Rosa María Medina Sánchez",
+          "Ignacio Pérez Calvo",
+          "Miguel Prieto Escudero",
+          "Pedro Sánchez Rivera"
+        ],
+        "publisher": "Editorial Centro de Estudios Ramon Areces SA",
+        "publishedDate": "2018-09-17",
+        "description": "Durante 2015 se llevó a cabo en nuestro ordenamiento jurídico una amplia reforma legal de los instrumentos de protección jurídica de la infancia y la adolescencia (LO 8/2015 y L 26/2015) y modificaciones introducidas por la L 15/2015 de la Jurisdicción Voluntaria que abarcan diferentes aspectos relativos al Derecho de la persona, de la familia y sobre cuestiones sucesorias. Cuando se acomete una reforma de tal entidad es habitual que surjan diferentes monografías explicando e interpretando el alcance de la nueva regulación. La característica que distingue a este libro de otros es que su contenido reúne todas las instituciones que han sido modificadas.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788499619668"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8499619665"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 345,
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ISlyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ISlyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ISlyDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ISlyDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ISlyDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 58500,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 40950,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ISlyDwAAQBAJ&rdid=book-ISlyDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 58500000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 40950000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/La_Reforma_del_derecho_de_la_persona_y_d-sample-pdf.acsm?id=ISlyDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ISlyDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Durante 2015 se llevó a cabo en nuestro ordenamiento jurídico una amplia reforma legal de los instrumentos de protección jurídica de la infancia y la adolescencia (LO 8/2015 y L 26/2015) y modificaciones introducidas por la L 15/2015 de ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7MYCwgEACAAJ",
+      "etag": "Q9hEltIPDfU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7MYCwgEACAAJ",
+      "volumeInfo": {
+        "title": "José María Medina, Capitan General y Presidente de la República de Honduras ... Decreta ... Quedan suspensos todos los tratados entre Honduras y el Salvador, hasta que aquel Gobierno los llene debidamente por su parte ..",
+        "authors": [
+          "Honduras. President (1864-1872: Medina)"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1083004946"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "categories": [
+          "El Salvador"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7MYCwgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7MYCwgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jos%C3%A9_Mar%C3%ADa_Medina_Capitan_General_y_Pr.html?hl=&id=7MYCwgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7MYCwgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qWHMwQEACAAJ",
+      "etag": "2XH3yKjM3ZA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qWHMwQEACAAJ",
+      "volumeInfo": {
+        "title": "José Maria Medina, Capitan General, Presidente de la República de Honduras ... Decreto ... Asumo el mando Supremo de la República, en ejercicio del Poder Ejecutivo ..",
+        "authors": [
+          "Honduras. President (1864-1872 : Medina)"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1083016885"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qWHMwQEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qWHMwQEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jos%C3%A9_Maria_Medina_Capitan_General_Presi.html?hl=&id=qWHMwQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qWHMwQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jhedmQEACAAJ",
+      "etag": "jzNiyQo/sVQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jhedmQEACAAJ",
+      "volumeInfo": {
+        "title": "La deuda de gratitud",
+        "subtitle": "Apropósito dramático en un acto y dos cuadros, en verso",
+        "authors": [
+          "José María Medina"
+        ],
+        "publishedDate": "1880",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:13877694"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jhedmQEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jhedmQEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_deuda_de_gratitud.html?hl=&id=jhedmQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jhedmQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WQrB0QEACAAJ",
+      "etag": "U9jQdXVrG9E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WQrB0QEACAAJ",
+      "volumeInfo": {
+        "title": "Dinámica litoral y análisis evolutivo de las formaciones costeras entre las desembocaduras de los ríos Guadiana y Carreras",
+        "authors": [
+          "José María Medina Villaverde"
+        ],
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1552737472"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WQrB0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WQrB0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Din%C3%A1mica_litoral_y_an%C3%A1lisis_evolutivo.html?hl=&id=WQrB0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WQrB0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "l-trswEACAAJ",
+      "etag": "OM0p2F1fp04",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/l-trswEACAAJ",
+      "volumeInfo": {
+        "title": "Evaluación del derecho a la alimentación",
+        "authors": [
+          "Medina Rey Medina",
+          "María Teresa de Febrer"
+        ],
+        "publishedDate": "2013",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1022581376"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=l-trswEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=l-trswEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Evaluaci%C3%B3n_del_derecho_a_la_alimentaci.html?hl=&id=l-trswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=l-trswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La evaluación del derecho a la alimentación debe contemplar la evaluación de las causas de la inseguridad alimentaria y nutricional –respondiendo a las preguntas: ¿quiénes sufren inseguridad alimentaria y vulnerabilidad? ¿Dónde se ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EksK0AEACAAJ",
+      "etag": "XUPC/Y3nehg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EksK0AEACAAJ",
+      "volumeInfo": {
+        "title": "Quién es quién en el derecho a la alimentación",
+        "authors": [
+          "José María Medina"
+        ],
+        "publishedDate": "2013",
+        "description": "Este cuaderno ofrece una visión de conjunto sobre quién es quién y cuál es su papel en la realización del derecho humano a la alimentación, facilitando así las posibilidades de coordinación y colaboración, así como la rendición de cuentas. El contenido de este cuaderno de trabajo está basado en la guía “Currículo educativo sobre el derecho a la alimentación”. Partiendo de la distinción entre titulares de derechos, titulares de obligaciones y titulares de responsabilidades respecto al derecho a la alimentación, presenta cuáles son las principales funciones y tareas que cada uno desempeña en la realización del derecho humano a la alimentación.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1385286219"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EksK0AEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EksK0AEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Qui%C3%A9n_es_qui%C3%A9n_en_el_derecho_a_la_alim.html?hl=&id=EksK0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EksK0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Este cuaderno ofrece una visión de conjunto sobre quién es quién y cuál es su papel en la realización del derecho humano a la alimentación, facilitando así las posibilidades de coordinación y colaboración, así como la rendición ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Tu9m0QEACAAJ",
+      "etag": "NXeWjuvLoIk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Tu9m0QEACAAJ",
+      "volumeInfo": {
+        "title": "Hambre de justicia",
+        "subtitle": "siete compromisos capitales en la lucha contra el hambre",
+        "authors": [
+          "José María Medina Rey"
+        ],
+        "publishedDate": "2015",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1520246406"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Tu9m0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Tu9m0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hambre_de_justicia.html?hl=&id=Tu9m0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Tu9m0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GvNOQwAACAAJ",
+      "etag": "Y6ddaJjBR9E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GvNOQwAACAAJ",
+      "volumeInfo": {
+        "title": "A S.M. el Rey triunfante y vencedor",
+        "authors": [
+          "José María Medina"
+        ],
+        "publishedDate": "1875*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:434035531"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GvNOQwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GvNOQwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_S_M_el_Rey_triunfante_y_vencedor.html?hl=&id=GvNOQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GvNOQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OVjE0QEACAAJ",
+      "etag": "0N95HXOxuEw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OVjE0QEACAAJ",
+      "volumeInfo": {
+        "title": "Dinámica litoral",
+        "subtitle": "estabilidad y evolución de la costa",
+        "authors": [
+          "José María Medina Villaverde"
+        ],
+        "publishedDate": "199?",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1552688455"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=OVjE0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=OVjE0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Din%C3%A1mica_litoral.html?hl=&id=OVjE0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OVjE0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AE6YtAEACAAJ",
+      "etag": "MEHwZNu/QoM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AE6YtAEACAAJ",
+      "volumeInfo": {
+        "title": "Información para el monitoreo del derecho a la alimentación",
+        "authors": [
+          "Medina Rey Medina",
+          "María Teresa de Febrer"
+        ],
+        "publishedDate": "2013",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1022574684"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=AE6YtAEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=AE6YtAEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Informaci%C3%B3n_para_el_monitoreo_del_derec.html?hl=&id=AE6YtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AE6YtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En este tercer cuaderno sobre el monitoreo del derecho a la alimentación se presentan las necesidades de información para el monitoreo, los métodos de recopilación de la información, los sistemas de información y bases de datos para ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6G0sswEACAAJ",
+      "etag": "QILLT21s62w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6G0sswEACAAJ",
+      "volumeInfo": {
+        "title": "Procedimiento para el monitoreo del derecho a la alimentación",
+        "authors": [
+          "Medina Rey Medina",
+          "María Teresa de Febrer"
+        ],
+        "publishedDate": "2013",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:994811582"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6G0sswEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6G0sswEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Procedimiento_para_el_monitoreo_del_dere.html?hl=&id=6G0sswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6G0sswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Este cuaderno presenta las bases procedimentales para el monitoreo de las políticas, programas y proyectos orientados al derecho a la alimentación, a partir de los componentes que lo distinguen de un marco de monitoreo convencional: el ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zFWwtgAACAAJ",
+      "etag": "iB2MpRUP/sc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zFWwtgAACAAJ",
+      "volumeInfo": {
+        "title": "Las piezas de la moneda provisional de cobre que antes de haber sido amortizadas se estimaban con el valor de uno y medio centavo ...",
+        "authors": [
+          "Honduras. President (1862-1876 : Medina)"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21773518"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Coinage"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=zFWwtgAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zFWwtgAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_piezas_de_la_moneda_provisional_de_c.html?hl=&id=zFWwtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zFWwtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xxsL0AEACAAJ",
+      "etag": "cf6oSeizj4Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xxsL0AEACAAJ",
+      "volumeInfo": {
+        "title": "Formación sobre el derecho a la alimentación",
+        "authors": [
+          "José María Medina"
+        ],
+        "publishedDate": "2013",
+        "description": "El propósito de este cuaderno dedicado a formación es ofrecer orientaciones sobre la forma adecuada de implementar procesos formativos sobre el derecho a la alimentación adaptándolos a los destinatarios. El contenido de este cuaderno de trabajo está basado en la guía “Currículo educativo sobre el derecho a la alimentación”. Partiendo de la distinción hecha en el cuaderno anterior entre titulares de derechos, titulares de obligaciones y titulares de responsabilidades respecto al derecho a la alimentación, así como las funciones y tareas que cada uno desempeña, se identifican cuáles deben ser los contenidos formativos prioritarios para cada uno y se aportan algunas pautas para la adaptación de la formación a los diferentes grupos.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1385242989"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=xxsL0AEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=xxsL0AEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Formaci%C3%B3n_sobre_el_derecho_a_la_aliment.html?hl=&id=xxsL0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xxsL0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El propósito de este cuaderno dedicado a formación es ofrecer orientaciones sobre la forma adecuada de implementar procesos formativos sobre el derecho a la alimentación adaptándolos a los destinatarios."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nlxwtAEACAAJ",
+      "etag": "d+UOgVcQ4a4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nlxwtAEACAAJ",
+      "volumeInfo": {
+        "title": "Hidrodinámica del perfil de playa",
+        "authors": [
+          "José María Medina Villaverde"
+        ],
+        "publisher": "Colegio de Ingenieros de Caminos Canales y Puertas",
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8438001475"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788438001479"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 181,
+        "printType": "BOOK",
+        "categories": [
+          "Architecture"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nlxwtAEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nlxwtAEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hidrodin%C3%A1mica_del_perfil_de_playa.html?hl=&id=nlxwtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nlxwtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CdfD0QEACAAJ",
+      "etag": "qMwtB5qX9nM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CdfD0QEACAAJ",
+      "volumeInfo": {
+        "title": "REVISION bibliográfica y recomendaciones relativas a la dinámica litoral del borde costero del delta del LLobregat",
+        "authors": [
+          "José María Medina Villaverde"
+        ],
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1552639139"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=CdfD0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CdfD0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/REVISION_bibliogr%C3%A1fica_y_recomendacione.html?hl=&id=CdfD0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CdfD0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ERiVjwEACAAJ",
+      "etag": "ft0ZvQlriyY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ERiVjwEACAAJ",
+      "volumeInfo": {
+        "title": "Bioquímica",
+        "authors": [
+          "José María Medina Jiménez"
+        ],
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8499581072"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788499581071"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ERiVjwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ERiVjwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bioqu%C3%ADmica.html?hl=&id=ERiVjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ERiVjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "InRAAAAACAAJ",
+      "etag": "YmgMddRDuCw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/InRAAAAACAAJ",
+      "volumeInfo": {
+        "title": "Bioquímica",
+        "authors": [
+          "José María Medina Jiménez",
+          "Fermín Sánchez de Medina Contreras"
+        ],
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8477384134"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788477384137"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 463,
+        "printType": "BOOK",
+        "categories": [
+          "Biochemistry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=InRAAAAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=InRAAAAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bioqu%C3%ADmica.html?hl=&id=InRAAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=InRAAAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eq_5mAEACAAJ",
+      "etag": "V1Tq+3AQPXA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eq_5mAEACAAJ",
+      "volumeInfo": {
+        "title": "Hambre de justicia",
+        "subtitle": "siete compromisos capitales en la lucha contra el hambre",
+        "authors": [
+          "José María Medina"
+        ],
+        "publishedDate": "2012",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:828314978"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=eq_5mAEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eq_5mAEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hambre_de_justicia.html?hl=&id=eq_5mAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eq_5mAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hopbQwAACAAJ",
+      "etag": "8aOok5a2fSc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hopbQwAACAAJ",
+      "volumeInfo": {
+        "title": "Reflejos del alma",
+        "subtitle": "(Cien sonetos).",
+        "authors": [
+          "José María Medina y García"
+        ],
+        "publishedDate": "1903",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432624446"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hopbQwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hopbQwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Reflejos_del_alma.html?hl=&id=hopbQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hopbQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eHJaQwAACAAJ",
+      "etag": "4Orge6b0UYU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eHJaQwAACAAJ",
+      "volumeInfo": {
+        "title": "El castillo del Burgrave",
+        "subtitle": "Leyenda alemana",
+        "authors": [
+          "José María Medina"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432624132"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 23,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=eHJaQwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eHJaQwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_castillo_del_Burgrave.html?hl=&id=eHJaQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eHJaQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gW4wjwEACAAJ",
+      "etag": "+rTZ8L0kHkQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gW4wjwEACAAJ",
+      "volumeInfo": {
+        "title": "Ingeniería Marítima: oscilaciones del mar",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8494431323"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788494431326"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 420,
+        "printType": "BOOK",
+        "categories": [
+          "Technology & Engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=gW4wjwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=gW4wjwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ingenier%C3%ADa_Mar%C3%ADtima_oscilaciones_del_m.html?hl=&id=gW4wjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gW4wjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Aths0AEACAAJ",
+      "etag": "SIyo5RFw58w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Aths0AEACAAJ",
+      "volumeInfo": {
+        "title": "Curso práctico de dinámica litoral",
+        "subtitle": "diagnóstico y análisis de problemas costeros",
+        "authors": [
+          "José Manuel de la Peña Olivas"
+        ],
+        "publishedDate": "2023",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8477906564"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788477906568"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Aths0AEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Aths0AEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Curso_pr%C3%A1ctico_de_din%C3%A1mica_litoral.html?hl=&id=Aths0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Aths0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vBeZjwEACAAJ",
+      "etag": "rq9Jn9PBQW0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vBeZjwEACAAJ",
+      "volumeInfo": {
+        "title": "Estudio \"in vitro\" sobre la influencia del stress mecánico y su repercusión en el sellado marginal en inlays de sr-isosite",
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:933850422"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 182,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vBeZjwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vBeZjwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estudio_in_vitro_sobre_la_influencia_del.html?hl=&id=vBeZjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vBeZjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Eu0pNAAACAAJ",
+      "etag": "dzVfonHd03E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Eu0pNAAACAAJ",
+      "volumeInfo": {
+        "title": "Considerando que el estado de querra en que se halla Honduras exige que el mando de las armas se confiera al Presidente de la Repúbica",
+        "subtitle": "en uso de sus facultades",
+        "authors": [
+          "Honduras. President (1862-1876 : Medina)",
+          "Imprenta Nacional (Honduras)"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:215117391"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Eu0pNAAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Eu0pNAAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Considerando_que_el_estado_de_querra_en.html?hl=&id=Eu0pNAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Eu0pNAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Sli80QEACAAJ",
+      "etag": "CpqWM8KCwow",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Sli80QEACAAJ",
+      "volumeInfo": {
+        "title": "ESTUDIO de dinámica litoral y propuesta de actuación entre las desembocaduras de los ríos Guadiana y Carreras",
+        "authors": [
+          "José María Medina Villaverde"
+        ],
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1552630169"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Sli80QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Sli80QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/ESTUDIO_de_din%C3%A1mica_litoral_y_propuesta.html?hl=&id=Sli80QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Sli80QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Z7G3YgEACAAJ",
+      "etag": "vAB0tXCzpgw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Z7G3YgEACAAJ",
+      "volumeInfo": {
+        "title": "Exhortación que á sus compatriotas los españoles americanos dirige Fr. José María Medina, predicador general de la provincia de S. Diego de México y director de la archicofradia del Cordón en Guanajuato",
+        "authors": [
+          "José María Medina"
+        ],
+        "publishedDate": "1820",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651375677"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Z7G3YgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Z7G3YgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Exhortaci%C3%B3n_que_%C3%A1_sus_compatriotas_los.html?hl=&id=Z7G3YgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Z7G3YgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DyLsjwEACAAJ",
+      "etag": "s+O8V/ByFP0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DyLsjwEACAAJ",
+      "volumeInfo": {
+        "title": "¿Cómo reducir las pérdidas y desperdicios de alimentos?",
+        "subtitle": "guía de recomendaciones para la acción",
+        "publishedDate": "2015",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:937816741"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 55,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DyLsjwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DyLsjwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/C%C3%B3mo_reducir_las_p%C3%A9rdidas_y_desperdici.html?hl=&id=DyLsjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DyLsjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DERYtAEACAAJ",
+      "etag": "wWuORNi7jPU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DERYtAEACAAJ",
+      "volumeInfo": {
+        "title": "La albúmina sérica",
+        "subtitle": "una posible arma terapéutica en la enfermedad de Alzheimer y en el síndrome de Down",
+        "authors": [
+          "José María Medina Jiménez",
+          "Federico Mayor Zaragoza"
+        ],
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1011608658"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 114,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DERYtAEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DERYtAEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_alb%C3%BAmina_s%C3%A9rica.html?hl=&id=DERYtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DERYtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kJY0ngEACAAJ",
+      "etag": "/4Iz5s2s2sA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kJY0ngEACAAJ",
+      "volumeInfo": {
+        "title": "Considerando",
+        "subtitle": "que el ilustre y benemérito ciudadano don Leon Alvarado, ha fallecido en Lóndres el 10 de marzo...",
+        "authors": [
+          "José María Medina"
+        ],
+        "publishedDate": "1870",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:862238833"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=kJY0ngEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=kJY0ngEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Considerando.html?hl=&id=kJY0ngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kJY0ngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mRQrMwEACAAJ",
+      "etag": "eDiOnMKtI2s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mRQrMwEACAAJ",
+      "volumeInfo": {
+        "title": "El ácido láctico",
+        "subtitle": "de villano a héroe de la homeostais energética perinatal : discurso para la recepción del académico electo Ilmo. Dr. D. José María Medina Jiménez y contestación del Excmo. Dr. D. Julio Rodríguez Villanueva, académico de número de la Real Academia de Medicina de Salamanca",
+        "authors": [
+          "José María Medina Jiménez",
+          "Julio R. Villanueva"
+        ],
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:776487811"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mRQrMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mRQrMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_%C3%A1cido_l%C3%A1ctico.html?hl=&id=mRQrMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mRQrMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "99K6pwAACAAJ",
+      "etag": "FXHNJgqfwoM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/99K6pwAACAAJ",
+      "volumeInfo": {
+        "title": "Informe sanitario del servicio social y profilaxis no biológica del tifo en la villa de Tezontepec, Hgo",
+        "authors": [
+          "José María Medina Mohar"
+        ],
+        "publishedDate": "1951",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:19524294"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 45,
+        "printType": "BOOK",
+        "categories": [
+          "Tezontepec (Mexico)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=99K6pwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=99K6pwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Informe_sanitario_del_servicio_social_y.html?hl=&id=99K6pwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=99K6pwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dfcK0AEACAAJ",
+      "etag": "rPv2JB/ACFc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dfcK0AEACAAJ",
+      "volumeInfo": {
+        "title": "Incidencia sobre el derecho a la alimentación a partir del análisis de presupuestos públicos",
+        "authors": [
+          "José María Medina"
+        ],
+        "publishedDate": "2013",
+        "description": "En este cuaderno se presentan algunos de los aspectos en los que el presupuesto público es un factor importante para el reconocimiento del derecho a la alimentación y se aborda la realización de acciones de incidencia política a partir del análisis de los presupuestos públicos. El contenido de este cuaderno de trabajo está basado en la guía “Presupuestar para promover el derecho a la alimentación”. El trabajo sobre el presupuesto puede ser una herramienta muy útil para que las organizaciones de la sociedad civil, los legisladores y las comisiones de derechos humanos puedan incidir en la realización del derecho a la alimentación, ya que el presupuesto es el modo más real y objetivo de medir el compromiso de un gobierno con el reconocimiento del derecho a la alimentación.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1385242865"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=dfcK0AEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dfcK0AEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Incidencia_sobre_el_derecho_a_la_aliment.html?hl=&id=dfcK0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dfcK0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En este cuaderno se presentan algunos de los aspectos en los que el presupuesto público es un factor importante para el reconocimiento del derecho a la alimentación y se aborda la realización de acciones de incidencia política a partir ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b-PC0QEACAAJ",
+      "etag": "P8NIa0c/oj8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b-PC0QEACAAJ",
+      "volumeInfo": {
+        "title": "Estudio del canal de acceso al puerto de Santander",
+        "authors": [
+          "José María Medina Villaverde"
+        ],
+        "publishedDate": "1995",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1552677396"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=b-PC0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=b-PC0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estudio_del_canal_de_acceso_al_puerto_de.html?hl=&id=b-PC0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b-PC0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6Q6BrgEACAAJ",
+      "etag": "0JbzF/qbOus",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6Q6BrgEACAAJ",
+      "volumeInfo": {
+        "title": "Retos actuales del audiovisual",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8497478932"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788497478939"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 109,
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6Q6BrgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6Q6BrgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Retos_actuales_del_audiovisual.html?hl=&id=6Q6BrgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6Q6BrgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GErAswEACAAJ",
+      "etag": "KAr4l4g3a5U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GErAswEACAAJ",
+      "volumeInfo": {
+        "title": "Aspectos generales del monitoreo del derecho a la alimentación",
+        "authors": [
+          "Medina Rey Medina",
+          "María Teresa de Febrer"
+        ],
+        "publishedDate": "2013",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:994748435"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GErAswEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GErAswEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Aspectos_generales_del_monitoreo_del_der.html?hl=&id=GErAswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GErAswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Este cuaderno, introductorio al grupo de los que están dedicados al monitoreo del derecho a la alimentación, quiere presentar las bases conceptuales para el monitoreo centrado en los derechos y basado en los derechos, describiendo la ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "H5UfzQEACAAJ",
+      "etag": "l0Fo7hgeBGw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/H5UfzQEACAAJ",
+      "volumeInfo": {
+        "title": "Exposicion que los Acreedores al Fondo Dotal de Minería [J. M. Medina, etc.] elevan à la Augusta Càmara de Diputados, en defensa de sus derechos",
+        "authors": [
+          "José María MEDINA (and OTHERS.)"
+        ],
+        "publishedDate": "1849",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651355467"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=H5UfzQEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=H5UfzQEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Exposicion_que_los_Acreedores_al_Fondo_D.html?hl=&id=H5UfzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=H5UfzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Gqm70QEACAAJ",
+      "etag": "TWR/8dG8Fns",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Gqm70QEACAAJ",
+      "volumeInfo": {
+        "title": "Evolución del delta del rio Vélez",
+        "authors": [
+          "José María Medina Villaverde"
+        ],
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1552689735"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Gqm70QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Gqm70QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Evoluci%C3%B3n_del_delta_del_rio_V%C3%A9lez.html?hl=&id=Gqm70QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Gqm70QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GlYJ0AEACAAJ",
+      "etag": "RXqnLOLiHZo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GlYJ0AEACAAJ",
+      "volumeInfo": {
+        "title": "Revisión de la compatibilidad de leyes sectoriales con el derecho a la alimentación",
+        "authors": [
+          "José María Medina"
+        ],
+        "publishedDate": "2013",
+        "description": "Este cuaderno presenta el procedimiento para realizar la revisión de la compatibilidad de la legislación sectorial que puede afectar a diversos aspectos del derecho a la alimentación con el fin de garantizar que el marco legislativo del país constituye un entorno jurídico favorable para la realización progresiva de este derecho. El contenido de este cuaderno de trabajo está basado en la “Guía para legislar sobre el derecho a la alimentación”. En él, además de explicar el proceso de revisión de la compatibilidad y de aportar algunas pautas y herramientas metodológicas para su realización, se presentan algunos ejemplos de disposiciones sectoriales que pueden afectar al derecho a la alimentación en sectores muy importantes, como tierra, agua, pesca, etc.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1384442367"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GlYJ0AEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GlYJ0AEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Revisi%C3%B3n_de_la_compatibilidad_de_leyes.html?hl=&id=GlYJ0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GlYJ0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Este cuaderno presenta el procedimiento para realizar la revisión de la compatibilidad de la legislación sectorial que puede afectar a diversos aspectos del derecho a la alimentación con el fin de garantizar que el marco legislativo del ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CCrVAQAACAAJ",
+      "etag": "/ltPzx2nqs8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CCrVAQAACAAJ",
+      "volumeInfo": {
+        "title": "La America",
+        "subtitle": "epopeya coloniana",
+        "authors": [
+          "José María Medina y García"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:892282639"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 431,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=CCrVAQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CCrVAQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_America.html?hl=&id=CCrVAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CCrVAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LMpfQwAACAAJ",
+      "etag": "liUUnslFA+8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LMpfQwAACAAJ",
+      "volumeInfo": {
+        "title": "La Conquista de Granada",
+        "authors": [
+          "José María Medina y García"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432624447"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 59,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=LMpfQwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LMpfQwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Conquista_de_Granada.html?hl=&id=LMpfQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LMpfQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2UDA0QEACAAJ",
+      "etag": "2G0zy9ce+Tg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2UDA0QEACAAJ",
+      "volumeInfo": {
+        "title": "Estudio del impacto de la construcción de Isla Marbella en la costa adyacente (Marbella, Málaga)",
+        "authors": [
+          "José María Medina Villaverde"
+        ],
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1552692514"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2UDA0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2UDA0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estudio_del_impacto_de_la_construcci%C3%B3n.html?hl=&id=2UDA0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2UDA0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Dk0J0AEACAAJ",
+      "etag": "QhGZIwsI9cM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Dk0J0AEACAAJ",
+      "volumeInfo": {
+        "title": "Desarrollo de leyes específicas sobre el derecho a la alimentación",
+        "authors": [
+          "José María Medina"
+        ],
+        "publishedDate": "2013",
+        "description": "El propósito de este cuaderno es proporcionar información práctica y directrices a los legisladores nacionales y a personas o grupos interesados de cara al proceso de elaboración de una ley marco sobre el derecho a la alimentación. El contenido de este cuaderno de trabajo está basado en la “Guía para legislar sobre el derecho a la alimentación”. Presenta algunas cuestiones previas a la elaboración de la ley, describe cómo debe ser el proceso y cuáles deben ser las disposiciones que recoja en cuanto a aspectos generales, a aspectos sustantivos y a implementación de la propia ley.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1384442257"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Dk0J0AEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Dk0J0AEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Desarrollo_de_leyes_espec%C3%ADficas_sobre_e.html?hl=&id=Dk0J0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Dk0J0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El propósito de este cuaderno es proporcionar información práctica y directrices a los legisladores nacionales y a personas o grupos interesados de cara al proceso de elaboración de una ley marco sobre el derecho a la alimentación."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cfdzMwEACAAJ",
+      "etag": "lW6q1fwS3U8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cfdzMwEACAAJ",
+      "volumeInfo": {
+        "title": "La albúmina sérica",
+        "subtitle": "una posible arma terapéutica en la enfermedad de Alzheimer y en el síndrome de Down : discurso del Excmo. Sr. D. José María Medina Jiménez leído en la sesión del día 20 de octubre de 2011 para su ingreso como académico de número, y contestación del Excmo. Sr. D. Federico Mayor Zaragoza",
+        "authors": [
+          "José María Medina Jiménez",
+          "Federico Mayor Zaragoza"
+        ],
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:796346540"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 114,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cfdzMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=45&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cfdzMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_alb%C3%BAmina_s%C3%A9rica.html?hl=&id=cfdzMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cfdzMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4YOJrgEACAAJ",
+      "etag": "nzzMnXYBiwY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4YOJrgEACAAJ",
+      "volumeInfo": {
+        "title": "Las neuronas del estriado son la diana del efecto neurotrófico del ácido oleico sintetizado en la zona subventricular durante el desarrollo postnatal",
+        "authors": [
+          "Erica Polo Hernández",
+          "José María Medina",
+          "Arantxa Tabernero Urbieta"
+        ],
+        "publishedDate": "2009",
+        "description": "Esta tesis se basa en: 1) estudio de los niveles de ácido oleico libre en el cerebro durante el desarrollo postnatal; 2) estudio de la región o regiones del cerebro en las que se localiza la enzima limitante en la síntesis de ácido oleico, la estearil- CoA desaturasa-1, SCD-1; 3) estudio del papel que ejerce la estearil-CoA desaturasa-1 en el desarrollo postnatal del cerebro.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:908052187"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 159,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4YOJrgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=46&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4YOJrgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_neuronas_del_estriado_son_la_diana_d.html?hl=&id=4YOJrgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4YOJrgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Esta tesis se basa en: 1) estudio de los niveles de ácido oleico libre en el cerebro durante el desarrollo postnatal; 2) estudio de la región o regiones del cerebro en las que se localiza la enzima limitante en la síntesis de ácido ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DDQacgAACAAJ",
+      "etag": "260cpjN6BEo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DDQacgAACAAJ",
+      "volumeInfo": {
+        "title": "El neonato prematuro de rata como modelo para el estudio de la etiología molecular de la prematuridad",
+        "authors": [
+          "José María Medina"
+        ],
+        "publishedDate": "198?",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:634853278"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DDQacgAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=47&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DDQacgAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_neonato_prematuro_de_rata_como_modelo.html?hl=&id=DDQacgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DDQacgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Tk4iMwEACAAJ",
+      "etag": "jWnwWZFl/Hc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Tk4iMwEACAAJ",
+      "volumeInfo": {
+        "title": "Guía de incidencia para el derecho a la alimentación",
+        "authors": [
+          "José María Medina",
+          "María Teresa de Febrer"
+        ],
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:796296458"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Tk4iMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=48&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Tk4iMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gu%C3%ADa_de_incidencia_para_el_derecho_a_la.html?hl=&id=Tk4iMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Tk4iMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KSvC0QEACAAJ",
+      "etag": "zzbck8NqmM4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KSvC0QEACAAJ",
+      "volumeInfo": {
+        "title": "Dinámica litoral de la playa de Calahonda (Granada)",
+        "authors": [
+          "José María Medina Villaverde"
+        ],
+        "publishedDate": "1993",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1552726852"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "eo",
+        "previewLink": "http://books.google.com.co/books?id=KSvC0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=49&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KSvC0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Din%C3%A1mica_litoral_de_la_playa_de_Calahon.html?hl=&id=KSvC0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KSvC0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j8690QEACAAJ",
+      "etag": "JzbmfYAv62o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j8690QEACAAJ",
+      "volumeInfo": {
+        "title": "DIAGNOSTICO general de la costa este de Lanzarote (playa Honda-Papagayo)",
+        "authors": [
+          "José María Medina Villaverde"
+        ],
+        "publishedDate": "1995",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1552638387"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "eo",
+        "previewLink": "http://books.google.com.co/books?id=j8690QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=50&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=j8690QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/DIAGNOSTICO_general_de_la_costa_este_de.html?hl=&id=j8690QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j8690QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZIVYQwAACAAJ",
+      "etag": "VBsmyDvRkLA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZIVYQwAACAAJ",
+      "volumeInfo": {
+        "title": "Prematuridad y daño cerebral",
+        "authors": [
+          "José María Medina Jiménez"
+        ],
+        "publishedDate": "1993",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:435390482"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 115,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZIVYQwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=51&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZIVYQwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Prematuridad_y_da%C3%B1o_cerebral.html?hl=&id=ZIVYQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZIVYQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ty_jjwEACAAJ",
+      "etag": "hf+rQvBZZBM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ty_jjwEACAAJ",
+      "volumeInfo": {
+        "title": "Considerando",
+        "subtitle": "que la revolución proclamada el 16 de Diciembre en esta Ciudad...",
+        "publishedDate": "1876",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:936210913"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "categories": [
+          "El Salvador"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Ty_jjwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=52&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Ty_jjwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Considerando.html?hl=&id=Ty_jjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ty_jjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vhK-0QEACAAJ",
+      "etag": "3yE+OrBfzOA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vhK-0QEACAAJ",
+      "volumeInfo": {
+        "title": "Análisis y regeneración de la playa de Torrox (Málaga)",
+        "authors": [
+          "José María Medina Villaverde"
+        ],
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1552682455"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "eo",
+        "previewLink": "http://books.google.com.co/books?id=vhK-0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=53&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vhK-0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/An%C3%A1lisis_y_regeneraci%C3%B3n_de_la_playa_de.html?hl=&id=vhK-0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vhK-0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WT_WtgAACAAJ",
+      "etag": "t7y0hrEBqAA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WT_WtgAACAAJ",
+      "volumeInfo": {
+        "title": "Se excepciona de la circulacion del nickel al puerto de Amapala ...",
+        "authors": [
+          "Honduras. President (1862-1876 : Medina)"
+        ],
+        "publishedDate": "1870",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21773467"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Amapala (Honduras)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WT_WtgAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=54&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WT_WtgAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Se_excepciona_de_la_circulacion_del_nick.html?hl=&id=WT_WtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WT_WtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tnK_0QEACAAJ",
+      "etag": "Xm8AX+qvw9k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tnK_0QEACAAJ",
+      "volumeInfo": {
+        "title": "Estudio hidrodinámico preliminar de la desembocadura del río Anllóns (Coruña)",
+        "authors": [
+          "José María Medina Villaverde"
+        ],
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1552736711"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tnK_0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=55&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=tnK_0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estudio_hidrodin%C3%A1mico_preliminar_de_la.html?hl=&id=tnK_0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tnK_0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AzzC0QEACAAJ",
+      "etag": "0Sc+m5sgyNU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AzzC0QEACAAJ",
+      "volumeInfo": {
+        "title": "REGENERACION de la playa de Peñíscola (Castellón)",
+        "authors": [
+          "José María Medina Villaverde"
+        ],
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1552639021"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=AzzC0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=56&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=AzzC0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/REGENERACION_de_la_playa_de_Pe%C3%B1%C3%ADscola.html?hl=&id=AzzC0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AzzC0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IvgdcgAACAAJ",
+      "etag": "Qq8NyzlDsQI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IvgdcgAACAAJ",
+      "volumeInfo": {
+        "title": "Prematuridad y daño cerebral",
+        "authors": [
+          "José María Medina"
+        ],
+        "publishedDate": "1993",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:633601748"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 115,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=IvgdcgAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=57&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=IvgdcgAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Prematuridad_y_da%C3%B1o_cerebral.html?hl=&id=IvgdcgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IvgdcgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nWWBMwEACAAJ",
+      "etag": "5bhz95lR9vM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nWWBMwEACAAJ",
+      "volumeInfo": {
+        "title": "Modelación de la dinámica del perfil de playa",
+        "authors": [
+          "José María Medina Villaverde",
+          "Agustín Sánchez-Arcilla Conejo"
+        ],
+        "publishedDate": "2007",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:804112303"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 270,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nWWBMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=58&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nWWBMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Modelaci%C3%B3n_de_la_din%C3%A1mica_del_perfil_d.html?hl=&id=nWWBMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nWWBMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VuD8swEACAAJ",
+      "etag": "nFRlI0OFWDg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VuD8swEACAAJ",
+      "volumeInfo": {
+        "title": "Origen neoténico de la mente",
+        "authors": [
+          "José María Medina Jiménez",
+          "Julio R. Villanueva"
+        ],
+        "publishedDate": "2002",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1011616009"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 89,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VuD8swEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=59&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VuD8swEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Origen_neot%C3%A9nico_de_la_mente.html?hl=&id=VuD8swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VuD8swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iH3L0AEACAAJ",
+      "etag": "FghXMkUnadM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iH3L0AEACAAJ",
+      "volumeInfo": {
+        "title": "Efecto de las cenizas de biomasa en la fabricación de Eco-Cementos binarios: caracterización y prestaciones físico-mecánicos y durable para su uso en la ingeniería civil",
+        "subtitle": "2019",
+        "authors": [
+          "José María Medina Martínez",
+          "Universidad de Extremadura Programa de Doctorado en Desarrollo Territorial Sostenible"
+        ],
+        "publishedDate": "2019",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1440057002"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=iH3L0AEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=60&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=iH3L0AEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Efecto_de_las_cenizas_de_biomasa_en_la_f.html?hl=&id=iH3L0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iH3L0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0cW_0QEACAAJ",
+      "etag": "qvYB8YU8lNc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0cW_0QEACAAJ",
+      "volumeInfo": {
+        "title": "Evolución de la playa apoyada en el dique Juan Carlos I (Huelva)",
+        "authors": [
+          "José María Medina Villaverde"
+        ],
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1552620951"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0cW_0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=61&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0cW_0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Evoluci%C3%B3n_de_la_playa_apoyada_en_el_diq.html?hl=&id=0cW_0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0cW_0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4yjA0QEACAAJ",
+      "etag": "Q4pC7I6fKYI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4yjA0QEACAAJ",
+      "volumeInfo": {
+        "title": "Influencia de la construcción del puerto deportivo de Monpás (San Sebastián) en las corrientes inducidas por el oleaje en la ensenada de la Zurriola",
+        "authors": [
+          "José María Medina Villaverde"
+        ],
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1552734204"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4yjA0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=62&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4yjA0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Influencia_de_la_construcci%C3%B3n_del_puert.html?hl=&id=4yjA0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4yjA0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vz2jmAEACAAJ",
+      "etag": "6XMLu9jt+HY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vz2jmAEACAAJ",
+      "volumeInfo": {
+        "title": "El diseño de nuevos fármacos: un desafío para la Ciencia, un compromiso con la Humanidad",
+        "subtitle": "discurso de ingreso como académico de número, Salamanca, 29 de junio de 2012",
+        "authors": [
+          "Marina Gordaliza Escobar",
+          "José María Medina Jiménez"
+        ],
+        "publishedDate": "2012",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:828308710"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 44,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vz2jmAEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=63&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vz2jmAEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_dise%C3%B1o_de_nuevos_f%C3%A1rmacos_un_desaf.html?hl=&id=vz2jmAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vz2jmAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "M5m20QEACAAJ",
+      "etag": "kOFOsEPh7Jg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M5m20QEACAAJ",
+      "volumeInfo": {
+        "title": "Estudio de soluciones al problema del puerto de Tazacorte (La Palma)",
+        "authors": [
+          "José María Medina Villaverde"
+        ],
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1552626219"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=M5m20QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=64&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=M5m20QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estudio_de_soluciones_al_problema_del_pu.html?hl=&id=M5m20QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=M5m20QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "66G90QEACAAJ",
+      "etag": "Uurk+0eEvJ8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/66G90QEACAAJ",
+      "volumeInfo": {
+        "title": "Evaluación del proyecto de regeneración de la playa de Pozo Izquierdo (T.M. Santa Lucía de Tirajana, Gran Canaria)",
+        "authors": [
+          "José María Medina Villaverde"
+        ],
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1552603760"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=66G90QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=65&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=66G90QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Evaluaci%C3%B3n_del_proyecto_de_regeneraci%C3%B3.html?hl=&id=66G90QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=66G90QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2w7RrQEACAAJ",
+      "etag": "YqN9cfF+2EY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2w7RrQEACAAJ",
+      "volumeInfo": {
+        "title": "The Right to Food Within the International Framework of Human Rights and Country Constitutions",
+        "authors": [
+          "José María Medina Rey",
+          "Maria Teresa de Febrer"
+        ],
+        "publishedDate": "2014",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:897054631"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 14,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=2w7RrQEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=66&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2w7RrQEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Right_to_Food_Within_the_Internation.html?hl=&id=2w7RrQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2w7RrQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EDRdrgEACAAJ",
+      "etag": "w5NqP02zi/g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EDRdrgEACAAJ",
+      "volumeInfo": {
+        "title": "Efectos del ácido oleico en la migración neuronal y en la formación de sinapsis",
+        "authors": [
+          "María de la Vega Tello Hernández",
+          "José María Medina",
+          "Arantxa Tabernero Urbieta"
+        ],
+        "publishedDate": "2008",
+        "description": "El ácido oleico, un ácido graso de 18 átomos de carbono, con un doble enlace en posición cis, actúa como un factor neurotrófico en neuronas en cultivo primario. Este efecto neurotrófico se caracteriza por un aumento en los niveles de expresión del las proteínas marcadoras de diferenciación neuronal GAP-43 y MAP-2, así como por una agrupación de las neuronas por sus somas, emitiendo de forma radial los axones. En trabajos previos comprobamos que existe un efecto sinérgico entre el ácido oleico y las neurotrofinas NT-3 y NT-4/5 en la expresión de la proteína GAP-43. En este trabajo nos propusimos estudiar el mecanismo de acción del ácido oleico en la diferenciación neuronal. Existen un gran número de factores de transcripción que pueden estar implicados en la diferenciación neuronal, y entre ellos los mejor descritos son los factores de la familia de los NeuroDs, que son factores de trascripción de la familia bHLH. Son factores neurogénicos y son tres: Nex-1, NeuroD1 y NeuroD2. Nuestros resultados indican que el ácido oleico aumenta los niveles de expresión del NeuroD2, y del Nex-1, pero no del NeuroD1. Por otro lado, al estudiar el mecanismo de acción sinérgico de las neurotrofinas y el ácido oleico encontramos que el NeuroD1 etá implicado en este efecto. También decidimos estudiar el efecto del ácido oleico y su colaboración con las neurotrofinas tanto en la migración, como en la formación de la sinapsis neuronal. Nuestros resultados indican que el ácido oleico presenta el mismo efecto sobre la proteína marcadora de migración neuronal Doblecortina (DCX) que las neurotrofinas NT-3 y NT-4/5, existiendo además un efecto sumatorio entre éstas y el ácido oleico. Además, al estudiar la formación de sinapsis, comprobamos que el ácido oleico y las neurotrofinas aumentan la expresión de las proteínas marcadoras de sinapsis sinaptotagmina I, PSD-95 y GluR-2/3. Finalmente, tanto el ácido oleico, como las neurotrofinas aumentan la formación de los denominados puntos individuales de sinapsis.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:908052267"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 153,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EDRdrgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=67&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EDRdrgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Efectos_del_%C3%A1cido_oleico_en_la_migraci.html?hl=&id=EDRdrgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EDRdrgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El ácido oleico, un ácido graso de 18 átomos de carbono, con un doble enlace en posición cis, actúa como un factor neurotrófico en neuronas en cultivo primario."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "l_250QEACAAJ",
+      "etag": "RiINfe7dVAM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/l_250QEACAAJ",
+      "volumeInfo": {
+        "title": "Estudio del dique de contención de arenas en la margen izquierda de la Ría de Avilés (Asturias)",
+        "authors": [
+          "José María Medina Villaverde"
+        ],
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1552682409"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=l_250QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=68&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=l_250QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estudio_del_dique_de_contenci%C3%B3n_de_aren.html?hl=&id=l_250QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=l_250QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x_ffrQEACAAJ",
+      "etag": "fke5gzSSRlw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x_ffrQEACAAJ",
+      "volumeInfo": {
+        "title": "Development of Specific Right to Food Legislation",
+        "authors": [
+          "José María Medina Rey",
+          "Maria Teresa de Febrer"
+        ],
+        "publishedDate": "2014",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:897054632"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=x_ffrQEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=69&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=x_ffrQEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Development_of_Specific_Right_to_Food_Le.html?hl=&id=x_ffrQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x_ffrQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eTS2rQEACAAJ",
+      "etag": "PfAnsSKjDKk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eTS2rQEACAAJ",
+      "volumeInfo": {
+        "title": "Advocacy on the Right to Food Based on the Analysis of Government Budgets",
+        "authors": [
+          "José María Medina Rey",
+          "Maria Teresa de Febrer"
+        ],
+        "publishedDate": "2014",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:897054600"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 28,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=eTS2rQEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=70&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eTS2rQEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Advocacy_on_the_Right_to_Food_Based_on_t.html?hl=&id=eTS2rQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eTS2rQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WXTIXwAACAAJ",
+      "etag": "ycsndCdheEs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WXTIXwAACAAJ",
+      "volumeInfo": {
+        "title": "Proyecto lagar de sidra natural para una capacidad de 2.000.000 l en Nava (Asturias)",
+        "authors": [
+          "José María Medina Martínez"
+        ],
+        "publishedDate": "2006",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:642384882"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WXTIXwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=71&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WXTIXwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Proyecto_lagar_de_sidra_natural_para_una.html?hl=&id=WXTIXwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WXTIXwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-S_PrQEACAAJ",
+      "etag": "dkroxEutQN8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-S_PrQEACAAJ",
+      "volumeInfo": {
+        "title": "Right to Food Curriculum Outline",
+        "authors": [
+          "José María Medina Rey",
+          "Maria Teresa de Febrer"
+        ],
+        "publishedDate": "2014",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:897054592"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=-S_PrQEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=72&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-S_PrQEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Right_to_Food_Curriculum_Outline.html?hl=&id=-S_PrQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-S_PrQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nTQH0AEACAAJ",
+      "etag": "TmQDfNdfnxE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nTQH0AEACAAJ",
+      "volumeInfo": {
+        "title": "El derecho a la alimentación en el marco internacional de los derechos humanos y en las constituciones",
+        "authors": [
+          "José María Medina"
+        ],
+        "publishedDate": "2013",
+        "description": "El primer cuaderno del grupo dedicado a legislación presenta el derecho a la alimentación en el marco del derecho internacional de los derechos humanos, especialmente el PIDESC y otros instrumentos relevantes, así como las diferentes formas de reconocimiento constitucional. El contenido de este cuaderno de trabajo está basado en la “Guía para legislar sobre el derecho a la alimentación”. Se presenta la caracterización de este derecho en los principales instrumentos internacionales de derechos humanos, especialmente su contenido normativo y las obligaciones de los Estados. En el ámbito nacional, se señalan las diferentes formas de reconocimiento constitucional: explícito, implícito y como principio rector de las políticas.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1384435280"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nTQH0AEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=73&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nTQH0AEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_derecho_a_la_alimentaci%C3%B3n_en_el_marc.html?hl=&id=nTQH0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nTQH0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El primer cuaderno del grupo dedicado a legislación presenta el derecho a la alimentación en el marco del derecho internacional de los derechos humanos, especialmente el PIDESC y otros instrumentos relevantes, así como las diferentes ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s8KDjwEACAAJ",
+      "etag": "izALHS/bqEo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s8KDjwEACAAJ",
+      "volumeInfo": {
+        "title": "Profesor público de Humanidades, con alguna aceptacion en esta ciudad, por espacio de 24 años, y padre de una numerosa familia, he podido en tan vasto campo estudiar ... el desarrollo del hombre desde su lactancia hasta la edad viril...",
+        "publishedDate": "1843",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:933889606"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=s8KDjwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=74&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=s8KDjwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Profesor_p%C3%BAblico_de_Humanidades_con_alg.html?hl=&id=s8KDjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s8KDjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eAGUYgEACAAJ",
+      "etag": "MmE3wtaEvbU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eAGUYgEACAAJ",
+      "volumeInfo": {
+        "title": "Antonio Garcia, teniente gobernador constitucional del Estado Libre de Zacatecas ... secretarios del H. Congreso me han comunicado ... 1o. Para la correccion y castigo de los delincuentes se construirá en el Valle de la Ciudad de Jerez una penitenciaria ...",
+        "authors": [
+          "Zacatecas (Mexico : State)",
+          "José María Medina"
+        ],
+        "publishedDate": "1850",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:35842071"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Finance, Public"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=eAGUYgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=75&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eAGUYgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antonio_Garcia_teniente_gobernador_const.html?hl=&id=eAGUYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eAGUYgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Communication of a congressional decree by the lieutenant governor of Zacatecas annoucing the construction of a penitentiary in the Valley of the City of Jerez."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bsvUrQEACAAJ",
+      "etag": "GTKtt66Ag5o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bsvUrQEACAAJ",
+      "volumeInfo": {
+        "title": "Review of the Compatibility of Sectoral Laws with the Right to Food",
+        "authors": [
+          "José María Medina Rey",
+          "Maria Teresa de Febrer"
+        ],
+        "publishedDate": "2014",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:897054590"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=bsvUrQEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&cd=76&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=bsvUrQEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Medina%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Review_of_the_Compatibility_of_Sectoral.html?hl=&id=bsvUrQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bsvUrQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

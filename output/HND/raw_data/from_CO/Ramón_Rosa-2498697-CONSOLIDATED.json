@@ -1,0 +1,4027 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Ram%C3%B3n%20Rosa\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Ram%C3%B3n%20Rosa\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Ram%C3%B3n%20Rosa\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Ram%C3%B3n%20Rosa\"&maxResults=20&startIndex=40&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Ram%C3%B3n%20Rosa\"&maxResults=20&startIndex=60&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Ram%C3%B3n%20Rosa\"&maxResults=8&startIndex=60&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 68,
+  "_totalRequestsMade": 4,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "G1oeywEACAAJ",
+      "etag": "3DarJsr4VwQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G1oeywEACAAJ",
+      "volumeInfo": {
+        "title": "Oro de Honduras",
+        "subtitle": "Antología de Ramón Rosa",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1123362597"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=G1oeywEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=G1oeywEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Oro_de_Honduras.html?hl=&id=G1oeywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G1oeywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Vczd-ozqeLsC",
+      "etag": "+iaIA+s6aII",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Vczd-ozqeLsC",
+      "volumeInfo": {
+        "title": "Desembarcó Cristóbal Colón en tierra firme del continente americano?",
+        "authors": [
+          "Marco Aurelio Soto"
+        ],
+        "publishedDate": "1882",
+        "description": "Editorial comment signed by Ramón Rosa in the Tegucigalpa newspaper, La Paz, inspired by correspondence between President Marco Aurelio Soto of Honduras and José Milla, in which the former questioned the theory that Columbus landed in Honduras or any other part of the American mainland, followed by three letters of J. Carrera, Honduran consul in Madrid, on the same subject.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044014337752"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "categories": [
+          "America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Vczd-ozqeLsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Vczd-ozqeLsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Vczd-ozqeLsC&printsec=frontcover&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Vczd-ozqeLsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Vczd-ozqeLsC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Vczd-ozqeLsC&rdid=book-Vczd-ozqeLsC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Desembarc%C3%B3_Crist%C3%B3bal_Col%C3%B3n_en_tierra.epub?id=Vczd-ozqeLsC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Desembarc%C3%B3_Crist%C3%B3bal_Col%C3%B3n_en_tierra.pdf?id=Vczd-ozqeLsC&hl=&output=pdf&sig=ACfU3U2Bk6EZU8NJC7mA5u0Fo-2zPHs14Q&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Vczd-ozqeLsC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Editorial comment signed by Ramón Rosa in the Tegucigalpa newspaper, La Paz, inspired by correspondence between President Marco Aurelio Soto of Honduras and José Milla, in which the former questioned the theory that Columbus landed in ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aepqAAAAMAAJ",
+      "etag": "Uq9vn5Z+3Cs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aepqAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Biografía de José Cecilio del Valle",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1971",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018712797"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 142,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.10.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aepqAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aepqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=aepqAAAAMAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=aepqAAAAMAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Biograf%C3%ADa_de_Jos%C3%A9_Cecilio_del_Valle.html?hl=&id=aepqAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aepqAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ieIWAAAAYAAJ",
+      "etag": "IhqgjFwAQ9E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ieIWAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Obra escogida",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1980",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X000774941"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 428,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ieIWAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ieIWAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ieIWAAAAYAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ieIWAAAAYAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obra_escogida.html?hl=&id=ieIWAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ieIWAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FqXtXDCn0ZUC",
+      "etag": "3RhyPl+9CsI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FqXtXDCn0ZUC",
+      "volumeInfo": {
+        "title": "Código de instrucción pública",
+        "subtitle": "precedido del discurso, que, en elacto de inaugurarse la Universidad central y el Colegio nacional de segunda enseñanza de Tegucigalpa, pronunció, et dia 26 de febrero de 1882, et señor doctor don Ramon Ross, secretario del ramo",
+        "authors": [
+          "Honduras"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105040226016"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "categories": [
+          "Educational law and legislation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.12.12.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FqXtXDCn0ZUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FqXtXDCn0ZUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=FqXtXDCn0ZUC&printsec=frontcover&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FqXtXDCn0ZUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FqXtXDCn0ZUC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=FqXtXDCn0ZUC&rdid=book-FqXtXDCn0ZUC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/C%C3%B3digo_de_instrucci%C3%B3n_p%C3%BAblica.epub?id=FqXtXDCn0ZUC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/C%C3%B3digo_de_instrucci%C3%B3n_p%C3%BAblica.pdf?id=FqXtXDCn0ZUC&hl=&output=pdf&sig=ACfU3U1eJTwQCkwQkYP-F2bI2tQQds-5hA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FqXtXDCn0ZUC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8LdDAQAAMAAJ",
+      "etag": "fCSgY+x33XI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8LdDAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Discurso que por encargo del gobierno de la república pronunció en el Salón de Recepciones del Palacio Nacional, el señor d. Ramón Rosa en el LIII aniversario de la independencia centro-americano",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1874",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112041449007"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "categories": [
+          "Autonomy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8LdDAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8LdDAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8LdDAQAAMAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8LdDAQAAMAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_que_por_encargo_del_gobierno_de.html?hl=&id=8LdDAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8LdDAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1GMSAQAAIAAJ",
+      "etag": "SJNeiDCl9GE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1GMSAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Biografía de José Trinidad Reyes",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105020981507"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 54,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Honduran"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1GMSAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1GMSAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1GMSAQAAIAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1GMSAQAAIAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Biograf%C3%ADa_de_Jos%C3%A9_Trinidad_Reyes.html?hl=&id=1GMSAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1GMSAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sbdqAAAAMAAJ",
+      "etag": "MnNTrdHMg1U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sbdqAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Las batuecas y otros escritos",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1985",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018227656"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sbdqAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sbdqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=sbdqAAAAMAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=sbdqAAAAMAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_batuecas_y_otros_escritos.html?hl=&id=sbdqAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sbdqAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "w_ZkAAAAMAAJ",
+      "etag": "gMYbR5B6kOo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/w_ZkAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Oro de Honduras",
+        "subtitle": "antologia",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1948",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173017879764"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 274,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=w_ZkAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=w_ZkAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=w_ZkAAAAMAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=w_ZkAAAAMAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Oro_de_Honduras.html?hl=&id=w_ZkAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=w_ZkAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6iCa0QEACAAJ",
+      "etag": "B8lIttweoPM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6iCa0QEACAAJ",
+      "volumeInfo": {
+        "title": "Biografía de Don José Cecilio del Valle",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1971",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:72345123"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6iCa0QEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6iCa0QEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Biograf%C3%ADa_de_Don_Jos%C3%A9_Cecilio_del_Vall.html?hl=&id=6iCa0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6iCa0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NmVaAAAAMAAJ",
+      "etag": "eJgSotT43F4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NmVaAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Biografía del padre Reyes",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1947",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173006279051"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 114,
+        "printType": "BOOK",
+        "categories": [
+          "Educators"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NmVaAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NmVaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NmVaAAAAMAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NmVaAAAAMAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Biograf%C3%ADa_del_padre_Reyes.html?hl=&id=NmVaAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NmVaAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3UVrAAAAMAAJ",
+      "etag": "iwksQvM4sRI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3UVrAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Obras de d. Jose Cecilio del Valle",
+        "subtitle": "precedidas de la biografia del autor",
+        "authors": [
+          "José Cecilio del Valle"
+        ],
+        "publishedDate": "1914",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018710157"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 470,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.13.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3UVrAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3UVrAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3UVrAAAAMAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3UVrAAAAMAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_de_d_Jose_Cecilio_del_Valle.html?hl=&id=3UVrAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3UVrAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r7dqAAAAMAAJ",
+      "etag": "KjNdyx8GrQk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r7dqAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Constitución social de Honduras",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1980",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018227667"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=r7dqAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=r7dqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=r7dqAAAAMAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=r7dqAAAAMAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Constituci%C3%B3n_social_de_Honduras.html?hl=&id=r7dqAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r7dqAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JlkSAQAAIAAJ",
+      "etag": "3qR6sin6pko",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JlkSAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Morazán",
+        "subtitle": "historia del benemérito",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105017785655"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 182,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JlkSAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JlkSAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JlkSAQAAIAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JlkSAQAAIAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Moraz%C3%A1n.html?hl=&id=JlkSAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JlkSAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2VnBg7HRNpcC",
+      "etag": "39yyntAqFLg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2VnBg7HRNpcC",
+      "volumeInfo": {
+        "title": "Oro de Honduras : antología",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IOWA:31858052708819"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 436,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.2.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2VnBg7HRNpcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2VnBg7HRNpcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2VnBg7HRNpcC&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2VnBg7HRNpcC&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Oro_de_Honduras_antolog%C3%ADa.html?hl=&id=2VnBg7HRNpcC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2VnBg7HRNpcC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x5xtAAAAMAAJ",
+      "etag": "PwX4+1r4AvQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x5xtAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Oro de Honduras",
+        "subtitle": "antologia",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1993",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000068580756"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 708,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=x5xtAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=x5xtAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=x5xtAAAAMAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=x5xtAAAAMAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Oro_de_Honduras.html?hl=&id=x5xtAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x5xtAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "23zVSAAACAAJ",
+      "etag": "OucRa42Rcjk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/23zVSAAACAAJ",
+      "volumeInfo": {
+        "title": "Compendio de la historia social y política de Honduras 1882",
+        "authors": [
+          "Antonio R. Vallejo",
+          "Ramón Rosa Izaguirre"
+        ],
+        "publishedDate": "2009",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9992646012"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789992646014"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 278,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=23zVSAAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=23zVSAAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Compendio_de_la_historia_social_y_pol%C3%ADt.html?hl=&id=23zVSAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=23zVSAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9s5qAAAAMAAJ",
+      "etag": "5dgPzq41J4k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9s5qAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Historia del benemérito Gral. don Francisco Morazán, ex-Presidente de la República de Centro-America",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1971",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018712538"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9s5qAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9s5qAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9s5qAAAAMAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9s5qAAAAMAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_del_benem%C3%A9rito_Gral_don_Franci.html?hl=&id=9s5qAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9s5qAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VF_vAAAAMAAJ",
+      "etag": "kvOSSgRGbVg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VF_vAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Escritos selectos",
+        "subtitle": "selección y reseña de la historia cultural de Honduras",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1957",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000006682086"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 460,
+        "printType": "BOOK",
+        "categories": [
+          "Honduran literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VF_vAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VF_vAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VF_vAAAAMAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VF_vAAAAMAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Escritos_selectos.html?hl=&id=VF_vAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VF_vAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mmjxnwEACAAJ",
+      "etag": "rICjS22HT7g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mmjxnwEACAAJ",
+      "volumeInfo": {
+        "title": "Oro de Honduras",
+        "subtitle": "antología, tomo segundo",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:880446061"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 424,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mmjxnwEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mmjxnwEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Oro_de_Honduras.html?hl=&id=mmjxnwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mmjxnwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "08ItAQAAIAAJ",
+      "etag": "X2cNxJzZIgY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/08ItAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Benjamin Poucel, un viajero francés que visitó Catamarca a mediados del siglo XIX",
+        "authors": [
+          "Ramón Rosa Olmos"
+        ],
+        "publishedDate": "1970",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3168343"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 84,
+        "printType": "BOOK",
+        "categories": [
+          "Catamarca (Argentina : Province)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=08ItAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=08ItAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=08ItAQAAIAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=08ItAQAAIAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Benjamin_Poucel_un_viajero_franc%C3%A9s_que.html?hl=&id=08ItAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=08ItAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rWhuAAAAMAAJ",
+      "etag": "dDc+W2i1D2w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rWhuAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Historia de Catamarca",
+        "authors": [
+          "Ramón Rosa Olmos"
+        ],
+        "publishedDate": "1957",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000004177584"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+          "Catamarca (Argentina : Province)."
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rWhuAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rWhuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=rWhuAAAAMAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rWhuAAAAMAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_de_Catamarca.html?hl=&id=rWhuAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rWhuAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FpETnwEACAAJ",
+      "etag": "YDymu4B5788",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FpETnwEACAAJ",
+      "volumeInfo": {
+        "title": "Centenario del discurso del Dr. Ramón Rosa en la apertura de los cursos en la Universidad Nacional, 1882-1982",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:11352703"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "categories": [
+          "Education, Higher"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=FpETnwEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=FpETnwEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Centenario_del_discurso_del_Dr_Ram%C3%B3n_Ro.html?hl=&id=FpETnwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FpETnwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pwGgMwEACAAJ",
+      "etag": "Pat+W8+9i+I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pwGgMwEACAAJ",
+      "volumeInfo": {
+        "title": "Teniendo que ausentarse por algunos dias el secretario general, doctor don Ramon Rosa, el presidente acuerda",
+        "subtitle": "que durante esa ausencia autoricen los actos del gobierno...",
+        "authors": [
+          "Honduras. Secretaría Jeneral del Gobierno Constitucional",
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:809854241"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=pwGgMwEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=pwGgMwEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Teniendo_que_ausentarse_por_algunos_dias.html?hl=&id=pwGgMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pwGgMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RknG0QEACAAJ",
+      "etag": "kqP02UVdYnQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RknG0QEACAAJ",
+      "volumeInfo": {
+        "title": "Tres próceres",
+        "subtitle": "Morazán, Valle y el padre Trino",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publisher": "Coleccion Erandique",
+        "publishedDate": "2025-12-23",
+        "description": "Entre los grandes intelectuales hondureños de la historia, Ramón Rosa ocupa un lugar privilegiado. En Tres próceres: Morazán, Valle y el padre Reyes, podremos conocer, en realidad, a cuatro grandes personajes de la historia hondureña: al héroe unionista; al estadista de ideas luminosas; al cura educador; y al propio Ramón Rosa, revelado a través de su escritura. Sobre el autor: RAMÓN ROSA. Filósofo, periodista, escritor, político y reformador hondureño. Nació el 14 de julio de 1848 en Tegucigalpa, ciudad en la que fallecería el 28 de mayo de 1893, a los 44 años. Considerado el ideólogo de las Reformas Liberales de Guatemala (gobierno de Justo Rufino Barrios) y de Honduras (administración de Marco Aurelio Soto). Escribió, entre varias obras, las biografías del general Morazán, de José Cecilio del Valle y del padre Reyes, así como ensayos sobre educación, política, cultura y economía.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798892675451"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RknG0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RknG0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RknG0QEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RknG0QEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tres_pr%C3%B3ceres.html?hl=&id=RknG0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RknG0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En Tres próceres: Morazán, Valle y el padre Reyes, podremos conocer, en realidad, a cuatro grandes personajes de la historia hondureña: al héroe unionista; al estadista de ideas luminosas; al cura educador; y al propio Ramón Rosa, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bmxzQwAACAAJ",
+      "etag": "qg3NFszwvu4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bmxzQwAACAAJ",
+      "volumeInfo": {
+        "title": "Biografía de José Trinidad Reyes, por Ramón Rosa. [Introducción, por José Vicente Martinez].",
+        "authors": [
+          "Ramón Rosa",
+          "José Vicente Martinez"
+        ],
+        "publishedDate": "1905",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458195059"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 92,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=bmxzQwAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=bmxzQwAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Biograf%C3%ADa_de_Jos%C3%A9_Trinidad_Reyes_por_R.html?hl=&id=bmxzQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bmxzQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5OTeHwAACAAJ",
+      "etag": "mZjonm2Ap4U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5OTeHwAACAAJ",
+      "volumeInfo": {
+        "title": "Contestación que el secretario de estado del gobierno provisional de Honduras [Ramón Rosa] da a la circular que con fecha 5 de setiembre próximo pasado dirijió el secretario de relaciones exteriores del gobierno de la república de Nicaragua a los gobiernos de la América Central",
+        "authors": [
+          "Honduras. Ministerio de Relaciones Exteriores"
+        ],
+        "publishedDate": "1876",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:23123928"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5OTeHwAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5OTeHwAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Contestaci%C3%B3n_que_el_secretario_de_estad.html?hl=&id=5OTeHwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5OTeHwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UIf-GgAACAAJ",
+      "etag": "rCnjJkWD19U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UIf-GgAACAAJ",
+      "volumeInfo": {
+        "title": "Ondino",
+        "subtitle": "fantasía poética dedicada al señor doctor don Ramón Rosa, Secretario General del Gobierno de Honduras",
+        "authors": [
+          "Teodoro Aguiluz",
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1877",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:10788295"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=UIf-GgAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=UIf-GgAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ondino.html?hl=&id=UIf-GgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UIf-GgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JfjV0QEACAAJ",
+      "etag": "MHvHNj8BwQM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JfjV0QEACAAJ",
+      "volumeInfo": {
+        "title": "Morazán,",
+        "subtitle": "el padre trino y otros ensayos",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "2023",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798392151967"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JfjV0QEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JfjV0QEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Moraz%C3%A1n.html?hl=&id=JfjV0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JfjV0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Este libro contiene las ideas de un hombre brillante. De alguien que alumbró, con sus pensamientos, a la oscura patria centroamericana. Pues Ramón Rosa siempre caminó muchísimos pasos adelante del resto de su generación."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YnXdoAEACAAJ",
+      "etag": "kzpAT73ZtEQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YnXdoAEACAAJ",
+      "volumeInfo": {
+        "title": "Cultura, educación y sociedad",
+        "subtitle": "prosas selectas",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9992669438"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789992669433"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 191,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YnXdoAEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YnXdoAEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cultura_educaci%C3%B3n_y_sociedad.html?hl=&id=YnXdoAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YnXdoAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "699etwAACAAJ",
+      "etag": "QKlKFZ0f9MU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/699etwAACAAJ",
+      "volumeInfo": {
+        "title": "Considerando: que la acción administrativa del Gobierno....",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:758396939"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "categories": [
+          "Exhibitions"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=699etwAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=699etwAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Considerando_que_la_acci%C3%B3n_administrati.html?hl=&id=699etwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=699etwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jf8KmwEACAAJ",
+      "etag": "NzoVVYFoR1U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jf8KmwEACAAJ",
+      "volumeInfo": {
+        "title": "Obras de José Cecilio del Valle",
+        "subtitle": "precedidas de la biografia del autor escrita por Ramon Rosa y de una noticia histórica por Romulo E. Duron",
+        "authors": [
+          "José Cecilio del Valle",
+          "Romulo E. Durón",
+          "Ramon Rosa"
+        ],
+        "publishedDate": "1906",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:836554330"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jf8KmwEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jf8KmwEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_de_Jos%C3%A9_Cecilio_del_Valle.html?hl=&id=jf8KmwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jf8KmwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_XNpngEACAAJ",
+      "etag": "mb6V1YQa83M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_XNpngEACAAJ",
+      "volumeInfo": {
+        "title": "Biografías de sacerdotes catamarqueños",
+        "authors": [
+          "Ramón Rosa Olmos"
+        ],
+        "publishedDate": "1977",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:702320782"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 101,
+        "printType": "BOOK",
+        "categories": [
+          "Catamarca (Argentina)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_XNpngEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_XNpngEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Biograf%C3%ADas_de_sacerdotes_catamarque%C3%B1os.html?hl=&id=_XNpngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_XNpngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J1dZnQAACAAJ",
+      "etag": "FUDouhlbICg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J1dZnQAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso en la apertura de la Universidad Central de Honduras",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "2014",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:961228199"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 51,
+        "printType": "BOOK",
+        "categories": [
+          "Universities and colleges"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=J1dZnQAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=J1dZnQAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_en_la_apertura_de_la_Universida.html?hl=&id=J1dZnQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J1dZnQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CGhAmgEACAAJ",
+      "etag": "HGDnhDLZGI0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CGhAmgEACAAJ",
+      "volumeInfo": {
+        "title": "Escritos selectos",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1946",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1811215"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 402,
+        "printType": "BOOK",
+        "categories": [
+          "Honduran essays"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=CGhAmgEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CGhAmgEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Escritos_selectos.html?hl=&id=CGhAmgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CGhAmgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4ADSXwAACAAJ",
+      "etag": "B4/WYQIYm9A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4ADSXwAACAAJ",
+      "volumeInfo": {
+        "title": "Memorándum que el Secretario General del Gobierno de Honduras dirije a los ministros de estado y ajentes diplomáticos de las naciones extrajneras adjuntándoles la carta autógrafa que remite a sus respectivos gobiernos el Sr. Dr. D. Marco Aurelio Soto, presidente de la República",
+        "subtitle": "en cuyo documento les participa la inauguración del gobierno provisional que preside",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1876",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:741689770"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 3,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4ADSXwAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4ADSXwAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memor%C3%A1ndum_que_el_Secretario_General_de.html?hl=&id=4ADSXwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4ADSXwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MCAnHQAACAAJ",
+      "etag": "nICEo9Ky/kQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MCAnHQAACAAJ",
+      "volumeInfo": {
+        "title": "El prbo. Pedro Alejandrino Zenteno (1794-1853).",
+        "authors": [
+          "Ramón Rosa Olmos"
+        ],
+        "publishedDate": "1943",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:48232440"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 13,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=MCAnHQAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=MCAnHQAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_prbo_Pedro_Alejandrino_Zenteno_1794_1.html?hl=&id=MCAnHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MCAnHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0kTRMwEACAAJ",
+      "etag": "ZnluPiUB2Ig",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0kTRMwEACAAJ",
+      "volumeInfo": {
+        "title": "Considerando",
+        "subtitle": "que por las circunstancias escepcionales de este departamento el ámplio permiso para destilar aguardiente...",
+        "authors": [
+          "Honduras. Secretaría Jeneral del Gobierno Constitucional",
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1877",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:805986178"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 3,
+        "printType": "BOOK",
+        "categories": [
+          "Distilleries"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0kTRMwEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0kTRMwEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Considerando.html?hl=&id=0kTRMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0kTRMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hwIOzQEACAAJ",
+      "etag": "A02QntZCxQ8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hwIOzQEACAAJ",
+      "volumeInfo": {
+        "title": "Oro de Honduras, antología ... Tomo II.",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458330556"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hwIOzQEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hwIOzQEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Oro_de_Honduras_antolog%C3%ADa_Tomo_II.html?hl=&id=hwIOzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hwIOzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "duxPQwAACAAJ",
+      "etag": "Ku1MLPoM3eg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/duxPQwAACAAJ",
+      "volumeInfo": {
+        "title": "Historia del benemérito general Don Francisco Morazán, ex-presidente de la República de Centro-américa",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1971",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:462736906"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 193,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=duxPQwAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=duxPQwAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_del_benem%C3%A9rito_general_Don_Fra.html?hl=&id=duxPQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=duxPQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ezLvzwEACAAJ",
+      "etag": "eSr9AN16eko",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ezLvzwEACAAJ",
+      "volumeInfo": {
+        "title": "Historia del benemérito Gral. don Francisco Morazán",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1971",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:72331591"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ezLvzwEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ezLvzwEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_del_benem%C3%A9rito_Gral_don_Franci.html?hl=&id=ezLvzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ezLvzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4moPmQEACAAJ",
+      "etag": "jVVhJGnC1do",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4moPmQEACAAJ",
+      "volumeInfo": {
+        "title": "Obras de D. Jose Cecilio de Valle",
+        "authors": [
+          "Jose Cecilio Del Valle"
+        ],
+        "publishedDate": "1906",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:777735450"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1906,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4moPmQEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4moPmQEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_de_D_Jose_Cecilio_de_Valle.html?hl=&id=4moPmQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4moPmQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RT9lHQAACAAJ",
+      "etag": "KOwlAGD66jE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RT9lHQAACAAJ",
+      "volumeInfo": {
+        "title": "1891-1941, cincuentenario de la fundación del Seminario de Nuestra Señora del Valle de Catamarca",
+        "authors": [
+          "Ramón Rosa Olmos"
+        ],
+        "publishedDate": "1941",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:25892592"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 97,
+        "printType": "BOOK",
+        "categories": [
+          "Theological seminaries"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RT9lHQAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RT9lHQAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/1891_1941_cincuentenario_de_la_fundaci%C3%B3.html?hl=&id=RT9lHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RT9lHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ut9EygEACAAJ",
+      "etag": "5wza++9DJRQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ut9EygEACAAJ",
+      "volumeInfo": {
+        "title": "Diseño, montaje y puesta en marcha de la parte de control de la FMS para el endamblaje y verificación de la pedalera de un automóvil",
+        "authors": [
+          "Luis Ramón Rosa Ariza"
+        ],
+        "publishedDate": "2002",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1120302644"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Ut9EygEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Ut9EygEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dise%C3%B1o_montaje_y_puesta_en_marcha_de_la.html?hl=&id=Ut9EygEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ut9EygEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vjr0tgAACAAJ",
+      "etag": "myr37BLfQ3w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vjr0tgAACAAJ",
+      "volumeInfo": {
+        "title": "Instrucción pública",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1874*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54176295"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 92,
+        "printType": "BOOK",
+        "categories": [
+          "Public schools"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vjr0tgAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=45&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vjr0tgAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Instrucci%C3%B3n_p%C3%BAblica.html?hl=&id=vjr0tgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vjr0tgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IIyBMwEACAAJ",
+      "etag": "82RMkvn1LK8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IIyBMwEACAAJ",
+      "volumeInfo": {
+        "title": "Considerando",
+        "subtitle": "que el departamento de Choluteca tiene suficientes productos para atraer, en una época dada, la concurrencia del comercio....",
+        "authors": [
+          "Honduras Secretaría Jeneral del Gobierno Constitucional",
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:809860134"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Festivals"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=IIyBMwEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=46&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=IIyBMwEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Considerando.html?hl=&id=IIyBMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IIyBMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "S3LFHAAACAAJ",
+      "etag": "HRQlBKzhdik",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/S3LFHAAACAAJ",
+      "volumeInfo": {
+        "title": "Reseña histórica del Seminario de Catamarca",
+        "authors": [
+          "Ramón Rosa Olmos"
+        ],
+        "publishedDate": "1941",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:47642763"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 59,
+        "printType": "BOOK",
+        "categories": [
+          "Catamarca (Argentina)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=S3LFHAAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=47&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=S3LFHAAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rese%C3%B1a_hist%C3%B3rica_del_Seminario_de_Cata.html?hl=&id=S3LFHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=S3LFHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9LCz0AEACAAJ",
+      "etag": "mRjnRyH+geU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9LCz0AEACAAJ",
+      "volumeInfo": {
+        "title": "Las bibliotecas catamarqueñas en los siglos XVII, XVIII y XIX",
+        "authors": [
+          "Ramón Rosa Olmos"
+        ],
+        "publishedDate": "1955",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1431281411"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9LCz0AEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=48&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9LCz0AEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_bibliotecas_catamarque%C3%B1as_en_los_si.html?hl=&id=9LCz0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9LCz0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RSTEPAAACAAJ",
+      "etag": "a0DM+E80Nl4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RSTEPAAACAAJ",
+      "volumeInfo": {
+        "title": "Los comienzos de la evangelización en la actual provincia de Catamarca",
+        "authors": [
+          "Ramón Rosa Olmos"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:313052762"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 33,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RSTEPAAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=49&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RSTEPAAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_comienzos_de_la_evangelizaci%C3%B3n_en_l.html?hl=&id=RSTEPAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RSTEPAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "36JAtwAACAAJ",
+      "etag": "/D5wjMH6NNk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/36JAtwAACAAJ",
+      "volumeInfo": {
+        "title": "Ramón Rosa, obra escogida",
+        "authors": [
+          "Ramón Rosa",
+          "Marcos Carías"
+        ],
+        "publishedDate": "1980",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:65877102"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 398,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=36JAtwAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=50&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=36JAtwAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ram%C3%B3n_Rosa_obra_escogida.html?hl=&id=36JAtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=36JAtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Vt4vAAAAYAAJ",
+      "etag": "g5rUat5uh1Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Vt4vAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Bibliografía catamarqueña",
+        "authors": [
+          "Ramón Rosa Olmos"
+        ],
+        "publishedDate": "1945",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018033365"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 68,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Argentine"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Vt4vAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Vt4vAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Vt4vAAAAYAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=51&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Vt4vAAAAYAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bibliograf%C3%ADa_catamarque%C3%B1a.html?hl=&id=Vt4vAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Vt4vAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dxPqPQAACAAJ",
+      "etag": "Zm1sygVf+Uk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dxPqPQAACAAJ",
+      "volumeInfo": {
+        "title": "Primeros auxilios",
+        "subtitle": "El drogodependiente en urgencias",
+        "authors": [
+          "Fátima Ramón Rosa",
+          "José Manuel Torrecilla Jiménez"
+        ],
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:503366134"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 61,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=dxPqPQAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=52&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dxPqPQAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Primeros_auxilios.html?hl=&id=dxPqPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dxPqPQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sfJapwAACAAJ",
+      "etag": "kT0H+Usa/Y0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sfJapwAACAAJ",
+      "volumeInfo": {
+        "title": "Obras de José Cecilio del Valle",
+        "subtitle": "precedidas de la biografía del autor escrita",
+        "authors": [
+          "José Cecilio del Valle",
+          "Ramón Rosa",
+          "Rómulo Ernesto Durón"
+        ],
+        "publishedDate": "1914",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:15006177"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 298,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=sfJapwAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=53&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=sfJapwAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_de_Jos%C3%A9_Cecilio_del_Valle.html?hl=&id=sfJapwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sfJapwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UYFhMwEACAAJ",
+      "etag": "ft1+Pfxv6Y8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UYFhMwEACAAJ",
+      "volumeInfo": {
+        "title": "Considerando",
+        "subtitle": "que los intereses del comercio i de la hacienda pública indican la conveniencia de modificar la ley orgánica de 1.° de diciembre de 1876, en la parte que se refiere a la venta por mayor i menor de licores fuertes estranjeros...",
+        "authors": [
+          "Marco Aurelio Soto",
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:809853555"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Liquor industry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=UYFhMwEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=54&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=UYFhMwEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Considerando.html?hl=&id=UYFhMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UYFhMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ah_HngEACAAJ",
+      "etag": "KsHUu6+VFzo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ah_HngEACAAJ",
+      "volumeInfo": {
+        "title": "Considerando",
+        "subtitle": "que todos los pueblos de la república, por medio de sus municipios, han presentado al gobierno actas en que piden la abolición del diezmo...",
+        "authors": [
+          "Marco Aurelio Soto",
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1879",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:854900692"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Taxation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ah_HngEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=55&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ah_HngEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Considerando.html?hl=&id=ah_HngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ah_HngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FTZYMwEACAAJ",
+      "etag": "eq+aJcmWp5Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FTZYMwEACAAJ",
+      "volumeInfo": {
+        "title": "Considerando",
+        "subtitle": "que el comercio de los puertos de la república está en mejores condiciones que el del interior... ; [and] Considerando : que para atender a la satisfacción de los gastos que demanden los servicios públicos en el Departamento de Fomento...",
+        "authors": [
+          "Honduras. Secretaría Jeneral del Gobierno Constitucional",
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1879",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:809940338"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "categories": [
+          "Imports"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=FTZYMwEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=56&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=FTZYMwEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Considerando.html?hl=&id=FTZYMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FTZYMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9ujjSAAACAAJ",
+      "etag": "GZSiiT2rxH8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9ujjSAAACAAJ",
+      "volumeInfo": {
+        "title": "Oro de Honduras, antología",
+        "subtitle": "Copilación, prólogo y selección por Rafael Heliodoro Valle",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "19??",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:461015904"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9ujjSAAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=57&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9ujjSAAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Oro_de_Honduras_antolog%C3%ADa.html?hl=&id=9ujjSAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9ujjSAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gBRVnQEACAAJ",
+      "etag": "kWxoDievSR8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gBRVnQEACAAJ",
+      "volumeInfo": {
+        "title": "Los comienzos de la evangelizacion en la atual provincia de Catamarca",
+        "authors": [
+          "Ramón Rosa Olmos"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:843276914"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 33,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=gBRVnQEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=58&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=gBRVnQEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_comienzos_de_la_evangelizacion_en_la.html?hl=&id=gBRVnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gBRVnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "e141uAAACAAJ",
+      "etag": "1bKJNSQnNMU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/e141uAAACAAJ",
+      "volumeInfo": {
+        "title": "Historia de las provincias y sus pueblos, Sección 2",
+        "authors": [
+          "Ramón Rosa Olmos"
+        ],
+        "publishedDate": "1967",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:33422291"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=e141uAAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=59&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=e141uAAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_de_las_provincias_y_sus_pueblos.html?hl=&id=e141uAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=e141uAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "68b6GwAACAAJ",
+      "etag": "H6qDwqaV1L0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/68b6GwAACAAJ",
+      "volumeInfo": {
+        "title": "Estudios sobre instrucción pública",
+        "subtitle": "dados a luz en la sección editorial de \"El Guatemalteco\", y precedidos de una breve reseña histórica",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1874",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:10888395"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 92,
+        "printType": "BOOK",
+        "categories": [
+          "Education, Primary"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=68b6GwAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=60&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=68b6GwAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estudios_sobre_instrucci%C3%B3n_p%C3%BAblica.html?hl=&id=68b6GwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=68b6GwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wpDNYgEACAAJ",
+      "etag": "a79RNN9rpUI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wpDNYgEACAAJ",
+      "volumeInfo": {
+        "title": "Aventuras de un mercenario en Honduras",
+        "authors": [
+          "Richard Harding Davis",
+          "Ramón Rosa Izaguirre",
+          "Walter Appleton Clark"
+        ],
+        "publishedDate": "2009",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9992645318"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789992645314"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 235,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wpDNYgEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=61&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wpDNYgEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Aventuras_de_un_mercenario_en_Honduras.html?hl=&id=wpDNYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wpDNYgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_odyMwEACAAJ",
+      "etag": "2z6XBFCE1z8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_odyMwEACAAJ",
+      "volumeInfo": {
+        "title": "Considerando",
+        "subtitle": "que por acuerdo de 3 del corriente se ha declarado libre la venta por mayor i menor de licores estranjeros....",
+        "authors": [
+          "Honduras. Secretaría Jeneral del Gobierno Constitucional",
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:809860135"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Liquor laws"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_odyMwEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=62&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_odyMwEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Considerando.html?hl=&id=_odyMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_odyMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zlZCtwAACAAJ",
+      "etag": "hXj7WHPfOAU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zlZCtwAACAAJ",
+      "volumeInfo": {
+        "title": "En el propósito de concluir, en el menor tiempo posible, varias obras de interes público....",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:758396549"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Finance"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=zlZCtwAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=63&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zlZCtwAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/En_el_prop%C3%B3sito_de_concluir_en_el_menor.html?hl=&id=zlZCtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zlZCtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VDRKuAAACAAJ",
+      "etag": "sikO81gKlXg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VDRKuAAACAAJ",
+      "volumeInfo": {
+        "title": "Oro de Honduras",
+        "subtitle": "antología de ...",
+        "authors": [
+          "Ramón Rosa",
+          "Rafael Heliodoro Valle",
+          "Juan B. Valladares R.",
+          "Manuel E. Sosa",
+          "Marcos Carías Reyes"
+        ],
+        "publishedDate": "1948",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55463531"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 241,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VDRKuAAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=64&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VDRKuAAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Oro_de_Honduras.html?hl=&id=VDRKuAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VDRKuAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xxwpHAAACAAJ",
+      "etag": "2zF8plF2UmM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xxwpHAAACAAJ",
+      "volumeInfo": {
+        "title": "Biografia de José C. del Valle",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54193898"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 159,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=xxwpHAAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=65&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=xxwpHAAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Biografia_de_Jos%C3%A9_C_del_Valle.html?hl=&id=xxwpHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xxwpHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Mb10lwEACAAJ",
+      "etag": "FEkj7cqXHKg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Mb10lwEACAAJ",
+      "volumeInfo": {
+        "title": "Presbítero Pedro Martín Oviedo y Páez (1822-1887)",
+        "authors": [
+          "Ramón Rosa Olmos"
+        ],
+        "publishedDate": "1942",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:825007579"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Mb10lwEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=66&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Mb10lwEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Presb%C3%ADtero_Pedro_Mart%C3%ADn_Oviedo_y_P%C3%A1ez.html?hl=&id=Mb10lwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Mb10lwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CXUVywEACAAJ",
+      "etag": "1LexNx7RL3o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CXUVywEACAAJ",
+      "volumeInfo": {
+        "title": "Visual Effects Compositing Demo Reel",
+        "authors": [
+          "Ramón Rosa Esparrach"
+        ],
+        "publishedDate": "2014",
+        "description": "The main goal of this project is to create a visual effects compositing demo-reel and a professional website trough the participation on three short films: ‘Carne de Gaviota', ‘Hope' and ‘Nostalgia'. The final outcome has been more than 40 high technical and visual quality shots, following visual effects industry standard workflow, procedures and software.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1120467806"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=CXUVywEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=67&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CXUVywEACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Visual_Effects_Compositing_Demo_Reel.html?hl=&id=CXUVywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CXUVywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The main goal of this project is to create a visual effects compositing demo-reel and a professional website trough the participation on three short films: &#39;Carne de Gaviota&#39;, &#39;Hope&#39; and &#39;Nostalgia&#39;."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "msPApwAACAAJ",
+      "etag": "4eNPbfpLTD4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/msPApwAACAAJ",
+      "volumeInfo": {
+        "title": "Marco Aurelio Soto",
+        "subtitle": "requiescat in pace",
+        "authors": [
+          "Ramón Rosa"
+        ],
+        "publishedDate": "19??",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:23124154"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 6,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=msPApwAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&cd=68&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=msPApwAACAAJ&dq=inauthor:%22Ram%C3%B3n+Rosa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Marco_Aurelio_Soto.html?hl=&id=msPApwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=msPApwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20Bogr%C3%A1n\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Francisco%20Bogr%C3%A1n\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "lI9RQwAACAAJ",
+      "etag": "GPrbfXqYN3w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lI9RQwAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje dirigido al Congreso Nacional en la inauguración de sus sesiones de 1920",
+        "authors": [
+          "Honduras Presidente (1919-1920: Francisco Bográn)"
+        ],
+        "publishedDate": "1920*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:367612862"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 29,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lI9RQwAACAAJ&dq=inauthor:%22Francisco+Bogr%C3%A1n%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lI9RQwAACAAJ&dq=inauthor:%22Francisco+Bogr%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_dirigido_al_Congreso_Nacional_en.html?hl=&id=lI9RQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lI9RQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}
