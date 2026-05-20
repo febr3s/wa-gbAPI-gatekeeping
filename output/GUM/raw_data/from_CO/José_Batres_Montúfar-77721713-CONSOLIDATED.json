@@ -1,0 +1,2324 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Batres%20Mont%C3%BAfar\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Batres%20Mont%C3%BAfar\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Batres%20Mont%C3%BAfar\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Batres%20Mont%C3%BAfar\"&maxResults=20&startIndex=40&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Batres%20Mont%C3%BAfar\"&maxResults=4&startIndex=40&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 40,
+  "_totalRequestsMade": 3,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "cKkSAAAAYAAJ",
+      "etag": "DMVSeZHLHhA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cKkSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Poesías de José Batres Montúfar (natural de Guatemala)",
+        "authors": [
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024335948"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.8.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cKkSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cKkSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cKkSAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cKkSAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas_de_Jos%C3%A9_Batres_Mont%C3%BAfar_natur.html?hl=&id=cKkSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cKkSAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lkQBAAAAMAAJ",
+      "etag": "sBgzyQQKHo8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lkQBAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Poesías de José Batres Montúfar",
+        "subtitle": "Homenaje de la Sociedad de Geografía e Historia de Guatemala, 1844-1944",
+        "authors": [
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "1944",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015038776566"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 282,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "7.13.8.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lkQBAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lkQBAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lkQBAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lkQBAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas_de_Jos%C3%A9_Batres_Mont%C3%BAfar.html?hl=&id=lkQBAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lkQBAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BLMSAAAAYAAJ",
+      "etag": "0Vtd/XoLL+U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BLMSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Poesías de José Batres Montúfar",
+        "authors": [
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024336011"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 264,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemalan poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BLMSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BLMSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BLMSAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BLMSAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas_de_Jos%C3%A9_Batres_Mont%C3%BAfar.html?hl=&id=BLMSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BLMSAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LakSAAAAYAAJ",
+      "etag": "MxIFCqbZub4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LakSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Poesías de José Batres Montúfar",
+        "subtitle": "Homenaje de la Sociedad de Geografía e Historia de Guatemala, 1844-1944",
+        "authors": [
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "1944",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024336000"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 684,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.6.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LakSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LakSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=LakSAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LakSAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas_de_Jos%C3%A9_Batres_Mont%C3%BAfar.html?hl=&id=LakSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LakSAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2SJCAAAAYAAJ",
+      "etag": "LqXV/U43KpA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2SJCAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Poesias de don Jose Batres Montufar",
+        "subtitle": "natural de Guatemala",
+        "authors": [
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173027960891"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2SJCAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2SJCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2SJCAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2SJCAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poesias_de_don_Jose_Batres_Montufar.html?hl=&id=2SJCAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2SJCAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3SJCAAAAYAAJ",
+      "etag": "NjgfogknIaI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3SJCAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Poesías líricas",
+        "authors": [
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "1974",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173027960905"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 52,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3SJCAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3SJCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3SJCAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3SJCAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas_l%C3%ADricas.html?hl=&id=3SJCAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3SJCAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aaddAAAAMAAJ",
+      "etag": "1hcc5LC7CN0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aaddAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Obra poética de José Batres Montúfar",
+        "authors": [
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015047583821"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aaddAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aaddAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=aaddAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=aaddAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obra_po%C3%A9tica_de_Jos%C3%A9_Batres_Mont%C3%BAfar.html?hl=&id=aaddAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aaddAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wEC4AAAAIAAJ",
+      "etag": "6f77rWAUzUk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wEC4AAAAIAAJ",
+      "volumeInfo": {
+        "title": "El reloj",
+        "subtitle": "leyenda inconclusa del inmortal Pepe Batres y terminada",
+        "authors": [
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "1965",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105005916130"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "categories": [
+          "Barrutia (El Salvador)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wEC4AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wEC4AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wEC4AAAAIAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wEC4AAAAIAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_reloj.html?hl=&id=wEC4AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wEC4AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OQlAAQAAIAAJ",
+      "etag": "QCMCbV6/864",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OQlAAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Poesía",
+        "subtitle": "edición del bicentenario",
+        "authors": [
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "2009",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105114486249"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 202,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OQlAAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OQlAAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=OQlAAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=OQlAAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADa.html?hl=&id=OQlAAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OQlAAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7ZixAAAAIAAJ",
+      "etag": "vAH8Hu2l0nc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7ZixAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Poesía",
+        "authors": [
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "1978",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B4363685"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7ZixAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7ZixAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7ZixAAAAIAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7ZixAAAAIAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADa.html?hl=&id=7ZixAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7ZixAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "T7hQAAAAMAAJ",
+      "etag": "i4Ixe4DFuQY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/T7hQAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Tradiciones de Guatemala",
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059172142277707"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 846,
+        "printType": "BOOK",
+        "categories": [
+          "Ethnology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.9.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=T7hQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=T7hQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=T7hQAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=T7hQAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tradiciones_de_Guatemala.html?hl=&id=T7hQAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=T7hQAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J3oWAAAAYAAJ",
+      "etag": "z5PyOU9rOSY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J3oWAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Discurso",
+        "authors": [
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "1892",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044058897885"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.9.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=J3oWAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=J3oWAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=J3oWAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=J3oWAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso.html?hl=&id=J3oWAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J3oWAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "76lWAAAAYAAJ",
+      "etag": "KwMDQgxTq+k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/76lWAAAAYAAJ",
+      "volumeInfo": {
+        "title": "El relox",
+        "subtitle": "Tradiciones de Guatemala",
+        "authors": [
+          "José Batres Montúfar",
+          "Juan Francisco Ponciano"
+        ],
+        "publishedDate": "1972",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X001396186"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 168,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=76lWAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=76lWAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=76lWAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=76lWAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_relox.html?hl=&id=76lWAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=76lWAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "P6kSAAAAYAAJ",
+      "etag": "tMgNWoYX5S4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P6kSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Poesias",
+        "authors": [
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024335970"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.5.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=P6kSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=P6kSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=P6kSAAAAYAAJ&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=P6kSAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=P6kSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=P6kSAAAAYAAJ&rdid=book-P6kSAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Poesias.epub?id=P6kSAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Poesias.pdf?id=P6kSAAAAYAAJ&hl=&output=pdf&sig=ACfU3U2YFWCd455qP4rYvg_SvQHkQ-YEew&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P6kSAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R_FDngEACAAJ",
+      "etag": "8CK7xZLHtVY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R_FDngEACAAJ",
+      "volumeInfo": {
+        "title": "Poesías de José Batres Montúfar",
+        "authors": [
+          "José Batres Montúfar",
+          "Edelberto Torres"
+        ],
+        "publishedDate": "1952",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:863463686"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=R_FDngEACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=R_FDngEACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas_de_Jos%C3%A9_Batres_Mont%C3%BAfar.html?hl=&id=R_FDngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R_FDngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zCsLywAACAAJ",
+      "etag": "DCtHE0TtE1U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zCsLywAACAAJ",
+      "volumeInfo": {
+        "title": "Cinco poemas de José Batres Montúfar",
+        "authors": [
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "1974",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:41568921"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=zCsLywAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zCsLywAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cinco_poemas_de_Jos%C3%A9_Batres_Mont%C3%BAfar.html?hl=&id=zCsLywAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zCsLywAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y0iiNwAACAAJ",
+      "etag": "KHOjbkebYzE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y0iiNwAACAAJ",
+      "volumeInfo": {
+        "title": "Poesías de D. José Batres Montúfar, natural de Guatemala",
+        "authors": [
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "1800*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:227036570"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 95,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=y0iiNwAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=y0iiNwAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas_de_D_Jos%C3%A9_Batres_Mont%C3%BAfar_nat.html?hl=&id=y0iiNwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y0iiNwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4KcAPQAACAAJ",
+      "etag": "0i2GTem3hYM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4KcAPQAACAAJ",
+      "volumeInfo": {
+        "title": "Exaltación de José Batres Montúfar",
+        "authors": [
+          "José Batres Montúfar",
+          "Luis Beltranena Sinibaldi"
+        ],
+        "publishedDate": "1981-01-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8483760134"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788483760130"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 451,
+        "printType": "BOOK",
+        "categories": [
+          "Poets, Guatemalan"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4KcAPQAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4KcAPQAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Exaltaci%C3%B3n_de_Jos%C3%A9_Batres_Mont%C3%BAfar.html?hl=&id=4KcAPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4KcAPQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "t-8sygAACAAJ",
+      "etag": "LFyGLqdvcrc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t-8sygAACAAJ",
+      "volumeInfo": {
+        "title": "Poesías de José Batres Montúfar",
+        "subtitle": "homenaje de la Sociedad de Geografía e Historia de Guatemala, 1844-1944",
+        "authors": [
+          "José de Batres y Montúfar"
+        ],
+        "publishedDate": "1944",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651318671"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=t-8sygAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=t-8sygAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas_de_Jos%C3%A9_Batres_Mont%C3%BAfar.html?hl=&id=t-8sygAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t-8sygAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Nq8EcgAACAAJ",
+      "etag": "jEP59cIrXDg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Nq8EcgAACAAJ",
+      "volumeInfo": {
+        "title": "Poesía de José Batres Montúfar",
+        "authors": [
+          "José Batres Montúfar",
+          "Adrián Recinos"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:634286115"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Nq8EcgAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Nq8EcgAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADa_de_Jos%C3%A9_Batres_Mont%C3%BAfar.html?hl=&id=Nq8EcgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Nq8EcgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pJ5dHAAACAAJ",
+      "etag": "4ENkxOR3I3k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pJ5dHAAACAAJ",
+      "volumeInfo": {
+        "title": "José Batres Montúfar, algunos de sus poemas, biografía, bibliografía",
+        "subtitle": "homenaje de la Biblioteca Nacional de Guatemala en el CL aniversario de su nacimiento",
+        "authors": [
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "1959",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:82190227"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 46,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=pJ5dHAAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=pJ5dHAAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jos%C3%A9_Batres_Mont%C3%BAfar_algunos_de_sus_po.html?hl=&id=pJ5dHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pJ5dHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_s7eZwEACAAJ",
+      "etag": "tVnmjXvzyiQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_s7eZwEACAAJ",
+      "volumeInfo": {
+        "title": "Batres Montúfar y la poesía",
+        "authors": [
+          "Raúl Leiva",
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "1944",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:20835155"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_s7eZwEACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_s7eZwEACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Batres_Mont%C3%BAfar_y_la_poes%C3%ADa.html?hl=&id=_s7eZwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_s7eZwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "38hkNwAACAAJ",
+      "etag": "boMUCMS5LUQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/38hkNwAACAAJ",
+      "volumeInfo": {
+        "title": "Tradiciones de Guatemala",
+        "subtitle": "poesías [de] José Batres Montúfar (Pepe Batres).",
+        "authors": [
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:224499920"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=38hkNwAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=38hkNwAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tradiciones_de_Guatemala.html?hl=&id=38hkNwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=38hkNwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tAY2HQAACAAJ",
+      "etag": "Qs8JdIBfldo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tAY2HQAACAAJ",
+      "volumeInfo": {
+        "title": "Poemas de José Batres Montúfar",
+        "authors": [
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "19??",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:56411038"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tAY2HQAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=tAY2HQAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poemas_de_Jos%C3%A9_Batres_Mont%C3%BAfar.html?hl=&id=tAY2HQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tAY2HQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X58R0QEACAAJ",
+      "etag": "vWGTe0IP/wc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X58R0QEACAAJ",
+      "volumeInfo": {
+        "title": "Poesías de José Batres Montúfar (natural de Guatemala)",
+        "authors": [
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:29025294"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemalan poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=X58R0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=X58R0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas_de_Jos%C3%A9_Batres_Mont%C3%BAfar_natur.html?hl=&id=X58R0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X58R0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "B82nzQEACAAJ",
+      "etag": "gzFYKvZK4lw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B82nzQEACAAJ",
+      "volumeInfo": {
+        "title": "50 poemas de amor clásicos que debes leer",
+        "publishedDate": "2018",
+        "description": "José Batres Montúfar - Yo Pienso En Ti Guillermo Blest Gana - Si A Veces Silencioso José Martí - Árbol De Mi Alma (Fragmento) Rubén Darío - Mía Rubén Darío - A Una Novia Rubén Darío - Sonatina Rubén Darío - Bouquet Rubén Darío - Rimas XV José Asunción Silva - Poeta, Di Paso (Fragmento) Joaquín Dicenta - Lujuria Miguel de Unamuno - Sed De Tus Ojos Enrique de Mesa - Erótica Antonio Machado - Soñé Que Tú Me Llevabas Fernando Villalón - Negros Faroles Sus Ojos César Vallejo - El Poeta A Su Amada César Vallejo - Septiembre Federico García Lorca - El Poeta Pide A Su Amor Que Le Escriba Federico García Lorca - Si Mis Manos Pudieran Deshojar Miguel Hernández - El Amor Ascendía Entre Nosotros Miguel Hernández - Estoy Perdidamente Enamorado Miguel Hernández - Mis Ojos, Sin Tus Ojos, No Son Ojos Gustavo Adolfo Bécquer - Volverán Las Oscuras Golondrinas Gustavo Adolfo Bécquer - Podrá Nublarse El Sol Eternamente Gustavo Adolfo Bécquer - Como En Un Libro Abierto Gustavo Adolfo Bécquer - Dos Rojas Lenguas De Fuego Gustavo Adolfo Bécquer - Amor Eterno Lope De Vega - Varios Efectos Del Amor Lope De Vega - No Sabe Qué Es Amor Quien No Te Ama Francisco De Quevedo - Amor Constante Más Allá De La Muerte Francisco De Quevedo - A Una Dama Bizca Y Hermosa Francisco De Quevedo - Soneto Amoroso Definiendo El Amor Francisco De Quevedo - Halla En La Causa De Su Amor Todos Los Bienes Manuel Acúña - Nocturno A Rosario Amado Nervo - A Leonor Amado Nervo - El Día Que Me Quieras Garcilaso de la Vega - Soneto XXVII Garcilaso de la Vega - Soneto V Luis de Góngora - La Dulce Boca San Juan de la Cruz - Llama De Amor Viva Luis de Góngora - A Los Celos Alfonsina Storni - Alma Desnuda Alfonsina Storni - Esta Tarde Alfonsina Storni - Dos Palabras Alfonsina Storni - Razones Y Paisajes De Amor Alfonsina Storni - La Caricia Perdida Alfonsina Storni - Tu Dulzura Miguel de Cervantes - Ausencia Adelardo López de Ayala - Sin Palabras",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2378981112"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782378981112"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Love poetry, Spanish"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=B82nzQEACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=B82nzQEACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/50_poemas_de_amor_cl%C3%A1sicos_que_debes_le.html?hl=&id=B82nzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B82nzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "José Batres Montúfar - Yo Pienso En Ti Guillermo Blest Gana - Si A Veces Silencioso José Martí - Árbol De Mi Alma (Fragmento) Rubén Darío - Mía Rubén Darío - A Una Novia Rubén Darío - Sonatina Rubén Darío - Bouquet Rubén ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a7a3YgEACAAJ",
+      "etag": "KxZ4Sx1C65Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a7a3YgEACAAJ",
+      "volumeInfo": {
+        "title": "Poesías de don José Batres Montúfar",
+        "subtitle": "natural de Guatemala",
+        "authors": [
+          "José de Batres y Montúfar"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651471963"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=a7a3YgEACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=a7a3YgEACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas_de_don_Jos%C3%A9_Batres_Mont%C3%BAfar.html?hl=&id=a7a3YgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a7a3YgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4Yr0ngEACAAJ",
+      "etag": "ebc5CP7fNWg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4Yr0ngEACAAJ",
+      "volumeInfo": {
+        "title": "Poesias de Jose Batres Montufar",
+        "authors": [
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:699324348"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4Yr0ngEACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4Yr0ngEACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poesias_de_Jose_Batres_Montufar.html?hl=&id=4Yr0ngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4Yr0ngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wQBhPQAACAAJ",
+      "etag": "hX3vS7J6kw8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wQBhPQAACAAJ",
+      "volumeInfo": {
+        "title": "Pepe Batres Montúfar",
+        "subtitle": "obras completas",
+        "authors": [
+          "José Batres Montúfar",
+          "Mario Alberto Carrera"
+        ],
+        "publishedDate": "1990",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8483771373"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788483771372"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 170,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wQBhPQAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wQBhPQAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pepe_Batres_Mont%C3%BAfar.html?hl=&id=wQBhPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wQBhPQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lWhtQwAACAAJ",
+      "etag": "Ygpbdje18yA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lWhtQwAACAAJ",
+      "volumeInfo": {
+        "title": "Poesía",
+        "authors": [
+          "José Batres Montifar",
+          "Manuel Galich"
+        ],
+        "publishedDate": "1978",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:471555007"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lWhtQwAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lWhtQwAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADa.html?hl=&id=lWhtQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lWhtQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JOT-PgAACAAJ",
+      "etag": "TgIrfcddWAE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JOT-PgAACAAJ",
+      "volumeInfo": {
+        "title": "Poesias",
+        "authors": [
+          "José Batres Montúfar",
+          "Adrián Recinos"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:252312289"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=JOT-PgAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JOT-PgAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poesias.html?hl=&id=JOT-PgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JOT-PgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RtUMPAAACAAJ",
+      "etag": "i4TNGgeav6o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RtUMPAAACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "authors": [
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "1981",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:82139182"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 170,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RtUMPAAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RtUMPAAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=RtUMPAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RtUMPAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3iZ_mwEACAAJ",
+      "etag": "2wMtwuy9lrQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3iZ_mwEACAAJ",
+      "volumeInfo": {
+        "title": "Poesías",
+        "subtitle": "Homenaje de la Sociedad de Geografía e Historia de Guatemala, 1844-1944",
+        "authors": [
+          "José Batres Montúfar",
+          "Sociedad de Geografía e Historia de Guatemala"
+        ],
+        "publishedDate": "1944",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:835753973"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3iZ_mwEACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3iZ_mwEACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas.html?hl=&id=3iZ_mwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3iZ_mwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QtiFzQEACAAJ",
+      "etag": "sRK9SIugIOI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QtiFzQEACAAJ",
+      "volumeInfo": {
+        "title": "1000 Poemas Clásicos Que Debes Leer",
+        "subtitle": "Volume1 (Golden Deer Classics)",
+        "authors": [
+          "Gonzalo de Berceo"
+        ],
+        "publishedDate": "2018",
+        "description": "ÍNDICE Adelardo López de Ayala Alfonso Álvarez de Villasandino Alfonso Onceno Alfredo Espino Álvaro de Luna Ana María Chouhy Aguirre Anastasio de Ochoa VIII.Andrés Bello IX.Ángel Saavedra, Duque de Rivas X.Antón de Montoro XI.Antonio de Villegas XII.Abu Ahmad ben Hayyun XIII.Adela Zamudio XIV.Alfredo Placencia XV.Almafuerte XVI.Amado Nervo XVII.Andrés Quintana Roo XVIII.Ángel Ganivet XIX.Antonio Machado XX.Armando Chirveches XXI.Alberto Lista XXII.Alfonsina Storni XXIII.Alfonso X el sabio XXIV.Alonso de Ercilla Y Zúñiga XXV.Antonio Hurtado de Mendoza XXVI.Antonio Plaza Llamas XXVII.Atenógenes Segale XXVIII.Baltasar del Alcázar XXIX.Bartolomé Torres Naharro XXX.Bartolomé Leonardo de Argensola XXXI.Ben Suhayd XXXII.Bernardo de Balbuena XXXIII.Bernardo López García XXXIV.Butayna Bint Al-Mu ́Tamid XXXV.Carlos Augusto Salaverry XXXVI.Carlos Guido y Spano XXXVII.Carlos Pezoa Véliz XXXVIII.Carlos Rivas Larrauri XXXIX.Carolina Coronado XL.César Vallejo XLI.Clarinda XLII.Concepción Arenal XLIII.Concepción Estevarena XLIV.Concha Urquiza XLV.Costana XLVI.Cristóbal Suárez de Figueroa XLVII.Cristóbal de Castillejo XLVIII.Delmira Agustini XLIX.Demetrio Fábrega L.Diego de Torres Villaroel LI.Diego Hurtado de Mendoza LII.Dolores Veintimilla de Galindo LIII.Don Sem Tob de Carrión LIV.Duque de Rivas LV.Eduardo Marquina LVI.Efrén Rebolledo LVII.El Abencerraje LVIII.Emilio Carrere LIX.Enrique Díez-Canedo LX.Enrique Fernández Granados LXI.Enrique González Rojo LXII.Epoca Colonial De Guatemala LXIII.Esteban Echeverría LXIV.Estanislao del Campo LXV.Esteban Manuel de Villegas LXVI.Eugenio Gerardo Lobo LXVII.Evaristo Carriego LXVIII.Fabio Fiallo LXIX.Federico Barreto LXX.Federico García Lorca LXXI.Fernando Calderón LXXII.Félix María de Samaniego LXXIII.Fernando de Herrera LXXIV.Fernando Villalón LXXV.Florencia Pinar LXXVI.Francisco A. de Icaza LXXVII.Francisco Bocanegra LXXVIII.Francisco de Aldana",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2378980221"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782378980221"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=QtiFzQEACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=QtiFzQEACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/1000_Poemas_Cl%C3%A1sicos_Que_Debes_Leer.html?hl=&id=QtiFzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QtiFzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ÍNDICE Adelardo López de Ayala Alfonso Álvarez de Villasandino Alfonso Onceno Alfredo Espino Álvaro de Luna Ana María Chouhy Aguirre Anastasio de Ochoa VIII.Andrés Bello IX.Ángel Saavedra, Duque de Rivas X.Antón de Montoro XI ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Klq3GwAACAAJ",
+      "etag": "WCdoX18fMeY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Klq3GwAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso pronunciado en la apertura solemne de la Exposición Nacional de 1878",
+        "authors": [
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:11600165"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 7,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Klq3GwAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Klq3GwAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_pronunciado_en_la_apertura_sole.html?hl=&id=Klq3GwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Klq3GwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "svO4PgAACAAJ",
+      "etag": "j3Olj00EGYM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/svO4PgAACAAJ",
+      "volumeInfo": {
+        "title": "Poesías",
+        "authors": [
+          "José Batres Montúfar",
+          "Edelberto Torres"
+        ],
+        "publishedDate": "1952",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253201353"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=svO4PgAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=svO4PgAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas.html?hl=&id=svO4PgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=svO4PgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RdoRuAAACAAJ",
+      "etag": "kUoMRlLtEY0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RdoRuAAACAAJ",
+      "volumeInfo": {
+        "title": "Falsas apariencias",
+        "authors": [
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "1903",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55246951"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RdoRuAAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RdoRuAAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Falsas_apariencias.html?hl=&id=RdoRuAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RdoRuAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RMYzMwEACAAJ",
+      "etag": "dwIzbVD8pI0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RMYzMwEACAAJ",
+      "volumeInfo": {
+        "title": "José Batres Montúfar Y Alejandro Marure. [By F. Cruz and A. Machado. With Portraits.].",
+        "authors": [
+          "Fernando Cruz",
+          "José BATRES Y. MONTÚFAR",
+          "Antonio MACHADO (of Guatemala.)",
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1957",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:558042853"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 138,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=RMYzMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RMYzMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jos%C3%A9_Batres_Mont%C3%BAfar_Y_Alejandro_Marur.html?hl=&id=RMYzMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RMYzMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1HLqtgAACAAJ",
+      "etag": "/bGaLf0kPg4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1HLqtgAACAAJ",
+      "volumeInfo": {
+        "title": "Obras integras",
+        "subtitle": "incluye prólogo de José Milla, guía de trabajo y cronología",
+        "authors": [
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:302415653"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 175,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1HLqtgAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1HLqtgAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_integras.html?hl=&id=1HLqtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1HLqtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Czh2HwAACAAJ",
+      "etag": "HOGV+yfVBZU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Czh2HwAACAAJ",
+      "volumeInfo": {
+        "title": "Informe presentado a la Sección de Tierras sobre la remedida de la hacienda \"El Carmen\" ó \"Conacaste\".",
+        "authors": [
+          "José Batres Montúfar"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:23149829"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 43,
+        "printType": "BOOK",
+        "categories": [
+          "Land titles"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Czh2HwAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Czh2HwAACAAJ&dq=inauthor:%22Jos%C3%A9+Batres+Mont%C3%BAfar%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Informe_presentado_a_la_Secci%C3%B3n_de_Tier.html?hl=&id=Czh2HwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Czh2HwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Domingo%20Estrada\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Domingo%20Estrada\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "9kETAAAAYAAJ",
+      "etag": "lq+vkbV3G+k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9kETAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Florida Historical Quarterly",
+        "authors": [
+          "Florida Historical Society"
+        ],
+        "publishedDate": "1978",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X001056511"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 618,
+        "printType": "BOOK",
+        "categories": [
+          "Florida"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.27.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9kETAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9kETAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=9kETAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Domingo+Estrada%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9kETAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Domingo+Estrada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Florida_Historical_Quarterly.html?hl=&id=9kETAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9kETAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Estrada</b> Palma , the chief of the New York delegation , to visit Ybor City to ... <b>Domingo</b> Villamil , Teodoro Pérez , and Cecilo Henríquez , publicly identi ... <b>José</b> Martí to Eduardo H. Gato , October 27 , 1894 , in Martí , Obras&nbsp;..."
+      }
+    }
+  ]
+}

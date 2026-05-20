@@ -1,0 +1,67 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Antonio%20G.%20Valdeavellano\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Antonio%20G.%20Valdeavellano\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "EDT6oAEACAAJ",
+      "etag": "oYd2BRdkNYA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EDT6oAEACAAJ",
+      "volumeInfo": {
+        "title": "Cistotomía y cistostomía supra-pubianas",
+        "subtitle": "tésis presentada y sostenida ante la junta directiva de la Facultad de Medicina y Farmacia",
+        "authors": [
+          "Antonio G. Valdeavellano",
+          "Universidad de San Carlos de Guatemala. Facultad de Medicina y Farmacia"
+        ],
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:885015842"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 74,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EDT6oAEACAAJ&dq=inauthor:%22Antonio+G.+Valdeavellano%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EDT6oAEACAAJ&dq=inauthor:%22Antonio+G.+Valdeavellano%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cistotom%C3%ADa_y_cistostom%C3%ADa_supra_pubiana.html?hl=&id=EDT6oAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EDT6oAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

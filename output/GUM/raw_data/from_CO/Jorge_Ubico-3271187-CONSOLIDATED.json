@@ -1,0 +1,2290 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jorge%20Ubico\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jorge%20Ubico\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jorge%20Ubico\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jorge%20Ubico\"&maxResults=20&startIndex=40&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jorge%20Ubico\"&maxResults=7&startIndex=40&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 40,
+  "_totalRequestsMade": 3,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "DRyfhHHRwrEC",
+      "etag": "JyL6ONHNRbY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DRyfhHHRwrEC",
+      "volumeInfo": {
+        "title": "Mensaje que el Presidente de la República, general Jorge Ubico dirige a la Asamblea Nacional Legislativa, al abrir su período de sesiones ordinarias el 1o de marzo de 1940",
+        "authors": [
+          "Guatemala. President (1931-1944 : Ubico)"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IOWA:31858063502722"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DRyfhHHRwrEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DRyfhHHRwrEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DRyfhHHRwrEC&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DRyfhHHRwrEC&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_Presidente_de_la_Rep%C3%BAbli.html?hl=&id=DRyfhHHRwrEC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DRyfhHHRwrEC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4e2YdSZLBGgC",
+      "etag": "E4NcY/Sylbc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4e2YdSZLBGgC",
+      "volumeInfo": {
+        "title": "Mensaje que el Presidente de la República General Jorge Ubico, dirige a la Asamblea Nacional Legislativa, al abrir su período de sesiones ordinarias el 1o de marzo de 1935",
+        "authors": [
+          "Guatemala. President (1931-1944 : Ubico)"
+        ],
+        "publishedDate": "1935",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000089036465"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4e2YdSZLBGgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4e2YdSZLBGgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4e2YdSZLBGgC&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4e2YdSZLBGgC&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_Presidente_de_la_Rep%C3%BAbli.html?hl=&id=4e2YdSZLBGgC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4e2YdSZLBGgC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zTBG3_ZQLG8C",
+      "etag": "58FuUiNETlw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zTBG3_ZQLG8C",
+      "volumeInfo": {
+        "title": "Mensaje que el Presidente de la República, General Jorge Ubico, dirige á la Asamblea Nacional Legislativa",
+        "subtitle": "al abrir su período de sesiones ordinarias el 1o. de marzo de 1941",
+        "authors": [
+          "Guatemala. President (1931-1944 : Ubico)"
+        ],
+        "publishedDate": "1941",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IOWA:31858063926533"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zTBG3_ZQLG8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zTBG3_ZQLG8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=zTBG3_ZQLG8C&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zTBG3_ZQLG8C&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_Presidente_de_la_Rep%C3%BAbli.html?hl=&id=zTBG3_ZQLG8C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zTBG3_ZQLG8C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FWIXAAAAIAAJ",
+      "etag": "TqxVg90aaLA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FWIXAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Hacia un futuro mejor",
+        "subtitle": "importantes documentos para la historia patria",
+        "authors": [
+          "Jorge Ubico"
+        ],
+        "publishedDate": "1932",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105036535263"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 68,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.12.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FWIXAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FWIXAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=FWIXAAAAIAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=FWIXAAAAIAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hacia_un_futuro_mejor.html?hl=&id=FWIXAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FWIXAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "U22jngEACAAJ",
+      "etag": "ggUi/6mAmjg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U22jngEACAAJ",
+      "volumeInfo": {
+        "title": "Jorge Ubico, presidente de la república, a los guatemaltecos",
+        "authors": [
+          "Jorge Ubico"
+        ],
+        "publishedDate": "1933",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:854681044"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=U22jngEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=U22jngEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jorge_Ubico_presidente_de_la_rep%C3%BAblica.html?hl=&id=U22jngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U22jngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OwfDGwAACAAJ",
+      "etag": "JGi3ENhOrTw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OwfDGwAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje del Presidente de la República, General Jorge Ubico, a la Asamblea Nacional Constituyente al abrir sus sesiones el 1o. de septiembre de 1941",
+        "authors": [
+          "Guatemala. President (1931-1944 : Ubico)"
+        ],
+        "publishedDate": "1941",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12004168"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=OwfDGwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=OwfDGwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_del_Presidente_de_la_Rep%C3%BAblica.html?hl=&id=OwfDGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OwfDGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3zAvHwAACAAJ",
+      "etag": "7BamTnbB/sE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3zAvHwAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que el Presidente de la República General Jorge Ubico dirige a la Asamblea Nacional Legislativa al abrir su período de sesiones ordinarias el 1o. de marzo de 1931",
+        "authors": [
+          "Guatemala. President (1931-1944 : Ubico)"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12003808"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 10,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3zAvHwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3zAvHwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_Presidente_de_la_Rep%C3%BAbli.html?hl=&id=3zAvHwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3zAvHwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NTayGwAACAAJ",
+      "etag": "H2eMdRBu9rA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NTayGwAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso del señor General don Jorge Ubico",
+        "subtitle": "pronunciado ante la Asamblea Nacional Legislativa al tomar posesión de la presidencia de la República",
+        "authors": [
+          "Guatemala. President (1931-1944 : Ubico)"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12351475"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 10,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NTayGwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NTayGwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_del_se%C3%B1or_General_don_Jorge_Ub.html?hl=&id=NTayGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NTayGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HNyeOwAACAAJ",
+      "etag": "W3DCX9o1FM0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HNyeOwAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que el Presidente de la República, General Jorge Ubico, dirige á la Asamblea Nacional Legislativa",
+        "subtitle": "al abrir su período de sesiones ordinarias el 1o. de marzo de 1936",
+        "authors": [
+          "Guatemala. President (1931-1944 : Ubico)"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12427707"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HNyeOwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HNyeOwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_Presidente_de_la_Rep%C3%BAbli.html?hl=&id=HNyeOwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HNyeOwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QDiAHAAACAAJ",
+      "etag": "+XA3G4810Qc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QDiAHAAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que el Presidente de la República, General Jorge Ubico, dirige á la Asamblea Nacional Legislativa",
+        "subtitle": "al abrir su período de sesiones ordinarias el 1o. de marzo de 1932",
+        "authors": [
+          "Guatemala. President (1931-1944 : Ubico)"
+        ],
+        "publishedDate": "1932",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12427799"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 60,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=QDiAHAAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=QDiAHAAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_Presidente_de_la_Rep%C3%BAbli.html?hl=&id=QDiAHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QDiAHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kYCSXwAACAAJ",
+      "etag": "HbCGQavZ7aQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kYCSXwAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje del Presidente de la República General Jorge Ubico a la Asamblea Nacional Legislativa... el 1o. de marzo de 1944",
+        "subtitle": "[resumen de los trabajos realizados en cada una de las secretarías de Estado y sus dependencias].",
+        "authors": [
+          "Jorge Ubico"
+        ],
+        "publishedDate": "1944",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:433259191"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 167,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=kYCSXwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=kYCSXwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_del_Presidente_de_la_Rep%C3%BAblica.html?hl=&id=kYCSXwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kYCSXwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DGEkkgAACAAJ",
+      "etag": "+ZPiYVzF7Bs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DGEkkgAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que el presidente de la república, general Jorge Ubico, dirige a la Asamblea Nacional Legislativa",
+        "authors": [
+          "Guatemala. President (1931-1944 : Ubico)"
+        ],
+        "publishedDate": "1933",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:85168398"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DGEkkgAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DGEkkgAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_presidente_de_la_rep%C3%BAbli.html?hl=&id=DGEkkgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DGEkkgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0wJDGwAACAAJ",
+      "etag": "fjJFXQsyy4M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0wJDGwAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje del Presidente de la República General Jorge Ubico á la Asamblea Nacional Legislativa",
+        "subtitle": "al abrir sus sesiones ordinarias el 1o. de marzo de 1943",
+        "authors": [
+          "Guatemala. President (1931-1944 : Ubico)"
+        ],
+        "publishedDate": "1943",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:433259219"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 155,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0wJDGwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0wJDGwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_del_Presidente_de_la_Rep%C3%BAblica.html?hl=&id=0wJDGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0wJDGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "W2byzwEACAAJ",
+      "etag": "TjejN1pkUOE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/W2byzwEACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que el presidente de la república, general Jorge Ubico, dirige a la Asamblea Nacional Legislativa: Al abrir su período de sesiones ordinarias el 1o. de marzo de 1932",
+        "authors": [
+          "Guatemala. President (1931-1944 : Ubico)"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:85168398"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=W2byzwEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=W2byzwEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_presidente_de_la_rep%C3%BAbli.html?hl=&id=W2byzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=W2byzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PAfDGwAACAAJ",
+      "etag": "cD0IlKs6N6A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PAfDGwAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje del Presidente de la República General Jorge Ubico a la Asamblea Nacional Legislativa al abrir sus sesiones ordinarias el 1o. de marzo de 1942",
+        "authors": [
+          "Guatemala. President (1931-1944 : Ubico)"
+        ],
+        "publishedDate": "1942",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12403144"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 167,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PAfDGwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PAfDGwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_del_Presidente_de_la_Rep%C3%BAblica.html?hl=&id=PAfDGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PAfDGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4s32zwEACAAJ",
+      "etag": "3WloMcvHhLs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4s32zwEACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que el presidente de la república, general Jorge Ubico, dirige a la Asamblea Nacional Legislativa: Al abrir sus sesiones ordinarias el 1o. de marzo de 1942",
+        "authors": [
+          "Guatemala. President (1931-1944 : Ubico)"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:85168398"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4s32zwEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4s32zwEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_presidente_de_la_rep%C3%BAbli.html?hl=&id=4s32zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4s32zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "I5G-XwAACAAJ",
+      "etag": "1Q77ce0GyPQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/I5G-XwAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que el Presidente de la República, General Jorge Ubico, dirige a la Asamblea Nacional Legislativa... el 1o. de marzo de 1940",
+        "authors": [
+          "Jorge Ubico"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:433259202"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=I5G-XwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=I5G-XwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_Presidente_de_la_Rep%C3%BAbli.html?hl=&id=I5G-XwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=I5G-XwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cRputwAACAAJ",
+      "etag": "Nr/Tml9DhKA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cRputwAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que el Presidente de la República, General Jorge Ubico dirige a la Asamblea Nacional Legislativa",
+        "subtitle": "al abrir su período de sesiones ordinarias el 1o. de marzo de 1933",
+        "authors": [
+          "Guatemala. President (1931-1944 : Ubico)"
+        ],
+        "publishedDate": "1933",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12322171"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cRputwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cRputwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_Presidente_de_la_Rep%C3%BAbli.html?hl=&id=cRputwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cRputwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4WrI0QEACAAJ",
+      "etag": "hzM0mHqyWJ0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4WrI0QEACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que el Presidente de la República General Jorge Ubico dirige a la Asamblea Nacional Legislativa al abrir su período de sesiones ordinarias el 1. de Marzo de ...",
+        "subtitle": "1933-34",
+        "authors": [
+          "Jorge Ubico"
+        ],
+        "publishedDate": "1932",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1025831639"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4WrI0QEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4WrI0QEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_Presidente_de_la_Rep%C3%BAbli.html?hl=&id=4WrI0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4WrI0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qqbStgAACAAJ",
+      "etag": "9XbeWRy94ho",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qqbStgAACAAJ",
+      "volumeInfo": {
+        "title": "Contestación al mensaje que el señor presidente de la República, General Jorge Ubico, dirigió a la Asamblea Nacional Legislativa el 1. de Marzo de 1931",
+        "authors": [
+          "Jorge Ubico",
+          "J. Mariano Trabanino"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253445171"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 6,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qqbStgAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qqbStgAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Contestaci%C3%B3n_al_mensaje_que_el_se%C3%B1or_p.html?hl=&id=qqbStgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qqbStgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YwglPwAACAAJ",
+      "etag": "PSwl8h/zpjU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YwglPwAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso del Señor General Don Jorge Ubico pronunciado ante la Asamblea Nacional Legislativa al tovar posesión de la Presidencia de la República",
+        "authors": [
+          "Jorge Ubico"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253591384"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 10,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YwglPwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YwglPwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_del_Se%C3%B1or_General_Don_Jorge_Ub.html?hl=&id=YwglPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YwglPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C4wytwAACAAJ",
+      "etag": "aklPQQhCsuU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C4wytwAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje del Presidente de la República General Jorge Ubico á la Asamblea Nacional Legislativa",
+        "subtitle": "al abrir sus sesiones ordinarias el 1o. de marzo de 1944",
+        "authors": [
+          "Guatemala. President (1931-1944 : Ubico)"
+        ],
+        "publishedDate": "1944",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12429278"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 167,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=C4wytwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=C4wytwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_del_Presidente_de_la_Rep%C3%BAblica.html?hl=&id=C4wytwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C4wytwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tNOrtwAACAAJ",
+      "etag": "G+AfETrF2po",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tNOrtwAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que el Presidente de la República, General Jorge Ubico, dirige a la Asamblea Nacional Legislativa",
+        "subtitle": "al abrir su período de sesiones ordinarias el 1o. de marzo de 1934",
+        "authors": [
+          "Guatemala. President (1931-1944 : Ubico)"
+        ],
+        "publishedDate": "1934",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12322131"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tNOrtwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=tNOrtwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_Presidente_de_la_Rep%C3%BAbli.html?hl=&id=tNOrtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tNOrtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2pFEngEACAAJ",
+      "etag": "hyG76WYIy6Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2pFEngEACAAJ",
+      "volumeInfo": {
+        "title": "Manifiesto del general Jorge Ubico, presidente de la república, al pueblo de Guatemala",
+        "authors": [
+          "Jorge Ubico"
+        ],
+        "publishedDate": "1941",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:854707434"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2pFEngEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2pFEngEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifiesto_del_general_Jorge_Ubico_presi.html?hl=&id=2pFEngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2pFEngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DihstwAACAAJ",
+      "etag": "5WuNYdpm8ns",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DihstwAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que el Presidente de la República, general Jorge Ubico, dirige a la Asamblea Nacional Legislativa, al abrir su período de sesiones ordinarias el 1o de marzo de 1937",
+        "authors": [
+          "Guatemala. President (1931-1944 : Ubico)"
+        ],
+        "publishedDate": "1937",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:11979723"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 143,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DihstwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DihstwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_Presidente_de_la_Rep%C3%BAbli.html?hl=&id=DihstwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DihstwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HdyeOwAACAAJ",
+      "etag": "Njw1wUuGE0w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HdyeOwAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que el Presidente de la República, General Jorge Ubico, dirige á la Asamblea Nacional Constituyente",
+        "subtitle": "al abrir sus sesiones, el 15 de mayo de 1935",
+        "authors": [
+          "Guatemala. President (1931-1944 : Ubico)"
+        ],
+        "publishedDate": "1935",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12427721"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 6,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HdyeOwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HdyeOwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_Presidente_de_la_Rep%C3%BAbli.html?hl=&id=HdyeOwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HdyeOwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4Jyt0QEACAAJ",
+      "etag": "bHzY42tntYg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4Jyt0QEACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que el presidente de la república, general Jorge Ubico, dirige a la Asamblea Nacional Legislativa: Al abrir su período de sesiones ordinarias el 1o. de marzo de 1945",
+        "authors": [
+          "Guatemala. President (1931-1944 : Ubico)"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:85168398"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4Jyt0QEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4Jyt0QEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_presidente_de_la_rep%C3%BAbli.html?hl=&id=4Jyt0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4Jyt0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ozi7oAEACAAJ",
+      "etag": "KHJ1HqeHbXI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ozi7oAEACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que el presidente de la República, general Jorge Ubico, dirige a la Asamblea Nacional Legislativa al abrir sus sesiones extraordinarias, el 19 de julio de 1941",
+        "authors": [
+          "Guatemala Presidente (1931-1944: Ubico)"
+        ],
+        "publishedDate": "1941",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:864354633"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 5,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Ozi7oAEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Ozi7oAEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_presidente_de_la_Rep%C3%BAbli.html?hl=&id=Ozi7oAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ozi7oAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nUYA0AEACAAJ",
+      "etag": "/SXw/P1SSgo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nUYA0AEACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que el presidente de la república, general Jorge Ubico, dirige a la Asamblea Nacional Legislativa: Al abrir su período de sesiones ordinarias el 1o. de marzo de 1939",
+        "authors": [
+          "Guatemala. President (1931-1944 : Ubico)"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:85168398"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nUYA0AEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nUYA0AEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_presidente_de_la_rep%C3%BAbli.html?hl=&id=nUYA0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nUYA0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Nxw-tAEACAAJ",
+      "etag": "TAEY3zkQiCM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Nxw-tAEACAAJ",
+      "volumeInfo": {
+        "title": "Derrocamiento de una tiranía. (La caída de Jorge Ubico ... Aporte del Partido Social Democrático a la historia de Guatemala: reseña de la gesta cívica de Junio de 1944. (Segunda edición.).",
+        "authors": [
+          "Partido Social Democrático (Guatemala)"
+        ],
+        "publishedDate": "1958",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:561215261"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 125,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=Nxw-tAEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Nxw-tAEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Derrocamiento_de_una_tiran%C3%ADa_La_ca%C3%ADda.html?hl=&id=Nxw-tAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Nxw-tAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GtyeOwAACAAJ",
+      "etag": "Svd6TskyIDE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GtyeOwAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que el Presidente de la República, General Jorge Ubico, dirige á la Asamblea Nacional Legislativa",
+        "subtitle": "al abrir su período de sesiones ordinarias el 1o. de marzo de 1939",
+        "authors": [
+          "Guatemala. President (1931-1944 : Ubico)"
+        ],
+        "publishedDate": "1939",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12427673"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 143,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GtyeOwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GtyeOwAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_Presidente_de_la_Rep%C3%BAbli.html?hl=&id=GtyeOwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GtyeOwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EBImNQEACAAJ",
+      "etag": "3CgHS7SNiSo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EBImNQEACAAJ",
+      "volumeInfo": {
+        "title": "La personalidad del general don Jorge Ubico, algunos de sus rasgos biograficos con dos pasajes anecdoticos y genesis del Partido Progresista",
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1036211"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EBImNQEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EBImNQEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_personalidad_del_general_don_Jorge_Ub.html?hl=&id=EBImNQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EBImNQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rggDcgAACAAJ",
+      "etag": "FBNjdbXkz0w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rggDcgAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que el presidente de la República, general Jorge Ubico, dirige a la Asamblea nacional legislativa al abrir su período de sesiones ordinarias, el 1° de marzo de 1934",
+        "authors": [
+          "Jorge Ubico Castañeda (Gal.)"
+        ],
+        "publishedDate": "1934",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458437250"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=rggDcgAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rggDcgAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_presidente_de_la_Rep%C3%BAbli.html?hl=&id=rggDcgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rggDcgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qs9HswEACAAJ",
+      "etag": "fGcYeCxeH6I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qs9HswEACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que el Presidente de la República, General Jorge Ubico, dirige á la Asamblea Nacional Legislativa",
+        "subtitle": "al abrir su período de sesiones ordinarias el 1o. de marzo de 1939",
+        "authors": [
+          "Guatemala. President (1931-1944 : Ubico)"
+        ],
+        "publishedDate": "1939",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12427673"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 143,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qs9HswEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qs9HswEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_Presidente_de_la_Rep%C3%BAbli.html?hl=&id=qs9HswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qs9HswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o2sQMwEACAAJ",
+      "etag": "i747RvlX6y8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o2sQMwEACAAJ",
+      "volumeInfo": {
+        "title": "La Personalidad Del General Don Jorge Ubico, Algunos de Sus Rasgos Biográficos, Con Dos Pasajes Anedóticos Y Génesis Del Partido Progresista. [With a Portrait.].",
+        "authors": [
+          "Gustavo SCHWARTZ",
+          "Jorge UBICO CASTAÑEDA (President of the Republic of Guatemala.)"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:504315293"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=o2sQMwEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=o2sQMwEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Personalidad_Del_General_Don_Jorge_Ub.html?hl=&id=o2sQMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o2sQMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a9t7MwEACAAJ",
+      "etag": "TJyMWlwRAxk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a9t7MwEACAAJ",
+      "volumeInfo": {
+        "title": "Siete Mil Kilómetros de Carreteras en Ocho Años. Síntesis de la obra de vialidad desarrollada por el General Jorge Ubico, Presidente de la República de Guatemala. [With illustrations and maps.].",
+        "authors": [
+          "Partido Liberal Progresista (Guatemala)",
+          "Jorge UBICO CASTAÑEDA (President of the Republic of Guatemala.)"
+        ],
+        "publishedDate": "1941",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:561215227"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 415,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=a9t7MwEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=a9t7MwEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Siete_Mil_Kil%C3%B3metros_de_Carreteras_en_O.html?hl=&id=a9t7MwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a9t7MwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eE0XHQAACAAJ",
+      "etag": "+JSlSxLJLn4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eE0XHQAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje",
+        "subtitle": "que el presidente de la Republica, general Jorge Ubico, dirige a la Asamblea Nacional Legislative al abrir sus sesiones extraordinarias el 19 de Julio de 1941",
+        "authors": [
+          "Jorge Ubico"
+        ],
+        "publishedDate": "1941",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:52223461"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 5,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=eE0XHQAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eE0XHQAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje.html?hl=&id=eE0XHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eE0XHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VaTV0AEACAAJ",
+      "etag": "fAvOtCX2ikU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VaTV0AEACAAJ",
+      "volumeInfo": {
+        "title": "Manifiesto del presidente de la república al pueblo de Guatemala",
+        "authors": [
+          "Jorge Ubico"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1449555238"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VaTV0AEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VaTV0AEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifiesto_del_presidente_de_la_rep%C3%BAbli.html?hl=&id=VaTV0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VaTV0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HJ-EPgAACAAJ",
+      "etag": "MdvFKP1nrIo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HJ-EPgAACAAJ",
+      "volumeInfo": {
+        "title": "Nota circular dirigida por el Ministro de Relaciones Exteriores de Guatemala ...",
+        "authors": [
+          "Jorge Ubico"
+        ],
+        "publishedDate": "1934",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:252904891"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HJ-EPgAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HJ-EPgAACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nota_circular_dirigida_por_el_Ministro_d.html?hl=&id=HJ-EPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HJ-EPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZYQVzQEACAAJ",
+      "etag": "zrZNsBx8PnY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZYQVzQEACAAJ",
+      "volumeInfo": {
+        "title": "Discursos y mensajes.",
+        "authors": [
+          "Jorge Ubico Castañeda (Gal.)"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:661138827"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=ZYQVzQEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZYQVzQEACAAJ&dq=inauthor:%22Jorge+Ubico%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discursos_y_mensajes.html?hl=&id=ZYQVzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZYQVzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

@@ -17,7 +17,7 @@ def get_query_origin():
 
 # ================= CONFIGURATION =================
 API_KEY = os.environ.get('GOOGLE_BOOKS_API_KEY')
-COUNTRY_ABBREV = "HND"  # 3-letter ISO code for the country, used in output paths
+COUNTRY_ABBREV = "GUM"  # For A-3 country abbreviations: https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
 INPUT_JSON_PATTERN = f'output/{COUNTRY_ABBREV}/authors_{COUNTRY_ABBREV}_*.json'
 OUTPUT_BASE_DIR = f'output/{COUNTRY_ABBREV}'
 DELAY_BETWEEN_AUTHORS = 5

@@ -1,0 +1,68 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Antonio%20Mac%C3%ADas%20del%20Real\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Antonio%20Mac%C3%ADas%20del%20Real\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "7RZlHAAACAAJ",
+      "etag": "ukHNmH6o/8k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7RZlHAAACAAJ",
+      "volumeInfo": {
+        "title": "Guatemala y Manuel Estrada Cabrera",
+        "authors": [
+          "Antonio Macías del Real"
+        ],
+        "publishedDate": "1910",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:3298386"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 62,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7RZlHAAACAAJ&dq=inauthor:%22Antonio+Mac%C3%ADas+del+Real%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7RZlHAAACAAJ&dq=inauthor:%22Antonio+Mac%C3%ADas+del+Real%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Guatemala_y_Manuel_Estrada_Cabrera.html?hl=&id=7RZlHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7RZlHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Antonio%20de%20Larraz%C3%A1bal%20y%20Arrivillaga\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Antonio%20de%20Larraz%C3%A1bal%20y%20Arrivillaga\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "vwKlPgAACAAJ",
+      "etag": "9wtlyq25XG0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vwKlPgAACAAJ",
+      "volumeInfo": {
+        "title": "Instrucciones para la constitución fundamental de la monarquía española y su gobierno de que ha de tratarse en las próximas cortes generales de la nación dadas por el M.I. Ayuntamiento de la M.N.Y.L. ciudad de Guatemala",
+        "authors": [
+          "Guatemala (Guatemala). Ayuntamiento",
+          "Antonio de Larrazábal y Arrivillaga",
+          "José María Peinado y Pezonarte"
+        ],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:234337171"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vwKlPgAACAAJ&dq=inauthor:%22Antonio+de+Larraz%C3%A1bal+y+Arrivillaga%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vwKlPgAACAAJ&dq=inauthor:%22Antonio+de+Larraz%C3%A1bal+y+Arrivillaga%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Instrucciones_para_la_constituci%C3%B3n_fund.html?hl=&id=vwKlPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vwKlPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

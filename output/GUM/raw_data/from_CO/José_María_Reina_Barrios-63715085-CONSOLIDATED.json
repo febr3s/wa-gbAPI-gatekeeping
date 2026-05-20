@@ -1,0 +1,136 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Mar%C3%ADa%20Reina%20Barrios\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Mar%C3%ADa%20Reina%20Barrios\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 2,
+  "_totalFetchedItems": 2,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "nVmjUtCWwvcC",
+      "etag": "GGV2EcesfW8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nVmjUtCWwvcC",
+      "volumeInfo": {
+        "title": "Isagoge histórico apologético general de todas las Indias y especial de la provincia Sn. Vicente Ferrer de Chiapa y Goathemala de el orden de Predicadores",
+        "subtitle": "libro inédito hasta ahora, que, con motivo de la celebración del cuarto centenario del descubrimiento de América, ha mandado publicar el gobierno de la república de Guatemala",
+        "authors": [
+          "José María Reina Barrios"
+        ],
+        "publishedDate": "1892",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "ZBZH:ZBZ-00144661"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 456,
+        "printType": "BOOK",
+        "categories": [
+          "America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nVmjUtCWwvcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nVmjUtCWwvcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nVmjUtCWwvcC&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Reina+Barrios%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nVmjUtCWwvcC&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Reina+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Isagoge_hist%C3%B3rico_apolog%C3%A9tico_general.html?hl=&id=nVmjUtCWwvcC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nVmjUtCWwvcC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7-QvtAEACAAJ",
+      "etag": "CdIBq28gEEc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7-QvtAEACAAJ",
+      "volumeInfo": {
+        "title": "José María Reina Barrios, General de División y Presidente Constitucional de Guatemala",
+        "authors": [
+          "José María Reina Barrios"
+        ],
+        "publishedDate": "1892",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:982380799"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7-QvtAEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Reina+Barrios%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7-QvtAEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Reina+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jos%C3%A9_Mar%C3%ADa_Reina_Barrios_General_de_Di.html?hl=&id=7-QvtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7-QvtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

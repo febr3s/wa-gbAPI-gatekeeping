@@ -1,0 +1,1471 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Trinidad%20Coronado\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Trinidad%20Coronado\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Trinidad%20Coronado\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Trinidad%20Coronado\"&maxResults=6&startIndex=20&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 26,
+  "_totalRequestsMade": 2,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "HMswAQAAMAAJ",
+      "etag": "TFASIdt49bc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HMswAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Los héroes de Alcalá",
+        "subtitle": "drama historico-religioso en tres actos y en verso",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:31951002353721V"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HMswAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HMswAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HMswAQAAMAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HMswAQAAMAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_h%C3%A9roes_de_Alcal%C3%A1.html?hl=&id=HMswAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HMswAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_SRCAAAAYAAJ",
+      "etag": "tpc3WFjpNT8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_SRCAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Fábulas y cuentos populares",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1903",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173027961748"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 60,
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_SRCAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_SRCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_SRCAAAAYAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_SRCAAAAYAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/F%C3%A1bulas_y_cuentos_populares.html?hl=&id=_SRCAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_SRCAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WBtCAAAAYAAJ",
+      "etag": "u77J+Crj3MY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WBtCAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Matar el perro temprano",
+        "subtitle": "comedia en verso en un acto. El fatalismo moderno; comedia en prosa y verso en dos actos",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1917",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173027961861"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WBtCAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WBtCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WBtCAAAAYAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WBtCAAAAYAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Matar_el_perro_temprano.html?hl=&id=WBtCAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WBtCAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rSZCAAAAYAAJ",
+      "etag": "sPNAdbcs3mo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rSZCAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Sonetos populares, seguidos de un apéndice que contiene Ecos del mar",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1900",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173027961850"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rSZCAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rSZCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=rSZCAAAAYAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rSZCAAAAYAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sonetos_populares_seguidos_de_un_ap%C3%A9ndi.html?hl=&id=rSZCAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rSZCAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cp24nQEACAAJ",
+      "etag": "upMYAyhfqls",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cp24nQEACAAJ",
+      "volumeInfo": {
+        "title": "El matrimonio",
+        "subtitle": "comedia escrita en verso",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:11356301"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 47,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cp24nQEACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cp24nQEACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_matrimonio.html?hl=&id=cp24nQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cp24nQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BAArmAEACAAJ",
+      "etag": "bCMKurTeAc4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BAArmAEACAAJ",
+      "volumeInfo": {
+        "title": "Tonatiú y Xuchil, o sea la conquista de Ixinche y la Fundación de Guatemala",
+        "subtitle": "drama histórico escrito en verso en tres actos por T. Coronado",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:11355504"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 110,
+        "printType": "BOOK",
+        "categories": [
+          "Historical drama, Chilean"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BAArmAEACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BAArmAEACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tonati%C3%BA_y_Xuchil_o_sea_la_conquista_de.html?hl=&id=BAArmAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BAArmAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DGrdtwAACAAJ",
+      "etag": "DWqcT5m5CmE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DGrdtwAACAAJ",
+      "volumeInfo": {
+        "title": "Juguetes cómicos",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:13311889"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 33,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DGrdtwAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DGrdtwAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Juguetes_c%C3%B3micos.html?hl=&id=DGrdtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DGrdtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "g_11kQEACAAJ",
+      "etag": "MeBK0LE9OOM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g_11kQEACAAJ",
+      "volumeInfo": {
+        "title": "El cortijo de Belen",
+        "subtitle": "pequeña pastorelita para la Pascua de Navidad,escrita entres actos y en verso",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:793577765"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 13,
+        "printType": "BOOK",
+        "categories": [
+          "Christmas plays"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=g_11kQEACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=g_11kQEACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_cortijo_de_Belen.html?hl=&id=g_11kQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g_11kQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bXCmXwAACAAJ",
+      "etag": "rjUry1qvahA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bXCmXwAACAAJ",
+      "volumeInfo": {
+        "title": "El zapatero y el sastre",
+        "subtitle": "juguete cómico en dos actos breves escrito en verso",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:733595741"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 10,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=bXCmXwAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=bXCmXwAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_zapatero_y_el_sastre.html?hl=&id=bXCmXwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bXCmXwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "O2hiQwAACAAJ",
+      "etag": "65Jqp1fN1W0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/O2hiQwAACAAJ",
+      "volumeInfo": {
+        "title": "El buen obrero hace el buen patrón",
+        "subtitle": "juguete cómico en un acto escrito en verso",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:434447173"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 12,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=O2hiQwAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=O2hiQwAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_buen_obrero_hace_el_buen_patr%C3%B3n.html?hl=&id=O2hiQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=O2hiQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oa1aewAACAAJ",
+      "etag": "H+wbR6DkRno",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oa1aewAACAAJ",
+      "volumeInfo": {
+        "title": "Comedias i dramas",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:56725433"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=oa1aewAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=oa1aewAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Comedias_i_dramas.html?hl=&id=oa1aewAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oa1aewAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NiaZGwAACAAJ",
+      "etag": "qpl9TssrAY0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NiaZGwAACAAJ",
+      "volumeInfo": {
+        "title": "Rosalía y su abuela, o sea El cuarto centenario del descubrimiento de América",
+        "subtitle": "comedia joco-seria, en un acto, escrita en prosa y verso",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:733595755"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NiaZGwAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NiaZGwAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rosal%C3%ADa_y_su_abuela_o_sea_El_cuarto_cen.html?hl=&id=NiaZGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NiaZGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i59gQwAACAAJ",
+      "etag": "pQhUMbOj6Sk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i59gQwAACAAJ",
+      "volumeInfo": {
+        "title": "Colón ó los Mendigos de la Rábida",
+        "subtitle": "Drama en tres actos escrito en versos: Ensayos cómicos",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1892*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431802272"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=i59gQwAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=i59gQwAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Col%C3%B3n_%C3%B3_los_Mendigos_de_la_R%C3%A1bida.html?hl=&id=i59gQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i59gQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K2YIMQAACAAJ",
+      "etag": "bggAVnH1kn8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K2YIMQAACAAJ",
+      "volumeInfo": {
+        "title": "Colón o los mendigos de la Rábida",
+        "subtitle": "drama en tres actos escrito improvisadamente en verso",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1892*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:776454491"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=K2YIMQAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=K2YIMQAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Col%C3%B3n_o_los_mendigos_de_la_R%C3%A1bida.html?hl=&id=K2YIMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K2YIMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CcFiQwAACAAJ",
+      "etag": "tiPJhpAQiBM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CcFiQwAACAAJ",
+      "volumeInfo": {
+        "title": "Rosalía y su abuela, o sea el cuarto centenario del descubrimiento de américa",
+        "subtitle": "comedia",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:434447200"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=CcFiQwAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CcFiQwAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rosal%C3%ADa_y_su_abuela_o_sea_el_cuarto_cen.html?hl=&id=CcFiQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CcFiQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eaMWtwAACAAJ",
+      "etag": "xLDpCn/3NBg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eaMWtwAACAAJ",
+      "volumeInfo": {
+        "title": "Ester y Astiajes",
+        "subtitle": "drama histórico en tres actos ; Colomérica : ensayos épicos descriptivos, comprendidos en dos poemas escritos en versos",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54198736"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=eaMWtwAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eaMWtwAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ester_y_Astiajes.html?hl=&id=eaMWtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eaMWtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EeF9HAAACAAJ",
+      "etag": "VKVGg9zfz2A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EeF9HAAACAAJ",
+      "volumeInfo": {
+        "title": "El pecado original",
+        "subtitle": "drama bíblico en tres actos, breves, escrito en verso",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1917",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:19926698"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 17,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EeF9HAAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EeF9HAAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_pecado_original.html?hl=&id=EeF9HAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EeF9HAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Gs2K0AEACAAJ",
+      "etag": "jYHfCiqPn04",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Gs2K0AEACAAJ",
+      "volumeInfo": {
+        "title": "Rosalía y su abuela ó sea El cuarto Centenario del Descubrimiento de América",
+        "subtitle": "comedia Joco-seria en un acto, escrita en prosa y verso",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318102530"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Gs2K0AEACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Gs2K0AEACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rosal%C3%ADa_y_su_abuela_%C3%B3_sea_El_cuarto_Ce.html?hl=&id=Gs2K0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Gs2K0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gU5VmAEACAAJ",
+      "etag": "5dVnR2YCVu8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gU5VmAEACAAJ",
+      "volumeInfo": {
+        "title": "La educación",
+        "subtitle": "comedia escrita en verso",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:11354537"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=gU5VmAEACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=gU5VmAEACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_educaci%C3%B3n.html?hl=&id=gU5VmAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gU5VmAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Tl6ZHAAACAAJ",
+      "etag": "gLuR6XKxsHI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Tl6ZHAAACAAJ",
+      "volumeInfo": {
+        "title": "El cortijo de Belén",
+        "subtitle": "pequeña pastorelita para la Pascua de Navidad, escrita en tres actos y en verso. El tío Gervasio; o sea, La Pascua en la aldea; pastorela escrita en verso y en un acto",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:19926659"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 21,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Tl6ZHAAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Tl6ZHAAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_cortijo_de_Bel%C3%A9n.html?hl=&id=Tl6ZHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Tl6ZHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "62coQwAACAAJ",
+      "etag": "iLgVlJO0XDU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/62coQwAACAAJ",
+      "volumeInfo": {
+        "title": "Tonatin y Xuchil, o sea la conquista de Yxinche y la fundación de Guatemala",
+        "subtitle": "drama histórico",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:434447197"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 110,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=62coQwAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=62coQwAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tonatin_y_Xuchil_o_sea_la_conquista_de_Y.html?hl=&id=62coQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=62coQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BOJfHAAACAAJ",
+      "etag": "SzalXVCJ+LM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BOJfHAAACAAJ",
+      "volumeInfo": {
+        "title": "Memoria con que el secretario de la junta directiva del hospital de esta ciudad da cuenta á la general de beneficiencia de los actos de su administración ejecutados en el año que comenzó el día 1o. de mayo del año próximo pasada, y terminó el 30 de abril último",
+        "authors": [
+          "Hospital General de Occidente (Quezaltenango, Guatemala)",
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12563642"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "categories": [
+          "Hospitals"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BOJfHAAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BOJfHAAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memoria_con_que_el_secretario_de_la_junt.html?hl=&id=BOJfHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BOJfHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8BMatwAACAAJ",
+      "etag": "ah3Y3joJ1Og",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8BMatwAACAAJ",
+      "volumeInfo": {
+        "title": "El Zapatero y el sastre",
+        "subtitle": "juguete cómico",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:80950005"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 10,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8BMatwAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8BMatwAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Zapatero_y_el_sastre.html?hl=&id=8BMatwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8BMatwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "g0570AEACAAJ",
+      "etag": "nCzByIVpybY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g0570AEACAAJ",
+      "volumeInfo": {
+        "title": "Tonatiú y Xuchil, ó sea, La conquista de Ixinche y la fundación de Guatemala",
+        "subtitle": "drama histórico escrito en verso en tres actos",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:11355504"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Historical drama, Chilean"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=g0570AEACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=g0570AEACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tonati%C3%BA_y_Xuchil_%C3%B3_sea_La_conquista_de.html?hl=&id=g0570AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g0570AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jw1cQwAACAAJ",
+      "etag": "VwnEj150uMQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jw1cQwAACAAJ",
+      "volumeInfo": {
+        "title": "Sólo moral",
+        "subtitle": "comedia joco-seria",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:434447194"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 18,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jw1cQwAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jw1cQwAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/S%C3%B3lo_moral.html?hl=&id=jw1cQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jw1cQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X8hfHQAACAAJ",
+      "etag": "pDhj7ORmQqo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X8hfHQAACAAJ",
+      "volumeInfo": {
+        "title": "El concurso",
+        "subtitle": "juguete cómico en un acto",
+        "authors": [
+          "Trinidad Coronado"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:13311874"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 11,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=X8hfHQAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=X8hfHQAACAAJ&dq=inauthor:%22Trinidad+Coronado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_concurso.html?hl=&id=X8hfHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X8hfHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

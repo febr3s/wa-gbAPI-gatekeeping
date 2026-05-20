@@ -1,0 +1,1312 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Milla%20y%20Vidaurre\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Milla%20y%20Vidaurre\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Milla%20y%20Vidaurre\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Milla%20y%20Vidaurre\"&maxResults=2&startIndex=20&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 22,
+  "_totalRequestsMade": 2,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "GNkzAQAAMAAJ",
+      "etag": "dvvMTpMirzo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GNkzAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Memorias de un abogado",
+        "authors": [
+          "José Milla y Vidaurre"
+        ],
+        "publishedDate": "1876",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:35112101915322"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 276,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GNkzAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GNkzAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GNkzAQAAMAAJ&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=GNkzAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GNkzAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=GNkzAQAAMAAJ&rdid=book-GNkzAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Memorias_de_un_abogado.epub?id=GNkzAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Memorias_de_un_abogado.pdf?id=GNkzAQAAMAAJ&hl=&output=pdf&sig=ACfU3U3uRoGZOXuS_9F6PMMFWv5tAlXSsA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GNkzAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_9hyHPrFJLgC",
+      "etag": "ZNMsi29eaSQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_9hyHPrFJLgC",
+      "volumeInfo": {
+        "title": "Cuadros de costumbres",
+        "authors": [
+          "Jose Milla y Vidaurre",
+          "José Milla"
+        ],
+        "publishedDate": "1952",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IOWA:31858006255123"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 326,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_9hyHPrFJLgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_9hyHPrFJLgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_9hyHPrFJLgC&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_9hyHPrFJLgC&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuadros_de_costumbres.html?hl=&id=_9hyHPrFJLgC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_9hyHPrFJLgC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G8k1EAAAQBAJ",
+      "etag": "EFLWOylpAG4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G8k1EAAAQBAJ",
+      "volumeInfo": {
+        "title": "3 Libros para Conocer Literatura Guatemalteca",
+        "authors": [
+          "José Milla y Vidaurre",
+          "Máximo Soto Hall",
+          "August Nemo"
+        ],
+        "publisher": "Tacet Books",
+        "publishedDate": "2021-07-07",
+        "description": "Bienvenidos a la colección 3 libros para conocer, nuestra idea es ayudar a los lectores a aprender sobre temas fascinantes a través de tres libros imprescindibles y destacados. Estas obras cuidadosamente seleccionadas pueden ser de ficción, no ficción, documentos históricos o incluso biografías. Siempre seleccionaremos para ti tres grandes obras para instigar tu mente, esta vez el tema es: Literatura Guatemalteca. • La hija del Adelantado por José Milla y Vidaurre. • Popol Vuh por Anónimo. • El problema por Máximo Soto Hall. Este es uno de los muchos libros de la colección 3 libros para conocer. Si te ha gustado este libro, busca los otros títulos de la colección, pues estamos convencidos de que alguno de los temas te gustará.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783985944828"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3985944822"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=G8k1EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=G8k1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=G8k1EAAAQBAJ&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=G8k1EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=G8k1EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13900,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 13900,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=G8k1EAAAQBAJ&rdid=book-G8k1EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13900000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 13900000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/3_Libros_para_Conocer_Literatura_Guatema-sample-epub.acsm?id=G8k1EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/3_Libros_para_Conocer_Literatura_Guatema-sample-pdf.acsm?id=G8k1EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G8k1EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Siempre seleccionaremos para ti tres grandes obras para instigar tu mente, esta vez el tema es: Literatura Guatemalteca. • La hija del Adelantado por José Milla y Vidaurre. • Popol Vuh por Anónimo. • El problema por Máximo Soto ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h5_UAAAAMAAJ",
+      "etag": "edixgfZjs1M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h5_UAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Historia de la America central, desde el descubrimiento del país por los españoles (1502) hasta su independencia de la España (1821).",
+        "subtitle": "Precedida de una \"Noticia histórica\" relativa á las naciones que habitaban la América central á la llegada de los españoles",
+        "authors": [
+          "José Milla",
+          "José Milla y Vidaurre"
+        ],
+        "publishedDate": "1895",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000017357630"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 758,
+        "printType": "BOOK",
+        "categories": [
+          "America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=h5_UAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=h5_UAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=h5_UAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=h5_UAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_de_la_America_central_desde_el.html?hl=&id=h5_UAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h5_UAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "w5_UAAAAMAAJ",
+      "etag": "lfOkezFnCXM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/w5_UAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Historia de la América Central, desde el descubrimiento del país por los españoles (1502) hasta su independencia de la España (1821).",
+        "subtitle": "Precedida de una \"Noticia histórica\" relativa á las naciones que habitaban la América Central á la llegada de los españoles",
+        "authors": [
+          "José Milla"
+        ],
+        "publishedDate": "1905",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000024811309"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 424,
+        "printType": "BOOK",
+        "categories": [
+          "America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=w5_UAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=w5_UAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=w5_UAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=w5_UAAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_de_la_Am%C3%A9rica_Central_desde_el.html?hl=&id=w5_UAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=w5_UAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J-0_AAAAMAAJ",
+      "etag": "jmVELbURnI4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J-0_AAAAMAAJ",
+      "volumeInfo": {
+        "title": "Obras completas de Salome Jil (José Milla)",
+        "subtitle": "Ediciones patrocinadas por el excelentisimo señor presidente de Guatemala, general don Jorge Ubico. Coleccion \"Juan Chapin\".",
+        "authors": [
+          "José Milla y Vidaurre"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015055146651"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 514,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=J-0_AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=J-0_AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=J-0_AAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=J-0_AAAAMAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas_de_Salome_Jil_Jos%C3%A9_Mill.html?hl=&id=J-0_AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J-0_AAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LI4GMwEACAAJ",
+      "etag": "PbK17IE11z4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LI4GMwEACAAJ",
+      "volumeInfo": {
+        "title": "Cuadros de Costumbres. [By] Salomé Jil [pseudonym of José Milla Y Vidaurre] ... Quinta Edición",
+        "authors": [
+          "José MILLA Y VIDAURRE"
+        ],
+        "publishedDate": "1952",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:562958909"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 19,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=LI4GMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LI4GMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuadros_de_Costumbres_By_Salom%C3%A9_Jil_pse.html?hl=&id=LI4GMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LI4GMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CQfKzgEACAAJ",
+      "etag": "XBBDyCjqzZE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CQfKzgEACAAJ",
+      "volumeInfo": {
+        "title": "Historia de la América Central",
+        "subtitle": "desde el descubrimiento del país por los españoles (1502) hasta su independencia de la España (1821) : precedida de una \"noticia histórica\" relativa a las naciones que habitan la América Central a la llegada de los españoles",
+        "authors": [
+          "José Milla y Vidaurre"
+        ],
+        "publishedDate": "1937",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:222457760"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 592,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=CQfKzgEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CQfKzgEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_de_la_Am%C3%A9rica_Central.html?hl=&id=CQfKzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CQfKzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NTQYjwEACAAJ",
+      "etag": "6x22Z604DWI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NTQYjwEACAAJ",
+      "volumeInfo": {
+        "title": "Memorias de un abogado",
+        "publishedDate": "1979",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:920330904"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 163,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NTQYjwEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NTQYjwEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias_de_un_abogado.html?hl=&id=NTQYjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NTQYjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5ZtazwEACAAJ",
+      "etag": "JHuVPywceFg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5ZtazwEACAAJ",
+      "volumeInfo": {
+        "title": "Los Nazarenos",
+        "subtitle": "resumen en español moderno",
+        "authors": [
+          "José Milla y Vidaurre"
+        ],
+        "publishedDate": "2021",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798778583306"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemalan fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5ZtazwEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5ZtazwEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_Nazarenos.html?hl=&id=5ZtazwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5ZtazwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y2o-YgEACAAJ",
+      "etag": "AJjSNm2CHdc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y2o-YgEACAAJ",
+      "volumeInfo": {
+        "title": "Libro sin nombre",
+        "authors": [
+          "José Milla y Vidaurre"
+        ],
+        "publishedDate": "1935",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651473663"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 308,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=y2o-YgEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=y2o-YgEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Libro_sin_nombre.html?hl=&id=y2o-YgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y2o-YgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BUHAnQEACAAJ",
+      "etag": "A4tkuxDjWfg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BUHAnQEACAAJ",
+      "volumeInfo": {
+        "title": "Historia de la América Central, desde el descubrimiento del país por los españoles 1502 hasta su independencia de la España 1821...",
+        "authors": [
+          "Salome Milla"
+        ],
+        "publishedDate": "1937",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:836968135"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 516,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BUHAnQEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BUHAnQEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_de_la_Am%C3%A9rica_Central_desde_el.html?hl=&id=BUHAnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BUHAnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YiovMwEACAAJ",
+      "etag": "l2cElTnnom0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YiovMwEACAAJ",
+      "volumeInfo": {
+        "title": "Cuadros de costumbres ... Cuarta edición",
+        "authors": [
+          "José MILLA Y VIDAURRE"
+        ],
+        "publishedDate": "1937",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:562958905"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 456,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YiovMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YiovMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuadros_de_costumbres_Cuarta_edici%C3%B3n.html?hl=&id=YiovMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YiovMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rfylmgEACAAJ",
+      "etag": "oLgwgNqDUqs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rfylmgEACAAJ",
+      "volumeInfo": {
+        "title": "Discurso pronunciado el dia 15 de Setiembre de 1846, en ... Guatemala, ... en memoria de la gloriosa consumacion de la independencia",
+        "authors": [
+          "José MILLA Y VIDAURRE"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:562958911"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=rfylmgEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rfylmgEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_pronunciado_el_dia_15_de_Setiem.html?hl=&id=rfylmgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rfylmgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tQwx0QEACAAJ",
+      "etag": "wIYIBwdSxZM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tQwx0QEACAAJ",
+      "volumeInfo": {
+        "title": "La hija del adelantado",
+        "subtitle": "memorias de un abogado",
+        "authors": [
+          "José Milla y Vidaurre"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:977411795"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tQwx0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=tQwx0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_hija_del_adelantado.html?hl=&id=tQwx0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tQwx0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YyovMwEACAAJ",
+      "etag": "AnAqiKTy+LI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YyovMwEACAAJ",
+      "volumeInfo": {
+        "title": "Un viaje al otro mundo. Pasando por otras partes, 1871-1874 ... Tercera edición",
+        "authors": [
+          "José MILLA Y VIDAURRE"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:562958916"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=YyovMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YyovMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Un_viaje_al_otro_mundo_Pasando_por_otras.html?hl=&id=YyovMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YyovMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8i2n0QEACAAJ",
+      "etag": "ui7+xux5ejY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8i2n0QEACAAJ",
+      "volumeInfo": {
+        "title": "Cuadros de costumbres guatemaltecas",
+        "subtitle": "...",
+        "authors": [
+          "José Milla y Vidaurre"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:836967415"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8i2n0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8i2n0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuadros_de_costumbres_guatemaltecas.html?hl=&id=8i2n0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8i2n0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6w3izgEACAAJ",
+      "etag": "BYBhAtIQKVE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6w3izgEACAAJ",
+      "volumeInfo": {
+        "title": "El visitador",
+        "subtitle": "novela historica",
+        "authors": [
+          "José Milla y Vidaurre"
+        ],
+        "publishedDate": "1935",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:977947043"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 636,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6w3izgEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6w3izgEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_visitador.html?hl=&id=6w3izgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6w3izgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MVnHDAEACAAJ",
+      "etag": "vWfZkmcnG48",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MVnHDAEACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "publishedDate": "1935",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:937530203"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=MVnHDAEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=MVnHDAEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=MVnHDAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MVnHDAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SSUr0QEACAAJ",
+      "etag": "CVYyhehBm3Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SSUr0QEACAAJ",
+      "volumeInfo": {
+        "title": "UN VIAJE AL OTRO MUNDO PASANDO POR OTRAS PARTES, 1871 A 1874",
+        "authors": [
+          "SALOME (SEUD.) JIL",
+          "José Milla y Vidaurre"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:978199152"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SSUr0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SSUr0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/UN_VIAJE_AL_OTRO_MUNDO_PASANDO_POR_OTRAS.html?hl=&id=SSUr0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SSUr0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zL20MgEACAAJ",
+      "etag": "8dqBRYwbQ90",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zL20MgEACAAJ",
+      "volumeInfo": {
+        "title": "Los Nazarenos",
+        "subtitle": "4. ed",
+        "authors": [
+          "José Milla y Vidaurre"
+        ],
+        "publishedDate": "1935",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:35023100"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 448,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=zL20MgEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zL20MgEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_Nazarenos.html?hl=&id=zL20MgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zL20MgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "deoVMwEACAAJ",
+      "etag": "QTyMSfUYW40",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/deoVMwEACAAJ",
+      "volumeInfo": {
+        "title": "El visitador. Sétima edición",
+        "authors": [
+          "José MILLA Y VIDAURRE"
+        ],
+        "publishedDate": "1967",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:562958919"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 510,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=deoVMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=deoVMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Milla+y+Vidaurre%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_visitador_S%C3%A9tima_edici%C3%B3n.html?hl=&id=deoVMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=deoVMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

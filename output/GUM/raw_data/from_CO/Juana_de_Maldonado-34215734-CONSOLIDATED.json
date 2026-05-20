@@ -1,0 +1,127 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juana%20de%20Maldonado\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juana%20de%20Maldonado\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 2,
+  "_totalFetchedItems": 2,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "6XfjwAEACAAJ",
+      "etag": "EFEb9Mh31yo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6XfjwAEACAAJ",
+      "volumeInfo": {
+        "title": "Entretenimiento en obsequio de la huida a Egipto",
+        "authors": [
+          "Juana de Maldonado y Paz (sor)"
+        ],
+        "publisher": "Editorial EUCASA / B.T.U.",
+        "publishedDate": "2006",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9508510900"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789508510907"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 83,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6XfjwAEACAAJ&dq=inauthor:%22Juana+de+Maldonado%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6XfjwAEACAAJ&dq=inauthor:%22Juana+de+Maldonado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Entretenimiento_en_obsequio_de_la_huida.html?hl=&id=6XfjwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6XfjwAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ttjTjgEACAAJ",
+      "etag": "vuPhlkXptVE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ttjTjgEACAAJ",
+      "volumeInfo": {
+        "title": "Entretenimiento en obsequio de la huida a Egipto",
+        "authors": [
+          "Iride Maria Rossi de Fiori"
+        ],
+        "publishedDate": "2006",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:912667664"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 83,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ttjTjgEACAAJ&dq=inauthor:%22Juana+de+Maldonado%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ttjTjgEACAAJ&dq=inauthor:%22Juana+de+Maldonado%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Entretenimiento_en_obsequio_de_la_huida.html?hl=&id=ttjTjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ttjTjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

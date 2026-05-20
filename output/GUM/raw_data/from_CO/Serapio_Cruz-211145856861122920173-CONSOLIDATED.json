@@ -1,0 +1,129 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Serapio%20Cruz\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Serapio%20Cruz\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 2,
+  "_totalFetchedItems": 2,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "9h38GgAACAAJ",
+      "etag": "8qlMw6QnobA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9h38GgAACAAJ",
+      "volumeInfo": {
+        "title": "Convenio preliminar",
+        "subtitle": "en la hacienda de Palencia, á veinte de enero de mil ochocientos cuarenta y nueva, reunidos los infrascriptos con el Sr. D. Serapio Cruz, Jeneral en jefe del ejército de los pueblos ...",
+        "authors": [
+          "Guatemala",
+          "Raymundo Arroyo",
+          "Vicente Cruz",
+          "Serapio Cruz"
+        ],
+        "publishedDate": "1849",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21848182"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 5,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9h38GgAACAAJ&dq=inauthor:%22Serapio+Cruz%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9h38GgAACAAJ&dq=inauthor:%22Serapio+Cruz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Convenio_preliminar.html?hl=&id=9h38GgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9h38GgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TkVEtwAACAAJ",
+      "etag": "myMsvH+Jaw4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TkVEtwAACAAJ",
+      "volumeInfo": {
+        "title": "Comunicación con que se participó a los jefes de las Fuerzas de los pueblos la ratificación del convenio de paz ajustado en la Villa de Zacapa el 28 del mes próximo pasado",
+        "authors": [
+          "José María de Urruela",
+          "Serapio Cruz"
+        ],
+        "publishedDate": "1849",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55247167"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TkVEtwAACAAJ&dq=inauthor:%22Serapio+Cruz%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TkVEtwAACAAJ&dq=inauthor:%22Serapio+Cruz%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Comunicaci%C3%B3n_con_que_se_particip%C3%B3_a_lo.html?hl=&id=TkVEtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TkVEtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

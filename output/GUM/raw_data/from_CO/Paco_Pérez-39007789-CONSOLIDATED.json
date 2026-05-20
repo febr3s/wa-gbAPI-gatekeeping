@@ -1,0 +1,4786 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Paco%20P%C3%A9rez\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Paco%20P%C3%A9rez\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Paco%20P%C3%A9rez\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Paco%20P%C3%A9rez\"&maxResults=20&startIndex=40&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Paco%20P%C3%A9rez\"&maxResults=20&startIndex=60&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Paco%20P%C3%A9rez\"&maxResults=20&startIndex=80&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Paco%20P%C3%A9rez\"&maxResults=3&startIndex=80&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 80,
+  "_totalRequestsMade": 5,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "5LByDwAAQBAJ",
+      "etag": "y6iuNS0EWDE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5LByDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Cocottes",
+        "subtitle": "Cazuelas y cacerolas",
+        "authors": [
+          "Paco Pérez",
+          "Salvador García-Arbós",
+          "Francesc Guillamet"
+        ],
+        "publisher": "Planeta Gastro",
+        "publishedDate": "2018-11-13",
+        "description": "El primer libro de Paco Pérez dedicado a la cocina casera. Este libro de Paco Pérez no es solamente para revelarnos los secretos de sus recetas cotidianas sino lograr la reconciliación definitiva con los fogones. El chef del Miramar nos invita a cocinar de la forma más clásica apostando por los productos de temporada. En definitiva, propone cocinar tal y como lo hacían nuestras madres y abuelas, en cazuelas, cacerolas, cassoles..., en eternas cocottes, para llevar la comida del huerto a la mesa con cariño y el calor de hogar.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788408200437"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8408200437"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "categories": [
+          "Cooking"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5LByDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5LByDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5LByDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=5LByDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5LByDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 37900,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 37900,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=5LByDwAAQBAJ&rdid=book-5LByDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 37900000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 37900000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Cocottes-sample-epub.acsm?id=5LByDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Cocottes-sample-pdf.acsm?id=5LByDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5LByDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En definitiva, propone cocinar tal y como lo hacían nuestras madres y abuelas, en cazuelas, cacerolas, cassoles..., en eternas cocottes, para llevar la comida del huerto a la mesa con cariño y el calor de hogar."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b3ZJvgEACAAJ",
+      "etag": "jjkRFr7RkgE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b3ZJvgEACAAJ",
+      "volumeInfo": {
+        "title": "Cocottes",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8408197541"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788408197546"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "categories": [
+          "Cooking"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=b3ZJvgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=b3ZJvgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cocottes.html?hl=&id=b3ZJvgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b3ZJvgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "46KZEQAAQBAJ",
+      "etag": "Zry/alhQs2A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/46KZEQAAQBAJ",
+      "volumeInfo": {
+        "title": "Arroces",
+        "authors": [
+          "Paco Pérez"
+        ],
+        "publisher": "Planeta Gastro",
+        "publishedDate": "2025-12-03",
+        "description": "Cocinar los mejores arroces en casa. De fiesta y en el día a día. En el campo y en la ciudad. El arroz tiene una enorme capacidad de absorber sabores y aromas, y posee una textura maravillosa. Es patrimonio gastronómico, de cocina de toda la vida y tiene el gran poder de quitar el hambre en el mundo. Llamémosle arroz, arròs, rice, riz, riso, es el ingrediente principal para más de la mitad de la población mundial. Y es que somos capaces de confeccionar un menú solo de arroz: una ensalada, una sopa, un arròs a la cassola o una paella dominical. Hasta los postres, bebiendo saque y terminando con un licor de arroz, los arroces están siempre presentes en el recetario clásico de nuestra cocina casera, tanto diaria como festiva. Pertenecemos a una gran cultura arrocera, en el almuerzo del jueves y la paella de los domingos. Es la comida en familia en mayúsculas, el gran plato para compartir. Para tomar entre semana, los findes de semana y en ocasiones especiales. Siempre es buen momento para comer un buen plato de arroz. La cocina tradicional tiene un montón de recetas de arroz, el recetario puede ser infinito. Y para demostrarlo, aquí tienes en tus manos el gran libro de arroces de Paco Pérez, uno de los mejores maestros arroceros de nuestro país. Algunas recetas son su versión personal de la tradición y otras son de nueva creación, como sus arroces contemporáneos, ya legendarios. Este libro es una reivindicación de lo que llamamos comer, de volver a cocinar y de celebrar con los tuyos con un buen plato de arroz, probablemente uno que no olvidarás. Que lo disfrutes. «El cocinero Paco Pérez es uno de los grandes maestros arroceros de España. Este libro reúne recetas de su archivo y nuevas creaciones de un plato versátil, ajeno a las temporadas, que apetece en cualquier momento del año.» Paz Álvarez, El País «El chef Paco Pérez, con cuatro estrellas Michelin, vuelca desde Llançà, en la Costa Brava, todo su saber hacer arrocero para ilustrar los grandes secretos que hay tras cada fondo, tras cada grano y borda docenas de recetas para que no tengamos que oír nunca más eso de ¿Otra vez arroz?» Directo al paladar",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788408311119"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8408311115"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 285,
+        "printType": "BOOK",
+        "categories": [
+          "Cooking"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=46KZEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=46KZEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=46KZEQAAQBAJ&printsec=frontcover&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=46KZEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=46KZEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 52900,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 52900,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=46KZEQAAQBAJ&rdid=book-46KZEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 52900000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 52900000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Arroces-sample-epub.acsm?id=46KZEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Arroces-sample-pdf.acsm?id=46KZEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=46KZEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Cocinar los mejores arroces en casa."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MH7jzwEACAAJ",
+      "etag": "DL5w+CtM444",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MH7jzwEACAAJ",
+      "volumeInfo": {
+        "title": "Historias traperez de la banda trapera del rio",
+        "authors": [
+          "Paco Pérez"
+        ],
+        "publishedDate": "2022",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8412579097"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788412579093"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=MH7jzwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=MH7jzwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historias_traperez_de_la_banda_trapera_d.html?hl=&id=MH7jzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MH7jzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oNnL0QEACAAJ",
+      "etag": "B9YKDLvyYDE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oNnL0QEACAAJ",
+      "volumeInfo": {
+        "title": "Arroces",
+        "subtitle": "en casa : volver a cocinar",
+        "authors": [
+          "Paco Pérez",
+          "Salvador Garcia-Arbós"
+        ],
+        "publishedDate": "2025",
+        "description": "De fiesta y en el día a día. En el campo y en la ciudad. El arroz tiene una enorme capacidad de absorber sabores y aromas, y posee una textura maravillosa. Es patrimonio gastronómico, de cocina de toda la vida y tiene el gran poder de quitar el hambre en el mundo. Llamémosle arroz, arròs, rice, riz, riso, es el ingrediente principal para más de la mitad de la población mundial. Y es que somos capaces de confeccionar un menú solo de arroz: una ensalada, una sopa, un arròs a la cassola o una paella dominical. Hasta los postres, bebiendo saque y terminando con un licor de arroz, los arroces están siempre presentes en el recetario clásico de nuestra cocina casera, tanto diaria como festiva. Pertenecemos a una gran cultura arrocera, en el almuerzo del jueves y la paella de los domingos. Es la comida en familia en mayúsculas, el gran plato para compartir. Para tomar entre semana, los findes de semana y en ocasiones especiales. Siempre es buen momento para comer un buen plato de arroz. La cocina tradicional tiene un montón de recetas de arroz, el recetario puede ser infinito. Y para demostrarlo, aquí tienes en tus manos el gran libro de arroces de Paco Pérez, uno de los mejores maestros arroceros de nuestro país. Algunas recetas son su versión personal de la tradición y otras son de nueva creación, como sus arroces contemporáneos, ya legendarios. Este libro es una reivindicación de lo que llamamos comer, de volver a cocinar y de celebrar con los tuyos con un buen plato de arroz, probablemente uno que no olvidarás. Que lo disfrutes.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8408311107"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788408311102"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=oNnL0QEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=oNnL0QEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arroces.html?hl=&id=oNnL0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oNnL0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La cocina tradicional tiene un montón de recetas de arroz, el recetario puede ser infinito. Y para demostrarlo, aquí tienes en tus manos el gran libro de arroces de Paco Pérez, uno de los mejores maestros arroceros de nuestro país."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u4RcjwEACAAJ",
+      "etag": "D+KkppBl/XE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u4RcjwEACAAJ",
+      "volumeInfo": {
+        "title": "Miramar",
+        "publishedDate": "2015",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8472121593"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788472121591"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=u4RcjwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=u4RcjwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Miramar.html?hl=&id=u4RcjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u4RcjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EjUe0QEACAAJ",
+      "etag": "MJQ9XsKjBOY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EjUe0QEACAAJ",
+      "volumeInfo": {
+        "title": "Cuidaré de ti",
+        "subtitle": "Paco Pérez Valencia",
+        "authors": [
+          "Paco Pérez Valencia"
+        ],
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1491008526"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=EjUe0QEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EjUe0QEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuidar%C3%A9_de_ti.html?hl=&id=EjUe0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EjUe0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-HxlMwEACAAJ",
+      "etag": "a4F7EqftHL8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-HxlMwEACAAJ",
+      "volumeInfo": {
+        "title": "Manual de exposición sensitiva y emocional",
+        "authors": [
+          "Paco Pérez Valencia"
+        ],
+        "publishedDate": "2012-10",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8497046552"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788497046558"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 127,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-HxlMwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-HxlMwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-HxlMwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-HxlMwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_exposici%C3%B3n_sensitiva_y_emocio.html?hl=&id=-HxlMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-HxlMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El autor parte de la idea de que la exposición debe ser vivida y edificada desde los sentidos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8X7jzwEACAAJ",
+      "etag": "Bv5eyu+de+8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8X7jzwEACAAJ",
+      "volumeInfo": {
+        "title": "La balada del cuaderno de la risa",
+        "authors": [
+          "Paco Pérez Valencia"
+        ],
+        "publishedDate": "2022",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8409428199"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788409428199"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8X7jzwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8X7jzwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_balada_del_cuaderno_de_la_risa.html?hl=&id=8X7jzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8X7jzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sWTQjgEACAAJ",
+      "etag": "5GRne1nBjTA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sWTQjgEACAAJ",
+      "volumeInfo": {
+        "title": "Paco Pérez Valencia",
+        "subtitle": "San Francisco",
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:928271850"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=sWTQjgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=sWTQjgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Paco_P%C3%A9rez_Valencia.html?hl=&id=sWTQjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sWTQjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Wr0nzwEACAAJ",
+      "etag": "qrgKvLW9sOw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Wr0nzwEACAAJ",
+      "volumeInfo": {
+        "title": "Mis memorias",
+        "authors": [
+          "Paco Pérez Guzmán"
+        ],
+        "publishedDate": "2021",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1309419779"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Wr0nzwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Wr0nzwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mis_memorias.html?hl=&id=Wr0nzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Wr0nzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C7g7zgEACAAJ",
+      "etag": "8+I3CglvHDg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C7g7zgEACAAJ",
+      "volumeInfo": {
+        "title": "A quienes aman el mundo",
+        "authors": [
+          "Paco Pérez Valencia"
+        ],
+        "publishedDate": "2019",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8409159996"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788409159994"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 146,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=C7g7zgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=C7g7zgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_quienes_aman_el_mundo.html?hl=&id=C7g7zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C7g7zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4J4KzQEACAAJ",
+      "etag": "RRv/iy3+gtc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4J4KzQEACAAJ",
+      "volumeInfo": {
+        "title": "El laberinto",
+        "authors": [
+          "Paco Pérez Belda"
+        ],
+        "publishedDate": "2017",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8494790102"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788494790102"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4J4KzQEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4J4KzQEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_laberinto.html?hl=&id=4J4KzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4J4KzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vDJaMwEACAAJ",
+      "etag": "xsl2/Ldx6dM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vDJaMwEACAAJ",
+      "volumeInfo": {
+        "title": "ABC Dario",
+        "authors": [
+          "Paco Pérez Belda"
+        ],
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8461476913"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788461476916"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vDJaMwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vDJaMwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/ABC_Dario.html?hl=&id=vDJaMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vDJaMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "P9CNoAEACAAJ",
+      "etag": "hIdYG2YP+48",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P9CNoAEACAAJ",
+      "volumeInfo": {
+        "title": "Alfamarca",
+        "authors": [
+          "Paco Pérez Belda"
+        ],
+        "publishedDate": "2013",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8494110586"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788494110580"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 57,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=P9CNoAEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=P9CNoAEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Alfamarca.html?hl=&id=P9CNoAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P9CNoAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oVQGfAEACAAJ",
+      "etag": "vL6p8Nmfk6U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oVQGfAEACAAJ",
+      "volumeInfo": {
+        "title": "Joven museografía",
+        "subtitle": "la exposición autoportante",
+        "authors": [
+          "Paco Pérez Valencia"
+        ],
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8497045580"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788497045582"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 127,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oVQGfAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oVQGfAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=oVQGfAEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=oVQGfAEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Joven_museograf%C3%ADa.html?hl=&id=oVQGfAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oVQGfAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Joven museografía&quot; plantea distintas variables para poder llevar la exposición hasta donde los canales oficiales no lo hacen."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gLOGzgEACAAJ",
+      "etag": "vqKJbJkNhuA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gLOGzgEACAAJ",
+      "volumeInfo": {
+        "title": "Por un hoy que mañana es ayer",
+        "authors": [
+          "Paco Pérez Belda"
+        ],
+        "publishedDate": "2020",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8412197046"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788412197044"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=gLOGzgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=gLOGzgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Por_un_hoy_que_ma%C3%B1ana_es_ayer.html?hl=&id=gLOGzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gLOGzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "D_EryAEACAAJ",
+      "etag": "1+CCHWGNvQ4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/D_EryAEACAAJ",
+      "volumeInfo": {
+        "title": "Panorama bajo el puente",
+        "authors": [
+          "Paco Pérez"
+        ],
+        "publishedDate": "2018",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8494824236"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788494824234"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 130,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=D_EryAEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=D_EryAEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Panorama_bajo_el_puente.html?hl=&id=D_EryAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=D_EryAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "29RAQwAACAAJ",
+      "etag": "g7qVrISx0/8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/29RAQwAACAAJ",
+      "volumeInfo": {
+        "title": "Por las selvas de mis nervios",
+        "authors": [
+          "Paco Pérez Valencia"
+        ],
+        "publishedDate": "2006",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:434365437"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=29RAQwAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=29RAQwAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Por_las_selvas_de_mis_nervios.html?hl=&id=29RAQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=29RAQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xPVVygEACAAJ",
+      "etag": "E0TPRcA4HNg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xPVVygEACAAJ",
+      "volumeInfo": {
+        "title": "Cuatro poetas",
+        "authors": [
+          "Raquel Bullón Acebes",
+          "Ezequías Blanco",
+          "Paco Pérez Belda",
+          "Alfonso Aguado Ortuño"
+        ],
+        "publishedDate": "2018",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8494861786"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788494861789"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 54,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=xPVVygEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=xPVVygEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuatro_poetas.html?hl=&id=xPVVygEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xPVVygEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "B1rY0AEACAAJ",
+      "etag": "eRUuvNvunhw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B1rY0AEACAAJ",
+      "volumeInfo": {
+        "title": "El dragón de metal",
+        "authors": [
+          "Paco Pérez"
+        ],
+        "publishedDate": "2023",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8412494148"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788412494143"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=B1rY0AEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=B1rY0AEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_drag%C3%B3n_de_metal.html?hl=&id=B1rY0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B1rY0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0Vv2SAAACAAJ",
+      "etag": "w9NYjvp6048",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0Vv2SAAACAAJ",
+      "volumeInfo": {
+        "title": "Entre la roca y el barro",
+        "authors": [
+          "Paco Pérez Mesa"
+        ],
+        "publishedDate": "1978",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432957402"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 12,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0Vv2SAAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0Vv2SAAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Entre_la_roca_y_el_barro.html?hl=&id=0Vv2SAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0Vv2SAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "15j_vQEACAAJ",
+      "etag": "hdjCTCq5rD8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/15j_vQEACAAJ",
+      "volumeInfo": {
+        "title": "Typoemas",
+        "authors": [
+          "Paco Pérez Belda"
+        ],
+        "publishedDate": "2017",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8494679554"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788494679551"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=15j_vQEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=15j_vQEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Typoemas.html?hl=&id=15j_vQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=15j_vQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xMSizwEACAAJ",
+      "etag": "/CaZMz9cS5E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xMSizwEACAAJ",
+      "volumeInfo": {
+        "title": "Andanzas de un piernas",
+        "authors": [
+          "Paco Pérez Galán"
+        ],
+        "publishedDate": "2022",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8411372545"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788411372541"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=xMSizwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=xMSizwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Andanzas_de_un_piernas.html?hl=&id=xMSizwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xMSizwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8NcPmQEACAAJ",
+      "etag": "3r2npb1V5xg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8NcPmQEACAAJ",
+      "volumeInfo": {
+        "title": "En gerundio en",
+        "authors": [
+          "Paco Pérez Belda"
+        ],
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8461523326"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788461523320"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8NcPmQEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8NcPmQEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/En_gerundio_en.html?hl=&id=8NcPmQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8NcPmQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ObBXQwAACAAJ",
+      "etag": "t2eVMWU/7DQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ObBXQwAACAAJ",
+      "volumeInfo": {
+        "title": "EL ARTE HABITADO (COLECCION EL MONTE)",
+        "authors": [
+          "Caja de Ahorros El Monte",
+          "Juan Luis Ravé Prieto",
+          "Juan Manuel Bonet",
+          "Fundación El Monte",
+          "Paco Pérez Valencia"
+        ],
+        "publishedDate": "2004-10",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8484551245"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788484551249"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 93,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ObBXQwAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ObBXQwAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/EL_ARTE_HABITADO_COLECCION_EL_MONTE.html?hl=&id=ObBXQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ObBXQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HZhFQwAACAAJ",
+      "etag": "IqOLQavOXlo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HZhFQwAACAAJ",
+      "volumeInfo": {
+        "title": "Cuidaré de ti",
+        "subtitle": "septiembre-octubre 2005",
+        "authors": [
+          "Paco Pérez Valencia",
+          "Fernando Martín Martín"
+        ],
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "846096762X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788460967620"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 178,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HZhFQwAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HZhFQwAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuidar%C3%A9_de_ti.html?hl=&id=HZhFQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HZhFQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gszvxgEACAAJ",
+      "etag": "zBLXX+TnPBQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gszvxgEACAAJ",
+      "volumeInfo": {
+        "title": "Rojo",
+        "subtitle": "(rojo-amarillo-lila)",
+        "authors": [
+          "Paco Pérez Belda"
+        ],
+        "publishedDate": "2018",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8494790196"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788494790195"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=gszvxgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=gszvxgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rojo.html?hl=&id=gszvxgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gszvxgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X0_2JwAACAAJ",
+      "etag": "V3ZJ9Q3w8zQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X0_2JwAACAAJ",
+      "volumeInfo": {
+        "title": "Paco Pérez-Dolz",
+        "subtitle": "el camí de l'ofici",
+        "authors": [
+          "Ferran Alberich Rodríguez",
+          "Paco Pérez-Dolz"
+        ],
+        "publishedDate": "2007",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8493975249"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788493975241"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 219,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=X0_2JwAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=X0_2JwAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Paco_P%C3%A9rez_Dolz.html?hl=&id=X0_2JwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X0_2JwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TvCHwwEACAAJ",
+      "etag": "uGB8+vrsMRI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TvCHwwEACAAJ",
+      "volumeInfo": {
+        "title": "Amarillo",
+        "subtitle": "(rojo-amarillo-lila)",
+        "authors": [
+          "Paco Pérez Belda"
+        ],
+        "publishedDate": "2018",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8494861700"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788494861703"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TvCHwwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TvCHwwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Amarillo.html?hl=&id=TvCHwwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TvCHwwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MYpdQwAACAAJ",
+      "etag": "wIaf0oOBbMw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MYpdQwAACAAJ",
+      "volumeInfo": {
+        "title": "El color, el tiempo de los ritmos",
+        "subtitle": "Espacio Escala : [del 30 de octubre al 28 de diciembre de 2008",
+        "authors": [
+          "Cajasol",
+          "Paco Pérez Valencia"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:433978448"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=MYpdQwAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=MYpdQwAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_color_el_tiempo_de_los_ritmos.html?hl=&id=MYpdQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MYpdQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lWokzgEACAAJ",
+      "etag": "wZhMB1srjmw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lWokzgEACAAJ",
+      "volumeInfo": {
+        "title": "Tener un buen plan",
+        "subtitle": "la hoja de ruta de toda colección : el plan museológico",
+        "authors": [
+          "Paco Pérez Valencia"
+        ],
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8417987681"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788417987688"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 94,
+        "printType": "BOOK",
+        "categories": [
+          "Museums"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lWokzgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lWokzgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tener_un_buen_plan.html?hl=&id=lWokzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lWokzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Q5KeswEACAAJ",
+      "etag": "J1Wo6XDEtmU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q5KeswEACAAJ",
+      "volumeInfo": {
+        "title": "EL OJO DE CRISTO, Crimen en el instituto",
+        "authors": [
+          "Paco Pérez"
+        ],
+        "publishedDate": "2014-07-11",
+        "description": "Alma, una chica de quince anos, sensiblepero impopular, esta enamorada de Cristian, el chico mas guapo del instituto.Corre el mes de septiembre, y el nuevo curso da comienzo en un dia lluvioso. El segundo dia declases, tiene lugar un crimen en el salon de actos, que gravita constantementesobre la vida de los personajes. Un rumor difundido en Facebook vincula aCristian y a su bellisima madre, Miriam, con el crimen, sugiriendo que susamarillos ojos son de vampiro. Enseguida, las sospechas recaen sobre la propia Alma. Para defenderse a si misma, y defender a Cristian, Alma solicita ayuda a Paquito, su mejor amigo y companero de clase, y detectiveaficionado. Sus pesquisas les llevan al origen del instituto. Alma y Paquito hallan un libro que desvelara elsecreto de la familia de Cristian...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "846865700X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788468657004"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 246,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Q5KeswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Q5KeswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Q5KeswEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Q5KeswEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/EL_OJO_DE_CRISTO_Crimen_en_el_instituto.html?hl=&id=Q5KeswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Q5KeswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Alma, una chica de quince años, sensiblepero impopular, está enamorada de Cristian, el chico más guapo del instituto.Corre el mes de septiembre, y el nuevo curso da comienzo en un día lluvioso."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VSe8MwEACAAJ",
+      "etag": "C5idn1Ph+so",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VSe8MwEACAAJ",
+      "volumeInfo": {
+        "title": "La misma mierda de siempre",
+        "authors": [
+          "Paco Pérez Valencia",
+          "Laura Acosta",
+          "Isabel Ignacio, Galería de Arte"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:796297066"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 6,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=VSe8MwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VSe8MwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_misma_mierda_de_siempre.html?hl=&id=VSe8MwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VSe8MwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "40sjswEACAAJ",
+      "etag": "2yrFxJDcVu8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/40sjswEACAAJ",
+      "volumeInfo": {
+        "title": "Prepo-propo-siciones",
+        "publishedDate": "2014",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8494305360"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788494305368"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 43,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=40sjswEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=40sjswEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Prepo_propo_siciones.html?hl=&id=40sjswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=40sjswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C7tVjwEACAAJ",
+      "etag": "f4Mhe5FuwoM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C7tVjwEACAAJ",
+      "volumeInfo": {
+        "title": "Me llamo Randy, y puedo cambiar el mundo",
+        "subtitle": "mi primer libro de inteligencia emocional",
+        "publishedDate": "2015",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8460658457"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788460658450"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=C7tVjwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=C7tVjwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Me_llamo_Randy_y_puedo_cambiar_el_mundo.html?hl=&id=C7tVjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C7tVjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0oi7PQAACAAJ",
+      "etag": "rI85tRXP4r8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0oi7PQAACAAJ",
+      "volumeInfo": {
+        "title": "ESCALA Colección",
+        "subtitle": "últimos lenguajes plásticos en la Colección El Monte",
+        "publishedDate": "2002",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8484550680"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788484550686"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 87,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0oi7PQAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0oi7PQAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/ESCALA_Colecci%C3%B3n.html?hl=&id=0oi7PQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0oi7PQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1zfNvQEACAAJ",
+      "etag": "e4GRIBIPW1M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1zfNvQEACAAJ",
+      "volumeInfo": {
+        "title": "Bailar a plena luz (para que todos me vean)",
+        "subtitle": "el pueblo que eligió ser feliz",
+        "authors": [
+          "Paco Pérez Valencia"
+        ],
+        "publishedDate": "2018",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1050767066"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1zfNvQEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1zfNvQEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bailar_a_plena_luz_para_que_todos_me_vea.html?hl=&id=1zfNvQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1zfNvQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5kbzzgEACAAJ",
+      "etag": "dr7+8/5HWRc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5kbzzgEACAAJ",
+      "volumeInfo": {
+        "title": "Isla Utopía",
+        "subtitle": "(obras náufragas)",
+        "publishedDate": "2021",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8409273349"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788409273348"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5kbzzgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5kbzzgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Isla_Utop%C3%ADa.html?hl=&id=5kbzzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5kbzzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Un alegato a la libertad. Despacio, así ha sido el camino que nos hemos visto obligados a transitar estos últimos meses, desde Marzo 2020 a Enero 2021."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "c_XM0AEACAAJ",
+      "etag": "PhWS3wOCsCc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/c_XM0AEACAAJ",
+      "volumeInfo": {
+        "title": "Gran atlas de la desorientación",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8410148706"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788410148703"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=c_XM0AEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=c_XM0AEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gran_atlas_de_la_desorientaci%C3%B3n.html?hl=&id=c_XM0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=c_XM0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ol6IzgEACAAJ",
+      "etag": "DyNPvbh4al8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ol6IzgEACAAJ",
+      "volumeInfo": {
+        "title": "Tonalidades",
+        "authors": [
+          "Paco Pérez Belda"
+        ],
+        "publishedDate": "2020",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8412116496"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788412116496"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Ol6IzgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Ol6IzgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tonalidades.html?hl=&id=Ol6IzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ol6IzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tLjdvQEACAAJ",
+      "etag": "xdxIWR3pjvI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tLjdvQEACAAJ",
+      "volumeInfo": {
+        "title": "Todo está muy negro",
+        "authors": [
+          "Paco Pérez Belda"
+        ],
+        "publishedDate": "2018",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8494790137"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788494790133"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tLjdvQEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=tLjdvQEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Todo_est%C3%A1_muy_negro.html?hl=&id=tLjdvQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tLjdvQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PztGzQEACAAJ",
+      "etag": "8djeOtbm0eE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PztGzQEACAAJ",
+      "volumeInfo": {
+        "title": "Lila",
+        "subtitle": "rojo-amarillo-lila",
+        "authors": [
+          "Paco Pérez Belda"
+        ],
+        "publishedDate": "2019",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8494861719"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788494861710"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PztGzQEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PztGzQEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lila.html?hl=&id=PztGzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PztGzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mns2mQEACAAJ",
+      "etag": "tBNSpYohDPw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mns2mQEACAAJ",
+      "volumeInfo": {
+        "title": "Ventana al recuerdo",
+        "subtitle": "Enredarte : programa de exposiones itinerantes en la provincia de Albacete",
+        "authors": [
+          "Paco Pérez"
+        ],
+        "publishedDate": "2012",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:828320506"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mns2mQEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mns2mQEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ventana_al_recuerdo.html?hl=&id=mns2mQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mns2mQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zXED0QEACAAJ",
+      "etag": "t8XCG31W/X0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zXED0QEACAAJ",
+      "volumeInfo": {
+        "title": "Palabras",
+        "authors": [
+          "Paco Pérez Belda"
+        ],
+        "publishedDate": "2023",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8412625854"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788412625851"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "ca",
+        "previewLink": "http://books.google.com.co/books?id=zXED0QEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=45&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zXED0QEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Palabras.html?hl=&id=zXED0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zXED0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hf1d0AEACAAJ",
+      "etag": "qUIJ+1toabw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hf1d0AEACAAJ",
+      "volumeInfo": {
+        "title": "Chema Rodríguez",
+        "subtitle": "Tercio de Quites",
+        "authors": [
+          "Chema Rodríguez"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1410073065"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hf1d0AEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=46&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hf1d0AEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Chema_Rodr%C3%ADguez.html?hl=&id=hf1d0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hf1d0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "74rntAEACAAJ",
+      "etag": "5FCCUqEr5q8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/74rntAEACAAJ",
+      "volumeInfo": {
+        "title": "El color, el tiempo de los ritmos",
+        "subtitle": "Espacio Escala : [del 30 de octubre al 28 de diciembre de 2008",
+        "authors": [
+          "Cajasol"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:733645704"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 77,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=74rntAEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=47&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=74rntAEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_color_el_tiempo_de_los_ritmos.html?hl=&id=74rntAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=74rntAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5OlmMwEACAAJ",
+      "etag": "CdZFIwVD8KA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5OlmMwEACAAJ",
+      "volumeInfo": {
+        "title": "Pim pam pim pam hasta el infinito",
+        "subtitle": "Galería Kaibide by García de Vinuesa",
+        "authors": [
+          "Paco Pérez Valencia",
+          "José Luis Jiménez Sequeiros",
+          "Galería Kaibide"
+        ],
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:776456001"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 45,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5OlmMwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=48&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5OlmMwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pim_pam_pim_pam_hasta_el_infinito.html?hl=&id=5OlmMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5OlmMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XdVCAgAACAAJ",
+      "etag": "sCfCbTvierg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XdVCAgAACAAJ",
+      "volumeInfo": {
+        "title": "Realidad o realismo",
+        "subtitle": "del 3 al 26 de septiembre de 1998, de lunes a viernes, de 10 a 14 horas y de 18 a 21, Centro Cultural La Asunción",
+        "authors": [
+          "Paco Pérez"
+        ],
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8489659362"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788489659360"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 63,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=XdVCAgAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=49&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=XdVCAgAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Realidad_o_realismo.html?hl=&id=XdVCAgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XdVCAgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JUvxwQEACAAJ",
+      "etag": "L1quxeKLD3g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JUvxwQEACAAJ",
+      "volumeInfo": {
+        "title": "Oleos",
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:434299629"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 13,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JUvxwQEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=50&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JUvxwQEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Oleos.html?hl=&id=JUvxwQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JUvxwQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wXvjjgEACAAJ",
+      "etag": "ZZBNvs8RBwk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wXvjjgEACAAJ",
+      "volumeInfo": {
+        "title": "Fotogramas",
+        "authors": [
+          "Paco Pérez Valencia",
+          "Alain Uceda"
+        ],
+        "publishedDate": "2015",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:927716446"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 60,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wXvjjgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=51&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wXvjjgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fotogramas.html?hl=&id=wXvjjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wXvjjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TYtCGQAACAAJ",
+      "etag": "9iG5K/U6PgY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TYtCGQAACAAJ",
+      "volumeInfo": {
+        "title": "La insurrección expositiva",
+        "subtitle": "cuando el montaje de exposiciones es creativo y divertido, cuando la exposición se convierte en una herramienta subversiva",
+        "authors": [
+          "Paco Pérez Valencia"
+        ],
+        "publishedDate": "2007-01-01",
+        "description": "A pesar de que su poder de atracción sigue intacto, la exposición es hoy un vehículo adormecido por la corrección, donde el espectador sufre habitualmente el «mal del visitante de museo», esto es, el aburrimiento. Todo ha cambiado. El entorno de las exposiciones ha vivido una auténtica transformación en los últimos veinticinco años, su puesta en escena ha recibido muchas innovaciones con la aportación de recursos creativos y tecnológicos, con la desinhibición en la escenificación de los objetos, integrándolos en el espacio o descontextualizándolos radicalmente, destacando a aquellos o al lugar que los recoge, buscando múltiples lecturas y miradas transversales. La exposición ha sobrepasado los límites que imponía el espacio ortodoxo museográfico hasta liberarse, y el público, profesional o no, demanda tales acontecimientos. Hablamos del hombre contemporáneo y seguimos trabajando para el espectador del siglo xix. Es una absurda paradoja. La exposición se banaliza en cuanto la ofrecemos como pensamos que será aplaudida por el público (contenido y forma). El riesgo nos incomoda por cuestiones de opinión, y es, precisamente, el factor más proclive a encontrar las fórmulas para romper con tanto aburrimiento. La museografía defendida en este tratado (al que han contribuido tanto la experiencia práctica de los montajes expositivos realizados por su autor como su propia actividad didáctica) es aquella que, desde el mayor de los respetos por la obra y su entorno, aspira a generar preguntas para espíritus inquietos, no a dar respuestas a pasivos mirones.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8497043014"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788497043014"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 206,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TYtCGQAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=52&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TYtCGQAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_insurrecci%C3%B3n_expositiva.html?hl=&id=TYtCGQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TYtCGQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A pesar de que su poder de atracción sigue intacto, la exposición es hoy un vehículo adormecido por la corrección, donde el espectador sufre habitualmente el «mal del visitante de museo», esto es, el aburrimiento."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "m5QSYAAACAAJ",
+      "etag": "zTmHB1vfFNk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m5QSYAAACAAJ",
+      "volumeInfo": {
+        "title": "Herramientas manchegas",
+        "authors": [
+          "Manuel Palazón Martí",
+          "Paco Pérez"
+        ],
+        "publishedDate": "2009",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:733856296"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=m5QSYAAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=53&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=m5QSYAAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Herramientas_manchegas.html?hl=&id=m5QSYAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m5QSYAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dW3HmgEACAAJ",
+      "etag": "j4CUhBvPYrk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dW3HmgEACAAJ",
+      "volumeInfo": {
+        "title": "Colección \"El Monte\", Caja de Huelva y",
+        "subtitle": "Sevilla",
+        "authors": [
+          "Fundación El Monte",
+          "Paco Pérez Valencia"
+        ],
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:434340595"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 379,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=dW3HmgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=54&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dW3HmgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Colecci%C3%B3n_El_Monte_Caja_de_Huelva_y.html?hl=&id=dW3HmgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dW3HmgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "12Mz0QEACAAJ",
+      "etag": "1FCy5/x+Xj4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/12Mz0QEACAAJ",
+      "volumeInfo": {
+        "title": "Paco Pérez Valencia",
+        "subtitle": "templado : Sala de Exposiciones de la Caja Castilla, del 16 al 30 de noviembre 1998",
+        "authors": [
+          "Paco Pérez Valencia"
+        ],
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1498330864"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=12Mz0QEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=55&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=12Mz0QEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Paco_P%C3%A9rez_Valencia.html?hl=&id=12Mz0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=12Mz0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NcXZXwAACAAJ",
+      "etag": "3i9Fq9YKqlQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NcXZXwAACAAJ",
+      "volumeInfo": {
+        "title": "Muebles??",
+        "subtitle": "Espacio Escala, [Sevilla, del 22 de enero al 15 de marzo de 2008",
+        "authors": [
+          "Cajasol Obra Social",
+          "Paco Pérez Valencia",
+          "Juan Luis Yáñez"
+        ],
+        "publishedDate": "2009",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:733642726"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 83,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=NcXZXwAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=56&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NcXZXwAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Muebles.html?hl=&id=NcXZXwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NcXZXwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DUTejgEACAAJ",
+      "etag": "qrHM/k5xls0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DUTejgEACAAJ",
+      "volumeInfo": {
+        "title": "Las técnicas museográficas y su aplicación en los espacios expositivos",
+        "subtitle": "representación y discurso de la obra plástica hoy : nuevas miradas",
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:929282905"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 444,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DUTejgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=57&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DUTejgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_t%C3%A9cnicas_museogr%C3%A1ficas_y_su_aplica.html?hl=&id=DUTejgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DUTejgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Xb2oQwAACAAJ",
+      "etag": "e2DerPpQz9U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Xb2oQwAACAAJ",
+      "volumeInfo": {
+        "title": "PEDRO CASTRORTEGA",
+        "authors": [
+          "Pedro Castrortega",
+          "Tomás Paredes",
+          "Paco Pérez Valencia",
+          "Museo Municipal López Villaseñor (Cuidad Real)",
+          "Museo Municipal de Valdepeñas",
+          "Auditorio de Puertollano"
+        ],
+        "publishedDate": "2002",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8484550699"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788484550693"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 86,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Xb2oQwAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=58&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Xb2oQwAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/PEDRO_CASTRORTEGA.html?hl=&id=Xb2oQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Xb2oQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3lUe0QEACAAJ",
+      "etag": "rUmZz/4SyO8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3lUe0QEACAAJ",
+      "volumeInfo": {
+        "title": "Paco Pérez Valencia",
+        "subtitle": "la misma mierda de siempre : [Exposición].",
+        "authors": [
+          "Paco Pérez Valencia"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1498343168"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=3lUe0QEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=59&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3lUe0QEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Paco_P%C3%A9rez_Valencia.html?hl=&id=3lUe0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3lUe0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KQa2jwEACAAJ",
+      "etag": "UlX/H9qYAFw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KQa2jwEACAAJ",
+      "volumeInfo": {
+        "title": "Historias particulares en blanco : [exposició] [Galería Isabel Ignacio, noviembre 1999]",
+        "authors": [
+          "Galería de Arte Isabel Ignacio (Sevilla)"
+        ],
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:920353750"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 25,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=KQa2jwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=60&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KQa2jwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historias_particulares_en_blanco_exposic.html?hl=&id=KQa2jwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KQa2jwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ibbEvQEACAAJ",
+      "etag": "tY/2oh0wzlA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ibbEvQEACAAJ",
+      "volumeInfo": {
+        "title": "Me queda la soberbia",
+        "subtitle": "MAD Antequera, 18 septiembre-19 noviembre 2017",
+        "authors": [
+          "Elías Bendodo Benasayag"
+        ],
+        "publishedDate": "2017",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1055856940"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 59,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ibbEvQEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=61&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ibbEvQEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Me_queda_la_soberbia.html?hl=&id=ibbEvQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ibbEvQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pojkoAEACAAJ",
+      "etag": "iSha5bz2Eqg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pojkoAEACAAJ",
+      "volumeInfo": {
+        "title": "alpha beta",
+        "subtitle": "alfa beto",
+        "authors": [
+          "Paco Pérez Belda"
+        ],
+        "publishedDate": "2013",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "849411056X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788494110566"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=pojkoAEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=62&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=pojkoAEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/alpha_beta.html?hl=&id=pojkoAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pojkoAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1t5FQwAACAAJ",
+      "etag": "iLMQLGbt6gE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1t5FQwAACAAJ",
+      "volumeInfo": {
+        "title": "Templado",
+        "subtitle": "del 16 al 30 de noviembre 1998, Sala de Exposiciones de la Caja Castilla-La Mancha, Albacete",
+        "authors": [
+          "Paco Pérez Valencia",
+          "Caja de Ahorros de Castilla La Mancha"
+        ],
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:433671406"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 42,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1t5FQwAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=63&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1t5FQwAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Templado.html?hl=&id=1t5FQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1t5FQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-QYbswEACAAJ",
+      "etag": "aTYY9RHiFGY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-QYbswEACAAJ",
+      "volumeInfo": {
+        "title": "Emes",
+        "subtitle": "caja de imágenes : [exposición] del 11 al 27 de abril de 2003, Sala Siglo XXI, Museo de Huelva",
+        "publishedDate": "2003*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:912238045"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 28,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=-QYbswEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=64&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-QYbswEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Emes.html?hl=&id=-QYbswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-QYbswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pbdBQwAACAAJ",
+      "etag": "fcmmIdu5JoI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pbdBQwAACAAJ",
+      "volumeInfo": {
+        "title": "Miradas paralelas",
+        "subtitle": "Sala de Exposiciones CAM, Benidorm, del 3 al 28 de marzo de 2000",
+        "authors": [
+          "Paco Pérez",
+          "Manuela Parreño"
+        ],
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:434312173"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=pbdBQwAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=65&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=pbdBQwAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Miradas_paralelas.html?hl=&id=pbdBQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pbdBQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EeQaogEACAAJ",
+      "etag": "X92SaCCt764",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EeQaogEACAAJ",
+      "volumeInfo": {
+        "title": "Lo imposible, lo inalcanzable",
+        "subtitle": "una exposición única solo puede ser contada de esta forma : agenda de la exposición, Palacio de Viana-Iglesia de la Magdalena del 4 al 28 de junio de 2014 Córdoba, España",
+        "authors": [
+          "Paco Pérez Valencia"
+        ],
+        "publishedDate": "2014",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8479597178"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788479597177"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EeQaogEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=66&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EeQaogEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lo_imposible_lo_inalcanzable.html?hl=&id=EeQaogEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EeQaogEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CjwhzgEACAAJ",
+      "etag": "IYFZI34FGog",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CjwhzgEACAAJ",
+      "volumeInfo": {
+        "title": "Miradas sobre Sevilla",
+        "subtitle": "mapas sensibles de la ciudad",
+        "publishedDate": "2019",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8409113791"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788409113798"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 82,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=CjwhzgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=67&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CjwhzgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Miradas_sobre_Sevilla.html?hl=&id=CjwhzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CjwhzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Miradas Sobre Sevilla es un proyecto que abandera otra forma de contar una ciudad, con jóvenes con otras capacidades, con disfunciones motoras o intelectuales, con ojos distintivos y auténticos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sByQnQEACAAJ",
+      "etag": "4th0Rszl4v8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sByQnQEACAAJ",
+      "volumeInfo": {
+        "title": "Manifiesto externo",
+        "subtitle": "[Sala de Exposiciones Casa de Cultura, Fuengirola, del 5 al 28 de diciembre de 2007]",
+        "authors": [
+          "Paco Pérez (Tirita.)",
+          "Casa de Cultura (Fuengirola)"
+        ],
+        "publishedDate": "2007",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:434393392"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=sByQnQEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=68&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=sByQnQEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifiesto_externo.html?hl=&id=sByQnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sByQnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rjCO0AEACAAJ",
+      "etag": "FXdmLEqySdA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rjCO0AEACAAJ",
+      "volumeInfo": {
+        "title": "Nuevo Mundo",
+        "publishedDate": "2022",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8447224104"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788447224104"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=rjCO0AEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=69&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rjCO0AEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nuevo_Mundo.html?hl=&id=rjCO0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rjCO0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GL0SjwEACAAJ",
+      "etag": "H1pdsVbLF68",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GL0SjwEACAAJ",
+      "volumeInfo": {
+        "title": "El lenguaje subjuntivo",
+        "subtitle": "exposición, Colección Cajasol : Espacio Escala, del 31 de enero al 15 de marzo de 2008",
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:929352907"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 71,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=GL0SjwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=70&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GL0SjwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_lenguaje_subjuntivo.html?hl=&id=GL0SjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GL0SjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DGQyQwAACAAJ",
+      "etag": "22vn10Mjmkc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DGQyQwAACAAJ",
+      "volumeInfo": {
+        "title": "Todo mi reino es de este mundo",
+        "subtitle": "Sevilla, septiembre 2007-junio 2008",
+        "authors": [
+          "Paco Pérez Valencia",
+          "José Luis Jiménez Sequeiros"
+        ],
+        "publishedDate": "2007",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:433388619"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 45,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DGQyQwAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=71&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DGQyQwAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Todo_mi_reino_es_de_este_mundo.html?hl=&id=DGQyQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DGQyQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7pcQywEACAAJ",
+      "etag": "Q7NbRl8C/b0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7pcQywEACAAJ",
+      "volumeInfo": {
+        "title": "Música y emociones",
+        "authors": [
+          "Paco Pérez Cañete"
+        ],
+        "publishedDate": "2010",
+        "description": "Este proyecto intenta mostrar la relación existente entre la música y las emociones que genera a los oyentes. Se analiza el origen de la música, sus principales características y como está relacionada con el cerebro y las sensaciones de las personas. Se definen diversos ámbitos en los que la música está presente y se aplica por su poder de influencia emocional, como el cine, la publicidad o la musicoterapia. Para confirmar la relación estudiada a lo largo del proyecto entre la música y las emociones se ha llevado a cabo una prueba práctica en la que se pueden observar, de manera objetiva, las diferentes sensaciones experimentadas por diversas personas al escuchar determinadas músicas con diferentes características musicales.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1120376792"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7pcQywEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=72&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7pcQywEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/M%C3%BAsica_y_emociones.html?hl=&id=7pcQywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7pcQywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Este proyecto intenta mostrar la relación existente entre la música y las emociones que genera a los oyentes."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0BvAzgEACAAJ",
+      "etag": "5zmj1eubQNY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0BvAzgEACAAJ",
+      "volumeInfo": {
+        "title": "El día que nos invadió Portugal",
+        "subtitle": "crónica negra de la pandemia en Vallekas",
+        "authors": [
+          "Paco Pérez"
+        ],
+        "publishedDate": "2021",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8494824295"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788494824296"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 202,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0BvAzgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=73&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0BvAzgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_d%C3%ADa_que_nos_invadi%C3%B3_Portugal.html?hl=&id=0BvAzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0BvAzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yyx2QwAACAAJ",
+      "etag": "gv/+s4uEPro",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yyx2QwAACAAJ",
+      "volumeInfo": {
+        "title": "Home sweet home",
+        "subtitle": "[mayo-junio 2006",
+        "authors": [
+          "Manuel Moreno Morales",
+          "Sema d' Acosta",
+          "Paco Pérez Valencia",
+          "Isabel Ignacio, Galería de Arte"
+        ],
+        "publishedDate": "2006",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:433938081"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 28,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=yyx2QwAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=74&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yyx2QwAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Home_sweet_home.html?hl=&id=yyx2QwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yyx2QwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ztlwQwAACAAJ",
+      "etag": "hhLe45IMuKM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ztlwQwAACAAJ",
+      "volumeInfo": {
+        "title": "Nostalgia",
+        "subtitle": "del 22 de febrero al 13 de marzo de 2005 : [Museo Municipal de Albacete]",
+        "authors": [
+          "Paco Pérez",
+          "Museo Municipal de Albacete"
+        ],
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:434338692"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ztlwQwAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=75&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ztlwQwAACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nostalgia.html?hl=&id=ztlwQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ztlwQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_uAT0AEACAAJ",
+      "etag": "79dA4BMNotA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_uAT0AEACAAJ",
+      "volumeInfo": {
+        "title": "Melsa",
+        "authors": [
+          "Paco Pérez Belda"
+        ],
+        "publishedDate": "2022",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8412591984"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788412591989"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_uAT0AEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=76&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_uAT0AEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Melsa.html?hl=&id=_uAT0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_uAT0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-PoAoQEACAAJ",
+      "etag": "Ulw9ywguwF4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-PoAoQEACAAJ",
+      "volumeInfo": {
+        "title": "Amb blau",
+        "authors": [
+          "Paco Pérez Belda"
+        ],
+        "publishedDate": "2013",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8494110500"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788494110504"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "ca",
+        "previewLink": "http://books.google.com.co/books?id=-PoAoQEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=77&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-PoAoQEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Amb_blau.html?hl=&id=-PoAoQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-PoAoQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RpSFzgEACAAJ",
+      "etag": "sCKoaTRgyV0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RpSFzgEACAAJ",
+      "volumeInfo": {
+        "title": "Asterisco",
+        "authors": [
+          "Paco Pérez Belda"
+        ],
+        "publishedDate": "2020",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8412197038"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788412197037"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RpSFzgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=78&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RpSFzgEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Asterisco.html?hl=&id=RpSFzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RpSFzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eZ02mQEACAAJ",
+      "etag": "p26lWgsU8g8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eZ02mQEACAAJ",
+      "volumeInfo": {
+        "title": "Bombers de Palma",
+        "authors": [
+          "Rafel Bonnín",
+          "Paco Pérez"
+        ],
+        "publishedDate": "2009",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8475356338"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788475356334"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 398,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=eZ02mQEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=79&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eZ02mQEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bombers_de_Palma.html?hl=&id=eZ02mQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eZ02mQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4NSSwwEACAAJ",
+      "etag": "UPe0GfGdtT8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4NSSwwEACAAJ",
+      "volumeInfo": {
+        "title": "Taller paraules",
+        "authors": [
+          "Miquel Martínez i Càrpio",
+          "Paco Pérez Belda",
+          "Salvador Pérez Estors"
+        ],
+        "publishedDate": "2018",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8494861743"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788494861741"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 46,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "ca",
+        "previewLink": "http://books.google.com.co/books?id=4NSSwwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&cd=80&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4NSSwwEACAAJ&dq=inauthor:%22Paco+P%C3%A9rez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Taller_paraules.html?hl=&id=4NSSwwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4NSSwwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

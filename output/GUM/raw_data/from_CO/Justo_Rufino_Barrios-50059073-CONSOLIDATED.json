@@ -1,0 +1,3683 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Justo%20Rufino%20Barrios\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Justo%20Rufino%20Barrios\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Justo%20Rufino%20Barrios\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Justo%20Rufino%20Barrios\"&maxResults=20&startIndex=40&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Justo%20Rufino%20Barrios\"&maxResults=20&startIndex=60&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Justo%20Rufino%20Barrios\"&maxResults=4&startIndex=60&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 64,
+  "_totalRequestsMade": 4,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "BvQ8AQAAIAAJ",
+      "etag": "8IJMtiHpNHE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BvQ8AQAAIAAJ",
+      "volumeInfo": {
+        "title": "Carta que el jeneral J. Rufino Barrios, presidente constitucional de la republica de Guatemala, dirije a sus amigos del partido liberal de Central America, con motivo de los trabajos sobre la union de estas repúblicas",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105048912559"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BvQ8AQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BvQ8AQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BvQ8AQAAIAAJ&printsec=frontcover&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=BvQ8AQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BvQ8AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=BvQ8AQAAIAAJ&rdid=book-BvQ8AQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Carta_que_el_jeneral_J_Rufino_Barrios_pr.epub?id=BvQ8AQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Carta_que_el_jeneral_J_Rufino_Barrios_pr.pdf?id=BvQ8AQAAIAAJ&hl=&output=pdf&sig=ACfU3U0fe8SIYYFvM7Qg6VJnu1j_hyjibg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BvQ8AQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Be1qAAAAMAAJ",
+      "etag": "BfCCEslVtN0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Be1qAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Carta dirijda [i.e. dirijida] por el doctor Marco A. Soto al señor jeneral presidente don J. Rufino Barrios, y contestación a ella",
+        "authors": [
+          "Marco Aurelio Soto"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018227372"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Be1qAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Be1qAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Be1qAAAAMAAJ&printsec=frontcover&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Be1qAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Be1qAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Be1qAAAAMAAJ&rdid=book-Be1qAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Carta_dirijda_i_e_dirijida_por_el_doctor.epub?id=Be1qAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Carta_dirijda_i_e_dirijida_por_el_doctor.pdf?id=Be1qAAAAMAAJ&hl=&output=pdf&sig=ACfU3U0_bN1fVdFU1_exCMik-GxHhTEUlA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Be1qAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LIFRAQAAIAAJ",
+      "etag": "Dhefr26km+4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LIFRAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Mensaje con que el Presidente Constitucional de la República Jeneral J. Rufino Barrios da cuenta á la Asamblea Nacional del arreglo de la cuestión de límites con México",
+        "authors": [
+          "Guatemala. President (1873-1885 : Barrios)",
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105064194231"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LIFRAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LIFRAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=LIFRAQAAIAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LIFRAQAAIAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_con_que_el_Presidente_Constituci.html?hl=&id=LIFRAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LIFRAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hu81AQAAMAAJ",
+      "etag": "5BZKganFxjA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hu81AQAAMAAJ",
+      "volumeInfo": {
+        "title": "Censo general de la republica de Guatemala, levantado [en] el año de 1880",
+        "authors": [
+          "Guatemala. Dirección General de Estadística"
+        ],
+        "publishedDate": "1881",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCLA:L0063468789"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 546,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hu81AQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hu81AQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hu81AQAAMAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hu81AQAAMAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Censo_general_de_la_republica_de_Guatema.html?hl=&id=hu81AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hu81AQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rV3mMgEACAAJ",
+      "etag": "Jz+hMpKm0kI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rV3mMgEACAAJ",
+      "volumeInfo": {
+        "title": "Biografia del General Justo Rufino Barrios ... Recopilación histórica y documentada, etc",
+        "authors": [
+          "Casimiro D. RUBIO",
+          "Justo RUFINO BARRIOS",
+          "Guatemala. Policía Nacional"
+        ],
+        "publishedDate": "1935",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:503931826"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 664,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=rV3mMgEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rV3mMgEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Biografia_del_General_Justo_Rufino_Barri.html?hl=&id=rV3mMgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rV3mMgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VjopMwEACAAJ",
+      "etag": "lDhhXHjvzQE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VjopMwEACAAJ",
+      "volumeInfo": {
+        "title": "El Partido Liberal Está en Pie. Su Homenaje Ante la Tumba Del Reformador de Guatemala Y Mártir de la Unión Centroamericana, General Justo Rufino Barrios, El 2 de Abril 1927 ... 19 de Julio de 1835-19 de Julio de 1927",
+        "authors": [
+          "Partido Liberal Progresista (Guatemala)",
+          "Justo RUFINO BARRIOS"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:504766998"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=VjopMwEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VjopMwEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Partido_Liberal_Est%C3%A1_en_Pie_Su_Homen.html?hl=&id=VjopMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VjopMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OrrtPQAACAAJ",
+      "etag": "HloV2FwdLcQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OrrtPQAACAAJ",
+      "volumeInfo": {
+        "title": "Al ciudadano José Rufino Barrios, Mayor General del Ejército Libertador",
+        "authors": [
+          "Pueblo Guatemalteco",
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21618961"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=OrrtPQAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=OrrtPQAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Al_ciudadano_Jos%C3%A9_Rufino_Barrios_Mayor.html?hl=&id=OrrtPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OrrtPQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0ocbHAAACAAJ",
+      "etag": "wfDX76lb4Iw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0ocbHAAACAAJ",
+      "volumeInfo": {
+        "title": "José Rufino Barrios, Mayor General del Ejército Libertador, al Ejército i al pueblo guatemalteco",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21746233"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0ocbHAAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0ocbHAAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jos%C3%A9_Rufino_Barrios_Mayor_General_del_E.html?hl=&id=0ocbHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0ocbHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wuF-PQAACAAJ",
+      "etag": "ctww6RilXO8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wuF-PQAACAAJ",
+      "volumeInfo": {
+        "title": "Al ciudadano Jeneral José Rufino Barrios, Mayor Jeneral del Ejército Libertador",
+        "authors": [
+          "Vuestros Compatriotas",
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21706772"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wuF-PQAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wuF-PQAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Al_ciudadano_Jeneral_Jos%C3%A9_Rufino_Barrio.html?hl=&id=wuF-PQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wuF-PQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1nrxSAAACAAJ",
+      "etag": "oIR8x1znSV8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1nrxSAAACAAJ",
+      "volumeInfo": {
+        "title": "Esposición del Jeneral J. Rufino Barrios a la Asamblea Nacional renunciando a la Presidencia de la República, Diciembre 20 de 1882",
+        "authors": [
+          "Guatemala Presidente",
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:553879374"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 14,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1nrxSAAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1nrxSAAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Esposici%C3%B3n_del_Jeneral_J_Rufino_Barrios.html?hl=&id=1nrxSAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1nrxSAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "T-4xQwAACAAJ",
+      "etag": "sXtNnQvtsvo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/T-4xQwAACAAJ",
+      "volumeInfo": {
+        "title": "Carta dirijida [sic] por el Doctor Marco A. Soto al Señor Jeneral [sic] Presidente Don J. Rufino Barrios y contestación á ella",
+        "authors": [
+          "Marco Antonio Soto",
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432836967"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=T-4xQwAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=T-4xQwAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_dirijida_sic_por_el_Doctor_Marco_A.html?hl=&id=T-4xQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=T-4xQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tBhTYAAACAAJ",
+      "etag": "mJ/9xLHUvxQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tBhTYAAACAAJ",
+      "volumeInfo": {
+        "title": "Documentos relativos a la elección popular para la Presidencia Constitucional de la República en la persona del general J. Rufino Barrios",
+        "subtitle": "Renuncia del Jral. Barrios y repetida denegación de la Asamblea Lejislativa. Toma de posesión y manifiesto del Presidente Constitucional a los guatemaltecos",
+        "authors": [
+          "Guatemala Asamblea Legislativa",
+          "Guatemala Presidente (1873-1885: Barrios)"
+        ],
+        "publishedDate": "1880",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:733599043"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tBhTYAAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=tBhTYAAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Documentos_relativos_a_la_elecci%C3%B3n_popu.html?hl=&id=tBhTYAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tBhTYAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jtLJpwAACAAJ",
+      "etag": "3yZ25z/FrD4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jtLJpwAACAAJ",
+      "volumeInfo": {
+        "title": "J. Rufino Barrios",
+        "subtitle": "jeneral de división y supremo jefe militar de la Unión de Centro-América, los centro-americanos ...",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1885*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:20031639"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 6,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jtLJpwAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jtLJpwAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/J_Rufino_Barrios.html?hl=&id=jtLJpwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jtLJpwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nx8OswEACAAJ",
+      "etag": "mgL4ZZbqOXI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nx8OswEACAAJ",
+      "volumeInfo": {
+        "title": "El jeneral presidente J. Rufino Barrios, a los habitantes de la república",
+        "publishedDate": "1877",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:910559156"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nx8OswEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nx8OswEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_jeneral_presidente_J_Rufino_Barrios_a.html?hl=&id=nx8OswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nx8OswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qKzZPQAACAAJ",
+      "etag": "d2Ci+2OPyrg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qKzZPQAACAAJ",
+      "volumeInfo": {
+        "title": "José Rufino Barrios, al pueblo de Guatemala",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21618974"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qKzZPQAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qKzZPQAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jos%C3%A9_Rufino_Barrios_al_pueblo_de_Guatem.html?hl=&id=qKzZPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qKzZPQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zMSEtgAACAAJ",
+      "etag": "DzJZQCHMF9M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zMSEtgAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que el Presidente Constitucional de la República de Guatemala, Jeneral J. Rufino Barrios, dirije á la Asamblea Nacional Legislativa",
+        "subtitle": "al abrir sus sesiones ordinarias del quinto año del primer período constitucional, el día 1o. de marzo de 1884",
+        "authors": [
+          "Guatemala. President (1873-1885 : Barrios)"
+        ],
+        "publishedDate": "1884",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12428128"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 23,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=zMSEtgAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zMSEtgAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_Presidente_Constitucional.html?hl=&id=zMSEtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zMSEtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YYqUtgAACAAJ",
+      "etag": "seD1zGyZFWE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YYqUtgAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que el Presidente Constitucional de la República Jeneral J. Rufino Barrios dirige á la Asamblea Nacional Legislativa",
+        "subtitle": "al abrir sus sesiones extraordinarias el día 5 de octubre de 1883",
+        "authors": [
+          "Guatemala. President (1873-1885 : Barrios)"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12428008"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 4,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YYqUtgAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YYqUtgAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_Presidente_Constitucional.html?hl=&id=YYqUtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YYqUtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "doCZPgAACAAJ",
+      "etag": "SKzq+clVhQA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/doCZPgAACAAJ",
+      "volumeInfo": {
+        "title": "Esposición del Jeneral J. Rufino Barrios a la Asamblea Nacional renunciando a la Presindencia de la República",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:20031680"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 14,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=doCZPgAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=doCZPgAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Esposici%C3%B3n_del_Jeneral_J_Rufino_Barrios.html?hl=&id=doCZPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=doCZPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6NHPGwAACAAJ",
+      "etag": "ANgrwdhrE3g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6NHPGwAACAAJ",
+      "volumeInfo": {
+        "title": "Carta del general Justo Rufino Barrios al doctor Marco Aurelio Soto",
+        "authors": [
+          "Justo Rufino Barrios",
+          "Marco Aurelio Soto"
+        ],
+        "publishedDate": "1883*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:20031591"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 6,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6NHPGwAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6NHPGwAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_del_general_Justo_Rufino_Barrios_a.html?hl=&id=6NHPGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6NHPGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SmQRtAEACAAJ",
+      "etag": "mK/YNJbvVpI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SmQRtAEACAAJ",
+      "volumeInfo": {
+        "title": "J. Rufino Barrios, Presidente Constitucional de la República de Guatemala, a sus conciudadanos",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1880",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:982380798"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 3,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SmQRtAEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SmQRtAEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/J_Rufino_Barrios_Presidente_Constitucion.html?hl=&id=SmQRtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SmQRtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2UNbngEACAAJ",
+      "etag": "msuf+yHe8e8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2UNbngEACAAJ",
+      "volumeInfo": {
+        "title": "Teniendo por objeto las fiestas públicas preparadas para el miércoles próximo celebrar el cumple-años del Jeneral J. Rufino Bárrios...",
+        "authors": [
+          "Díaz Mérida",
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:854893547"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2UNbngEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2UNbngEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Teniendo_por_objeto_las_fiestas_p%C3%BAblica.html?hl=&id=2UNbngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2UNbngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "24jWPAAACAAJ",
+      "etag": "lM6Xp99OAN0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/24jWPAAACAAJ",
+      "volumeInfo": {
+        "title": "Esposición del jeneral J. Rufino Barrios a la Asamblea Nacional renunciando a la presidencia de la República",
+        "subtitle": "Diciembre 29 de 1882",
+        "authors": [
+          "Guatemala. President (1873-1885 : Barrios)"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:11460049"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 14,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=24jWPAAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=24jWPAAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Esposici%C3%B3n_del_jeneral_J_Rufino_Barrios.html?hl=&id=24jWPAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=24jWPAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "l7XDtgAACAAJ",
+      "etag": "IweDLD4EhCM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/l7XDtgAACAAJ",
+      "volumeInfo": {
+        "title": "Mensage que el Jeneral Presidente de la República de Guatemala, J. Rufino Barrios dirige á la Asamblea Nacional Lejislativa",
+        "subtitle": "al abrir sus sesiones ordinarias del tercer año del primer período constitucional el 1o. de marzo de 1882",
+        "authors": [
+          "Guatemala. President (1873-1885 : Barrios)"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12483821"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=l7XDtgAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=l7XDtgAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensage_que_el_Jeneral_Presidente_de_la.html?hl=&id=l7XDtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=l7XDtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Y0SAAQAACAAJ",
+      "etag": "vw/Dae4kT60",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Y0SAAQAACAAJ",
+      "volumeInfo": {
+        "title": "J. Rufino Barrios, a los guatemaltecos",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:965917804"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Y0SAAQAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Y0SAAQAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/J_Rufino_Barrios_a_los_guatemaltecos.html?hl=&id=Y0SAAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Y0SAAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K_WNtgAACAAJ",
+      "etag": "9pSCJExc4h4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K_WNtgAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que el Jeneral Presidente de la República de Guatemala, J. Rufino Barrios dirige á la Asamblea Nacional Legislativa",
+        "subtitle": "al abrir sus sesiones ordinarias del cuarto año del primer período constitucional. El día 1o. de marzo de 1883",
+        "authors": [
+          "Guatemala. President (1873-1885 : Barrios)"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12483805"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 6,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=K_WNtgAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=K_WNtgAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_Jeneral_Presidente_de_la.html?hl=&id=K_WNtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K_WNtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7oGGtgAACAAJ",
+      "etag": "JrfBXJOS9sc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7oGGtgAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que el Jeneral Presidente de la República de Guatemala J. Rufino Barrios dirije á la Asamblea Nacional Constituyente instalada en 15 de marzo de 1879",
+        "authors": [
+          "Guatemala. President (1873-1885 : Barrios)"
+        ],
+        "publishedDate": "1879",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12483853"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 14,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7oGGtgAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7oGGtgAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_Jeneral_Presidente_de_la.html?hl=&id=7oGGtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7oGGtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lBDMtQEACAAJ",
+      "etag": "2g99YGvSYLo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lBDMtQEACAAJ",
+      "volumeInfo": {
+        "title": "J. Rufino Barrios, jeneral de división y presidente constitutional de la república de Guatemala",
+        "subtitle": "A los guatemaltecos",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1028749920"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "categories": [
+          "Railroads"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lBDMtQEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lBDMtQEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/J_Rufino_Barrios_jeneral_de_divisi%C3%B3n_y.html?hl=&id=lBDMtQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lBDMtQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QytSAQAACAAJ",
+      "etag": "2QHUPQcndKo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QytSAQAACAAJ",
+      "volumeInfo": {
+        "title": "A los gefes oficiales y soldados del ejército de occidente",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1873",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:962416067"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=QytSAQAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=QytSAQAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_los_gefes_oficiales_y_soldados_del_ej.html?hl=&id=QytSAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QytSAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ihuwPQAACAAJ",
+      "etag": "G1cphm6W6UQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ihuwPQAACAAJ",
+      "volumeInfo": {
+        "title": "Carta que el jeneral J. Rufino Barrios, presidente constitucional de la República de Guatemala, dirige a sus amigos del Partido Liberal de Centro América",
+        "subtitle": "con motivo de los trabajos sobre la unión de estas Repúblicas",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:11514029"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ihuwPQAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ihuwPQAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_que_el_jeneral_J_Rufino_Barrios_pr.html?hl=&id=ihuwPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ihuwPQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4vSNtgAACAAJ",
+      "etag": "eX6ieZm3Vk0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4vSNtgAACAAJ",
+      "volumeInfo": {
+        "title": "Mensage que el Jral. Presidente de la República de Guatemala, J. Rufino Barrios dirije á la Asamblea Nacional Legislativa instalada el 1o. de marzo de 1880",
+        "authors": [
+          "Guatemala. President (1873-1885 : Barrios)"
+        ],
+        "publishedDate": "1880",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12429376"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 9,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4vSNtgAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4vSNtgAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensage_que_el_Jral_Presidente_de_la_Rep.html?hl=&id=4vSNtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4vSNtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gaFEswEACAAJ",
+      "etag": "jZBBt7EmkLo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gaFEswEACAAJ",
+      "volumeInfo": {
+        "title": "A los habitantes de la República",
+        "subtitle": "conocido es ya de todos el horrible atentado...",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1884",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:982380794"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 4,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=gaFEswEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=gaFEswEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_los_habitantes_de_la_Rep%C3%BAblica.html?hl=&id=gaFEswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gaFEswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oEdOHQAACAAJ",
+      "etag": "Qh8Q5uME8o0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oEdOHQAACAAJ",
+      "volumeInfo": {
+        "title": "Viva la República de Centro-América!",
+        "subtitle": "J. Rufino Barrios, jeneral de división y presidente de la República de Guatemala, considerando ...",
+        "authors": [
+          "Guatemala"
+        ],
+        "publishedDate": "1885",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:36886691"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 9,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=oEdOHQAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=oEdOHQAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Viva_la_Rep%C3%BAblica_de_Centro_Am%C3%A9rica.html?hl=&id=oEdOHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oEdOHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p8LCtQEACAAJ",
+      "etag": "rlcqF7Uz4AE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p8LCtQEACAAJ",
+      "volumeInfo": {
+        "title": "J. Rufino Barrios, Jeneral de Division y Supremo Jefe Militar de la Union de Centro-America, a lost centro americanos",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1885",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1028750396"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Central America (Federal Republic)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=p8LCtQEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=p8LCtQEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/J_Rufino_Barrios_Jeneral_de_Division_y_S.html?hl=&id=p8LCtQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p8LCtQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "l00UtwAACAAJ",
+      "etag": "NxVZ2rXm9qA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/l00UtwAACAAJ",
+      "volumeInfo": {
+        "title": "A sus conciudadanos...",
+        "subtitle": "J. Rufino Barrios",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1872",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:759869665"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Exclaustration"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=l00UtwAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=l00UtwAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_sus_conciudadanos.html?hl=&id=l00UtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=l00UtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vPvCtQEACAAJ",
+      "etag": "2bWipI0tOlA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vPvCtQEACAAJ",
+      "volumeInfo": {
+        "title": "J. Rufino Barrios, Jeneral de División y Presidente Constitucional de la República de Guatemala, a sus conciudadanos...",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1028749923"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 4,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vPvCtQEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vPvCtQEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/J_Rufino_Barrios_Jeneral_de_Divisi%C3%B3n_y.html?hl=&id=vPvCtQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vPvCtQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8YlczgEACAAJ",
+      "etag": "wp3texwmtKU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8YlczgEACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que el Presidente de la Republica de Guatemala... dirige a la Asamblea Nacional legislativa al abris sus sesiones ordinarias del cuarto año del primer período constitucional",
+        "subtitle": "El dia 1° de Marzo do 1883",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1243942152"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8YlczgEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8YlczgEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_Presidente_de_la_Republic.html?hl=&id=8YlczgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8YlczgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "koFsAQAACAAJ",
+      "etag": "yVhzwG9YMZ0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/koFsAQAACAAJ",
+      "volumeInfo": {
+        "title": "El Señor Jeneral Presidente de la República ha tenido á bien emitir el siguiente Decreto Núm. 112",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1874",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:963854227"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=koFsAQAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=koFsAQAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Se%C3%B1or_Jeneral_Presidente_de_la_Rep%C3%BA.html?hl=&id=koFsAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=koFsAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GbZbtwAACAAJ",
+      "etag": "HU8eu8boA24",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GbZbtwAACAAJ",
+      "volumeInfo": {
+        "title": "Nosotros los representantes de la República de Gautemala...",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1879",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:759617719"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GbZbtwAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GbZbtwAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nosotros_los_representantes_de_la_Rep%C3%BAb.html?hl=&id=GbZbtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GbZbtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Cr9gzgEACAAJ",
+      "etag": "5q38ReRw7No",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Cr9gzgEACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que el jeneral presidente de la República de Guatemala... dirije a la Asamblea Nacional constituyente instalada en 15 de marzo de 1879",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1879",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1243942627"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 14,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Cr9gzgEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Cr9gzgEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_el_jeneral_presidente_de_la.html?hl=&id=Cr9gzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Cr9gzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tLlczgEACAAJ",
+      "etag": "iS/G4Mpxo7Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tLlczgEACAAJ",
+      "volumeInfo": {
+        "title": "Corta que el Jeneral J. Rufino Barrios, Presidente Constitucional de la República de Guatemala, dirije á sus amigos del partido liberal de Centro-América, con motivo de los trabajos sobre la union de estas repúblicas",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1243942640"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tLlczgEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=tLlczgEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Corta_que_el_Jeneral_J_Rufino_Barrios_Pr.html?hl=&id=tLlczgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tLlczgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X43QtgAACAAJ",
+      "etag": "DK+pzIvFMfA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X43QtgAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje y memoria que el Presidente de la República de Guatemala, General don J. Rufino Barrios dirije á la Asamblea Nacional Constituyente instalada en 11 de setiembre de 1876",
+        "authors": [
+          "Guatemala. President (1873-1885 : Barrios)"
+        ],
+        "publishedDate": "1876",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:13370986"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 73,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=X43QtgAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=X43QtgAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_y_memoria_que_el_Presidente_de_l.html?hl=&id=X43QtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X43QtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1BSsjwEACAAJ",
+      "etag": "1BSDZj7VfY4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1BSsjwEACAAJ",
+      "volumeInfo": {
+        "title": "J. Rufino Barrios, presidente de la república de Guatemala, y jeneral en jefe del ejército, a las fuerzas espedicionarias",
+        "publishedDate": "1876",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:936210945"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1BSsjwEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1BSsjwEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/J_Rufino_Barrios_presidente_de_la_rep%C3%BAb.html?hl=&id=1BSsjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1BSsjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Zrd0AQAACAAJ",
+      "etag": "z+52HE6ej/A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Zrd0AQAACAAJ",
+      "volumeInfo": {
+        "title": "División expedicionaria",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:963854058"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Zrd0AQAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Zrd0AQAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Divisi%C3%B3n_expedicionaria.html?hl=&id=Zrd0AQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Zrd0AQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7PtqGwAACAAJ",
+      "etag": "scU9LEVSfnk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7PtqGwAACAAJ",
+      "volumeInfo": {
+        "title": "Conclusión de la guerra",
+        "subtitle": "La paz firmada en Chalchuapa",
+        "authors": [
+          "Justo Rufino Barrios",
+          "José López Uraga"
+        ],
+        "publishedDate": "1876",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:14345546"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "categories": [
+          "Chalchuapa, Agreement of"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7PtqGwAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7PtqGwAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Conclusi%C3%B3n_de_la_guerra.html?hl=&id=7PtqGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7PtqGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4VJ_AQAACAAJ",
+      "etag": "oMtAAMjG55g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4VJ_AQAACAAJ",
+      "volumeInfo": {
+        "title": "Sres. Ministros Encargados del Poder Ejecutivo",
+        "subtitle": "Las ocupaciones consiguientes a los sucesos de armas ocurridos en los dias 23 i 24 del que rije....",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:963853638"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4VJ_AQAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=45&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4VJ_AQAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sres_Ministros_Encargados_del_Poder_Ejec.html?hl=&id=4VJ_AQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4VJ_AQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RptbzgEACAAJ",
+      "etag": "Qaj5a2jNu40",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RptbzgEACAAJ",
+      "volumeInfo": {
+        "title": "Mensage que el Jral",
+        "subtitle": "Presidente de la República de Guatemala, dirije á la Asamblea Nacional Legislativa instalada el 1° de Marzo de 1880",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1880",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1243942243"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 9,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RptbzgEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=46&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RptbzgEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensage_que_el_Jral.html?hl=&id=RptbzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RptbzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uAuOkgAACAAJ",
+      "etag": "MOboQOxP8m4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uAuOkgAACAAJ",
+      "volumeInfo": {
+        "title": "Carta del general J. Rufino Barrios",
+        "subtitle": "de 24 de febrero de 1883",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:21001427"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=uAuOkgAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=47&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=uAuOkgAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_del_general_J_Rufino_Barrios.html?hl=&id=uAuOkgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uAuOkgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8wy7tgAACAAJ",
+      "etag": "J2l3PjObWWQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8wy7tgAACAAJ",
+      "volumeInfo": {
+        "title": "Mensage que el Jeneral Presidente de la República de Guatemala J. Rufino Barrios dirije á la Asamblea Nacional Lejislativa",
+        "subtitle": "al abrir sus sesiones ordinarias del segundo año del primer período constitucional, el 1o. de marzo de 1881",
+        "authors": [
+          "Guatemala. President (1873-1885 : Barrios)"
+        ],
+        "publishedDate": "1881",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12483840"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 6,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8wy7tgAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=48&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8wy7tgAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensage_que_el_Jeneral_Presidente_de_la.html?hl=&id=8wy7tgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8wy7tgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KGdbzgEACAAJ",
+      "etag": "L350Z6nxwrA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KGdbzgEACAAJ",
+      "volumeInfo": {
+        "title": "Ley organica y reglamentaria de Instruccion Pública decretada en 13 de Diciembre de 1879",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1880",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1243942009"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 78,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=KGdbzgEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=49&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KGdbzgEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ley_organica_y_reglamentaria_de_Instrucc.html?hl=&id=KGdbzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KGdbzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7iSrAQAACAAJ",
+      "etag": "GsbBqY2OhxU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7iSrAQAACAAJ",
+      "volumeInfo": {
+        "title": "Conciudadanos",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1872",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:963854059"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Extremists"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7iSrAQAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=50&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7iSrAQAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Conciudadanos.html?hl=&id=7iSrAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7iSrAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EdCePQAACAAJ",
+      "etag": "2Qm/tX5Uwpc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EdCePQAACAAJ",
+      "volumeInfo": {
+        "title": "Proclama",
+        "subtitle": "al Sr. Presidente, y al Señor General Ciudadano José Rufino Barrios jefes y ejercito de su mando despues de saludar á US con todo el respeto devido ...",
+        "authors": [
+          "Martín Trejo",
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21706903"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EdCePQAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=51&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EdCePQAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Proclama.html?hl=&id=EdCePQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EdCePQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6snPGwAACAAJ",
+      "etag": "dcH6ONnza00",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6snPGwAACAAJ",
+      "volumeInfo": {
+        "title": "Reproducciones para la historia",
+        "authors": [
+          "Unos patriotas",
+          "Santiago González",
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1887",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651472471"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6snPGwAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=52&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6snPGwAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Reproducciones_para_la_historia.html?hl=&id=6snPGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6snPGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3XlgzgEACAAJ",
+      "etag": "uQJUqiJZ9Nc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3XlgzgEACAAJ",
+      "volumeInfo": {
+        "title": "Mensage que el jeneral presidente do lo República de Guatemala... dirije a la Asamblea Nacional Legislativa... el 1° de Marzo de 1881",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1881",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1243942633"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3XlgzgEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=53&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3XlgzgEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensage_que_el_jeneral_presidente_do_lo.html?hl=&id=3XlgzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3XlgzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KO6EHAAACAAJ",
+      "etag": "1W/paKaHrJw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KO6EHAAACAAJ",
+      "volumeInfo": {
+        "title": "Ley contra la vagancia",
+        "authors": [
+          "Guatemala. Secretaría de Gobernación y Justicia",
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1923",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:78846399"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 12,
+        "printType": "BOOK",
+        "categories": [
+          "Contraventions (Criminal law)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=KO6EHAAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=54&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KO6EHAAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ley_contra_la_vagancia.html?hl=&id=KO6EHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KO6EHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Y2n0GwAACAAJ",
+      "etag": "jMCTPQOTOTM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Y2n0GwAACAAJ",
+      "volumeInfo": {
+        "title": "Al público",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21746251"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Y2n0GwAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=55&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Y2n0GwAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Al_p%C3%BAblico.html?hl=&id=Y2n0GwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Y2n0GwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WvmgjwEACAAJ",
+      "etag": "Cc0cn+agyMY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WvmgjwEACAAJ",
+      "volumeInfo": {
+        "title": "J. Rufino Barrios, Jral. en jefe del Ejército y presidente de la república de Guatemala, a los centro-americanos",
+        "publishedDate": "1876",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:936210948"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WvmgjwEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=56&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WvmgjwEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/J_Rufino_Barrios_Jral_en_jefe_del_Ej%C3%A9rc.html?hl=&id=WvmgjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WvmgjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NV8otAEACAAJ",
+      "etag": "Xy/t4uO8RP8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NV8otAEACAAJ",
+      "volumeInfo": {
+        "title": "A los Guatemaltecos",
+        "subtitle": "Terminada por fin, nuestra cuestion de límites con México que parecia imposible llegara a ́ tener mas desenlace que el de un rompimiento de funestas consecuencias para las dos Repúblicas...",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:982380632"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 4,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NV8otAEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=57&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NV8otAEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_los_Guatemaltecos.html?hl=&id=NV8otAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NV8otAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1KaqtgAACAAJ",
+      "etag": "sy31dYWWrr0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1KaqtgAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje del Jeneral de División, J. Rufino Barrios, Presidente Constitucional de la República de Guatemala, á la Asamblea Legislativa",
+        "subtitle": "al abrirse las sesiones del año de 1885",
+        "authors": [
+          "Guatemala. President (1873-1885 : Barrios)"
+        ],
+        "publishedDate": "1885",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12483795"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1KaqtgAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=58&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1KaqtgAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_del_Jeneral_de_Divisi%C3%B3n_J_Rufin.html?hl=&id=1KaqtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1KaqtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Odip0AEACAAJ",
+      "etag": "YWF9/EID7xw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Odip0AEACAAJ",
+      "volumeInfo": {
+        "title": "Ley organica y reglamentaria de instruccion pubblica decretada en 13 de diciembre de 1879",
+        "subtitle": "secunda edicion, diciembre de 1880",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1403764932"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Odip0AEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=59&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Odip0AEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ley_organica_y_reglamentaria_de_instrucc.html?hl=&id=Odip0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Odip0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Yb7_HAAACAAJ",
+      "etag": "Hdc/p5neMFM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Yb7_HAAACAAJ",
+      "volumeInfo": {
+        "title": "Esposición del Jeneral J. Rufijo Barrios a la Asamblea Nacional renunciando a la Presidencia de la República",
+        "authors": [
+          "Guatemala. Presidente (1873-1885 : Barrios)"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55244383"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 14,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Yb7_HAAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=60&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Yb7_HAAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Esposici%C3%B3n_del_Jeneral_J_Rufijo_Barrios.html?hl=&id=Yb7_HAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Yb7_HAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iIaPjwEACAAJ",
+      "etag": "uU6P3CKW3ho",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iIaPjwEACAAJ",
+      "volumeInfo": {
+        "title": "Considerando",
+        "subtitle": "que las ordenanzas de Bilbao, único cuerpo de leyes mercantiles vijente en la república...",
+        "publishedDate": "1876",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:936210795"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "categories": [
+          "Commercial law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=iIaPjwEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=61&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=iIaPjwEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Considerando.html?hl=&id=iIaPjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iIaPjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h9wXywEACAAJ",
+      "etag": "4/TGN33tvu0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h9wXywEACAAJ",
+      "volumeInfo": {
+        "title": "Indice general de las leyes emitidas por los gobiernos de la revolución de 1871",
+        "subtitle": "(la reforma)",
+        "authors": [
+          "Miguel García Granados"
+        ],
+        "publishedDate": "1971",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1123319180"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 194,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=h9wXywEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=62&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=h9wXywEACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Indice_general_de_las_leyes_emitidas_por.html?hl=&id=h9wXywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h9wXywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "98nGHAAACAAJ",
+      "etag": "U0cfHy3cARs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/98nGHAAACAAJ",
+      "volumeInfo": {
+        "title": "El Acta de Patzicía",
+        "subtitle": "conceptos en que las municipalidades de la República ratificaron su apoyo a los jefes de la Revolución de 1871",
+        "authors": [
+          "Justo Rufino Barrios",
+          "Miguel García Granados",
+          "\"Sesquicentenario de la Independencia de Centroamérica. Guatemala, 15 de Septiembre 1821-1971.\""
+        ],
+        "publishedDate": "1971",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:2132409"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 239,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=98nGHAAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=63&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=98nGHAAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Acta_de_Patzic%C3%ADa.html?hl=&id=98nGHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=98nGHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KtHoGwAACAAJ",
+      "etag": "kIjn59KOyKQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KtHoGwAACAAJ",
+      "volumeInfo": {
+        "title": "Message ... to the National Assembly [concerning] the Settlement of the Mexican Boundary Question",
+        "authors": [
+          "Justo Rufino Barrios"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:15211108"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 29,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=KtHoGwAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&cd=64&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KtHoGwAACAAJ&dq=inauthor:%22Justo+Rufino+Barrios%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Message_to_the_National_Assembly_concern.html?hl=&id=KtHoGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KtHoGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

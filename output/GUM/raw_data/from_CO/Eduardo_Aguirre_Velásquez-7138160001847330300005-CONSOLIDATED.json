@@ -1,0 +1,65 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Eduardo%20Aguirre%20Vel%C3%A1squez\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Eduardo%20Aguirre%20Vel%C3%A1squez\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "1ZKNtgAACAAJ",
+      "etag": "dkz6XCVfAqw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1ZKNtgAACAAJ",
+      "volumeInfo": {
+        "title": "Contribución al estudio de la lepra",
+        "authors": [
+          "Eduardo Aguirre Velásquez"
+        ],
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:16583886"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 67,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1ZKNtgAACAAJ&dq=inauthor:%22Eduardo+Aguirre+Vel%C3%A1squez%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1ZKNtgAACAAJ&dq=inauthor:%22Eduardo+Aguirre+Vel%C3%A1squez%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Contribuci%C3%B3n_al_estudio_de_la_lepra.html?hl=&id=1ZKNtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1ZKNtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

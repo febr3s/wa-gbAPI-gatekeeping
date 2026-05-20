@@ -1,0 +1,946 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Joaqu%C3%ADn%20Palma\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Joaqu%C3%ADn%20Palma\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 16,
+  "_totalFetchedItems": 16,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "SX1uglpn4I4C",
+      "etag": "eedMTKu3Iro",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SX1uglpn4I4C",
+      "volumeInfo": {
+        "title": "Poesias de J.J. Palma",
+        "authors": [
+          "José Joaquín Palma"
+        ],
+        "publishedDate": "1882",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044048085880"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 682,
+        "printType": "BOOK",
+        "categories": [
+          "Cuban poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.15.14.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SX1uglpn4I4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SX1uglpn4I4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SX1uglpn4I4C&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=SX1uglpn4I4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SX1uglpn4I4C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=SX1uglpn4I4C&rdid=book-SX1uglpn4I4C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Poesias_de_J_J_Palma.epub?id=SX1uglpn4I4C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Poesias_de_J_J_Palma.pdf?id=SX1uglpn4I4C&hl=&output=pdf&sig=ACfU3U2aqPyvTYEReY6qRIUjiicz9-Sv7w&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SX1uglpn4I4C&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YZhFAQAAMAAJ",
+      "etag": "PZF9C8pMQgE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YZhFAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Poesías",
+        "authors": [
+          "José Joaquín Palma"
+        ],
+        "publishedDate": "1900",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "SRLF:A0006443758"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YZhFAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YZhFAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YZhFAQAAMAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YZhFAQAAMAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas.html?hl=&id=YZhFAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YZhFAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9ltAAAAAYAAJ",
+      "etag": "xEZUPH1pqqc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9ltAAAAAYAAJ",
+      "volumeInfo": {
+        "title": "A Honduras en su Primera Exposición Nacional",
+        "authors": [
+          "José Joaquín Palma"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173027929687"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9ltAAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9ltAAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9ltAAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9ltAAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Honduras_en_su_Primera_Exposici%C3%B3n_Nac.html?hl=&id=9ltAAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9ltAAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rs24vQEACAAJ",
+      "etag": "L0o6OSntcxU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rs24vQEACAAJ",
+      "volumeInfo": {
+        "title": "José Joaquín Palma",
+        "subtitle": "poeta cubano",
+        "authors": [
+          "José Joaquín Palma"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1057362860"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=rs24vQEACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rs24vQEACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jos%C3%A9_Joaqu%C3%ADn_Palma.html?hl=&id=rs24vQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rs24vQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zot2lAEACAAJ",
+      "etag": "ZB4bDIgM/ds",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zot2lAEACAAJ",
+      "volumeInfo": {
+        "title": "Poesías y notes biograficas de José Joaquín Palma y lasso (1844-1911)",
+        "subtitle": "centenario de su muerte",
+        "authors": [
+          "José Joaquín Palma"
+        ],
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9929559256"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789929559257"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 323,
+        "printType": "BOOK",
+        "categories": [
+          "Poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=zot2lAEACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zot2lAEACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas_y_notes_biograficas_de_Jos%C3%A9_Jo.html?hl=&id=zot2lAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zot2lAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_NOhSgAACAAJ",
+      "etag": "j/InuPi85ug",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_NOhSgAACAAJ",
+      "volumeInfo": {
+        "title": "Poesías de J. Joaquín Palma",
+        "authors": [
+          "José Joaquín Palma"
+        ],
+        "publishedDate": "1962",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:493565847"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 361,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_NOhSgAACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_NOhSgAACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas_de_J_Joaqu%C3%ADn_Palma.html?hl=&id=_NOhSgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_NOhSgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sKY9AQAAIAAJ",
+      "etag": "8JCHB8WUnHE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sKY9AQAAIAAJ",
+      "volumeInfo": {
+        "title": "Poesías",
+        "subtitle": "antología, introd. y notas de José María Chacón y Calvo",
+        "authors": [
+          "José Joaquín Palma"
+        ],
+        "publishedDate": "1951",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B456487"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 188,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sKY9AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sKY9AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=sKY9AQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=sKY9AQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas.html?hl=&id=sKY9AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sKY9AQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ev2SzwEACAAJ",
+      "etag": "eCE4rgqIjqo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ev2SzwEACAAJ",
+      "volumeInfo": {
+        "title": "Poesias De J.J. Palma",
+        "authors": [
+          "José Joaquín Palma"
+        ],
+        "publisher": "Legare Street Press",
+        "publishedDate": "2022-10-27",
+        "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the \"public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1017380295"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781017380293"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ev2SzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ev2SzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ev2SzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ev2SzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poesias_De_J_J_Palma.html?hl=&id=ev2SzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ev2SzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the &quot;public domain in the United States of America, and possibly other nations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DB66MwEACAAJ",
+      "etag": "BenKRxgOa7A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DB66MwEACAAJ",
+      "volumeInfo": {
+        "title": "Poesía, epistolario y ensayo",
+        "authors": [
+          "José Joaquín Palma"
+        ],
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9591017359"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789591017352"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 225,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DB66MwEACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DB66MwEACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADa_epistolario_y_ensayo.html?hl=&id=DB66MwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DB66MwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RcSH0AEACAAJ",
+      "etag": "34B23h6jeTI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RcSH0AEACAAJ",
+      "volumeInfo": {
+        "title": "Poesías de J.J. Palma",
+        "authors": [
+          "José Joaquín Palma"
+        ],
+        "publishedDate": "1900",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318286675"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RcSH0AEACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RcSH0AEACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas_de_J_J_Palma.html?hl=&id=RcSH0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RcSH0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "f4pGygAACAAJ",
+      "etag": "ROkG60mty1Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f4pGygAACAAJ",
+      "volumeInfo": {
+        "title": "Biografía de Miguel Jerónimo Gutiérrez, 1822-1871,... Con una colección de sus poesías [y varios trabajos en prosa], por Luis Marino Pérez. Precedida de un escrito por el Coronel Fernando Figueredo Socorrás. [Con una poesía de José Joaquín Palma.] 2a edición",
+        "authors": [
+          "José Joaquín Palma",
+          "Luis Marino Pérez",
+          "Fernando Figueredo Socorrás (Col.)"
+        ],
+        "publishedDate": "1957",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459992725"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=f4pGygAACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=f4pGygAACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Biograf%C3%ADa_de_Miguel_Jer%C3%B3nimo_Guti%C3%A9rre.html?hl=&id=f4pGygAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f4pGygAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MJ1GAQAACAAJ",
+      "etag": "/rY4TvDddCo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MJ1GAQAACAAJ",
+      "volumeInfo": {
+        "title": "Poesías. 3a. edición, etc",
+        "authors": [
+          "José Joaquín PALMA"
+        ],
+        "publishedDate": "1950",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:659554632"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 302,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=MJ1GAQAACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=MJ1GAQAACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas_3a_edici%C3%B3n_etc.html?hl=&id=MJ1GAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MJ1GAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZjuotgAACAAJ",
+      "etag": "Vez4i9KgUig",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZjuotgAACAAJ",
+      "volumeInfo": {
+        "title": "Himno nacional de Guatemala",
+        "authors": [
+          "Rafael Alvarez Izquierdo",
+          "J. Alberto Mendoza",
+          "José Joaquín Palma"
+        ],
+        "publishedDate": "1957",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253108216"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZjuotgAACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZjuotgAACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Himno_nacional_de_Guatemala.html?hl=&id=ZjuotgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZjuotgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NwzQjgEACAAJ",
+      "etag": "+Fevhu4Gn4A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NwzQjgEACAAJ",
+      "volumeInfo": {
+        "title": "Las estructuras de hormigón armado en la Ingeniería Industrial",
+        "subtitle": "obra Prefabricada",
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:928251305"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NwzQjgEACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NwzQjgEACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Las_estructuras_de_hormig%C3%B3n_armado_en_l.html?hl=&id=NwzQjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NwzQjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RsQxuAAACAAJ",
+      "etag": "xgkNi8+TaVU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RsQxuAAACAAJ",
+      "volumeInfo": {
+        "title": "Poesías de J.J. Palma",
+        "subtitle": "edición de homenaje en ocasión del traslado de los restos del autor de la letra del himno nacional de Guatemala a su tierra natal--Cuba",
+        "authors": [
+          "José Joaquín Palma"
+        ],
+        "publishedDate": "1951",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:36285910"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 241,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RsQxuAAACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RsQxuAAACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas_de_J_J_Palma.html?hl=&id=RsQxuAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RsQxuAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WS5mtQEACAAJ",
+      "etag": "h4nFWRpqgC0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WS5mtQEACAAJ",
+      "volumeInfo": {
+        "title": "Versos",
+        "authors": [
+          "José Joaquín Palma"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:660963395"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=WS5mtQEACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WS5mtQEACAAJ&dq=inauthor:%22Jos%C3%A9+Joaqu%C3%ADn+Palma%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Versos.html?hl=&id=WS5mtQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WS5mtQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

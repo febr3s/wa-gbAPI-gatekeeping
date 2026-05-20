@@ -1,0 +1,80 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"John%20Hope%20Smith\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"John%20Hope%20Smith\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "_AgJtAEACAAJ",
+      "etag": "BFGxw2nQ1zI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_AgJtAEACAAJ",
+      "volumeInfo": {
+        "title": "Mission to Ashanti",
+        "authors": [
+          "Joseph Dupuis",
+          "John Hope Smith (d. 1831)",
+          "Mr Cock (fl. 1819-1820)",
+          "Henry Bathurst (3rd Earl Bathurst 1762-1834)",
+          "Benjamin Salmon (fl. 1819-1820)",
+          "Francis Collins (fl. 1819-1820)",
+          "David Mill Graves (fl. 1819-1820)",
+          "William Hutton",
+          "George Robertson (fl. 1819-1820)"
+        ],
+        "publishedDate": "2017",
+        "description": "Description: Correspondence discussing a diplomatic mission to Ashanti in 1820. Joseph Dupuis, the first British consul in Kumasi, arrived on March 23, 1820. Both Bowdich and Dupuis secured a treaty with the Asantehene.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1001031807"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=_AgJtAEACAAJ&dq=inauthor:%22John+Hope+Smith%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_AgJtAEACAAJ&dq=inauthor:%22John+Hope+Smith%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mission_to_Ashanti.html?hl=&id=_AgJtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_AgJtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Description: Correspondence discussing a diplomatic mission to Ashanti in 1820. Joseph Dupuis, the first British consul in Kumasi, arrived on March 23, 1820. Both Bowdich and Dupuis secured a treaty with the Asantehene."
+      }
+    }
+  ]
+}

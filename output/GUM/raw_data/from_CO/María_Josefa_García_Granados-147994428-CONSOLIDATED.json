@@ -1,0 +1,196 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Mar%C3%ADa%20Josefa%20Garc%C3%ADa%20Granados\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Mar%C3%ADa%20Josefa%20Garc%C3%ADa%20Granados\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 3,
+  "_totalFetchedItems": 3,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "dkO4AAAAIAAJ",
+      "etag": "p1fOyEQ8gr4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dkO4AAAAIAAJ",
+      "volumeInfo": {
+        "title": "María Josefa García Granados: su vida, su obra, su correspondencia, sus papeles, en la leyenda, en el teatro",
+        "authors": [
+          "Jorge Luis Villacorta C."
+        ],
+        "publishedDate": "1971",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105034953518"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 470,
+        "printType": "BOOK",
+        "categories": [
+          "Intellectuals"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dkO4AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dkO4AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=dkO4AAAAIAAJ&dq=inauthor:%22Mar%C3%ADa+Josefa+Garc%C3%ADa+Granados%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dkO4AAAAIAAJ&dq=inauthor:%22Mar%C3%ADa+Josefa+Garc%C3%ADa+Granados%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mar%C3%ADa_Josefa_Garc%C3%ADa_Granados_su_vida_s.html?hl=&id=dkO4AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dkO4AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1_diQwAACAAJ",
+      "etag": "W9GFOHdbHY8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1_diQwAACAAJ",
+      "volumeInfo": {
+        "title": "María Josefa Granados",
+        "subtitle": "su vida, su obra, su correspondencia, sus papeles, en la leyenda, en el teatro",
+        "authors": [
+          "María Josefa García Granados",
+          "Jorge Luis Villacorta C."
+        ],
+        "publishedDate": "1971",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432787547"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1_diQwAACAAJ&dq=inauthor:%22Mar%C3%ADa+Josefa+Garc%C3%ADa+Granados%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1_diQwAACAAJ&dq=inauthor:%22Mar%C3%ADa+Josefa+Garc%C3%ADa+Granados%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mar%C3%ADa_Josefa_Granados.html?hl=&id=1_diQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1_diQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JRhJYgEACAAJ",
+      "etag": "vL0NFJyTWu4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JRhJYgEACAAJ",
+      "volumeInfo": {
+        "title": "Su poesía",
+        "authors": [
+          "María Josefa García Granados"
+        ],
+        "publisher": "Tipografa Nacional",
+        "publishedDate": "2010",
+        "description": "An anthology of verse by the noted poet and author of the post-independence period (1796-1848), known as \"La Pepita\" and considered audacious for her satirical style, eccentric for her political interests, and a forerunner of feminism in Guatemala.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9929800506"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789929800502"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 178,
+        "printType": "BOOK",
+        "categories": [
+          "Poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JRhJYgEACAAJ&dq=inauthor:%22Mar%C3%ADa+Josefa+Garc%C3%ADa+Granados%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JRhJYgEACAAJ&dq=inauthor:%22Mar%C3%ADa+Josefa+Garc%C3%ADa+Granados%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Su_poes%C3%ADa.html?hl=&id=JRhJYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JRhJYgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An anthology of verse by the noted poet and author of the post-independence period (1796-1848), known as &quot;La Pepita&quot; and considered audacious for her satirical style, eccentric for her political interests, and a forerunner of feminism in ..."
+      }
+    }
+  ]
+}

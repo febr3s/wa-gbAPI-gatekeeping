@@ -1,0 +1,3437 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Antonio%20Batres%20J%C3%A1uregui\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Antonio%20Batres%20J%C3%A1uregui\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Antonio%20Batres%20J%C3%A1uregui\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Antonio%20Batres%20J%C3%A1uregui\"&maxResults=20&startIndex=40&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Antonio%20Batres%20J%C3%A1uregui\"&maxResults=16&startIndex=40&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 56,
+  "_totalRequestsMade": 3,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "PRBOAAAAMAAJ",
+      "etag": "swpPKYiXZ/M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PRBOAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Informe del representante de la Asamblea Legislativa de Guatemala como delegado al Congreso Interparlamentario, que se celebró en Washington en el mes de octubre de 1925",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1925",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024478854"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PRBOAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PRBOAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PRBOAAAAMAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PRBOAAAAMAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Informe_del_representante_de_la_Asamblea.html?hl=&id=PRBOAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PRBOAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3PCxpvrn-NkC",
+      "etag": "mwlC+ocQ990",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3PCxpvrn-NkC",
+      "volumeInfo": {
+        "title": "La América Central ante la historia: Época colnial, el reino de Guatemala",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105013711523"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 640,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.13.12.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3PCxpvrn-NkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3PCxpvrn-NkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3PCxpvrn-NkC&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3PCxpvrn-NkC&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Am%C3%A9rica_Central_ante_la_historia_%C3%89p.html?hl=&id=3PCxpvrn-NkC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3PCxpvrn-NkC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ymbNLGg9w5cC",
+      "etag": "Hkp5XvBh6A0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ymbNLGg9w5cC",
+      "volumeInfo": {
+        "title": "Catálogo general de la Bibliotheca de la Nacional Universidad de Guatemala, etc. (Por ... Don Antonio Batres Jàuregui.).",
+        "authors": [
+          "Universidad de San Carlos (GUATEMALA, City of)"
+        ],
+        "publishedDate": "1872",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BL:A0026718391"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 106,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ymbNLGg9w5cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ymbNLGg9w5cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ymbNLGg9w5cC&printsec=frontcover&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ymbNLGg9w5cC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ymbNLGg9w5cC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=ymbNLGg9w5cC&rdid=book-ymbNLGg9w5cC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Cat%C3%A1logo_general_de_la_Bibliotheca_de_l.epub?id=ymbNLGg9w5cC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ymbNLGg9w5cC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yDQsAAAAYAAJ",
+      "etag": "ytTrHpRTXwY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yDQsAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Literatura americana",
+        "subtitle": "colección de artículos",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1879",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HNLFD6"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 520,
+        "printType": "BOOK",
+        "categories": [
+          "Spanish American literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yDQsAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yDQsAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yDQsAAAAYAAJ&printsec=frontcover&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yDQsAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yDQsAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=yDQsAAAAYAAJ&rdid=book-yDQsAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Literatura_americana.epub?id=yDQsAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Literatura_americana.pdf?id=yDQsAAAAYAAJ&hl=&output=pdf&sig=ACfU3U0jmq2CpiO2Apjg502tU7lYryI7XA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yDQsAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UYIwAAAAYAAJ",
+      "etag": "Op6GwVANfG8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UYIwAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Estudios históricos y literarios",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1887",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018075649"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UYIwAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UYIwAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=UYIwAAAAYAAJ&printsec=frontcover&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UYIwAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UYIwAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=UYIwAAAAYAAJ&rdid=book-UYIwAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Estudios_hist%C3%B3ricos_y_literarios.epub?id=UYIwAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Estudios_hist%C3%B3ricos_y_literarios.pdf?id=UYIwAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1EuqTsfAT646WEhZ3e8NqfNkkwsw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UYIwAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fO5mAAAAMAAJ",
+      "etag": "k1lUAPVJ9ck",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fO5mAAAAMAAJ",
+      "volumeInfo": {
+        "title": "La América Central ante la historia: 1821-1921. Memorias de un siglo",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1949",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173022898349"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 734,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.8.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fO5mAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fO5mAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fO5mAAAAMAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fO5mAAAAMAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Am%C3%A9rica_Central_ante_la_historia_182.html?hl=&id=fO5mAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fO5mAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EKynEAAAQBAJ",
+      "etag": "Vj8vOA2Yf4s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EKynEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Los indios. Su historia y su civilización",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publisher": "Editorial Verbum",
+        "publishedDate": "2022-12-16",
+        "description": "“Los indios de nuestros tiempos no pueden dar ningunas noticias acerca de la historia de ese pueblo desconocido; los que vivían hace trescientos años, al tiempo del descubrimiento de América, tampoco han dicho nada de que se pueda siquiera inferir una hipótesis; las tradiciones, que son monumentos perecederos y sin cesar renacientes del mundo primitivo, no dan luz ninguna; y sin embargo, no se puede poner en duda que allí vivieron miles y miles de nuestros semejantes. ¿Cuándo llegaron pues? ¿Cuál fué su origen, su destino y su historia? ¿Cuándo y cómo perecieron? Nadie lo podrá decir. ¡Cosa extraordinaria! Hay pueblos que han desaparecido tan completamente de la tierra, que hasta se ha borrado la memoria de su nombre; se han perdido sus lenguas; su gloria se desvaneció, como un sonido sin eco; pero ignoro si existe uno sólo que no haya dejado, por lo menos, un sepulcro en recuerdo de su paso por este mundo. ¡Ay! y que de todas las obras del hombre, la más durable sea la que pinta mejor su existencia perecedera y fugaz. Aunque el vasto país lo hayan habitado numerosas tribus de indígenas, se puede decir con justicia que en la época del descubrimiento, no formaba todavía más que un desierto. Los indios lo ocupaban, pero no lo poseían, supuesto que el hombre se apropia el terreno por medio de la agricultura, y los primeros habitadores de la América del Norte vivían del producto de la caza. Sus implacables preocupaciones, sus pasiones indómitas, sus vicios y lo que tal vez es más, sus virtudes agrestes, los entregaban á una destrucción inevitable. La ruina de esos pueblos se ha entablado desde el día en que arribaron allí los europeos; desde entonces, siempre ha sido continuada; y acaba de verificarse en nuestros tiempos. La Providencia, colocándolos en medio de las riquezas del Nuevo Mundo, no les había dado al parecer sino un corto usufructo; y como que sólo estaban allí interinamente. Esas costas, tan bien preparadas para el comercio y la industria, esos ríos tan hondos, ese inagotable valle del Mississipí, ese continente todo entero, se ostentaba entonces como la cuna aún vacía de una nación grandiosa”.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788411363129"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8411363120"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 213,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EKynEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EKynEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EKynEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=EKynEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=EKynEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 35876,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 24396,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=EKynEAAAQBAJ&rdid=book-EKynEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 35876000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 24396000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Los_indios_Su_historia_y_su_civilizaci%C3%B3-sample-epub.acsm?id=EKynEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Los_indios_Su_historia_y_su_civilizaci%C3%B3-sample-pdf.acsm?id=EKynEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EKynEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "“Los indios de nuestros tiempos no pueden dar ningunas noticias acerca de la historia de ese pueblo desconocido; los que vivían hace trescientos años, al tiempo del descubrimiento de América, tampoco han dicho nada de que se pueda ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xZB-XxKGnscC",
+      "etag": "8ZKH4PdMCqk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xZB-XxKGnscC",
+      "volumeInfo": {
+        "title": "Epigramas",
+        "authors": [
+          "Martial"
+        ],
+        "publishedDate": "1919",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CUB:P201152203012"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 422,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xZB-XxKGnscC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xZB-XxKGnscC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=xZB-XxKGnscC&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=xZB-XxKGnscC&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Epigramas.html?hl=&id=xZB-XxKGnscC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xZB-XxKGnscC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2OxmAAAAMAAJ",
+      "etag": "ExTg6wEOykU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2OxmAAAAMAAJ",
+      "volumeInfo": {
+        "title": "La América Central ante la historia: Tiempos precolombinos",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059172012132377"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 480,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.9.14.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2OxmAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2OxmAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2OxmAAAAMAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2OxmAAAAMAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Am%C3%A9rica_Central_ante_la_historia_Tie.html?hl=&id=2OxmAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2OxmAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gTKl3gATEdgC",
+      "etag": "TN73QqLkyNE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gTKl3gATEdgC",
+      "volumeInfo": {
+        "title": "La América Central ante la historia",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1915",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89100024702"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1100,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gTKl3gATEdgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gTKl3gATEdgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=gTKl3gATEdgC&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=gTKl3gATEdgC&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Am%C3%A9rica_Central_ante_la_historia.html?hl=&id=gTKl3gATEdgC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gTKl3gATEdgC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ynFtD-2w-HYC",
+      "etag": "1oQfNiTPbq8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ynFtD-2w-HYC",
+      "volumeInfo": {
+        "title": "El castellano en América",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105036627391"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "categories": [
+          "Spanish language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.10.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ynFtD-2w-HYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ynFtD-2w-HYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ynFtD-2w-HYC&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ynFtD-2w-HYC&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_castellano_en_Am%C3%A9rica.html?hl=&id=ynFtD-2w-HYC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ynFtD-2w-HYC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GqgSAAAAYAAJ",
+      "etag": "FfZp+/E9dTM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GqgSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Memorias de antaño",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1896",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024336033"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 296,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.8.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GqgSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GqgSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GqgSAAAAYAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GqgSAAAAYAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias_de_anta%C3%B1o.html?hl=&id=GqgSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GqgSAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ogDDDwAAQBAJ",
+      "etag": "xv1Oew5LQpE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ogDDDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Los Indios, su Historia y su Civilización",
+        "subtitle": "Edición enriquecida. Explorando la rica historia y cultura de los pueblos indígenas de América Latina",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publisher": "Good Press",
+        "publishedDate": "2019-11-11",
+        "description": "El libro \"Los Indios, su Historia y su Civilización\" de Antonio Batres Jáuregui es un exhaustivo estudio sobre los pueblos indígenas de América, enfocándose en su evolución histórica, social y cultural. A lo largo de sus páginas, Batres Jáuregui emplea un estilo detallado y riguroso, amalgamando datos etnográficos y documentos históricos, lo que permite al lector apreciar tanto la profundidad de la civilización indígena como las injusticias sufridas en el contexto colonial. La obra se sitúa en un momento de creciente interés por los derechos y la representación de las comunidades indígenas, resaltando su importancia en la narrativa nacional de América Latina. Antonio Batres Jáuregui, un reconocido intelectual y defensor de los derechos indígenas, ha basado su investigación en su vivencia y en un compromiso profundo por visibilizar las luchas de estos pueblos. Su formación como educador y su interés en la historia social de México lo llevaron a escribir esta obra, que no solo pretende informar, sino también reivindicar la dignidad y el legado de las civilizaciones indígenas ante un contexto que a menudo ha sido hostil hacia ellas. Recomiendo encarecidamente \"Los Indios, su Historia y su Civilización\" no solo por su valor académico, sino por su profundidad humanística. Esta obra servirá a quien busque comprender las raíces culturales y los desafíos contemporáneos de las comunidades indígenas, ofreciendo una mirada crítica e iluminadora sobre su papel en la historia de América. En esta edición enriquecida, hemos creado cuidadosamente un valor añadido para tu experiencia de lectura: - Citas memorables seleccionadas resaltan momentos de brillantez literaria. - Notas de pie de página interactivas aclaran referencias inusuales, alusiones históricas y expresiones arcaicas para una lectura más fluida e enriquecedora.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:4057664141163"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 261,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.11.12.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ogDDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ogDDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ogDDDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ogDDDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ogDDDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3900,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 3900,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ogDDDwAAQBAJ&rdid=book-ogDDDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3900000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 3900000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ogDDDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El libro &quot;Los Indios, su Historia y su Civilización&quot; de Antonio Batres Jáuregui es un exhaustivo estudio sobre los pueblos indígenas de América, enfocándose en su evolución histórica, social y cultural."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Do8LAAAAIAAJ",
+      "etag": "07xjGAIu8vE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Do8LAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Cristóbal Colón y el Nuevo mundo",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105036627441"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.15.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Do8LAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Do8LAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Do8LAAAAIAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Do8LAAAAIAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Crist%C3%B3bal_Col%C3%B3n_y_el_Nuevo_mundo.html?hl=&id=Do8LAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Do8LAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NPOTzwEACAAJ",
+      "etag": "Tm2toCLBXBM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NPOTzwEACAAJ",
+      "volumeInfo": {
+        "title": "Los Indios",
+        "subtitle": "Su Historia Y Su Civilizacion",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publisher": "Legare Street Press",
+        "publishedDate": "2022-10-27",
+        "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the \"public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1018341684"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781018341682"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NPOTzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NPOTzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NPOTzwEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NPOTzwEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_Indios.html?hl=&id=NPOTzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NPOTzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the &quot;public domain in the United States of America, and possibly other nations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EnwWAAAAYAAJ",
+      "etag": "9Rp2jeNH/ow",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EnwWAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Alegato ante la Suprema corte de justicia, en favor de don Manuel Vega, en la causa instruida por parricidio",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1890",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044058927195"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EnwWAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EnwWAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EnwWAAAAYAAJ&printsec=frontcover&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=EnwWAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=EnwWAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=EnwWAAAAYAAJ&rdid=book-EnwWAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Alegato_ante_la_Suprema_corte_de_justici.epub?id=EnwWAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EnwWAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "neUsAAAAMAAJ",
+      "etag": "asV4ggel9R0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/neUsAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Literatos guatemaltecos",
+        "subtitle": "Landívar é Irisarri, con un discurso preliminar sobre el desenvolvimiento de las ciencias y las letras en Guatemala",
+        "authors": [
+          "Antonio Batres Jáuregui",
+          "Rafael Landívar",
+          "Antonio José de Irisarri"
+        ],
+        "publishedDate": "1896",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433075866644"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 326,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.14.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=neUsAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=neUsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=neUsAAAAMAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=neUsAAAAMAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Literatos_guatemaltecos.html?hl=&id=neUsAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=neUsAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xZI_X8e5ZLgC",
+      "etag": "KxiZhzkG5S4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xZI_X8e5ZLgC",
+      "volumeInfo": {
+        "title": "Fábulas del dr. d. Rafael García Goyena",
+        "subtitle": "precedidas de la biografía del autor y de un juicio crítico de sus obras",
+        "authors": [
+          "Rafael Garciá Goyena"
+        ],
+        "publishedDate": "1894",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105004687393"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 262,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.8.8.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xZI_X8e5ZLgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xZI_X8e5ZLgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=xZI_X8e5ZLgC&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=xZI_X8e5ZLgC&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/F%C3%A1bulas_del_dr_d_Rafael_Garc%C3%ADa_Goyena.html?hl=&id=xZI_X8e5ZLgC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xZI_X8e5ZLgC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "91I3AQAAIAAJ",
+      "etag": "Dz1ziW6qibY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/91I3AQAAIAAJ",
+      "volumeInfo": {
+        "title": "El Dr. Mariano Gálvez y su época",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1957",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B639979"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=91I3AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=91I3AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=91I3AQAAIAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=91I3AQAAIAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Dr_Mariano_G%C3%A1lvez_y_su_%C3%A9poca.html?hl=&id=91I3AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=91I3AQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DnuP0QEACAAJ",
+      "etag": "B8jq7yN6vAk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DnuP0QEACAAJ",
+      "volumeInfo": {
+        "title": "La América Central ante la historia: Época colonial, el reino de Guatemala",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1915",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:36035287"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DnuP0QEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DnuP0QEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Am%C3%A9rica_Central_ante_la_historia_%C3%89p.html?hl=&id=DnuP0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DnuP0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "acckrNTZA7oC",
+      "etag": "unHYHyveeNU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/acckrNTZA7oC",
+      "volumeInfo": {
+        "title": "Vicios del lenguaje y provincialismos de Guatemala",
+        "subtitle": "estudio filológico",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1892",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105035454870"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 586,
+        "printType": "BOOK",
+        "categories": [
+          "Spanish language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.14.14.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=acckrNTZA7oC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=acckrNTZA7oC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=acckrNTZA7oC&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=acckrNTZA7oC&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vicios_del_lenguaje_y_provincialismos_de.html?hl=&id=acckrNTZA7oC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=acckrNTZA7oC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fue9Pmo1KHEC",
+      "etag": "hCGl97DGeBc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fue9Pmo1KHEC",
+      "volumeInfo": {
+        "title": "José Batres Montúfar",
+        "subtitle": "su tiempo y sus obras, 1809-1909",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1910",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105036643042"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": [
+          "Poets, Guatemalan"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.12.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fue9Pmo1KHEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fue9Pmo1KHEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fue9Pmo1KHEC&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fue9Pmo1KHEC&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jos%C3%A9_Batres_Mont%C3%BAfar.html?hl=&id=fue9Pmo1KHEC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fue9Pmo1KHEC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WuotAAAAIAAJ",
+      "etag": "1zqPTw81GmE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WuotAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Landívar e Irisarri",
+        "subtitle": "literatos guatemaltecos",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1957",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3777340"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 214,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.14.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WuotAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WuotAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WuotAAAAIAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WuotAAAAIAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Land%C3%ADvar_e_Irisarri.html?hl=&id=WuotAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WuotAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "luZiNOlPwG0C",
+      "etag": "Nu8d3yrJhQ0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/luZiNOlPwG0C",
+      "volumeInfo": {
+        "title": "La America Central ante la historia: Tiempos precolombinos.-t.2. Epoca colonial, el reino de Guatemala.-t.3. 1821-1921. Memorias de un siglo",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1915",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105013711465"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 466,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.11.11.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=luZiNOlPwG0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=luZiNOlPwG0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=luZiNOlPwG0C&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=luZiNOlPwG0C&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_America_Central_ante_la_historia_Tiem.html?hl=&id=luZiNOlPwG0C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=luZiNOlPwG0C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "l0EXAAAAYAAJ",
+      "etag": "60cBL3SsH7w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/l0EXAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Cuestion Llerandi y Foncéa",
+        "subtitle": "Alegatos presentados á los tribunales de la república con motivo de la venta de la finca \"Belem\" que verificó d. Manuel Llerandi",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1894",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044058919747"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.11.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=l0EXAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=l0EXAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=l0EXAAAAYAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=l0EXAAAAYAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuestion_Llerandi_y_Fonc%C3%A9a.html?hl=&id=l0EXAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=l0EXAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "59fCvndZRsMC",
+      "etag": "XuBLSkwNLXo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/59fCvndZRsMC",
+      "volumeInfo": {
+        "title": "Sketch of Guatemala, in Central America",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UGA:32108056529764"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 90,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=59fCvndZRsMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=59fCvndZRsMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=59fCvndZRsMC&printsec=frontcover&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=59fCvndZRsMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=59fCvndZRsMC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=59fCvndZRsMC&rdid=book-59fCvndZRsMC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Sketch_of_Guatemala_in_Central_America.epub?id=59fCvndZRsMC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=59fCvndZRsMC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XJGS9CUkjeQC",
+      "etag": "2Qvj45QOHaU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XJGS9CUkjeQC",
+      "volumeInfo": {
+        "title": "Historia general de las Indias Occidentales, y particular de la gobernación de Chiapa y Guatemala",
+        "subtitle": "escribese juntamente los principios de la religion de nuestro glorioso padre Santo Domingo...",
+        "authors": [
+          "Antonio de Remesal"
+        ],
+        "publishedDate": "1932",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MSU:31293036614661"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 634,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XJGS9CUkjeQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XJGS9CUkjeQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=XJGS9CUkjeQC&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=XJGS9CUkjeQC&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_general_de_las_Indias_Occidenta.html?hl=&id=XJGS9CUkjeQC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XJGS9CUkjeQC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EkybHAAACAAJ",
+      "etag": "5pUOVdFuXh8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EkybHAAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso que en nombre de la Asamblea Nacional Legislativa pronunció el diputado Antonio Batres Jáuregui al tomar posesión de la Presidencia de la República el señor licenciado don Manuel Estrada Cabrera, en su segundo período constitucional",
+        "subtitle": "15 de marzo de 1905",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1905*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:40350936"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 9,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EkybHAAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EkybHAAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_que_en_nombre_de_la_Asamblea_Na.html?hl=&id=EkybHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EkybHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Q7WezQEACAAJ",
+      "etag": "oH2Gzo+FdVc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q7WezQEACAAJ",
+      "volumeInfo": {
+        "title": "La América Central ante la historia",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1915",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:36035287"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Q7WezQEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Q7WezQEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Am%C3%A9rica_Central_ante_la_historia.html?hl=&id=Q7WezQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Q7WezQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8_Q8AAAAYAAJ",
+      "etag": "xma1GPCGZ10",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8_Q8AAAAYAAJ",
+      "volumeInfo": {
+        "title": "Bibliografía histórica guatemalteca",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1908",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173017932539"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8_Q8AAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8_Q8AAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8_Q8AAAAYAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8_Q8AAAAYAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bibliograf%C3%ADa_hist%C3%B3rica_guatemalteca.html?hl=&id=8_Q8AAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8_Q8AAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "d3YkHAAACAAJ",
+      "etag": "xfBeQXG65DI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/d3YkHAAACAAJ",
+      "volumeInfo": {
+        "title": "Alegato formulado por el licenciado don Antonio Batres J. ante la sala la. de la Corte de apelaciones, expresando agravios de la sentencia de la. instancia, en el juicio promovido por don Aniceto Castillo contra los herederos de la señorita María Galvez García, representados por don Juan B. Lira",
+        "subtitle": "y dictamenes de los señores licenciados d. Salvador Falla, d. Manuel Rivera M., d. Marcial G. Salas y d. J. Ernesto Zelaya, sobre el mismo asunto",
+        "authors": [
+          "Antonio Batres Jáuregui",
+          "Aniceto Castillo",
+          "María Galvez García",
+          "Juan Bautista Lira",
+          "Guatemala. Corte de apelaciones"
+        ],
+        "publishedDate": "1890",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:77844859"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 49,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=d3YkHAAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=d3YkHAAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Alegato_formulado_por_el_licenciado_don.html?hl=&id=d3YkHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d3YkHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5H5X0QEACAAJ",
+      "etag": "28zCpqQ2S9E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5H5X0QEACAAJ",
+      "volumeInfo": {
+        "title": "La America Central ante la historia 1821-1921 : memorias de un siglo",
+        "authors": [
+          "Antonio Batres Jauregui"
+        ],
+        "publishedDate": "1949",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1025651480"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "America Central"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5H5X0QEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5H5X0QEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_America_Central_ante_la_historia_1821.html?hl=&id=5H5X0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5H5X0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_d7zHAAACAAJ",
+      "etag": "xzdFDK2iSZo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_d7zHAAACAAJ",
+      "volumeInfo": {
+        "title": "Catálogo general de la Biblioteca de la Nacional Universidad de Guatemala",
+        "subtitle": "formado por orden alfabetico y de materias",
+        "authors": [
+          "Universidad de San Carlos de Guatemala. Biblioteca",
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1873",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55274805"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 102,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_d7zHAAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_d7zHAAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cat%C3%A1logo_general_de_la_Biblioteca_de_la.html?hl=&id=_d7zHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_d7zHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0oLIvwEACAAJ",
+      "etag": "RZd8Fi8du9w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0oLIvwEACAAJ",
+      "volumeInfo": {
+        "title": "Historia general de las Indias occidentales, y particular de la gobernación de Chiapa y Guatemala ;; Escribese juntamente los principios de la religión de nuestro glorioso Padre Santo Domingo y de las demás religiones ...",
+        "subtitle": "...",
+        "authors": [
+          "Antonio de Remesal"
+        ],
+        "publishedDate": "1932",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:493750833"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 530,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0oLIvwEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0oLIvwEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_general_de_las_Indias_occidenta.html?hl=&id=0oLIvwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0oLIvwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jujc0AEACAAJ",
+      "etag": "lAj010iHv/c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jujc0AEACAAJ",
+      "volumeInfo": {
+        "title": "República de Guatemala en Centro América",
+        "subtitle": "catálogo de los objetos que han figurado en la exposición nacional de 1878",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1317860602"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Exposición nacional"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jujc0AEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jujc0AEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rep%C3%BAblica_de_Guatemala_en_Centro_Am%C3%A9ri.html?hl=&id=jujc0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jujc0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XkFUHAAACAAJ",
+      "etag": "HV0R8gcMjyY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XkFUHAAACAAJ",
+      "volumeInfo": {
+        "title": "Fábulas del Dr. D. Rafael García Goyena",
+        "authors": [
+          "Rafael Garciá Goyena"
+        ],
+        "publishedDate": "1894",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:16133435"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 122,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=XkFUHAAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=XkFUHAAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/F%C3%A1bulas_del_Dr_D_Rafael_Garc%C3%ADa_Goyena.html?hl=&id=XkFUHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XkFUHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fHcgzwEACAAJ",
+      "etag": "l4tf6GR9I4c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fHcgzwEACAAJ",
+      "volumeInfo": {
+        "title": "Historia general de las Indias occidentales y particular de la gobernación de Chiapa y Guatemala",
+        "authors": [
+          "Antonio de Remesal"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1024460566"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Chiapas (Mexico)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fHcgzwEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fHcgzwEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_general_de_las_Indias_occidenta.html?hl=&id=fHcgzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fHcgzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dYGzPgAACAAJ",
+      "etag": "tia3HUkMyDU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dYGzPgAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso pronunciado en el salón de recepciones del Palacio Nacional de Guatemala el dia 15 de sep. de 1895, LXXIV aniversario de la independencia",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1895",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253030315"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=dYGzPgAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dYGzPgAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_pronunciado_en_el_sal%C3%B3n_de_rec.html?hl=&id=dYGzPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dYGzPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PZ81zwEACAAJ",
+      "etag": "bag3QKm5KXI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PZ81zwEACAAJ",
+      "volumeInfo": {
+        "title": "Discurso pronuncio en la apertura solemne de la exposición nacional de 1878",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318211551"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 7,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PZ81zwEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PZ81zwEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_pronuncio_en_la_apertura_solemn.html?hl=&id=PZ81zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PZ81zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YnGr0QEACAAJ",
+      "etag": "llj3Q+vjDYw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YnGr0QEACAAJ",
+      "volumeInfo": {
+        "title": "El castellano en América : una selección",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "2024",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8419132454"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788419132451"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YnGr0QEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YnGr0QEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_castellano_en_Am%C3%A9rica_una_selecci%C3%B3n.html?hl=&id=YnGr0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YnGr0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SiqaswEACAAJ",
+      "etag": "K6YyVaRYvBs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SiqaswEACAAJ",
+      "volumeInfo": {
+        "title": "Bosquejo de Guatemala en la América Central",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1883",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:11583940"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 70,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SiqaswEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SiqaswEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bosquejo_de_Guatemala_en_la_Am%C3%A9rica_Cen.html?hl=&id=SiqaswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SiqaswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "coNDGwAACAAJ",
+      "etag": "wuBHk2B74mg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/coNDGwAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso pronunciado en el salón de recepciones del PalacioNacional de Guatemala de 15 de septiembre de 1895",
+        "subtitle": "LXXIV aniversario de la Independencia",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1895",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:20031750"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 11,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=coNDGwAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=coNDGwAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_pronunciado_en_el_sal%C3%B3n_de_rec.html?hl=&id=coNDGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=coNDGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1vL2tgAACAAJ",
+      "etag": "Hpe5nhKWCqY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1vL2tgAACAAJ",
+      "volumeInfo": {
+        "title": "1492-1892",
+        "subtitle": "Cristobal Colón y el nuevo mundo",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55246122"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1vL2tgAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1vL2tgAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/1492_1892.html?hl=&id=1vL2tgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1vL2tgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bCySHAAACAAJ",
+      "etag": "i9ff/ZgtcZE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bCySHAAACAAJ",
+      "volumeInfo": {
+        "title": "El Derecho internacional en el nuevo mundo y la solidaridad americana",
+        "subtitle": "conferencia pronunciada en la Asociación de Abogados de Guatemala",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1923",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55244672"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 47,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=bCySHAAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=bCySHAAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Derecho_internacional_en_el_nuevo_mun.html?hl=&id=bCySHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bCySHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2aJW0QEACAAJ",
+      "etag": "6waMilf8OWM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2aJW0QEACAAJ",
+      "volumeInfo": {
+        "title": "La America central ante la historia",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:838278891"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=2aJW0QEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=45&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2aJW0QEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_America_central_ante_la_historia.html?hl=&id=2aJW0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2aJW0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ozouYAAACAAJ",
+      "etag": "UFlJTKWXaEQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ozouYAAACAAJ",
+      "volumeInfo": {
+        "title": "La América central ante la historia. 1821-1921. Memorias de un siglo. Tomo 3. [Presentación de M. Galich.].",
+        "authors": [
+          "Antonio Batres Jáuregui",
+          "M. Galich"
+        ],
+        "publishedDate": "1949",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458655668"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 711,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ozouYAAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=46&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ozouYAAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Am%C3%A9rica_central_ante_la_historia_182.html?hl=&id=ozouYAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ozouYAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aPLnHAAACAAJ",
+      "etag": "msFQATIH0lo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aPLnHAAACAAJ",
+      "volumeInfo": {
+        "title": "Literatura americana",
+        "subtitle": "coleccion de articulos escritos por Antonio Batres Jauregui ...",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1879",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:11680064"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 502,
+        "printType": "BOOK",
+        "categories": [
+          "Spanish American literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=aPLnHAAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=47&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=aPLnHAAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Literatura_americana.html?hl=&id=aPLnHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aPLnHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "f_evGwAACAAJ",
+      "etag": "3j10vJ929kY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f_evGwAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso oficial pronunicado el 15 de septiembre de 1921 en el centenario de la independencia de la América del Centro",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:20031803"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 11,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=f_evGwAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=48&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=f_evGwAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_oficial_pronunicado_el_15_de_se.html?hl=&id=f_evGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f_evGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dA4sMwEACAAJ",
+      "etag": "3dhxlrk37xA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dA4sMwEACAAJ",
+      "volumeInfo": {
+        "title": "El Dr. Mariano Gálvez y su época. Segunda edición. [With a portrait.].",
+        "authors": [
+          "Antonio BATRES JÁUREGUI",
+          "Mariano GÁLVEZ"
+        ],
+        "publishedDate": "1957",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:557354088"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 146,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=dA4sMwEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=49&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dA4sMwEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Dr_Mariano_G%C3%A1lvez_y_su_%C3%A9poca_Segund.html?hl=&id=dA4sMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dA4sMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MWtUYAAACAAJ",
+      "etag": "f0ndqgrwY/M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MWtUYAAACAAJ",
+      "volumeInfo": {
+        "title": "Landivar e Irisarri",
+        "subtitle": "con un discurso preliminar sobre el desenvolvimiento de las ciencias y la letras de Guatemala",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1896",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:633677494"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=MWtUYAAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=50&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=MWtUYAAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Landivar_e_Irisarri.html?hl=&id=MWtUYAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MWtUYAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NciyPgAACAAJ",
+      "etag": "P3I7Qhm5GWc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NciyPgAACAAJ",
+      "volumeInfo": {
+        "title": "Elementos de geografía de Centro America",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:254978575"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=NciyPgAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=51&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NciyPgAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Elementos_de_geograf%C3%ADa_de_Centro_Americ.html?hl=&id=NciyPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NciyPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "13n3OQAACAAJ",
+      "etag": "VCKqlt42LSg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/13n3OQAACAAJ",
+      "volumeInfo": {
+        "title": "Conferencia pronunciada en la Asociación de Abogados de Guatemala",
+        "subtitle": "El derecho internacional en el nuevo mundo y la solidaridad americana",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1923",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:23166996"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 47,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=13n3OQAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=52&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=13n3OQAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Conferencia_pronunciada_en_la_Asociaci%C3%B3.html?hl=&id=13n3OQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=13n3OQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r5IB0AEACAAJ",
+      "etag": "CecjM5TM2RA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r5IB0AEACAAJ",
+      "volumeInfo": {
+        "title": "Guatemalan Historical Bibliography ...",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:684084951"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=r5IB0AEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=53&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=r5IB0AEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Guatemalan_Historical_Bibliography.html?hl=&id=r5IB0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r5IB0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "z3HtPgAACAAJ",
+      "etag": "QXChRv9M5oo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z3HtPgAACAAJ",
+      "volumeInfo": {
+        "title": "Landívar é Irisarri",
+        "subtitle": "literatos guatemaltecos ; con un discurso preliminar sobre el desenvolvimiento de las ciencias y las letras en Guatemala",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1896",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253393748"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=z3HtPgAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=54&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=z3HtPgAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Land%C3%ADvar_%C3%A9_Irisarri.html?hl=&id=z3HtPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=z3HtPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "l7rlygAACAAJ",
+      "etag": "OZQn+A9cg00",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/l7rlygAACAAJ",
+      "volumeInfo": {
+        "title": "Antonio Bartres Jauregui's 1492-1892--Christopher Columbus and the New World",
+        "subtitle": "A Translation",
+        "authors": [
+          "Antonio Batres Jáuregui",
+          "Erik Werfel"
+        ],
+        "publishedDate": "1995",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55162718"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=l7rlygAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=55&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=l7rlygAACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antonio_Bartres_Jauregui_s_1492_1892_Chr.html?hl=&id=l7rlygAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=l7rlygAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bC8UnQEACAAJ",
+      "etag": "PzbNa00WwFs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bC8UnQEACAAJ",
+      "volumeInfo": {
+        "title": "La America central ante la historia",
+        "authors": [
+          "Antonio Batres Jáuregui"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:838278891"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "it",
+        "previewLink": "http://books.google.com.co/books?id=bC8UnQEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&cd=56&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=bC8UnQEACAAJ&dq=inauthor:%22Antonio+Batres+J%C3%A1uregui%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_America_central_ante_la_historia.html?hl=&id=bC8UnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bC8UnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

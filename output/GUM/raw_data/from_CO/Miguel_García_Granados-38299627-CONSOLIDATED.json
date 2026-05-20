@@ -1,0 +1,1244 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Miguel%20Garc%C3%ADa%20Granados\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Miguel%20Garc%C3%ADa%20Granados\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Miguel%20Garc%C3%ADa%20Granados\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Miguel%20Garc%C3%ADa%20Granados\"&maxResults=1&startIndex=20&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 21,
+  "_totalRequestsMade": 2,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "RJ0tAQAAIAAJ",
+      "etag": "6UFcmnWR6Ug",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RJ0tAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Memorias del general Miguel García Granados",
+        "authors": [
+          "Miguel García Granados"
+        ],
+        "publishedDate": "1952",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3179347"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "categories": [
+          "Generals"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RJ0tAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RJ0tAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RJ0tAQAAIAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RJ0tAQAAIAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias_del_general_Miguel_Garc%C3%ADa_Gran.html?hl=&id=RJ0tAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RJ0tAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2VkMeMTX8hAC",
+      "etag": "Fdbe89cVZ+c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2VkMeMTX8hAC",
+      "volumeInfo": {
+        "title": "Memorias del general D. Miguel G. Granados",
+        "authors": [
+          "Miguel García Granados"
+        ],
+        "publishedDate": "1877",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044095297149"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 560,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2VkMeMTX8hAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2VkMeMTX8hAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2VkMeMTX8hAC&printsec=frontcover&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2VkMeMTX8hAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2VkMeMTX8hAC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=2VkMeMTX8hAC&rdid=book-2VkMeMTX8hAC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Memorias_del_general_D_Miguel_G_Granados.epub?id=2VkMeMTX8hAC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2VkMeMTX8hAC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WPZqAAAAMAAJ",
+      "etag": "h7Hyt37s5vw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WPZqAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Era indispensable echar abajo al tirano",
+        "authors": [
+          "Miguel García Granados"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173007202824"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": [
+          "Elections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WPZqAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WPZqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WPZqAAAAMAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WPZqAAAAMAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Era_indispensable_echar_abajo_al_tirano.html?hl=&id=WPZqAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WPZqAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fmkKAQAAIAAJ",
+      "etag": "+3V75L4RJDA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fmkKAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Memorias",
+        "authors": [
+          "Miguel García Granados"
+        ],
+        "publishedDate": "1952",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105035331292"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 596,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fmkKAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fmkKAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fmkKAQAAIAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fmkKAQAAIAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias.html?hl=&id=fmkKAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fmkKAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iCZ10AEACAAJ",
+      "etag": "YoFOwmjqAPY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iCZ10AEACAAJ",
+      "volumeInfo": {
+        "title": "Memorias del general d. Miguel García Granados",
+        "authors": [
+          "Miguel García Granados"
+        ],
+        "publishedDate": "1877",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:2757960"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=iCZ10AEACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=iCZ10AEACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias_del_general_d_Miguel_Garc%C3%ADa_Gr.html?hl=&id=iCZ10AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iCZ10AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ji0xQAAACAAJ",
+      "etag": "tLFjsPSa2UY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ji0xQAAACAAJ",
+      "volumeInfo": {
+        "title": "Memorias del General don Miguel García Granados",
+        "subtitle": "segunda parte",
+        "authors": [
+          "Miguel García Granados"
+        ],
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12676079"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ji0xQAAACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ji0xQAAACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias_del_General_don_Miguel_Garc%C3%ADa.html?hl=&id=ji0xQAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ji0xQAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9kLvtAEACAAJ",
+      "etag": "oOX4RjOH9b0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9kLvtAEACAAJ",
+      "volumeInfo": {
+        "title": "Memorias del General don Miguel García Granados",
+        "authors": [
+          "Miguel García Granados"
+        ],
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:702489738"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9kLvtAEACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9kLvtAEACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias_del_General_don_Miguel_Garc%C3%ADa.html?hl=&id=9kLvtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9kLvtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Tc2iswEACAAJ",
+      "etag": "d41Hw/1JQm8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Tc2iswEACAAJ",
+      "volumeInfo": {
+        "title": "Miguel García Granados, capitán general de ejército y presidente provisorio de la república de Guatemala, a sus conciudadanos y á los demas pueblos de Centro-América",
+        "authors": [
+          "Miguel García Granados"
+        ],
+        "publishedDate": "1872",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:982380630"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Tc2iswEACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Tc2iswEACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Miguel_Garc%C3%ADa_Granados_capit%C3%A1n_general.html?hl=&id=Tc2iswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Tc2iswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NGTTuAAACAAJ",
+      "etag": "mkUQKFvplfU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NGTTuAAACAAJ",
+      "volumeInfo": {
+        "title": "Memorias del general Miguel García Granados",
+        "authors": [
+          "Miguel García Granados (Pres. de Guatemala)"
+        ],
+        "publishedDate": "1877",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651198006"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NGTTuAAACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NGTTuAAACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias_del_general_Miguel_Garc%C3%ADa_Gran.html?hl=&id=NGTTuAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NGTTuAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jyaJ0AEACAAJ",
+      "etag": "Q8Ms+RS4nic",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jyaJ0AEACAAJ",
+      "volumeInfo": {
+        "title": "Memorias del general Miguel García Granados",
+        "subtitle": "Tomo primero",
+        "authors": [
+          "Miguel García Granados"
+        ],
+        "publishedDate": "1952",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1000869396"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Generals"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jyaJ0AEACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jyaJ0AEACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias_del_general_Miguel_Garc%C3%ADa_Gran.html?hl=&id=jyaJ0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jyaJ0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8SvlHAAACAAJ",
+      "etag": "gy2O/mwYIic",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8SvlHAAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje dirijido por el señor Presidente Provisorio de la República de Guatemala, Capitán Jeneral don Miguel García Granados, a la Asamblea Constituyente, el día 10 de marzo de 1872",
+        "authors": [
+          "Guatemala. President (1871-1872 : García Granados)",
+          "Miguel García Granados"
+        ],
+        "publishedDate": "1872",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12403859"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8SvlHAAACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8SvlHAAACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_dirijido_por_el_se%C3%B1or_President.html?hl=&id=8SvlHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8SvlHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Y_9ltAEACAAJ",
+      "etag": "YwwyuZVlBbg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Y_9ltAEACAAJ",
+      "volumeInfo": {
+        "title": "Miguel García Granados",
+        "subtitle": "Capitán General de Ejército y Presidente Provisorio de la República, a los guatemaltecos",
+        "authors": [
+          "Miguel García Granados"
+        ],
+        "publishedDate": "1872",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:982380797"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "El Salvador"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Y_9ltAEACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Y_9ltAEACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Miguel_Garc%C3%ADa_Granados.html?hl=&id=Y_9ltAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Y_9ltAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MThmtwAACAAJ",
+      "etag": "DK/4YYe32IU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MThmtwAACAAJ",
+      "volumeInfo": {
+        "title": "Memorias",
+        "authors": [
+          "Miguel García Granados (pres. Guatemala)"
+        ],
+        "publishedDate": "1952",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:760594818"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=MThmtwAACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=MThmtwAACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias.html?hl=&id=MThmtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MThmtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HaWkAQAACAAJ",
+      "etag": "mI6D9okHO7I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HaWkAQAACAAJ",
+      "volumeInfo": {
+        "title": "El presidente provisorio de la republica al ejército pacificador",
+        "authors": [
+          "Miguel García Granados"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:965917786"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HaWkAQAACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HaWkAQAACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_presidente_provisorio_de_la_republica.html?hl=&id=HaWkAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HaWkAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "f0SgswEACAAJ",
+      "etag": "Evwo1KIjThA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f0SgswEACAAJ",
+      "volumeInfo": {
+        "title": "Memorias del General D. Miguel G. Granados",
+        "authors": [
+          "Miguel García Granados"
+        ],
+        "publishedDate": "1877",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55241419"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 282,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=f0SgswEACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=f0SgswEACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memorias_del_General_D_Miguel_G_Granados.html?hl=&id=f0SgswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f0SgswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HmdtHAAACAAJ",
+      "etag": "QM7rM1OSjVs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HmdtHAAACAAJ",
+      "volumeInfo": {
+        "title": "Fortificación de Campaña",
+        "authors": [
+          "Miguel García Granados"
+        ],
+        "publishedDate": "1932",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:2529464"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 88,
+        "printType": "BOOK",
+        "categories": [
+          "Fortification, Field"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HmdtHAAACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HmdtHAAACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fortificaci%C3%B3n_de_Campa%C3%B1a.html?hl=&id=HmdtHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HmdtHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R80XtwAACAAJ",
+      "etag": "OvXVWF+2MB0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R80XtwAACAAJ",
+      "volumeInfo": {
+        "title": "Asamblea constituyente",
+        "authors": [
+          "Miguel García Granados"
+        ],
+        "publishedDate": "1872",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:759868705"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=R80XtwAACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=R80XtwAACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Asamblea_constituyente.html?hl=&id=R80XtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R80XtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nOwxzwEACAAJ",
+      "etag": "SrFSaDKPR34",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nOwxzwEACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje dirijido por el señor presidente provisorio de la República de Guatemala a la asamblea constituyente, el día 10 de marzo de 1872",
+        "authors": [
+          "Miguel García Granados"
+        ],
+        "publishedDate": "1872",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318526090"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nOwxzwEACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nOwxzwEACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_dirijido_por_el_se%C3%B1or_president.html?hl=&id=nOwxzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nOwxzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HynnPAAACAAJ",
+      "etag": "fiH4IpmKIIU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HynnPAAACAAJ",
+      "volumeInfo": {
+        "title": "Guatemaltecos",
+        "subtitle": "en mayo próximo pasado os dirijí la palabra, manifestandoos los derechos que me asistian para captinear un movimiento ...",
+        "authors": [
+          "Miguel García Granados"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21746226"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HynnPAAACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HynnPAAACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Guatemaltecos.html?hl=&id=HynnPAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HynnPAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h9wXywEACAAJ",
+      "etag": "JVMS+pgjQoM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h9wXywEACAAJ",
+      "volumeInfo": {
+        "title": "Indice general de las leyes emitidas por los gobiernos de la revolución de 1871",
+        "subtitle": "(la reforma)",
+        "authors": [
+          "Miguel García Granados"
+        ],
+        "publishedDate": "1971",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1123319180"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 194,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=h9wXywEACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=h9wXywEACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Indice_general_de_las_leyes_emitidas_por.html?hl=&id=h9wXywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h9wXywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "98nGHAAACAAJ",
+      "etag": "7c75lqbNzm8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/98nGHAAACAAJ",
+      "volumeInfo": {
+        "title": "El Acta de Patzicía",
+        "subtitle": "conceptos en que las municipalidades de la República ratificaron su apoyo a los jefes de la Revolución de 1871",
+        "authors": [
+          "Justo Rufino Barrios",
+          "Miguel García Granados",
+          "\"Sesquicentenario de la Independencia de Centroamérica. Guatemala, 15 de Septiembre 1821-1971.\""
+        ],
+        "publishedDate": "1971",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:2132409"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 239,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=98nGHAAACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=98nGHAAACAAJ&dq=inauthor:%22Miguel+Garc%C3%ADa+Granados%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Acta_de_Patzic%C3%ADa.html?hl=&id=98nGHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=98nGHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

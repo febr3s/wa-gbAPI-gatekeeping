@@ -1,0 +1,65 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Rafael%20%C3%81lvarez%20Ovalle\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Rafael%20%C3%81lvarez%20Ovalle\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "CtwKcgAACAAJ",
+      "etag": "7DJ6ab0+w0A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CtwKcgAACAAJ",
+      "volumeInfo": {
+        "title": "Centenario nacimiento Rafael Álvarez. [Sensación-al hallazgo, la historia del himno nacional escrita del puño y letra de su autor Álvarez, texto de Rigoberto Bran Azmitia. Historia del himno nacional, escrita por Rafael Álvarez Ovalle.].",
+        "authors": [
+          "Rafael Álvarez Ovalle"
+        ],
+        "publishedDate": "1958",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458431916"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 55,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=CtwKcgAACAAJ&dq=inauthor:%22Rafael+%C3%81lvarez+Ovalle%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CtwKcgAACAAJ&dq=inauthor:%22Rafael+%C3%81lvarez+Ovalle%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Centenario_nacimiento_Rafael_%C3%81lvarez_Se.html?hl=&id=CtwKcgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CtwKcgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

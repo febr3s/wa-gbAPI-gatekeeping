@@ -1,0 +1,2756 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Alejandro%20Marure\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Alejandro%20Marure\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Alejandro%20Marure\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Alejandro%20Marure\"&maxResults=20&startIndex=40&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Alejandro%20Marure\"&maxResults=5&startIndex=40&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 45,
+  "_totalRequestsMade": 3,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "VfNmAAAAMAAJ",
+      "etag": "zzkOrpHAgMg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VfNmAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Bosquejo histórico de las revoluciones de Centro-America",
+        "subtitle": "Desde 1811 hasta 1834",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173022898575"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 254,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VfNmAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VfNmAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VfNmAAAAMAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VfNmAAAAMAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bosquejo_hist%C3%B3rico_de_las_revoluciones.html?hl=&id=VfNmAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VfNmAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yBITAAAAYAAJ",
+      "etag": "OLX2Bhobj3s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yBITAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Bosquejo histórico de las revoluciones de Centro-America",
+        "subtitle": "Desde 1811 hasta 1834",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1877",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433081696753"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 478,
+        "printType": "BOOK",
+        "categories": [
+          "America Central - Historia"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yBITAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yBITAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yBITAAAAYAAJ&printsec=frontcover&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yBITAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yBITAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=yBITAAAAYAAJ&rdid=book-yBITAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Bosquejo_hist%C3%B3rico_de_las_revoluciones.epub?id=yBITAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Bosquejo_hist%C3%B3rico_de_las_revoluciones.pdf?id=yBITAAAAYAAJ&hl=&output=pdf&sig=ACfU3U2R3pWKi2L_Kc4crRFZJzxc3Szyxg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yBITAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OToPAAAAQAAJ",
+      "etag": "kkyVbKAHfCc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OToPAAAAQAAJ",
+      "volumeInfo": {
+        "title": "Efemerides de los hechos notables acaecidos en la republica de Centro-America, desde el año de 1821 hasta el de 1842",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1844",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "GENT:900000031088"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 86,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OToPAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OToPAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=OToPAAAAQAAJ&printsec=frontcover&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OToPAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OToPAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=OToPAAAAQAAJ&rdid=book-OToPAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Efemerides_de_los_hechos_notables_acaeci.epub?id=OToPAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Efemerides_de_los_hechos_notables_acaeci.pdf?id=OToPAAAAQAAJ&hl=&output=pdf&sig=ACfU3U2uB3itiXztbaoQBZAdgOoRkF6VYw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OToPAAAAQAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Vg8CAAAAYAAJ",
+      "etag": "iq2H4Ej+te4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Vg8CAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Observaciones sobre la intervencion que ha tenido el ex-presidente de Centro-América, general Francisco Morazán, en los negocios políticos de Guatemala, durante las convulsiones que ha sufrido este Estado, de mediados de 837 á principios de 839",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1839",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HXV2IW"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 66,
+        "printType": "BOOK",
+        "categories": [
+          "Central America (Federal Republic : 1823-1840)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.10.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Vg8CAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Vg8CAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Vg8CAAAAYAAJ&printsec=frontcover&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Vg8CAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Vg8CAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Vg8CAAAAYAAJ&rdid=book-Vg8CAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Observaciones_sobre_la_intervencion_que.epub?id=Vg8CAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Observaciones_sobre_la_intervencion_que.pdf?id=Vg8CAAAAYAAJ&hl=&output=pdf&sig=ACfU3U22CA8aFAFf5SifkCyIQFbWgAx37w&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Vg8CAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3ZhuEAAAQBAJ",
+      "etag": "/06gK+S+Aq4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3ZhuEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Efemerides de los hechos notables acaecidos en la República de Centro-América",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2022-05-05",
+        "description": "Reimpresión del original, primera publicación en 1844.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783368104245"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3368104241"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 89,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3ZhuEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3ZhuEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3ZhuEAAAQBAJ&printsec=frontcover&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3ZhuEAAAQBAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Efemerides_de_los_hechos_notables_acaeci.html?hl=&id=3ZhuEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Efemerides_de_los_hechos_notables_acaeci-sample-pdf.acsm?id=3ZhuEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3ZhuEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Reimpresión del original, primera publicación en 1844."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iSgCoQEACAAJ",
+      "etag": "8n+22CWEMyM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iSgCoQEACAAJ",
+      "volumeInfo": {
+        "title": "Bosquejo histórico de las revoluciones de Centroamérica, desde 1811 hasta 1834",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "2013",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9929592083"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789929592087"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=iSgCoQEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=iSgCoQEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bosquejo_hist%C3%B3rico_de_las_revoluciones.html?hl=&id=iSgCoQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iSgCoQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QzoPAAAAQAAJ",
+      "etag": "MuPaKbno8fs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QzoPAAAAQAAJ",
+      "volumeInfo": {
+        "title": "Observaciones sobre la intervención que ha tenido el ex-presidente de Centro-América, General Francisco Morazan, en los negocios políticos de Guatemala, ...",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1839",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "GENT:900000031089"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QzoPAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QzoPAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=QzoPAAAAQAAJ&printsec=frontcover&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QzoPAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QzoPAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=QzoPAAAAQAAJ&rdid=book-QzoPAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Observaciones_sobre_la_intervenci%C3%B3n_que.epub?id=QzoPAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Observaciones_sobre_la_intervenci%C3%B3n_que.pdf?id=QzoPAAAAQAAJ&hl=&output=pdf&sig=ACfU3U1yIM4bwJTbq57gsZxFA1V90UUwIw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QzoPAAAAQAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bWxlngEACAAJ",
+      "etag": "RT2kH2bo2G4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bWxlngEACAAJ",
+      "volumeInfo": {
+        "title": "Bosquejo histórico de las revoluciones de Centro-América",
+        "subtitle": "desde 1811 hasta 1834",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:2003554656"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=bWxlngEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=bWxlngEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bosquejo_hist%C3%B3rico_de_las_revoluciones.html?hl=&id=bWxlngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bWxlngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MzoPAAAAQAAJ",
+      "etag": "YIFz6sYzvMU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MzoPAAAAQAAJ",
+      "volumeInfo": {
+        "title": "Memoria histórica sobre el Canal de Nicaragua",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1845",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "GENT:900000031084"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 52,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua Canal (Nicaragua)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.12.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MzoPAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MzoPAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=MzoPAAAAQAAJ&printsec=frontcover&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MzoPAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MzoPAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=MzoPAAAAQAAJ&rdid=book-MzoPAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Memoria_hist%C3%B3rica_sobre_el_Canal_de_Nic.epub?id=MzoPAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Memoria_hist%C3%B3rica_sobre_el_Canal_de_Nic.pdf?id=MzoPAAAAQAAJ&hl=&output=pdf&sig=ACfU3U2uVGcpe4Nn1qK6FQXnGpT_--cp2g&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MzoPAAAAQAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QjoPAAAAQAAJ",
+      "etag": "2nJ6vA5E2PY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QjoPAAAAQAAJ",
+      "volumeInfo": {
+        "title": "Memoria sobre la insurreccion de Santa Rosa y Mataquescuintla en Centro-America, comparada con la que estalló en Francia, el año de 1790, en los departementos de la Vendée, etc",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1839",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "GENT:900000031086"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.9.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QjoPAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QjoPAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=QjoPAAAAQAAJ&printsec=frontcover&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QjoPAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QjoPAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=QjoPAAAAQAAJ&rdid=book-QjoPAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Memoria_sobre_la_insurreccion_de_Santa_R.epub?id=QjoPAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QjoPAAAAQAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Vs98wgEACAAJ",
+      "etag": "fp8189eIzL8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Vs98wgEACAAJ",
+      "volumeInfo": {
+        "title": "Bosquejo Histórico de Las Revoluciones de Centro-America",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publisher": "Wentworth Press",
+        "publishedDate": "2018-08-02",
+        "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0274661101"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780274661107"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Vs98wgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Vs98wgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Vs98wgEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Vs98wgEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bosquejo_Hist%C3%B3rico_de_Las_Revoluciones.html?hl=&id=Vs98wgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Vs98wgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "08DbxQEACAAJ",
+      "etag": "0NqtiNqMlH8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/08DbxQEACAAJ",
+      "volumeInfo": {
+        "title": "Efemerides De Los Hechos Notables Acaecidos En La Republica De Centro-America, Desde El Año De 1821 Hasta El De 1842",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publisher": "Wentworth Press",
+        "publishedDate": "2018-07-30",
+        "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "027427471X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780274274710"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 82,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=08DbxQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=08DbxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=08DbxQEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=08DbxQEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Efemerides_De_Los_Hechos_Notables_Acaeci.html?hl=&id=08DbxQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=08DbxQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6Gof0QEACAAJ",
+      "etag": "6uO7w9ntRcE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6Gof0QEACAAJ",
+      "volumeInfo": {
+        "title": "Efemérides hechos notables acaecidos en la república de Centro-América desde el año de 1821 hasta el de 1842",
+        "subtitle": "seguida de varios catálogos de presidentes de la República, jefes de estado, etc",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:16017633"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6Gof0QEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6Gof0QEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Efem%C3%A9rides_hechos_notables_acaecidos_en.html?hl=&id=6Gof0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6Gof0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Nt98PwAACAAJ",
+      "etag": "K/Ryp9RbHRA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Nt98PwAACAAJ",
+      "volumeInfo": {
+        "title": "Bosquejo histórico de las revoluciones de Centro-América, desde 1811 hasta 1834",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1837",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:10782912"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Nt98PwAACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Nt98PwAACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bosquejo_hist%C3%B3rico_de_las_revoluciones.html?hl=&id=Nt98PwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Nt98PwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ts00swEACAAJ",
+      "etag": "YpRN8BryK60",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ts00swEACAAJ",
+      "volumeInfo": {
+        "title": "Efemérides de los hechos notables acaecidos en la república de Centro-América, desde el año de 1821 hasta el de 1842",
+        "subtitle": "seguidas de varios catálogos de los presidentes de la república, jefes de estado, etc",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1844",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:16629170"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 79,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Ts00swEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Ts00swEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Efem%C3%A9rides_de_los_hechos_notables_acaec.html?hl=&id=Ts00swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ts00swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IBhUNAEACAAJ",
+      "etag": "yBgwFICgdGE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IBhUNAEACAAJ",
+      "volumeInfo": {
+        "title": "Efemerides de los hechos notables acaecidos en la Republica de Centro America desde el ano de 1821 hasta el de 1842",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:777969012"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 157,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=IBhUNAEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=IBhUNAEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Efemerides_de_los_hechos_notables_acaeci.html?hl=&id=IBhUNAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IBhUNAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OHSr0QEACAAJ",
+      "etag": "a9PJX9ewpCo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OHSr0QEACAAJ",
+      "volumeInfo": {
+        "title": "Efemérides de los hechos notables acaecidos en la República de Centro-América desde el año 1821 hasta el de 1842",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1895",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1123338379"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=OHSr0QEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=OHSr0QEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Efem%C3%A9rides_de_los_hechos_notables_acaec.html?hl=&id=OHSr0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OHSr0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nY1tswEACAAJ",
+      "etag": "jfv0+AQrya4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nY1tswEACAAJ",
+      "volumeInfo": {
+        "title": "Efemerides de los hechos notables acaecidos en la republica de Centro-America",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1844",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:01028349"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 83,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nY1tswEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nY1tswEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Efemerides_de_los_hechos_notables_acaeci.html?hl=&id=nY1tswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nY1tswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "z48zAQAAMAAJ",
+      "etag": "/zWWrDNftFk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z48zAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Catálogo razonado de las leyes de Guatemala",
+        "authors": [
+          "Guatemala"
+        ],
+        "publishedDate": "1856",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:35112105309142"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 380,
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=z48zAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=z48zAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=z48zAQAAMAAJ&printsec=frontcover&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=z48zAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=z48zAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=z48zAQAAMAAJ&rdid=book-z48zAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Cat%C3%A1logo_razonado_de_las_leyes_de_Guate.epub?id=z48zAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Cat%C3%A1logo_razonado_de_las_leyes_de_Guate.pdf?id=z48zAQAAMAAJ&hl=&output=pdf&sig=ACfU3U1sRNGt6pNqTB5q_GFwkjJZjAtshQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=z48zAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZdgJAQAAIAAJ",
+      "etag": "hYlmXhvGtic",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZdgJAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Efemérides",
+        "subtitle": "hechos notables acaecidos en la República de Centroamérica desde el ano de 1821 hasta el de 1842 ...",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1956",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3182384"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 174,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZdgJAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZdgJAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZdgJAQAAIAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZdgJAQAAIAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Efem%C3%A9rides.html?hl=&id=ZdgJAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZdgJAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rM9_RQAACAAJ",
+      "etag": "Br+bJZEx9+g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rM9_RQAACAAJ",
+      "volumeInfo": {
+        "title": "Historiadores de América",
+        "subtitle": "Alejandro Marure [y] José Milla y Vidaurre",
+        "authors": [
+          "Ernesto Chinchilla Aguilar",
+          "Francis Gall",
+          "Alejandro Marure",
+          "José Milla"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:25359101"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=rM9_RQAACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rM9_RQAACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historiadores_de_Am%C3%A9rica.html?hl=&id=rM9_RQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rM9_RQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Of0rygAACAAJ",
+      "etag": "iJ25Nix5JHA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Of0rygAACAAJ",
+      "volumeInfo": {
+        "title": "Bosquejo histórico de las revoluciones de Centro-América desde 1811 hasta 1834, escrito por Alejandro Marure... [2a ed., con un Prólogo de Lorenzo Montúfar.].",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1877",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:457361025"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Of0rygAACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Of0rygAACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bosquejo_hist%C3%B3rico_de_las_revoluciones.html?hl=&id=Of0rygAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Of0rygAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vkBgzgEACAAJ",
+      "etag": "7q3Oc64aWAg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vkBgzgEACAAJ",
+      "volumeInfo": {
+        "title": "Catálogo razonado de las leyes de Guatemala, que por disposicion del gobierno comenzo a formar el Sr. Don. Alejandro Marure, y continuo... Don Andres Fuentes Franco, comprende todas las que han sido promulgadas desde la independencia, hasta el 30 de setiembre de 1856",
+        "authors": [
+          "Andres Fuentes",
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1856",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1243901312"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 321,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vkBgzgEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vkBgzgEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cat%C3%A1logo_razonado_de_las_leyes_de_Guate.html?hl=&id=vkBgzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vkBgzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qMu8GAAACAAJ",
+      "etag": "zF9ElZeaCgM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qMu8GAAACAAJ",
+      "volumeInfo": {
+        "title": "Catálogo razonado de las leyes de Guatemala",
+        "subtitle": "(contiene adiciones al de don Alejandro Marure, que lo dejó hasta 1850; al del licenciado Andrés Fuentes Franco, hasta 1856 y su continuación hasta 1871)",
+        "authors": [
+          "Guatemala",
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1945",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:47016180"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 179,
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qMu8GAAACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qMu8GAAACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cat%C3%A1logo_razonado_de_las_leyes_de_Guate.html?hl=&id=qMu8GAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qMu8GAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Edition of an anonymous undated manuscript index to Guatemalan legislation, apparently a continuation of the Catálogo razonado de las leyes de Guatemala published in 1856."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "w0dw0QEACAAJ",
+      "etag": "HjrBzhfaSAA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/w0dw0QEACAAJ",
+      "volumeInfo": {
+        "title": "Bosquejo HistÃ3rico de las revoluciones de Centro-AmÃ(c)rica desde 1811 hasta 1834",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publisher": "Hutson Street Press",
+        "publishedDate": "2025-05-22",
+        "description": "Bosquejo HistÃ3rico de las revoluciones de Centro-América desde 1811 hasta 1834, Volume 1, by Alejandro Marure, offers a detailed historical sketch of the revolutionary period in Central America. This volume provides valuable insights into the political and social upheavals that shaped the region during its fight for independence. Marure's work is an essential resource for understanding the complex dynamics of Central American history in the early 19th century. The book delves into the key events, figures, and ideological currents that drove the revolutions, offering a comprehensive overview for scholars and history enthusiasts. Its enduring value lies in its detailed account of a pivotal era in the formation of Central American nations. This historical sketch remains a vital reference for anyone interested in the struggles and triumphs of Central America's journey to independence. This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1024140555"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781024140552"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=w0dw0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=w0dw0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=w0dw0QEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=w0dw0QEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bosquejo_Hist%C3%833rico_de_las_revoluciones.html?hl=&id=w0dw0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=w0dw0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This volume provides valuable insights into the political and social upheavals that shaped the region during its fight for independence."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_DVz0QEACAAJ",
+      "etag": "lXfb1EMUhN0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_DVz0QEACAAJ",
+      "volumeInfo": {
+        "title": "Bosquejo HistÃ3rico de las Revoluciones de Centro-AmÃ(c)rica.",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publisher": "Hutson Street Press",
+        "publishedDate": "2025-05-22",
+        "description": "Bosquejo HistÃ3rico de las Revoluciones de Centro-América, Volume 2, ofrece una detallada crÃ3nica de los tumultuosos eventos que marcaron la historia de Centroamérica en el siglo XIX. Alejandro Marure presenta un análisis profundo de las revoluciones, explorando sus causas, desarrollo y consecuencias. Este volumen proporciona una valiosa perspectiva sobre los desafÃ-os polÃ-ticos y sociales que enfrentaron las naciones centroamericanas en su bÃ°squeda de independencia y estabilidad. Escrito en un estilo claro y accesible, este libro es esencial para cualquier persona interesada en la historia de América Latina y la evoluciÃ3n polÃ-tica de la regiÃ3n. La obra de Marure sigue siendo una referencia importante para comprender las raÃ-ces de los conflictos y las aspiraciones de los pueblos centroamericanos. This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1024138550"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781024138559"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_DVz0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_DVz0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_DVz0QEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_DVz0QEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bosquejo_Hist%C3%833rico_de_las_Revoluciones.html?hl=&id=_DVz0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_DVz0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Acol0AEACAAJ",
+      "etag": "NRPVicYAOgc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Acol0AEACAAJ",
+      "volumeInfo": {
+        "title": "Bosquejo histórico de las revoluciones de Centro América desde 1811 hasta 1834; Volume I",
+        "authors": [
+          "Marure Alejandro"
+        ],
+        "publisher": "Legare Street Press",
+        "publishedDate": "2023-07-18",
+        "description": "En esta obra, Alejandro Marure relata los acontecimientos históricos que llevaron a las revoluciones centroamericanas de la primera mitad del siglo XIX. Una obra esencial para los interesados en la historia de Centroamérica y en las luchas por la independencia latinoamericana. This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the \"public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1021018597"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781021018595"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Acol0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Acol0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Acol0AEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Acol0AEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bosquejo_hist%C3%B3rico_de_las_revoluciones.html?hl=&id=Acol0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Acol0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the &quot;public domain in the United States of America, and possibly other nations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CZd1XwAACAAJ",
+      "etag": "2voWTkajoaU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CZd1XwAACAAJ",
+      "volumeInfo": {
+        "title": "Efemerides de los hechos notables acaecidos en la república de Centro-América, desde el año de 1821 hasta el de 1842, seguidas de varios catálogos de los presidentes de la república, gefes de los Estados, etc. Por Alejandro Marure,...",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1844",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:457361034"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 83,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=CZd1XwAACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CZd1XwAACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Efemerides_de_los_hechos_notables_acaeci.html?hl=&id=CZd1XwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CZd1XwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jj5o0QEACAAJ",
+      "etag": "NIw8Wsk+wM0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jj5o0QEACAAJ",
+      "volumeInfo": {
+        "title": "Observaciones Sobre La IntervenciÃ3n Que Ha Tenido El Ex-Presidente De Centro-AmÃ(c)rica, General Francisco Morazàn, En Los Negocios PolÃ-ticos De Guatemala, Durante Las Convulsiones Que Ha Sufrido Este Estado, De Mediados De 837 Ã Principios De 839",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publisher": "Hutson Street Press",
+        "publishedDate": "2025-05-22",
+        "description": "Observaciones Sobre La IntervenciÃ3n Que Ha Tenido El Ex-Presidente De Centro-AmÃ(c)rica, General Francisco Morazàn, En Los Negocios PolÃ-ticos De Guatemala, Durante Las Convulsiones Que Ha Sufrido Este Estado, De Mediados De 837 Ã Principios De 839, written by Alejandro Marure, offers a detailed examination of General Francisco Morazàn's involvement in the political affairs of Guatemala during a period of significant upheaval from mid-1837 to early 1839. This historical account provides valuable insights into the political dynamics of Central America in the early 19th century and the role played by key figures like Morazàn. Marureâ€(TM)s observations shed light on the complex interactions and conflicts that shaped the region during this tumultuous era, making it an important resource for historians and scholars interested in Central American political history. This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1023660121"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781023660129"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jj5o0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jj5o0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jj5o0QEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jj5o0QEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Observaciones_Sobre_La_Intervenci%C3%833n_Qu.html?hl=&id=jj5o0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jj5o0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "N1rmvgEACAAJ",
+      "etag": "69XB5QAKoM0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N1rmvgEACAAJ",
+      "volumeInfo": {
+        "title": "Bosquejo histórico de las revoluciones de Centroamérica desde 1811 hasta 1834, etc",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1960",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1061921180"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 704,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=N1rmvgEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=N1rmvgEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bosquejo_hist%C3%B3rico_de_las_revoluciones.html?hl=&id=N1rmvgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N1rmvgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WD9FPgAACAAJ",
+      "etag": "JiJ6g4xv9ng",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WD9FPgAACAAJ",
+      "volumeInfo": {
+        "title": "Bosquejo histórico de las revoluciones de Centro-America",
+        "subtitle": "desde 1811 hasta 1826",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1971*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:252909383"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 79,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WD9FPgAACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WD9FPgAACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bosquejo_hist%C3%B3rico_de_las_revoluciones.html?hl=&id=WD9FPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WD9FPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zQLynQEACAAJ",
+      "etag": "jhyimmCu9K4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zQLynQEACAAJ",
+      "volumeInfo": {
+        "title": "Efemérides de los hechos notables acaecidos en la república de Centro-América desde el anño de 1821 hasta el de 1842",
+        "subtitle": "Seguidas de varios catálogos de presidentes de la república, jefes de estado, etc",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1844",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:16017633"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 157,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=zQLynQEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zQLynQEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Efem%C3%A9rides_de_los_hechos_notables_acaec.html?hl=&id=zQLynQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zQLynQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "U27rPgAACAAJ",
+      "etag": "UI2dJtTY9XA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U27rPgAACAAJ",
+      "volumeInfo": {
+        "title": "Memoria sobre el canal de Nicaragua",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1889",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253233190"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=U27rPgAACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=U27rPgAACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memoria_sobre_el_canal_de_Nicaragua.html?hl=&id=U27rPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U27rPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mq6VuwEACAAJ",
+      "etag": "WK0EEFi2jSg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mq6VuwEACAAJ",
+      "volumeInfo": {
+        "title": "Catalogo de las leyes promulgadas en el estado de Guatemala",
+        "subtitle": "desde su erección en 15 de septiembre de 1824 hasta el 5 de octubre de 1841",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1841",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:891542723"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mq6VuwEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mq6VuwEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Catalogo_de_las_leyes_promulgadas_en_el.html?hl=&id=mq6VuwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mq6VuwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5GcBtAEACAAJ",
+      "etag": "8MR4Pv6zJQ8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5GcBtAEACAAJ",
+      "volumeInfo": {
+        "title": "Bosquejo historico de las revoluciones de Centro America",
+        "subtitle": "desde 1811 hasta 1826",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1969",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1025722239"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 492,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5GcBtAEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5GcBtAEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bosquejo_historico_de_las_revoluciones_d.html?hl=&id=5GcBtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5GcBtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MZBCAQAAMAAJ",
+      "etag": "ehOBmfMLEBw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MZBCAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Catalogo de las leyes promulgadas en el estado de Guatemala, desde su ereccion en 15 de setiembre de 1824 hasta el 5 de octubre de 1841",
+        "authors": [
+          "Alejandro Marure",
+          "Guatemala"
+        ],
+        "publishedDate": "1841",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:31951D02053292R"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MZBCAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MZBCAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=MZBCAQAAMAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=MZBCAQAAMAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Catalogo_de_las_leyes_promulgadas_en_el.html?hl=&id=MZBCAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MZBCAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kVWYzwEACAAJ",
+      "etag": "byiMRJBDGZc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kVWYzwEACAAJ",
+      "volumeInfo": {
+        "title": "Memoria sobre la insurrección de Santa Rosa y Mataquescuintla en Centro América, comparada con la que estalló en Francia, el año 1790, en los departamentos de la Vendée, cet",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1838",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1025778853"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=kVWYzwEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=kVWYzwEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memoria_sobre_la_insurrecci%C3%B3n_de_Santa.html?hl=&id=kVWYzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kVWYzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NNIHywEACAAJ",
+      "etag": "Ox4OFIdZJeQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NNIHywEACAAJ",
+      "volumeInfo": {
+        "title": "Efemérides de Los Hechos Notables Acaecidos en la República de Centro-América Desde El Año de 1821 Hasta El de 1841",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1895",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:16017633"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 157,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=NNIHywEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NNIHywEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Efem%C3%A9rides_de_Los_Hechos_Notables_Acaec.html?hl=&id=NNIHywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NNIHywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bPaGtgAACAAJ",
+      "etag": "u4YruQoTJik",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bPaGtgAACAAJ",
+      "volumeInfo": {
+        "title": "Memoria sobre la insurrección de Santa Rosa y Mataquescuintla, en Centro América",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1889",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:15334891"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=bPaGtgAACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=bPaGtgAACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memoria_sobre_la_insurrecci%C3%B3n_de_Santa.html?hl=&id=bPaGtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bPaGtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ws_yPgAACAAJ",
+      "etag": "cnN0qhMve7w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ws_yPgAACAAJ",
+      "volumeInfo": {
+        "title": "Efemérides de los hechos notables acaccidos en la República de Centro-América ...",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1895",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:252875745"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ws_yPgAACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ws_yPgAACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Efem%C3%A9rides_de_los_hechos_notables_acacc.html?hl=&id=ws_yPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ws_yPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RMYzMwEACAAJ",
+      "etag": "ciDaKEjWSPo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RMYzMwEACAAJ",
+      "volumeInfo": {
+        "title": "José Batres Montúfar Y Alejandro Marure. [By F. Cruz and A. Machado. With Portraits.].",
+        "authors": [
+          "Fernando Cruz",
+          "José BATRES Y. MONTÚFAR",
+          "Antonio MACHADO (of Guatemala.)",
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1957",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:558042853"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 138,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=RMYzMwEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RMYzMwEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jos%C3%A9_Batres_Mont%C3%BAfar_Y_Alejandro_Marur.html?hl=&id=RMYzMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RMYzMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0RF1XwAACAAJ",
+      "etag": "0hC+KCe0saA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0RF1XwAACAAJ",
+      "volumeInfo": {
+        "title": "Memoria sobre la insurreción de Santa Rosa y Mataquescuintla en Centro-América, comparada con la que estalló en Francia, el año de 1790 [sic], en los departamentos de la Vendée, cet",
+        "authors": [
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1838",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12782710"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 31,
+        "printType": "BOOK",
+        "categories": [
+          "France"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0RF1XwAACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0RF1XwAACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memoria_sobre_la_insurreci%C3%B3n_de_Santa_R.html?hl=&id=0RF1XwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0RF1XwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7PNOQwAACAAJ",
+      "etag": "4F02FWkiUdE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7PNOQwAACAAJ",
+      "volumeInfo": {
+        "title": "Middle and South America, the West Indies and the Philippine Islands",
+        "subtitle": "a catalogue of ... the library of Don Alejandro Marure ...",
+        "authors": [
+          "Karl W. Hiersemann (Firma)",
+          "Alejandro Marure"
+        ],
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:434282235"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 79,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "de",
+        "previewLink": "http://books.google.com.co/books?id=7PNOQwAACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7PNOQwAACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Middle_and_South_America_the_West_Indies.html?hl=&id=7PNOQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7PNOQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Oo3_PgAACAAJ",
+      "etag": "gyLXTdTND7s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Oo3_PgAACAAJ",
+      "volumeInfo": {
+        "title": "Memoria historica sobre El Canal de Nicaragua, seguida de algunas observaciones inéditas de Mr. J. Baully sobre el mismo asunto",
+        "authors": [
+          "Alejandro Marure",
+          "John Baily"
+        ],
+        "publishedDate": "1845",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55280399"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 47,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Oo3_PgAACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Oo3_PgAACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Memoria_historica_sobre_El_Canal_de_Nica.html?hl=&id=Oo3_PgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Oo3_PgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "84_aMgEACAAJ",
+      "etag": "igieZsu4smM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/84_aMgEACAAJ",
+      "volumeInfo": {
+        "title": "Bosquejo histórico de las revoluciones de Centro-America desde 1811 hasta 1834. Tomo primeiro",
+        "authors": [
+          "Alejandro MARURE"
+        ],
+        "publishedDate": "1837",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:562834791"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=84_aMgEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&cd=45&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=84_aMgEACAAJ&dq=inauthor:%22Alejandro+Marure%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bosquejo_hist%C3%B3rico_de_las_revoluciones.html?hl=&id=84_aMgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=84_aMgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

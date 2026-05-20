@@ -1,0 +1,4242 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Mariano%20Paredes\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Mariano%20Paredes\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Mariano%20Paredes\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Mariano%20Paredes\"&maxResults=20&startIndex=40&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Mariano%20Paredes\"&maxResults=20&startIndex=60&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Mariano%20Paredes\"&maxResults=13&startIndex=60&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 73,
+  "_totalRequestsMade": 4,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "YuAnAQAAMAAJ",
+      "etag": "9OC8s6ILWP4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YuAnAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Esposición que el general D. Mariano Paredes y Arrillaga hace a sus conciudadanos",
+        "subtitle": "en manisfestación de su conducta política, militar y económica en la presente revolución",
+        "authors": [
+          "Mariano Paredes y Arrillaga"
+        ],
+        "publishedDate": "1841",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89083022913"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "categories": [
+          "Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YuAnAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YuAnAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YuAnAQAAMAAJ&printsec=frontcover&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YuAnAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YuAnAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=YuAnAQAAMAAJ&rdid=book-YuAnAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Esposici%C3%B3n_que_el_general_D_Mariano_Par.epub?id=YuAnAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Esposici%C3%B3n_que_el_general_D_Mariano_Par.pdf?id=YuAnAQAAMAAJ&hl=&output=pdf&sig=ACfU3U3Jekd5RluVsKwJyOHxi_m8_EXqag&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YuAnAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZSdOAAAAYAAJ",
+      "etag": "lG8/AhzeAnA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZSdOAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Manifiesto del Exmo. Sr. Presidente Interino de la República Mexicana",
+        "authors": [
+          "Mexico. President (1846 : Paredes y Arrillaga)"
+        ],
+        "publishedDate": "1846",
+        "description": "On the occupation of Texas and other territories by the United States.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PRNC:32101078161484"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "categories": [
+          "Mexican War, 1846-1848"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZSdOAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZSdOAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZSdOAAAAYAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZSdOAAAAYAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifiesto_del_Exmo_Sr_Presidente_Interi.html?hl=&id=ZSdOAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZSdOAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "On the occupation of Texas and other territories by the United States."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yZULAAAAIAAJ",
+      "etag": "N+FBQNDHd8g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yZULAAAAIAAJ",
+      "volumeInfo": {
+        "title": "La Situación política, militar y económica en la República Mexicana al iniciarse su guerra con los Estados Unidos",
+        "authors": [
+          "Mariano Paredes y Arrillaga"
+        ],
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105039346726"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 282,
+        "printType": "BOOK",
+        "categories": [
+          "Mexican War, 1846-1848"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.12.11.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yZULAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yZULAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yZULAAAAIAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yZULAAAAIAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Situaci%C3%B3n_pol%C3%ADtica_militar_y_econ%C3%B3.html?hl=&id=yZULAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yZULAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y4UrAQAAMAAJ",
+      "etag": "ZMVvdMFUXcM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y4UrAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Proyectos de leyes sobre colonización y comercio en el Estado de Sonora, presentados a la Cámara de Diputados",
+        "authors": [
+          "Mariano Paredes"
+        ],
+        "publishedDate": "1850",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSD:31822031031990"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "categories": [
+          "Baja California (Mexico : Peninsula)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=y4UrAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=y4UrAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=y4UrAQAAMAAJ&printsec=frontcover&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=y4UrAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=y4UrAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=y4UrAQAAMAAJ&rdid=book-y4UrAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com.co/books/download/Proyectos_de_leyes_sobre_colonizaci%C3%B3n_y.epub?id=y4UrAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com.co/books/download/Proyectos_de_leyes_sobre_colonizaci%C3%B3n_y.pdf?id=y4UrAQAAMAAJ&hl=&output=pdf&sig=ACfU3U073tGzhlqb-bIzLPirIBa30h-25g&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y4UrAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EZdjewAACAAJ",
+      "etag": "0qL996B9+Vc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EZdjewAACAAJ",
+      "volumeInfo": {
+        "title": "Mariano Paredes y Arrillaga general de división, presidente interino de la República Méxicana",
+        "subtitle": "a la nación",
+        "authors": [
+          "Mariano Paredes y Arrillaga"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651385592"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 19,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EZdjewAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EZdjewAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mariano_Paredes_y_Arrillaga_general_de_d.html?hl=&id=EZdjewAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EZdjewAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qghMQwAACAAJ",
+      "etag": "YKC4ph8Za7U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qghMQwAACAAJ",
+      "volumeInfo": {
+        "title": "Exposición que el General D. Mariano Paredes y Arrillaga hace a sus conciudadanos su manifestación de su conducta política, militar y económica en la presente revolución",
+        "authors": [
+          "Mariano Paredes y Arrillaga"
+        ],
+        "publishedDate": "1841",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432831332"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 28,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qghMQwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qghMQwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Exposici%C3%B3n_que_el_General_D_Mariano_Par.html?hl=&id=qghMQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qghMQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h5jXPgAACAAJ",
+      "etag": "3ELesElKlyA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h5jXPgAACAAJ",
+      "volumeInfo": {
+        "title": "Mariano Paredes",
+        "subtitle": "25 reproducciones en blanco y negro y seis maderas impresas con las planchas originales",
+        "authors": [
+          "Mariano Paredes",
+          "Margarita Nelken",
+          "Antonio Rodríguez",
+          "Galería Arte Moderno"
+        ],
+        "publishedDate": "1951",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253997577"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=h5jXPgAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=h5jXPgAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mariano_Paredes.html?hl=&id=h5jXPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h5jXPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "F6QkmgEACAAJ",
+      "etag": "76cd738EFWc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/F6QkmgEACAAJ",
+      "volumeInfo": {
+        "title": "Breve esposición que el general Mariano Paredes y Arrillaga",
+        "subtitle": "hace á sus conciudadanos, sobre los motivos que le impulsaron á regresar á su pátria",
+        "authors": [
+          "Mariano Paredes y Arrillaga"
+        ],
+        "publishedDate": "1847",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432992753"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 12,
+        "printType": "BOOK",
+        "categories": [
+          "Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=F6QkmgEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=F6QkmgEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Breve_esposici%C3%B3n_que_el_general_Mariano.html?hl=&id=F6QkmgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=F6QkmgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "25F1HAAACAAJ",
+      "etag": "zkxkpy5iMK0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/25F1HAAACAAJ",
+      "volumeInfo": {
+        "title": "Manifiesto del General Mariano Paredes y Arrilaga a sus conciudadanos",
+        "authors": [
+          "Mariano Paredes y Arrillaga"
+        ],
+        "publishedDate": "1847",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:28006733"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "categories": [
+          "Mexican War, 1846-1848"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=25F1HAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=25F1HAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifiesto_del_General_Mariano_Paredes_y.html?hl=&id=25F1HAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=25F1HAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fWx7swEACAAJ",
+      "etag": "8ZiE9kkpCGs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fWx7swEACAAJ",
+      "volumeInfo": {
+        "title": "Exposición que el general d. Mariano Paredes y Arrillaga hace a sus conciudadanos",
+        "authors": [
+          "Mariano Paredes y Arrillaga"
+        ],
+        "publishedDate": "1841",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:04027577"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 28,
+        "printType": "BOOK",
+        "categories": [
+          "Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fWx7swEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fWx7swEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Exposici%C3%B3n_que_el_general_d_Mariano_Par.html?hl=&id=fWx7swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fWx7swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "W3nEswEACAAJ",
+      "etag": "jnBDCA0GNIg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/W3nEswEACAAJ",
+      "volumeInfo": {
+        "title": "Mariano Paredes, 25 reproducciones en blanco y negro y seis maderas impresas con las plancas originales",
+        "authors": [
+          "Mariano Paredes"
+        ],
+        "publishedDate": "1951",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:52021731"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=W3nEswEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=W3nEswEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mariano_Paredes_25_reproducciones_en_bla.html?hl=&id=W3nEswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=W3nEswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aLtuGwAACAAJ",
+      "etag": "+24Gw9vAT5E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aLtuGwAACAAJ",
+      "volumeInfo": {
+        "title": "Homenaje a Mariano Paredes",
+        "authors": [
+          "Mariano Paredes",
+          "Consejo Nacional para la Cultura y las Artes (Mexico)",
+          "Instituto Nacional de Bellas Artes (Mexico)",
+          "Museo Nacional de la Estampa (Mexico City, Mexico)"
+        ],
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:42352533"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "categories": [
+          "Engraving"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=aLtuGwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=aLtuGwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Homenaje_a_Mariano_Paredes.html?hl=&id=aLtuGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aLtuGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aEnGPAAACAAJ",
+      "etag": "l0Z9jkDpJuM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aEnGPAAACAAJ",
+      "volumeInfo": {
+        "title": "El Exmo. Sr. presidente interino se ha servido dirigirme el decreto que sique",
+        "subtitle": "Mariano Paredes y Arrillaga, general de division y presidente interino de la Républica mexicana, á los habitantes de ella, sabed : Que considerando que la Escuela normal del ejército ...",
+        "authors": [
+          "Mexico",
+          "Mariano Paredes y Arrillaga",
+          "José María Tornel y Mendívil",
+          "Mexico. President (1846 : Paredes y Arrillaga)",
+          "Mexico. Ministerio de Guerra y Marina"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54135913"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 4,
+        "printType": "BOOK",
+        "categories": [
+          "Mexican War, 1846-1848"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=aEnGPAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=aEnGPAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Exmo_Sr_presidente_interino_se_ha_ser.html?hl=&id=aEnGPAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aEnGPAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0tlkygAACAAJ",
+      "etag": "g7E86p27mKQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0tlkygAACAAJ",
+      "volumeInfo": {
+        "title": "Breve esposición que el general Mariano Paredes y Arrillaga, hace ásus conciudadanos, sobre los motivos que le impulsaron á regresar á su pátria",
+        "authors": [
+          "Mariano Paredes y Arrillaga"
+        ],
+        "publishedDate": "1847",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:702689232"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 12,
+        "printType": "BOOK",
+        "categories": [
+          "Mexican War, 1846-1848"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0tlkygAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0tlkygAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Breve_esposici%C3%B3n_que_el_general_Mariano.html?hl=&id=0tlkygAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0tlkygAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lYFhQAAACAAJ",
+      "etag": "pxsVzeeyGTg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lYFhQAAACAAJ",
+      "volumeInfo": {
+        "title": "Mariano Paredes y Arrillaga, general de division y Presidente interino de la República Mexicana á todos sus habitantes sabed: Que desde mi ingreso al supremo mando de la nacion me dediquè á examinar el estado de nuestra marina de guerra ... deseoso de que nuestra marina de guerra sea lo que puede ser ... he tenido á bien decretar ... lo contenido en los artìculos siguientes. 1.0 En el Departamento de Marina del Norte, habrá dos bergantines, dos goletas, y seis cañoneras con los destinos y dotaciones que se explican en el adjunto estado ...",
+        "authors": [
+          "Mexico",
+          "Mariano Paredes y Arrillaga"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21516570"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 3,
+        "printType": "BOOK",
+        "categories": [
+          "Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lYFhQAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lYFhQAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mariano_Paredes_y_Arrillaga_general_de_d.html?hl=&id=lYFhQAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lYFhQAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vrV7JgAACAAJ",
+      "etag": "EV/cmLn9Ba0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vrV7JgAACAAJ",
+      "volumeInfo": {
+        "title": "Manifiesto del general Mariano Paredes y Arrillaga",
+        "subtitle": "comandante en gefe de la division que tomó, sobre los disidentes, la plaza de Mazatlan",
+        "authors": [
+          "Mariano Paredes y Arrillaga"
+        ],
+        "publishedDate": "1838",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:25014302"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vrV7JgAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vrV7JgAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifiesto_del_general_Mariano_Paredes_y.html?hl=&id=vrV7JgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vrV7JgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WqG_YgEACAAJ",
+      "etag": "GctNhufDzbI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WqG_YgEACAAJ",
+      "volumeInfo": {
+        "title": "Mariano Paredes",
+        "authors": [
+          "Mariano Paredes",
+          "Galeria Arte Moderno (México, D.F.)"
+        ],
+        "publishedDate": "1951",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651478766"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WqG_YgEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WqG_YgEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mariano_Paredes.html?hl=&id=WqG_YgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WqG_YgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cxOdGwAACAAJ",
+      "etag": "QUyu5KxkpB4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cxOdGwAACAAJ",
+      "volumeInfo": {
+        "title": "Manifiesto que hace ante el incorruptible tribunal de la opinion publica el ciudadano Mariano Paredes desmintiendo las calumnias que gratuitamente y con audacia le infirio D. Ancelmo Larrondo y Comparsa en noviembre del año proximo pasado con el fin de apellidar un pretesto para perseguirlo y arruinarlo en sus intereses y de los que en la parte necessaria se hace la correspondiente relacion",
+        "authors": [
+          "Mariano Paredes y Arrillaga"
+        ],
+        "publishedDate": "1843",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21005203"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 47,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cxOdGwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cxOdGwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifiesto_que_hace_ante_el_incorruptibl.html?hl=&id=cxOdGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cxOdGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LpwCtwAACAAJ",
+      "etag": "OJk07K97K80",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LpwCtwAACAAJ",
+      "volumeInfo": {
+        "title": "Mariano Paredes y Arrillaga, general de division y en gefe del ejército protector de la independencia",
+        "subtitle": "compatriotas y amigos, lanzado á la revolucion por un sentimiento de patriotismo puro ...",
+        "authors": [
+          "Mariano Paredes y Arrillaga"
+        ],
+        "publishedDate": "183?",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54250238"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=LpwCtwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LpwCtwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mariano_Paredes_y_Arrillaga_general_de_d.html?hl=&id=LpwCtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LpwCtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ufb4nQEACAAJ",
+      "etag": "KSOyNN1yFL4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ufb4nQEACAAJ",
+      "volumeInfo": {
+        "title": "Convenio",
+        "subtitle": "Reunidos los Sres. jeneral en jefe D. Mariano Paredes, Presidente de la república de Gautemala...",
+        "authors": [
+          "Mariano Paredes",
+          "Agustín Guzmán"
+        ],
+        "publishedDate": "1849",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:857921185"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ufb4nQEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ufb4nQEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Convenio.html?hl=&id=ufb4nQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ufb4nQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "78wOkAEACAAJ",
+      "etag": "xTpoc0IX5xo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/78wOkAEACAAJ",
+      "volumeInfo": {
+        "title": "Contestaciones habidas entre los exmos. señores generales de division, D. Mariano Paredes y Arrillaga, D. Mariano Arista y el supremo gobierno, por las que se acredita que solo faltó qualquiera clase de recursos por mesquinos que hubieran sido para que todo el ejército de reserva marchara al norte, tan luego como el señor arista avisó del reconocimiento que hacia el ejército norte-americano sobre el camino de matamoros",
+        "publishedDate": "1845",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:941858855"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 11,
+        "printType": "BOOK",
+        "categories": [
+          "Electronic books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=78wOkAEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=78wOkAEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Contestaciones_habidas_entre_los_exmos_s.html?hl=&id=78wOkAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=78wOkAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9kZvuAAACAAJ",
+      "etag": "p6lqyXkt4ok",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9kZvuAAACAAJ",
+      "volumeInfo": {
+        "title": "Contestaciones habidas entre el supremo gobierno del estado de Sinaloa y el Sr. general D. Mariano Paredes y Arrillaga",
+        "authors": [
+          "Sinaloa (Mexico : State). Governor (1838 : Orrantia)",
+          "J. Francisco Orrantia",
+          "Mariano Paredes y Arrillaga",
+          "Jalisco (Mexico). Comandancia General"
+        ],
+        "publishedDate": "1838",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54272403"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "categories": [
+          "Federal government"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9kZvuAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9kZvuAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Contestaciones_habidas_entre_el_supremo.html?hl=&id=9kZvuAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9kZvuAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yuZMPQAACAAJ",
+      "etag": "TPssInEdfIk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yuZMPQAACAAJ",
+      "volumeInfo": {
+        "title": "Contestaciones habidas entre los exmos. señores generales de division, D. Mariano Paredes y Arrillaga, D. Mariano Arista y el supremo gobierno ...",
+        "authors": [
+          "Mariano Paredes y Arrillaga",
+          "Mexico. President (1844-1845 : Herrera)"
+        ],
+        "publishedDate": "1845",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:11947377"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 11,
+        "printType": "BOOK",
+        "categories": [
+          "Mexican War, 1846-1848"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yuZMPQAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yuZMPQAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Contestaciones_habidas_entre_los_exmos_s.html?hl=&id=yuZMPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yuZMPQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ESupAQAACAAJ",
+      "etag": "+e5UlCx/1Cs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ESupAQAACAAJ",
+      "volumeInfo": {
+        "title": "El general Paredes y Arrillaga",
+        "subtitle": "su gobierno en Jalisco, sus movimientos revolucionarios, sus relaciones con el general Santa Anna, etc. etc., según su propio archivo",
+        "authors": [
+          "Genaro Garcia"
+        ],
+        "publishedDate": "1910",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651245575"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 264,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ESupAQAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ESupAQAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_general_Paredes_y_Arrillaga.html?hl=&id=ESupAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ESupAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "V3cUMwEACAAJ",
+      "etag": "n8W1O0NVi0o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/V3cUMwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta de Mariano Paredes y Arrillaga a Mariano Otero. Guadajara (México), 15 febrero 1842",
+        "authors": [
+          "Mariano Paredes y Arrillaga",
+          "Mariano Otero"
+        ],
+        "publishedDate": "1842",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:776278090"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=V3cUMwEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=V3cUMwEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_de_Mariano_Paredes_y_Arrillaga_a_M.html?hl=&id=V3cUMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=V3cUMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GZPkGwAACAAJ",
+      "etag": "Y4P5ixQtlAU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GZPkGwAACAAJ",
+      "volumeInfo": {
+        "title": "Documentos que manifiestan la resolucion de la exma. asamblea y gobierno de Coahuila",
+        "subtitle": "con respecto al plan revolucionario del general D. Mariano Paredes y Arrillaga",
+        "authors": [
+          "Coahuila (Mexico : State)",
+          "Mariano Paredes y Arrillaga"
+        ],
+        "publishedDate": "1845",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:28045800"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GZPkGwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GZPkGwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Documentos_que_manifiestan_la_resolucion.html?hl=&id=GZPkGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GZPkGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3F0LMwEACAAJ",
+      "etag": "u95XzZoVGPc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3F0LMwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta de Mariano Paredes y Arrillaga a Mariano Otero. Guadalajára (México), 15 febrero 1842",
+        "authors": [
+          "Mariano Paredes y Arrillaga",
+          "Mariano Otero"
+        ],
+        "publishedDate": "1842",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:776278072"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3F0LMwEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3F0LMwEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_de_Mariano_Paredes_y_Arrillaga_a_M.html?hl=&id=3F0LMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3F0LMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "inu0NwAACAAJ",
+      "etag": "GxHGsFxCbSY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/inu0NwAACAAJ",
+      "volumeInfo": {
+        "title": "El Presidente interino de la republica, a la nacion",
+        "subtitle": "Triunfantes los principios proclamados en San Luis por el ejército de reserva, aclamados sin oposicion en casi toda la república, ni una gota de sangre, ni un lamento ha costado nuestra empresa á la nacion ... Palacio nacional de México, 10 de enero de 1846",
+        "authors": [
+          "Mexico. President (1846 : Paredes y Arrillaga)",
+          "Mariano Paredes y Arrillaga"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21511141"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Mexican War, 1846-1848"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=inu0NwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=inu0NwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Presidente_interino_de_la_republica_a.html?hl=&id=inu0NwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=inu0NwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Announcement by Mariano Paredes y Arrillaga, dated January 10, 1846, in which he tells that he has taken over the presidency in a bloodless revolution because of the ruinous state of the country due to the complications on the Texas ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UzXn0AEACAAJ",
+      "etag": "LBT0USc/qoY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UzXn0AEACAAJ",
+      "volumeInfo": {
+        "title": "El ciudadano Luis Gonzaga de Chavarri, intendente honorario de ejército, vocal de la Exma. Asamblea del Departamento de México, y gobernador interino del mismo",
+        "subtitle": "Por el Ministerio de Guerra y Marina se me ha dirigido el decreto que sigue. \"Exmo. Sr. El Exmo. Sr. Presidente interino se ha servido dirigirme el decreto siguiente. Mariano Paredes y Arrillaga, General de division y Presidente interino de la República mexicana, á los habitantes de ella, sabed: Que considerando que es llegado el momento de que todos los ciudadanos sirvan á la patria ... 1o. Se levantara inmediatamente en esta ciudad un battalon de infantería urbana del comercio, sujeto al reglamento de 18 de mayo de 1793, conforme se previno en la ley 4 de octubre de 1832 ...",
+        "authors": [
+          "Distrito Federal (Mexico). Governor"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21753296"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=UzXn0AEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=UzXn0AEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_ciudadano_Luis_Gonzaga_de_Chavarri_in.html?hl=&id=UzXn0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UzXn0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vF2qHAAACAAJ",
+      "etag": "zS26lEMYW0E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vF2qHAAACAAJ",
+      "volumeInfo": {
+        "title": "Acta de la Guarnicion de Mexico",
+        "subtitle": "En la ciudad de México, á los treinta dias del mes de diciembre de 1845, reunidos en la ciudadela los generales, gefes y oficiales que suscriben, con objeto de acordar algun paso que concilie uniforme las encontradas opiniones en que se halla dividida la republica ... han convenido espontáneamente ... en adoptar los siguientes artículos ...",
+        "authors": [
+          "Mexico City (Mexico). Guarnición",
+          "Gabriel Valencia"
+        ],
+        "publishedDate": "1846*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21569173"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "United States"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vF2qHAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vF2qHAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Acta_de_la_Guarnicion_de_Mexico.html?hl=&id=vF2qHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vF2qHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gyP6tgAACAAJ",
+      "etag": "eLgkKL/vmJM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gyP6tgAACAAJ",
+      "volumeInfo": {
+        "title": "Ministerio de Hacienda. El excmo. Sr. Presidente de la República se ha servido emitir el siguiente Decreto Num. 21 ... Guatemala, á diez de febrero de mil ochocientos cuarenta y nueve",
+        "authors": [
+          "Guatemala",
+          "Mariano Paredes",
+          "José María de Urruela"
+        ],
+        "publishedDate": "1849",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55247261"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=gyP6tgAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=gyP6tgAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ministerio_de_Hacienda_El_excmo_Sr_Presi.html?hl=&id=gyP6tgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gyP6tgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YTTMHAAACAAJ",
+      "etag": "Y+0/AQWbsOE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YTTMHAAACAAJ",
+      "volumeInfo": {
+        "title": "El buen samaritano internacional",
+        "subtitle": "Reflexiones sobre el Evangelio y el Trabajo de la Cruz Roja",
+        "authors": [
+          "Max Huber",
+          "Mariano Paredes",
+          "Adolf Keller",
+          "Daniel Lopez de Lara"
+        ],
+        "publishedDate": "1947",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:603078204"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 111,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YTTMHAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YTTMHAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_buen_samaritano_internacional.html?hl=&id=YTTMHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YTTMHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YvekYgEACAAJ",
+      "etag": "R4fCUEtlKK8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YvekYgEACAAJ",
+      "volumeInfo": {
+        "title": "Bando (27 ene. 1846). Derecho libre al voto para todas las clases de la sociedad",
+        "authors": [
+          "Antonio Escobedo",
+          "Mariano Paredes y Arrillaga",
+          "Joaquín M. Castillo y Lanzas",
+          "Macedonio Rábago"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651391262"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 13,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YvekYgEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YvekYgEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bando_27_ene_1846_Derecho_libre_al_voto.html?hl=&id=YvekYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YvekYgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UbodRAAACAAJ",
+      "etag": "7AP2Ti30B94",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UbodRAAACAAJ",
+      "volumeInfo": {
+        "title": "Convenio",
+        "subtitle": "reunidos los sres, jeneral en jefe D. Mariano Paredes, Presidente de la República de Guatemala y jeneral D. Agustín Guzman, llamado al ejercicio del poder ejecutivo por algunos departamentos de los Altos ...",
+        "authors": [
+          "Guatemala. President (1849-Nov. 1851 : Paredes)",
+          "Mariano Paredes",
+          "Agustín Guzmán"
+        ],
+        "publishedDate": "1849",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21786894"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=UbodRAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=UbodRAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Convenio.html?hl=&id=UbodRAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UbodRAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "betYzQEACAAJ",
+      "etag": "bhxpX3TseRM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/betYzQEACAAJ",
+      "volumeInfo": {
+        "title": "Alcance al jalisciense núm. 164, Guadalajara, viernes 16 de enero de 1846",
+        "subtitle": "el presidente interino de la republica, a la nacion : triunfantes los principios proclamados en San Luis por el ejército de reserva, aclamado sin oposicion en casi toda la república, ni una gota de sangre, ni un lamento ha costado nuestra empresa á la nacion ...",
+        "authors": [
+          "Mexico. President (1846 : Paredes y Arrillaga)"
+        ],
+        "publishedDate": "1846",
+        "description": "Broadside issued in Guadalajara on January 16, 1846 reprinting an announcement by Mariano Paredes y Arrillaga, dated January 10, 1846, in which he tells that he has taken over the presidency in a bloodless revolution because of the ruinous state of the country due to the complications on the Texas frontier, internal strife, and problems in California. He promises to rule in the best interests of the Mexican people and enlists their cooperation in the tasks that lie ahead.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1140995961"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=betYzQEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=betYzQEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Alcance_al_jalisciense_n%C3%BAm_164_Guadalaj.html?hl=&id=betYzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=betYzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Broadside issued in Guadalajara on January 16, 1846 reprinting an announcement by Mariano Paredes y Arrillaga, dated January 10, 1846, in which he tells that he has taken over the presidency in a bloodless revolution because of the ruinous ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mX2wpwAACAAJ",
+      "etag": "TGT7MJ3z4OM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mX2wpwAACAAJ",
+      "volumeInfo": {
+        "title": "Acta [Guadalajara, noviembre 2 de 1844]",
+        "authors": [
+          "Mariano Paredes y Arrillaga"
+        ],
+        "publishedDate": "1844",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:24990400"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 4,
+        "printType": "BOOK",
+        "categories": [
+          "Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mX2wpwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mX2wpwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Acta_Guadalajara_noviembre_2_de_1844.html?hl=&id=mX2wpwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mX2wpwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xklyPAAACAAJ",
+      "etag": "W5uHTPnBQ+I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xklyPAAACAAJ",
+      "volumeInfo": {
+        "title": "El Congreso Nacional Extraordinario ha decretado, y el ejecutivo sancionado lo siguiente",
+        "subtitle": "Art. 1. ̊El gobierno, en uso de la natural defense de la nacion, repelerá la agresion que los Estados-Unidos de América han iniciado ...",
+        "authors": [
+          "Mexico",
+          "Mariano Paredes y Arrillaga",
+          "Mexico. Ministerio de Guerra y Marina"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54151474"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 4,
+        "printType": "BOOK",
+        "categories": [
+          "Mexican War, 1846-1848"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=xklyPAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=xklyPAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Congreso_Nacional_Extraordinario_ha_d.html?hl=&id=xklyPAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xklyPAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cf8FtAEACAAJ",
+      "etag": "NLs01oGZSNc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cf8FtAEACAAJ",
+      "volumeInfo": {
+        "title": "El presidente de Guatemala. A los pueblos de la república",
+        "authors": [
+          "Mariano Paredes"
+        ],
+        "publishedDate": "1851",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:982380631"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cf8FtAEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cf8FtAEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_presidente_de_Guatemala_A_los_pueblos.html?hl=&id=cf8FtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cf8FtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x2dukgEACAAJ",
+      "etag": "F3QT6L+tdiI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x2dukgEACAAJ",
+      "volumeInfo": {
+        "title": "Contestaciones hábiles entre los excelentisímos señores generales de división D. Mariano Arista y el supremo gobierno",
+        "authors": [
+          "Mariano Paredes y Arrillaga"
+        ],
+        "publishedDate": "1845",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:689533136"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 51,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=x2dukgEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=x2dukgEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Contestaciones_h%C3%A1biles_entre_los_excele.html?hl=&id=x2dukgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x2dukgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "10FOGwAACAAJ",
+      "etag": "128JEzeBl3o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/10FOGwAACAAJ",
+      "volumeInfo": {
+        "title": "El president interino de la republica a la nacion ... México, 10 de Enero de 1846",
+        "authors": [
+          "Mariano Paredes y Arrillaga (president of Mexico.)"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:81947088"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Broadsides"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=10FOGwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=10FOGwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_president_interino_de_la_republica_a.html?hl=&id=10FOGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=10FOGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jIAS0QEACAAJ",
+      "etag": "BozysZLtcec",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jIAS0QEACAAJ",
+      "volumeInfo": {
+        "title": "El Exmo. Sr. presidente interino se ha servido dirigirme el decreto que sigue",
+        "subtitle": "Mariano Paredes y Arrillaga, general de division y presidente interino de la Républica mexicana, á sus habitantes, sabed : que en uso de la 1.a de la facultades que me concede la ley de 25 del presente mes, he tenido á bien decretar lo siguiente",
+        "authors": [
+          "Mexico"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:79024846"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "United States"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jIAS0QEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jIAS0QEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Exmo_Sr_presidente_interino_se_ha_ser.html?hl=&id=jIAS0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jIAS0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5sgfHQAACAAJ",
+      "etag": "/8vdL8gcBIg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5sgfHQAACAAJ",
+      "volumeInfo": {
+        "title": "Convocatoria. Mucio Barquera, presidente de la Exma. Asamblea de Mexixo, y por la ley gobernador interino de su departamento. ...",
+        "subtitle": "Mariano Paredes y Arrillaga, general de division y presidente interino de la República Mexicana, á todos sus habitantes, sabed: Que debiendo convocarse un Congreso extraordinario, á consecuencia del movimiento nacional iniciado en San Luis Potosí el 14 de diciembre del año pasado de 1845, y consumado en esta capital el 2 del presente, con el objeto de constituir estable y definativamente á la nacion ... He venido en decretar en junta de ministros, y con acuerdo del Consejo de Gobierno la convocatoria siguiente ...",
+        "authors": [
+          "Mexico. President (1846 : Paredes y Arrillaga)",
+          "Mariano Paredes y Arrillaga",
+          "Lucas Alamán",
+          "Dupee Mexicana Collection (Brown University)"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:65215538"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": [
+          "Constitutional conventions"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5sgfHQAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5sgfHQAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Convocatoria_Mucio_Barquera_presidente_d.html?hl=&id=5sgfHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5sgfHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yaPEYgEACAAJ",
+      "etag": "jknXP5LM07Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yaPEYgEACAAJ",
+      "volumeInfo": {
+        "title": "Discurso dicho por el senador D. Manuel G. Pedraza, en la sesion del senado del dia 20 de Diciembre de 1845",
+        "authors": [
+          "Manuel Gómez Pedraza",
+          "Mariano Paredes y Arrillaga"
+        ],
+        "publishedDate": "1845",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651356057"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yaPEYgEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yaPEYgEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_dicho_por_el_senador_D_Manuel_G.html?hl=&id=yaPEYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yaPEYgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Dv2CuwEACAAJ",
+      "etag": "REVeeTiz8xA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Dv2CuwEACAAJ",
+      "volumeInfo": {
+        "title": "Acusación elevada por el I. Ayuntamiento de la villa de San Pedro",
+        "subtitle": "a la honorable legislatura del estado de Jalisco contra el Exmo. Sr. gobernador Joaquin Angulo",
+        "authors": [
+          "Autlán de Navarro (Mexico). Ayuntamiento",
+          "Catholic Church. Archdiocese of Guadalajara (Mexico)",
+          "Francisco de Paula Álvarez",
+          "Hilarión Romero Gil",
+          "Jesús López-Portillo",
+          "Leonardo Angulo",
+          "Manuel Payno",
+          "Manuel R. Alatorre",
+          "Mariano Paredes y Arrillaga",
+          "San Pedro. Ayuntamiento"
+        ],
+        "publishedDate": "1838",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:16396854"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 12,
+        "printType": "BOOK",
+        "categories": [
+          "Church and state"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Dv2CuwEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Dv2CuwEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Acusaci%C3%B3n_elevada_por_el_I_Ayuntamiento.html?hl=&id=Dv2CuwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Dv2CuwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CssoHQAACAAJ",
+      "etag": "OAz62G/sz28",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CssoHQAACAAJ",
+      "volumeInfo": {
+        "title": "25 reproducciones en blanco y negro y seis maderas impresas con las planchas originales",
+        "authors": [
+          "Mariano Paredes"
+        ],
+        "publishedDate": "1951",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:52021731"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Painting, Mexican"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=CssoHQAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=45&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CssoHQAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/25_reproducciones_en_blanco_y_negro_y_se.html?hl=&id=CssoHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CssoHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UldqjwEACAAJ",
+      "etag": "x3L4POcoXsE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UldqjwEACAAJ",
+      "volumeInfo": {
+        "title": "El general Paredes y Arrillaga",
+        "subtitle": "su gobierno en Jalisco, sus movimientos revolucionarios, sus relaciones con el general Santa Anna, etc., etc., según su propio archivo",
+        "publishedDate": "1910",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:906149113"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 264,
+        "printType": "BOOK",
+        "categories": [
+          "Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=UldqjwEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=46&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=UldqjwEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_general_Paredes_y_Arrillaga.html?hl=&id=UldqjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UldqjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "V9MstwAACAAJ",
+      "etag": "zfa1lft6ZQM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/V9MstwAACAAJ",
+      "volumeInfo": {
+        "title": "Ministerio de la Guerra. El excmo. Sr. Presidente interino de la República se ha servido emitir el siguiente Decreto Num. 20 ... Guatemala, á ocho de febrero de mil ochocientos cuarenta y nueve",
+        "authors": [
+          "Guatemala",
+          "Mariano Paredes",
+          "Manuel Tejada"
+        ],
+        "publishedDate": "1849",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55247204"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=V9MstwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=47&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=V9MstwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ministerio_de_la_Guerra_El_excmo_Sr_Pres.html?hl=&id=V9MstwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=V9MstwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aI8VtwAACAAJ",
+      "etag": "Gg/3hkkum9c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aI8VtwAACAAJ",
+      "volumeInfo": {
+        "title": "Ministerio de Gobernación. El presidente interino de la República de Guatemala ... Palacio Nacional de Guatemala, febrero 2 de 1849",
+        "authors": [
+          "Guatemala",
+          "José Mariano Rodríguez",
+          "Mariano Paredes"
+        ],
+        "publishedDate": "1849",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55247106"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=aI8VtwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=48&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=aI8VtwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ministerio_de_Gobernaci%C3%B3n_El_presidente.html?hl=&id=aI8VtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aI8VtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QFxFzwEACAAJ",
+      "etag": "crio+wXBEUE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QFxFzwEACAAJ",
+      "volumeInfo": {
+        "title": "Manifesto del Exmo. Sr. presidente interino de la Republica Mexicana",
+        "authors": [
+          "Mexico. President (1846 : Paredes y Arrillaga)"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:945080941"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Mexican War, 1846-1848"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=QFxFzwEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=49&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=QFxFzwEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifesto_del_Exmo_Sr_presidente_interin.html?hl=&id=QFxFzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QFxFzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fTWNYgEACAAJ",
+      "etag": "mwjPN+Kb+b0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fTWNYgEACAAJ",
+      "volumeInfo": {
+        "title": "Bando (27 jul. 1842). Nuevo arancel marítimo de 30 de abril",
+        "authors": [
+          "Mariano Paredes y Arrillaga",
+          "Manuel Ríoseco"
+        ],
+        "publishedDate": "1842",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651391287"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fTWNYgEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=50&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fTWNYgEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bando_27_jul_1842_Nuevo_arancel_mar%C3%ADtim.html?hl=&id=fTWNYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fTWNYgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "veAgGwAACAAJ",
+      "etag": "pVk8yDUkwlI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/veAgGwAACAAJ",
+      "volumeInfo": {
+        "title": "El Presidente de la República de Guatemala a sus habitantes ... Guatemala, diciembre 13 de 1850",
+        "authors": [
+          "Guatemala. Presidente",
+          "Mariano Paredes"
+        ],
+        "publishedDate": "1850",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55243078"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=veAgGwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=51&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=veAgGwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Presidente_de_la_Rep%C3%BAblica_de_Guatem.html?hl=&id=veAgGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=veAgGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4_9pGwAACAAJ",
+      "etag": "desD7zAbokQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4_9pGwAACAAJ",
+      "volumeInfo": {
+        "title": "Antonio Escovedo, gobernador constitucional del departamento de Jalisco, á todos sus habitantes, sabed",
+        "subtitle": "que por el ministerio de Guerra y Marina se me ha comunicado el decretosigue",
+        "authors": [
+          "Mexico",
+          "Mariano Paredes y Arrillaga",
+          "Mexico. President (1846 : Paredes y Arrillaga)",
+          "Jaliso (Mexico). Governor (1846 : Escovedo)"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54135487"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Mexican War, 1846-1848"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4_9pGwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=52&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4_9pGwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antonio_Escovedo_gobernador_constitucion.html?hl=&id=4_9pGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4_9pGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JGADngEACAAJ",
+      "etag": "HbfAsvEd720",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JGADngEACAAJ",
+      "volumeInfo": {
+        "title": "El presidente provisorio de la república de Guatemala, a sus habitantes",
+        "authors": [
+          "Mariano Paredes"
+        ],
+        "publishedDate": "1849",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:857921136"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JGADngEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=53&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JGADngEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_presidente_provisorio_de_la_rep%C3%BAblic.html?hl=&id=JGADngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JGADngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Lc6hQAAACAAJ",
+      "etag": "dt+P3zZCMVo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Lc6hQAAACAAJ",
+      "volumeInfo": {
+        "title": "El ciudadano Luis Gonzaga de Chávarri",
+        "subtitle": "intendente honorario de ejército, vocal de la Exma. Asamblea del departamento de México, y Gobernador interino del mismo",
+        "authors": [
+          "Mexico",
+          "Mariano Paredes y Arrillaga",
+          "Mexico. President (1846 : Paredes y Arrillaga)",
+          "Mexico City (Mexico). Governor (1846 : Gonzaga de Chávarri)",
+          "Luis Gonzaga de Chavarri"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:187450779"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Martial law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Lc6hQAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=54&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Lc6hQAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_ciudadano_Luis_Gonzaga_de_Ch%C3%A1varri.html?hl=&id=Lc6hQAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Lc6hQAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6TKxcQAACAAJ",
+      "etag": "ARiOAr4b0mA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6TKxcQAACAAJ",
+      "volumeInfo": {
+        "title": "Crux ansata",
+        "subtitle": "breve historia de la iglesia católica romana",
+        "authors": [
+          "Herbert George Wells",
+          "Mariano Paredes"
+        ],
+        "publishedDate": "1946",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:30442040"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 163,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6TKxcQAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=55&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6TKxcQAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Crux_ansata.html?hl=&id=6TKxcQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6TKxcQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nIehQAAACAAJ",
+      "etag": "M5YPjW+tWvg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nIehQAAACAAJ",
+      "volumeInfo": {
+        "title": "Antonio Escovedo, gobernador constitucional del departamento de Jalisco, á todos sus habitantes, sabed",
+        "subtitle": "que por los ministerios de Guerra y Marina, Justica é Instruccion Pública, se me han comunicado los decretos siguientes",
+        "authors": [
+          "Mexico",
+          "Mariano Paredes y Arrillaga",
+          "Mexico. President (1846 : Paredes y Arrillaga)",
+          "Jaliso (Mexico). Governor (1846 : Escovedo)"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54203436"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Mexican War, 1846-1848"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nIehQAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=56&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nIehQAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antonio_Escovedo_gobernador_constitucion.html?hl=&id=nIehQAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nIehQAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jILVPAAACAAJ",
+      "etag": "lCI2sP7fXtA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jILVPAAACAAJ",
+      "volumeInfo": {
+        "title": "Manifiesto á la nacion",
+        "authors": [
+          "Mariano Paredes y Arrillaga"
+        ],
+        "publishedDate": "1844",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:20738105"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 12,
+        "printType": "BOOK",
+        "categories": [
+          "Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jILVPAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=57&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jILVPAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifiesto_%C3%A1_la_nacion.html?hl=&id=jILVPAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jILVPAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7kR2NQEACAAJ",
+      "etag": "Uyut/td2bH0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7kR2NQEACAAJ",
+      "volumeInfo": {
+        "title": "Republication by the Governor of Jalisco of a Decree of Pres. Paredes Y Arrillaga Reforming the Navy",
+        "authors": [
+          "Mexico",
+          "Mariano Paredes y Arrillaga",
+          "Jalisco (Mexico). Gobernador (Antonio Escovedo)"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:28097486"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=7kR2NQEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=58&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7kR2NQEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Republication_by_the_Governor_of_Jalisco.html?hl=&id=7kR2NQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7kR2NQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kiJyvgAACAAJ",
+      "etag": "2Cqlirqd31w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kiJyvgAACAAJ",
+      "volumeInfo": {
+        "title": "Últimas comunicaciones entre el Gobierno Mexicano y el enviado estraordinario [sic] y Ministro Plenipotenciario nombrado por el de los Estados Unidos sobre la cuestión de Tejas y admisión de dicho agente",
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:433266451"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=kiJyvgAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=59&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=kiJyvgAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%C3%9Altimas_comunicaciones_entre_el_Gobiern.html?hl=&id=kiJyvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kiJyvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Qz-XtwAACAAJ",
+      "etag": "bIGyAbdrFqI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Qz-XtwAACAAJ",
+      "volumeInfo": {
+        "title": "Que el congreso nacional extraordinario ha decretado y el ejecutivo sancionado lo siguiente",
+        "subtitle": "Las autoridades todas de la Républica, cuya rehabilitacion reservó al actual congreso el art. 5° del plan de San Luis Potosí ...",
+        "authors": [
+          "Mexico",
+          "Mariano Paredes y Arrillaga",
+          "Joaquín Maria Castillo y Lanzas",
+          "Mexico. President (1846 : Paredes y Arrillaga)",
+          "Mexico. Ministerio de Relaciones Exteriores, Gobernacion y Policía"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:82096409"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 4,
+        "printType": "BOOK",
+        "categories": [
+          "Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Qz-XtwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=60&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Qz-XtwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Que_el_congreso_nacional_extraordinario.html?hl=&id=Qz-XtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Qz-XtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rWIRHAAACAAJ",
+      "etag": "s7YlSUfqvq0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rWIRHAAACAAJ",
+      "volumeInfo": {
+        "title": "Informe dirigido por el Presidente de la República de Guatemala al Cuerpo Representativo en la apertura de las sesiones el día 16 de agosto de 1851",
+        "authors": [
+          "Guatemala. President (1849-1851 : Paredes)"
+        ],
+        "publishedDate": "1851",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12339407"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 7,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=rWIRHAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=61&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rWIRHAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Informe_dirigido_por_el_Presidente_de_la.html?hl=&id=rWIRHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rWIRHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IDYDMwEACAAJ",
+      "etag": "A4VW3+KHY3Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IDYDMwEACAAJ",
+      "volumeInfo": {
+        "title": "Archivo Del General Paredes. La Situación Política, Militar Y Económica en la República Mexicana Al Iniciarse Su Guerra Con Los Estados Unidos",
+        "authors": [
+          "Mariano PAREDES Y. ARRILLAGA (President of the Mexican Republic.)"
+        ],
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:562967379"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=IDYDMwEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=62&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=IDYDMwEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Archivo_Del_General_Paredes_La_Situaci%C3%B3.html?hl=&id=IDYDMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IDYDMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QS2-mgEACAAJ",
+      "etag": "5g0W+9OWJ0Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QS2-mgEACAAJ",
+      "volumeInfo": {
+        "title": "El General en Gefe del Ejercito de la República. Soldados: Al daros el parabien porque sin efusion de sangre habeis consumado la obra que con tanto entusiasmo iniciasteis en San Luis, me congratulo con vosotros saludandoos en la capitals de la república ... México, enero 2 de 1846",
+        "authors": [
+          "Mariano Paredes y Arrillaga"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21601391"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=QS2-mgEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=63&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=QS2-mgEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_General_en_Gefe_del_Ejercito_de_la_Re.html?hl=&id=QS2-mgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QS2-mgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JPbQzwEACAAJ",
+      "etag": "IGWXqeCq6Gc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JPbQzwEACAAJ",
+      "volumeInfo": {
+        "title": "El ciudadano Luis Gonzaga de Chávarri",
+        "subtitle": "intendente honorario de ejército, vocal de la Exma. Asamblea del departamento de México, y Gobernador interino del mismo",
+        "authors": [
+          "Mexico"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:187450784"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Mexican War, 1846-1848"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JPbQzwEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=64&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JPbQzwEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_ciudadano_Luis_Gonzaga_de_Ch%C3%A1varri.html?hl=&id=JPbQzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JPbQzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5oUCOQAACAAJ",
+      "etag": "b+SmOnUk92o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5oUCOQAACAAJ",
+      "volumeInfo": {
+        "title": "A la nacion mexicana",
+        "subtitle": "Al emprender la obra que la aclamacion del ejército y la voluntad del pueblo me confiaron, mi primer cuidado es dirigir mi voz a la nacion. Soldado de la patria que me ha elevado mas alto de lo que alcanzan mis merecimientos, le debo en momentos tan solemnes cuenta de mi conducta, de mis proyectos y de mis intenciones ... San Luis Potosí, diciembre 15 de 1845",
+        "authors": [
+          "Mariano Paredes y Arrillaga"
+        ],
+        "publishedDate": "1845",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21508109"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5oUCOQAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=65&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5oUCOQAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_la_nacion_mexicana.html?hl=&id=5oUCOQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5oUCOQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KmfINwAACAAJ",
+      "etag": "AdDxRxxFW2w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KmfINwAACAAJ",
+      "volumeInfo": {
+        "title": "Mexican-American war documents relating to the church in Mexico",
+        "authors": [
+          "Mariano Paredes",
+          "Mariano Paredes y Arrillaga",
+          "Benito Gómez Farías"
+        ],
+        "publishedDate": "1846",
+        "description": "Letters, decrees, and similar documents relate to efforts on the part of the Mexican government to obtain loans or other financial assistance from the bishop of Guadalajara Diego Aranda and other church dioceses during the time of financial crisis caused by the Mexican-American war. Frequently mentioned are the threats of the enemy to the north and the severity of the current situation. Names present in the collection include Diego Aranda, Mariano Paredes (president), Gomez Farias, Francisco Murillo, Jose L. Becenna, Manuel Arteaga, Jose Luis Mena, and others. Letters and documents are on the following letterheads: Tesoreria del supremo gobierno, Secretaria particular del presidente de la republica, Correspondencia particular del ministro de estado ..., Ministerio de Justicia ..., Ministerio de Hacienda, Comisario Gral. del estado de Jalisco.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:40310898"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Church and state"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=KmfINwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=66&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KmfINwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mexican_American_war_documents_relating.html?hl=&id=KmfINwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KmfINwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Names present in the collection include Diego Aranda, Mariano Paredes (president), Gomez Farias, Francisco Murillo, Jose L. Becenna, Manuel Arteaga, Jose Luis Mena, and others."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UqR7oAEACAAJ",
+      "etag": "+IWNusBj59E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UqR7oAEACAAJ",
+      "volumeInfo": {
+        "title": "Antonio Escovedo, gobernador constitucional del departamento de Jalisco, á todos sus habitantes, sabed",
+        "subtitle": "que por el Ministerio de Relaciones Esteriores, Gobernacion y Policía se me ha communicado el decreto siguiente. Escmo. Sr.--El Escmo. Sr. Presidente interino de la República se ha servido dirigirme el decreto que sigue ...",
+        "authors": [
+          "Mexico. Secretaría de Relaciones Exteriores",
+          "Mariano Paredes y Arrillaga",
+          "Mexico. President (1846 : Paredes y Arrillaga)",
+          "Jalisco (Mexico). Governor (1846 : Escovedo)",
+          "Sydney S. Keil Collection (University of Pennsylvania)"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:878566269"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1,
+        "printType": "BOOK",
+        "categories": [
+          "Freedom of the press"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=UqR7oAEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=67&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=UqR7oAEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antonio_Escovedo_gobernador_constitucion.html?hl=&id=UqR7oAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UqR7oAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Tqe7HAAACAAJ",
+      "etag": "wFwGC+vEKuc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Tqe7HAAACAAJ",
+      "volumeInfo": {
+        "title": "Decree of Pres. Paredes Y Arrillaga Reforming the Navy",
+        "authors": [
+          "Mexico",
+          "Mariano Paredes y Arrillaga",
+          "José María Tornel y Mendívil",
+          "Mexico. Secretaría de la Defensa Nacional"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:28097443"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 3,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=Tqe7HAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=68&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Tqe7HAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Decree_of_Pres_Paredes_Y_Arrillaga_Refor.html?hl=&id=Tqe7HAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Tqe7HAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YOqH0AEACAAJ",
+      "etag": "6pMUjrT0wQI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YOqH0AEACAAJ",
+      "volumeInfo": {
+        "title": "Ultimas comunicaciones entre el gobierno mexicano y el enviado estraordinario y ministro plenipotenciario nombrado por el de los Estados-Unidos",
+        "subtitle": "sobre la cuestion de Tejas, y admision de dicho agente",
+        "authors": [
+          "México Presidente (1846 : Paredes y Arrillaga)"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:187453315"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "United States"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YOqH0AEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=69&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YOqH0AEACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ultimas_comunicaciones_entre_el_gobierno.html?hl=&id=YOqH0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YOqH0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gVJRNwAACAAJ",
+      "etag": "XR3XguNaDrk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gVJRNwAACAAJ",
+      "volumeInfo": {
+        "title": "ADS",
+        "subtitle": "Palacio del gobierno general en Mexico",
+        "authors": [
+          "A. D. Jose Maria Tornel y Mendivil",
+          "Mariano Paredes y Arillaga"
+        ],
+        "publishedDate": "1846",
+        "description": "Handwritten document drawn up and signed by the Secretary of War; also signed by Mariano Paredes y Arillaga as interim President of Mexico, on official stationery of the \"Ministerio de Guerra y Marina, Seccion de operaciones.\" Document contains 109 articles establishing and governing privateering operations against the U.S. who had provoked a war only two months previously.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:17540639"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "categories": [
+          "Mexican War, 1846-1848"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=gVJRNwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=70&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=gVJRNwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/ADS.html?hl=&id=gVJRNwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gVJRNwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Handwritten document drawn up and signed by the Secretary of War; also signed by Mariano Paredes y Arillaga as interim President of Mexico, on official stationery of the &quot;Ministerio de Guerra y Marina, Seccion de operaciones."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0P4ytwAACAAJ",
+      "etag": "i/uTNA0wJAM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0P4ytwAACAAJ",
+      "volumeInfo": {
+        "title": "Dictamen de la Comision de Puntos Constitucionales y reformas de la Camara de Senadores",
+        "subtitle": "sobre el acuerdo de la de diputados, relativo à la organizacion política de los departamentos",
+        "authors": [
+          "Mexico. Congreso. Cámara de Senadores. Comisiones de puntos constitucionales y de justicia",
+          "Mexico. President (1847 Sept. 16-Nov. 11 : Peña y Peña)",
+          "France. Légation (Mexico)",
+          "Luis Gonzaga Cuevas",
+          "Manuel María Gándara",
+          "Mexico (Mexico : State)",
+          "Mexico. Congreso",
+          "Mexico. Congreso. Cámara de Diputados. Gran Jurado",
+          "Veracruz (Veracruz-Llave, Mexico). Ayuntamiento",
+          "Angel G. Quintanar",
+          "Manuel de la Peña y Peña",
+          "Mariano Paredes y Arrillaga",
+          "José Ramón Malo",
+          "Rafael de Montalvo"
+        ],
+        "publishedDate": "1828",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:20513089"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "categories": [
+          "Amnesty"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0P4ytwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=71&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0P4ytwAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dictamen_de_la_Comision_de_Puntos_Consti.html?hl=&id=0P4ytwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0P4ytwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SdkQHQAACAAJ",
+      "etag": "aEv2LkqpGt4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SdkQHQAACAAJ",
+      "volumeInfo": {
+        "title": "Antonio Escovedo, gobernador constitucional del departamento de Jalisco, á todos sus habitantes, sabed: que",
+        "subtitle": "Por el Ministerio de Relaciones Esteriores, Gobernacion y Policía se me ha communicado el decreto siquiente. Escmo. Sr.-- Mariano Paredes y Arrillaga, general de division y presidente interino de la República Mexicana, á todoa sus habitantes sabed ...",
+        "authors": [
+          "Mexico",
+          "Mariano Paredes y Arrillaga",
+          "Antonio Escovedo",
+          "Mexico. President (1846 : Paredes y Arrillaga)"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54146930"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 13,
+        "printType": "BOOK",
+        "categories": [
+          "Mexican War, 1846-1848"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SdkQHQAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=72&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SdkQHQAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antonio_Escovedo_gobernador_constitucion.html?hl=&id=SdkQHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SdkQHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TFZyHAAACAAJ",
+      "etag": "VEor8B5sEGk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TFZyHAAACAAJ",
+      "volumeInfo": {
+        "title": "Que con el fin de evitar en lo posible al comercio las extorsiones y perjuicios consiguientes al bloqueo ... he tenido á bien decretar lo siguiente ...",
+        "authors": [
+          "Mexico",
+          "Mariano Paredes y Arrillaga",
+          "Mexico. Secretaría de Hacienda y Crédito Público"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54151755"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 4,
+        "printType": "BOOK",
+        "categories": [
+          "Mexican War, 1846-1848"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TFZyHAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&cd=73&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TFZyHAAACAAJ&dq=inauthor:%22Mariano+Paredes%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Que_con_el_fin_de_evitar_en_lo_posible_a.html?hl=&id=TFZyHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TFZyHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

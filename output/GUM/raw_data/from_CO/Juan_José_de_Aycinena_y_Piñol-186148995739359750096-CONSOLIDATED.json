@@ -1,0 +1,68 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juan%20Jos%C3%A9%20de%20Aycinena%20y%20Pi%C3%B1ol\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juan%20Jos%C3%A9%20de%20Aycinena%20y%20Pi%C3%B1ol\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "2u_IPgAACAAJ",
+      "etag": "ltRguIIvDSs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2u_IPgAACAAJ",
+      "volumeInfo": {
+        "title": "Oración fúnebre pronunciada en la Sta. I. Catedral de Guatemala, el 23 de setiembre de 1864 por el Ilmo. Sr. arcediano, Dr. D. Juan José de Aycinena y Piñol, Marques de Aycinena, obispo de Trajanopolis, &., &., &., en las honras solemnes, que por el descanso eterno del alma del Ilmo. y Rmo. Sr. dean Dr. D. José Maria Barrutia y Croquer, obispo de Camaco y auxiliar del arzobispado, se celebraron en la misma Iglesia, por disposición del Ilmo. y Rmo. Sr. Arzobispo y del venerable cabildo metropolitano",
+        "authors": [
+          "Juan José de Aycinena y Piñol"
+        ],
+        "publishedDate": "1864",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:234379926"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 13,
+        "printType": "BOOK",
+        "categories": [
+          "Funeral orations"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2u_IPgAACAAJ&dq=inauthor:%22Juan+Jos%C3%A9+de+Aycinena+y+Pi%C3%B1ol%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2u_IPgAACAAJ&dq=inauthor:%22Juan+Jos%C3%A9+de+Aycinena+y+Pi%C3%B1ol%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Oraci%C3%B3n_f%C3%BAnebre_pronunciada_en_la_Sta.html?hl=&id=2u_IPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2u_IPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

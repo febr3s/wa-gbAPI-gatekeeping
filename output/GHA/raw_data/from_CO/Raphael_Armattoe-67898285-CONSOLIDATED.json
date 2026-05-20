@@ -1,0 +1,133 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Raphael%20Armattoe\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Raphael%20Armattoe\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 2,
+  "_totalFetchedItems": 2,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "oYDLRwuONF4C",
+      "etag": "CwsozN5CoNU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oYDLRwuONF4C",
+      "volumeInfo": {
+        "title": "Deep Down the Blackman's Mind",
+        "subtitle": "Poems",
+        "authors": [
+          "Raphael Ernest Grail Armattoe"
+        ],
+        "publishedDate": "1954",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:31951002130187U"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "categories": [
+          "African poetry (English)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oYDLRwuONF4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oYDLRwuONF4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=oYDLRwuONF4C&dq=inauthor:%22Raphael+Armattoe%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=oYDLRwuONF4C&dq=inauthor:%22Raphael+Armattoe%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Deep_Down_the_Blackman_s_Mind.html?hl=&id=oYDLRwuONF4C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oYDLRwuONF4C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lftlQgAACAAJ",
+      "etag": "W+yt9jKKPO4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lftlQgAACAAJ",
+      "volumeInfo": {
+        "title": "The Golden Age of West African Civilization",
+        "authors": [
+          "Raphael Ernest Grail Armattoe"
+        ],
+        "publishedDate": "1946",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:a47000391"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 116,
+        "printType": "BOOK",
+        "categories": [
+          "Africa"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=lftlQgAACAAJ&dq=inauthor:%22Raphael+Armattoe%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lftlQgAACAAJ&dq=inauthor:%22Raphael+Armattoe%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Golden_Age_of_West_African_Civilizat.html?hl=&id=lftlQgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lftlQgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

@@ -14,9 +14,9 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 # =====================================================================
 # DYNAMIC PARAMETERS – the only things you need to change per country
 # =====================================================================
-COUNTRY_ABBREV = "NIC"             # used in the output filename (3-letter ISO code)
-COUNTRY_QID  = "wd:Q811"            # Wikidata item for the country (include "wd:")
-DATE_CUTOFF  = "1956-01-01"         # include deaths before this date (YYYY-MM-DD)
+COUNTRY_ABBREV = "GUM"             # used in the output filename (3-letter ISO code)
+COUNTRY_QID  = "wd:Q774"            # Wikidata item for the country (include "wd:")
+DATE_CUTOFF  = "1952-01-01"         # include deaths before this date (YYYY-MM-DD)
 # =====================================================================
 
 # Build the SPARQL query – only the country value and the cutoff are inserted.
@@ -43,7 +43,7 @@ os.makedirs(os.path.dirname(output_filename), exist_ok=True)
 
 # Query Wikidata and save results to JSON file
 sparql = SPARQLWrapper("https://query.wikidata.org/sparql")
-sparql.agent = "MOREL/2.0 (contact: eduardofebres@gmail.com)"
+sparql.agent = "MOREL/2.0 (eduardofebres@gmail.com)"
 sparql.setReturnFormat(JSON)
 sparql.setQuery(query_string)
 

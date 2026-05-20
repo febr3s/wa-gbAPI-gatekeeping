@@ -1,0 +1,77 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Eulalio%20Samayoa\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Eulalio%20Samayoa\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1,
+  "_totalFetchedItems": 1,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "clH1ZwEACAAJ",
+      "etag": "pOYTJC2jNiI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/clH1ZwEACAAJ",
+      "volumeInfo": {
+        "title": "Notas, recuerdos y memorias",
+        "authors": [
+          "José Eulalio Samayoa",
+          "Jorge Luján Muñoz"
+        ],
+        "publishedDate": "2010",
+        "description": "\"Primera edición de los textos personales redactados por el músico José Eulalio Samayoa ... sobre cuestiones políticas y sucesos que temporalmente se extienden, en forma no continua, desde 1812-15, hasta mediados de 1839. No es un escrito autógrafo, ya que aparecen varios tipos de letras, ni biográfico (hay poco información personal sobre la vida del compositor) ... El tono cambia según las épocas; en la primera parte es más bien um registro o crónica de acontecimientos importantes; en los correspondientes a épocas posteriores se aprecia su inclinación liberal y su condena a los conservadores, en especial a Rafael Carrera\"--P. [4] of cover.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9929564012"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789929564015"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 354,
+        "printType": "BOOK",
+        "categories": [
+          "Composers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=clH1ZwEACAAJ&dq=inauthor:%22Jos%C3%A9+Eulalio+Samayoa%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=clH1ZwEACAAJ&dq=inauthor:%22Jos%C3%A9+Eulalio+Samayoa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Notas_recuerdos_y_memorias.html?hl=&id=clH1ZwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=clH1ZwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Primera edición de los textos personales redactados por el músico José Eulalio Samayoa ... sobre cuestiones políticas y sucesos que temporalmente se extienden, en forma no continua, desde 1812-15, hasta mediados de 1839."
+      }
+    }
+  ]
+}

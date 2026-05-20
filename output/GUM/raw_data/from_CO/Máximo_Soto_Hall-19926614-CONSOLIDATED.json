@@ -1,0 +1,4841 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"M%C3%A1ximo%20Soto%20Hall\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"M%C3%A1ximo%20Soto%20Hall\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"M%C3%A1ximo%20Soto%20Hall\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"M%C3%A1ximo%20Soto%20Hall\"&maxResults=20&startIndex=40&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"M%C3%A1ximo%20Soto%20Hall\"&maxResults=20&startIndex=60&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"M%C3%A1ximo%20Soto%20Hall\"&maxResults=20&startIndex=80&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"M%C3%A1ximo%20Soto%20Hall\"&maxResults=1&startIndex=80&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 81,
+  "_totalRequestsMade": 5,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "x1xAAAAAYAAJ",
+      "etag": "cxhdqu3uw9Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x1xAAAAAYAAJ",
+      "volumeInfo": {
+        "title": "El problema",
+        "subtitle": "novela",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173026668894"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 126,
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=x1xAAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=x1xAAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=x1xAAAAAYAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=x1xAAAAAYAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_problema.html?hl=&id=x1xAAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x1xAAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hBx0EAAAQBAJ",
+      "etag": "ZSALvncAQss",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hBx0EAAAQBAJ",
+      "volumeInfo": {
+        "title": "El problema / La caída del águila",
+        "subtitle": "Edición anotada",
+        "authors": [
+          "Máximo Soto Hall",
+          "Carlos Gagini"
+        ],
+        "publisher": "Editorial Costa Rica",
+        "publishedDate": "2022-06-07",
+        "description": "En el marco de la celebración del Bicentenario de la Independencia de Centroamérica, la reedición de las novelas El problema (1899) del guatemalteco Máximo Soto Hall y La caída del águila (1920) del costarricense Carlos Gagini, busca motivar la reflexión sobre las avenidas imaginadas con respecto al futuro de la región.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789930580790"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9930580794"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 273,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hBx0EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hBx0EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hBx0EAAAQBAJ&printsec=frontcover&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hBx0EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hBx0EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 27900,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 27900,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=hBx0EAAAQBAJ&rdid=book-hBx0EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 27900000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 27900000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/El_problema_La_ca%C3%ADda_del_%C3%A1guila-sample-epub.acsm?id=hBx0EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/El_problema_La_ca%C3%ADda_del_%C3%A1guila-sample-pdf.acsm?id=hBx0EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hBx0EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En el marco de la celebración del Bicentenario de la Independencia de Centroamérica, la reedición de las novelas El problema (1899) del guatemalteco Máximo Soto Hall y La caída del águila (1920) del costarricense Carlos Gagini, busca ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5D_VAAAAMAAJ",
+      "etag": "G3VwR7hiiV8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5D_VAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Don Diego Portales",
+        "subtitle": "historia novelada",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1950",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015018056955"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 308,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5D_VAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5D_VAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5D_VAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5D_VAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Don_Diego_Portales.html?hl=&id=5D_VAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5D_VAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7Ac-AAAAYAAJ",
+      "etag": "/TGbI1IVzHc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7Ac-AAAAYAAJ",
+      "volumeInfo": {
+        "title": "El A de la economía política",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1910",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024014977"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "categories": [
+          "Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7Ac-AAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7Ac-AAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7Ac-AAAAYAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7Ac-AAAAYAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_A_de_la_econom%C3%ADa_pol%C3%ADtica.html?hl=&id=7Ac-AAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7Ac-AAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sC1CAAAAYAAJ",
+      "etag": "qgthr+NVg+k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sC1CAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Cuentos para los niños",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1905",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173027964746"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 42,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sC1CAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sC1CAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=sC1CAAAAYAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=sC1CAAAAYAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuentos_para_los_ni%C3%B1os.html?hl=&id=sC1CAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sC1CAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i21oAAAAMAAJ",
+      "etag": "nHeGGNXgyMs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i21oAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Monteagudo y el ideal panamericano",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1933",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023533425"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 204,
+        "printType": "BOOK",
+        "categories": [
+          "America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i21oAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i21oAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=i21oAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=i21oAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Monteagudo_y_el_ideal_panamericano.html?hl=&id=i21oAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i21oAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xr5UAAAAMAAJ",
+      "etag": "sdnxLd2DltE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xr5UAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Herodías",
+        "subtitle": "poema biblico",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024544460"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 102,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xr5UAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xr5UAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=xr5UAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=xr5UAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Herod%C3%ADas.html?hl=&id=xr5UAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xr5UAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-VNFAAAAIAAJ",
+      "etag": "MlPdBYJwjNY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-VNFAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Revelaciones intimas de Rubén Darío",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1925",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B298939"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 316,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.12.12.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-VNFAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-VNFAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-VNFAAAAIAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-VNFAAAAIAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Revelaciones_intimas_de_Rub%C3%A9n_Dar%C3%ADo.html?hl=&id=-VNFAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-VNFAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5iZLAQAAMAAJ",
+      "etag": "IjretlonyRY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5iZLAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Poemas y rimas",
+        "subtitle": "Dos besos, En el mar, Carolina Lamb, Rimas",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IOWA:31858004751578"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5iZLAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5iZLAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5iZLAQAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5iZLAQAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poemas_y_rimas.html?hl=&id=5iZLAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5iZLAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "U75UAAAAMAAJ",
+      "etag": "H2gFpIthWI4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U75UAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Del jardín de la leyenda",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024544471"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=U75UAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=U75UAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=U75UAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=U75UAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Del_jard%C3%ADn_de_la_leyenda.html?hl=&id=U75UAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U75UAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QGNaAAAAMAAJ",
+      "etag": "x0ipFhiElNc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QGNaAAAAMAAJ",
+      "volumeInfo": {
+        "title": "La divina reclusa",
+        "subtitle": "(Sor Juana de Maldonado y Paz) crónica novelada",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "2003",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173016332300"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QGNaAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QGNaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=QGNaAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=QGNaAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_divina_reclusa.html?hl=&id=QGNaAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QGNaAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DKhpAAAAMAAJ",
+      "etag": "mIdRMAGUlwE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DKhpAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Martí y el general Justo Rufino Barrios",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1952",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018421150"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 28,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DKhpAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DKhpAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DKhpAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DKhpAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mart%C3%AD_y_el_general_Justo_Rufino_Barrios.html?hl=&id=DKhpAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DKhpAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lZlaAAAAMAAJ",
+      "etag": "BLdBcKir1PE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lZlaAAAAMAAJ",
+      "volumeInfo": {
+        "title": "El San Francisco de Asis americano, Pedro de San José Bethencourt",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1949",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023163950"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.8.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lZlaAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lZlaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lZlaAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lZlaAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_San_Francisco_de_Asis_americano_Pedro.html?hl=&id=lZlaAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lZlaAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nS1CAAAAYAAJ",
+      "etag": "iEka3deD5uI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nS1CAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Chispas venezolanas",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173027964735"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 60,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nS1CAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nS1CAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nS1CAAAAYAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nS1CAAAAYAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Chispas_venezolanas.html?hl=&id=nS1CAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nS1CAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ib9UAAAAMAAJ",
+      "etag": "/sz2ItZLlWQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ib9UAAAAMAAJ",
+      "volumeInfo": {
+        "title": "La sombra de la Casa Blanca",
+        "subtitle": "libro de emoción, de pasión, de verdad y de justicia",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024544449"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 332,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.8.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ib9UAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ib9UAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Ib9UAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Ib9UAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_sombra_de_la_Casa_Blanca.html?hl=&id=Ib9UAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ib9UAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YnQWAAAAYAAJ",
+      "etag": "OMWCqsCid9w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YnQWAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Un vistazo sobre Costa Rica en el siglo XIX.",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1901",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X000774720"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 322,
+        "printType": "BOOK",
+        "categories": [
+          "Costa Rica"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YnQWAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YnQWAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YnQWAAAAYAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YnQWAAAAYAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Un_vistazo_sobre_Costa_Rica_en_el_siglo.html?hl=&id=YnQWAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YnQWAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7URqAAAAMAAJ",
+      "etag": "DNJ2xHGEuwU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7URqAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Dos grandes apóstoles del panamericanismo, Bernardo Monteagudo y José Cecilio del Valle",
+        "subtitle": "discurso",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018362710"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7URqAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7URqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7URqAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7URqAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dos_grandes_ap%C3%B3stoles_del_panamericanis.html?hl=&id=7URqAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7URqAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Eo1XAAAAMAAJ",
+      "etag": "eDRKm+OThfE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Eo1XAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Pedro de San José Bethencourt",
+        "subtitle": "el San Francisco de Asís americano",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1949",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023970420"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 340,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Eo1XAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Eo1XAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Eo1XAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Eo1XAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pedro_de_San_Jos%C3%A9_Bethencourt.html?hl=&id=Eo1XAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Eo1XAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qK1PAAAAMAAJ",
+      "etag": "DOk9AtpVZzM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qK1PAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Nicaragua y el imperialismo norteamericano",
+        "subtitle": "contraste entre la insolencia norteamericana y la vergonzosa tolerancia de los gobiernos de la América latina",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173025465009"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": [
+          "Latin America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qK1PAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qK1PAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qK1PAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qK1PAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nicaragua_y_el_imperialismo_norteamerica.html?hl=&id=qK1PAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qK1PAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uv1OAQAAIAAJ",
+      "etag": "MlnkFDqFy2s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uv1OAQAAIAAJ",
+      "volumeInfo": {
+        "title": "América contemporánea ...",
+        "authors": [
+          "Ricardo Donoso"
+        ],
+        "publishedDate": "1941",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105118137939"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 532,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uv1OAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uv1OAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=uv1OAQAAIAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=uv1OAQAAIAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Am%C3%A9rica_contempor%C3%A1nea.html?hl=&id=uv1OAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uv1OAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G8k1EAAAQBAJ",
+      "etag": "e1GymKEg4/k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G8k1EAAAQBAJ",
+      "volumeInfo": {
+        "title": "3 Libros para Conocer Literatura Guatemalteca",
+        "authors": [
+          "José Milla y Vidaurre",
+          "Máximo Soto Hall",
+          "August Nemo"
+        ],
+        "publisher": "Tacet Books",
+        "publishedDate": "2021-07-07",
+        "description": "Bienvenidos a la colección 3 libros para conocer, nuestra idea es ayudar a los lectores a aprender sobre temas fascinantes a través de tres libros imprescindibles y destacados. Estas obras cuidadosamente seleccionadas pueden ser de ficción, no ficción, documentos históricos o incluso biografías. Siempre seleccionaremos para ti tres grandes obras para instigar tu mente, esta vez el tema es: Literatura Guatemalteca. • La hija del Adelantado por José Milla y Vidaurre. • Popol Vuh por Anónimo. • El problema por Máximo Soto Hall. Este es uno de los muchos libros de la colección 3 libros para conocer. Si te ha gustado este libro, busca los otros títulos de la colección, pues estamos convencidos de que alguno de los temas te gustará.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783985944828"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3985944822"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=G8k1EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=G8k1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=G8k1EAAAQBAJ&printsec=frontcover&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=G8k1EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=G8k1EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 13900,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 13900,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=G8k1EAAAQBAJ&rdid=book-G8k1EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 13900000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 13900000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/3_Libros_para_Conocer_Literatura_Guatema-sample-epub.acsm?id=G8k1EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/3_Libros_para_Conocer_Literatura_Guatema-sample-pdf.acsm?id=G8k1EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G8k1EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Siempre seleccionaremos para ti tres grandes obras para instigar tu mente, esta vez el tema es: Literatura Guatemalteca. • La hija del Adelantado por José Milla y Vidaurre. • Popol Vuh por Anónimo. • El problema por Máximo Soto ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3wDwm7SpG2EC",
+      "etag": "RSUa9gEtDHU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3wDwm7SpG2EC",
+      "volumeInfo": {
+        "title": "De México á Honduras (el viaje de Hernán Cortés).",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1900",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112039399941"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 116,
+        "printType": "BOOK",
+        "categories": [
+          "Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3wDwm7SpG2EC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3wDwm7SpG2EC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3wDwm7SpG2EC&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3wDwm7SpG2EC&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_M%C3%A9xico_%C3%A1_Honduras_el_viaje_de_Hern.html?hl=&id=3wDwm7SpG2EC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3wDwm7SpG2EC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BisPAAAAYAAJ",
+      "etag": "Vb4UBvTrEBA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BisPAAAAYAAJ",
+      "volumeInfo": {
+        "title": "La gran familia",
+        "subtitle": "perfiles de instrucción y moral cívicas",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024424061"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "categories": [
+          "Civics, Guatemalan"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.11.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BisPAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BisPAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BisPAAAAYAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BisPAAAAYAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_gran_familia.html?hl=&id=BisPAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BisPAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y0JlAAAAMAAJ",
+      "etag": "GSR/vjme6C4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y0JlAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Los mayas",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1937",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173022873927"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 262,
+        "printType": "BOOK",
+        "categories": [
+          "Mayas"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.10.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=y0JlAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=y0JlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=y0JlAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=y0JlAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_mayas.html?hl=&id=y0JlAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y0JlAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qpsjyctJYzEC",
+      "etag": "9p0/esoFl3Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qpsjyctJYzEC",
+      "volumeInfo": {
+        "title": "Cultura maya",
+        "subtitle": "caracter y creaciones de esta gran civilizaciíon precolombina",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1941",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112039385650"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 168,
+        "printType": "BOOK",
+        "categories": [
+          "Mayas"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qpsjyctJYzEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qpsjyctJYzEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qpsjyctJYzEC&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qpsjyctJYzEC&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cultura_maya.html?hl=&id=qpsjyctJYzEC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qpsjyctJYzEC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cIoXAAAAIAAJ",
+      "etag": "kJNTf+9LJOk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cIoXAAAAIAAJ",
+      "volumeInfo": {
+        "title": "La niña de Guatemala",
+        "subtitle": "el idilio trágico de José Martí",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1942",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105001758452"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 182,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.12.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cIoXAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cIoXAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cIoXAAAAIAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cIoXAAAAIAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_ni%C3%B1a_de_Guatemala.html?hl=&id=cIoXAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cIoXAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NM0pAAAAYAAJ",
+      "etag": "2L8zgPVGiGk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NM0pAAAAYAAJ",
+      "volumeInfo": {
+        "title": "El ideal",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1894",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HNLIMM"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NM0pAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NM0pAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NM0pAAAAYAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NM0pAAAAYAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_ideal.html?hl=&id=NM0pAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NM0pAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HR8_AAAAYAAJ",
+      "etag": "Am6/aXb3N3Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HR8_AAAAYAAJ",
+      "volumeInfo": {
+        "title": "Venezuela",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173026604541"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 62,
+        "printType": "BOOK",
+        "categories": [
+          "Monetary policy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HR8_AAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HR8_AAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HR8_AAAAYAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HR8_AAAAYAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Venezuela.html?hl=&id=HR8_AAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HR8_AAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LXTVxQEACAAJ",
+      "etag": "EUfbB3+IMKw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LXTVxQEACAAJ",
+      "volumeInfo": {
+        "title": "Venezuela. Ensayo de papel-moneda en 1811. Jamás ha vuelto a tener papel-moneda. Testimonio elocuent",
+        "authors": [
+          "Maximo Soto-Hall"
+        ],
+        "publisher": "Wentworth Press",
+        "publishedDate": "2018-07-25",
+        "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "027003045X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780270030457"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LXTVxQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LXTVxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=LXTVxQEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LXTVxQEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Venezuela_Ensayo_de_papel_moneda_en_1811.html?hl=&id=LXTVxQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LXTVxQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h4C0zwEACAAJ",
+      "etag": "gS4gzCJu9Tc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h4C0zwEACAAJ",
+      "volumeInfo": {
+        "title": "El problema",
+        "authors": [
+          "Verónica Ríos Quesada"
+        ],
+        "publishedDate": "2021",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9930580506"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789930580509"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=h4C0zwEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=h4C0zwEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_problema.html?hl=&id=h4C0zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h4C0zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "byktSQAACAAJ",
+      "etag": "52t8D1FGcZY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/byktSQAACAAJ",
+      "volumeInfo": {
+        "title": "La Feminización de la Palabra en Las Pensadoras Costarricenses",
+        "subtitle": "Antología de Ensayos Selectos",
+        "authors": [
+          "Máximo Soto-Hall",
+          "Grace Prada Ortiz"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9968260274"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789968260275"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+          "Costa Rican literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=byktSQAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=byktSQAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Feminizaci%C3%B3n_de_la_Palabra_en_Las_Pe.html?hl=&id=byktSQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=byktSQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7O3VRODLQHcC",
+      "etag": "yTKzpncgBIs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7O3VRODLQHcC",
+      "volumeInfo": {
+        "title": "La deuda inglesa de Guatemala",
+        "subtitle": "su origen y su historia : serie de artículos publicados en la revista La Actualidad, propriedad de Marroquin Hermanos, año de 1917",
+        "authors": [
+          "Máximo Soto Hall"
+        ],
+        "publishedDate": "1917",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433008471546"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 114,
+        "printType": "BOOK",
+        "categories": [
+          "Debts, External"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7O3VRODLQHcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7O3VRODLQHcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7O3VRODLQHcC&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7O3VRODLQHcC&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_deuda_inglesa_de_Guatemala.html?hl=&id=7O3VRODLQHcC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7O3VRODLQHcC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZhAPAAAAYAAJ",
+      "etag": "eeOKzxFU9Eg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZhAPAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Instrucción moral y civica",
+        "subtitle": "Minervalias de 1913",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023756292"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 202,
+        "printType": "BOOK",
+        "categories": [
+          "Civics, Guatemalan"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZhAPAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZhAPAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZhAPAAAAYAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZhAPAAAAYAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Instrucci%C3%B3n_moral_y_civica.html?hl=&id=ZhAPAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZhAPAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cC6kpwAACAAJ",
+      "etag": "/bmGpEvje24",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cC6kpwAACAAJ",
+      "volumeInfo": {
+        "title": "Carta abierta de Máximo Soto Hall con motivo de la publicación del libro El licenciado Estrada Cabrera",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1906*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:20026365"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 3,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cC6kpwAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cC6kpwAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_abierta_de_M%C3%A1ximo_Soto_Hall_con_m.html?hl=&id=cC6kpwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cC6kpwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-_p_HwAACAAJ",
+      "etag": "RBYoYxFx67g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-_p_HwAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso pronunciado por don Máximo Soto-Hall a nombre del Banco Central de Guatemala en el acto de la inauguración de sus funciones",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:23283130"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "categories": [
+          "Monetary policy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-_p_HwAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-_p_HwAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_pronunciado_por_don_M%C3%A1ximo_Sot.html?hl=&id=-_p_HwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-_p_HwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7MSZtAEACAAJ",
+      "etag": "s2aNH3GwhoM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7MSZtAEACAAJ",
+      "volumeInfo": {
+        "title": "Los mayas",
+        "subtitle": "Máximo Soto-Hall",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1937",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:24077927"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "categories": [
+          "Mayas"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7MSZtAEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7MSZtAEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_mayas.html?hl=&id=7MSZtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7MSZtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Tcw_uAAACAAJ",
+      "etag": "UtKnc1uHJnc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Tcw_uAAACAAJ",
+      "volumeInfo": {
+        "title": "Herodías",
+        "subtitle": "poema bíblico",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:17960666"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 59,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Tcw_uAAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Tcw_uAAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Herod%C3%ADas.html?hl=&id=Tcw_uAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Tcw_uAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iuXIHAAACAAJ",
+      "etag": "UBuyHDSUmas",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iuXIHAAACAAJ",
+      "volumeInfo": {
+        "title": "Aves de paso",
+        "subtitle": "versos sueltos, 1895-1896",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1896",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54197483"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 95,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=iuXIHAAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=iuXIHAAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Aves_de_paso.html?hl=&id=iuXIHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iuXIHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MXZlAAAAMAAJ",
+      "etag": "rZoc6uPpMOM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MXZlAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Curso de geografia",
+        "subtitle": "de acuerdo con los programas del ciclo basico comun a los estudios de bachillerato y magisterio, y de las escuelas de comercio. Atlas",
+        "authors": [
+          "Máximo Soto-Hall",
+          "Alfredo César Rampa"
+        ],
+        "publishedDate": "1949",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018240337"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 14,
+        "printType": "BOOK",
+        "categories": [
+          "America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MXZlAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MXZlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=MXZlAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=MXZlAAAAMAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Curso_de_geografia.html?hl=&id=MXZlAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MXZlAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SnTttgAACAAJ",
+      "etag": "l7dMJTCbjg0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SnTttgAACAAJ",
+      "volumeInfo": {
+        "title": "Página gris",
+        "authors": [
+          "Luis Felipe Arias López",
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1958",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253108112"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 6,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SnTttgAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SnTttgAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/P%C3%A1gina_gris.html?hl=&id=SnTttgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SnTttgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K8abzwEACAAJ",
+      "etag": "9GigDlIzWo8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K8abzwEACAAJ",
+      "volumeInfo": {
+        "title": "Nicaragua Y El Imperialismo Norteamericano",
+        "subtitle": "Contraste Entre la Insolencia Norteamericana Y la Vergonzosa Tolerancia de Los Gobiernos de la America Latina",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1355994313"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Latin America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=K8abzwEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=K8abzwEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nicaragua_Y_El_Imperialismo_Norteamerica.html?hl=&id=K8abzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K8abzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sYw3MwEACAAJ",
+      "etag": "emvActhbGtc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sYw3MwEACAAJ",
+      "volumeInfo": {
+        "title": "Dijes y bronces",
+        "subtitle": "cuentos y semblanzas",
+        "authors": [
+          "Máximo Soto-Hall",
+          "Salvador Rueda"
+        ],
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:807684280"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 97,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=sYw3MwEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=sYw3MwEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dijes_y_bronces.html?hl=&id=sYw3MwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sYw3MwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VSAbzwEACAAJ",
+      "etag": "XgD4E5XGmV0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VSAbzwEACAAJ",
+      "volumeInfo": {
+        "title": "Independencia y organización constitucional",
+        "authors": [
+          "Silvio Arturo Zavala",
+          "José Manuel Carbonell",
+          "Máximo Soto-Hall",
+          "Pedro Henríquez Ureña"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:906097487"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 434,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VSAbzwEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VSAbzwEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Independencia_y_organizaci%C3%B3n_constituci.html?hl=&id=VSAbzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VSAbzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZI1YHQAACAAJ",
+      "etag": "X3NGDdjSbgg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZI1YHQAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso pronunciado ... en el Palacio del Poder Ejecutivo el 15 de septiembre de 1903",
+        "subtitle": "LXXXII aniversario de la independencia de la América Central",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1903",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:20041717"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZI1YHQAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZI1YHQAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_pronunciado_en_el_Palacio_del_P.html?hl=&id=ZI1YHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZI1YHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RKw7QwAACAAJ",
+      "etag": "yz/PbyGLGWs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RKw7QwAACAAJ",
+      "volumeInfo": {
+        "title": "Apuntes de una vida (novela corta).",
+        "authors": [
+          "Máximo Soto Hall"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458957387"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 119,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RKw7QwAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=45&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RKw7QwAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Apuntes_de_una_vida_novela_corta.html?hl=&id=RKw7QwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RKw7QwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7oISzwEACAAJ",
+      "etag": "q6IjVo+ByN8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7oISzwEACAAJ",
+      "volumeInfo": {
+        "title": "Independencia y organización constitucional",
+        "authors": [
+          "Silvio A. Zabala",
+          "José Manuel Cabonell",
+          "Maximo Soto Soto-Hall"
+        ],
+        "publishedDate": "1947",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:255854158"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=7oISzwEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=46&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=7oISzwEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Independencia_y_organizaci%C3%B3n_constituci.html?hl=&id=7oISzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7oISzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HUQnzwEACAAJ",
+      "etag": "jLR5pAwDTOM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HUQnzwEACAAJ",
+      "volumeInfo": {
+        "title": "América contemporánea",
+        "authors": [
+          "Silvio Arturo Zavala",
+          "Máximo Soto-Hall",
+          "Pedro Henríquez Ureña",
+          "José Manuel Carbonell"
+        ],
+        "publishedDate": "1941",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:906097554"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 510,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HUQnzwEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=47&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HUQnzwEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Am%C3%A9rica_contempor%C3%A1nea.html?hl=&id=HUQnzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HUQnzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ApLbtAEACAAJ",
+      "etag": "UhnOmdjaocU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ApLbtAEACAAJ",
+      "volumeInfo": {
+        "title": "Catalina",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1900",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1013294083"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 233,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ApLbtAEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=48&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ApLbtAEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Catalina.html?hl=&id=ApLbtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ApLbtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "F0TjHAAACAAJ",
+      "etag": "uV9jnLGOKxk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/F0TjHAAACAAJ",
+      "volumeInfo": {
+        "title": "La independencia y sus hombres",
+        "subtitle": "(lecturas para los niños de mi patria) 15 de septiembre, 1911",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:10784850"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 35,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=F0TjHAAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=49&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=F0TjHAAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_independencia_y_sus_hombres.html?hl=&id=F0TjHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=F0TjHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DORzHAAACAAJ",
+      "etag": "qWFXn+NXEOg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DORzHAAACAAJ",
+      "volumeInfo": {
+        "title": "Don Juan loco",
+        "subtitle": "drama en tres actos y en prosa",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1909",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:19929576"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DORzHAAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=50&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DORzHAAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Don_Juan_loco.html?hl=&id=DORzHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DORzHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WWrboAEACAAJ",
+      "etag": "hz6G+KTrS2Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WWrboAEACAAJ",
+      "volumeInfo": {
+        "title": "Curso de geografía americana",
+        "authors": [
+          "Máximo Soto Hall",
+          "A. C. Rampa"
+        ],
+        "publishedDate": "1948",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459645125"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 542,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WWrboAEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=51&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WWrboAEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Curso_de_geograf%C3%ADa_americana.html?hl=&id=WWrboAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WWrboAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J2waywEACAAJ",
+      "etag": "fD6FvxeZlRA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J2waywEACAAJ",
+      "volumeInfo": {
+        "title": "Curso de geografía americana",
+        "subtitle": "de acuerdo con los programas del ... bachillerato y magisterio, y de las escuelas de comercio. 3r año",
+        "authors": [
+          "Máximo Soto Hall",
+          "Alfredo César Rampa"
+        ],
+        "publishedDate": "1948",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1123457127"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 542,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=J2waywEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=52&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=J2waywEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Curso_de_geograf%C3%ADa_americana.html?hl=&id=J2waywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J2waywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WE5gGwAACAAJ",
+      "etag": "uqejJZDzMFo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WE5gGwAACAAJ",
+      "volumeInfo": {
+        "title": "Artes y labores femeniles",
+        "subtitle": "escuelas prácticas de señoritas",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:47004253"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 59,
+        "printType": "BOOK",
+        "categories": [
+          "Women artists"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WE5gGwAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=53&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WE5gGwAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Artes_y_labores_femeniles.html?hl=&id=WE5gGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WE5gGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rMpdmQEACAAJ",
+      "etag": "R31EeX+wGzA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rMpdmQEACAAJ",
+      "volumeInfo": {
+        "title": "Revelaciones Íntimas de Rubén Darío",
+        "authors": [
+          "Máximo SOTO-HALL"
+        ],
+        "publishedDate": "1925",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:503909332"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=rMpdmQEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=54&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rMpdmQEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Revelaciones_%C3%8Dntimas_de_Rub%C3%A9n_Dar%C3%ADo.html?hl=&id=rMpdmQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rMpdmQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j3ZRtwAACAAJ",
+      "etag": "7a1wFfI1zZk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j3ZRtwAACAAJ",
+      "volumeInfo": {
+        "title": "Mi distinguido amigo: Creo que nadie mejor que Ud., tan lleno de vinculaciones y amistades en la América, acoger con más entusiasmo el proyecto que la Revista \"EL ARTE\" está resuelta a llevar a cabo y consiste en lo que paso a expresar ...",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1924",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:772852742"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=j3ZRtwAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=55&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=j3ZRtwAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mi_distinguido_amigo_Creo_que_nadie_mejo.html?hl=&id=j3ZRtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j3ZRtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2Y1mGwAACAAJ",
+      "etag": "UidFroqoVWE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2Y1mGwAACAAJ",
+      "volumeInfo": {
+        "title": "La revolución de 1871",
+        "subtitle": "discurso",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1919",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:8646097"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 7,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2Y1mGwAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=56&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2Y1mGwAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_revoluci%C3%B3n_de_1871.html?hl=&id=2Y1mGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2Y1mGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "beIOzwEACAAJ",
+      "etag": "mMdVn0GW2AI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/beIOzwEACAAJ",
+      "volumeInfo": {
+        "title": "América contemporanea",
+        "authors": [
+          "Silvio A. Zavala",
+          "José Manuel Cabonell",
+          "Máximo Soto Soto-Hall"
+        ],
+        "publishedDate": "1947",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:255857510"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=beIOzwEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=57&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=beIOzwEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Am%C3%A9rica_contemporanea.html?hl=&id=beIOzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=beIOzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VkkGswEACAAJ",
+      "etag": "XQkSycabxiA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VkkGswEACAAJ",
+      "volumeInfo": {
+        "title": "Origen del nombre Guatemala",
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:911775477"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 9,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VkkGswEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=58&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VkkGswEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Origen_del_nombre_Guatemala.html?hl=&id=VkkGswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VkkGswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0_HBHAAACAAJ",
+      "etag": "0geu9zhYDjI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0_HBHAAACAAJ",
+      "volumeInfo": {
+        "title": "Resurgimiento",
+        "authors": [
+          "Asilo de Maternidad \"Joaquina.\"",
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1918",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12563600"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "categories": [
+          "Hospitals, Gynecologic and obstetric"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0_HBHAAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=59&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0_HBHAAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Resurgimiento.html?hl=&id=0_HBHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0_HBHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u1dCGwAACAAJ",
+      "etag": "J6k3DrfpFHw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u1dCGwAACAAJ",
+      "volumeInfo": {
+        "title": "La medicina, la terapéutica y la higiene entre los Mayas",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1937*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:42636321"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 154,
+        "printType": "BOOK",
+        "categories": [
+          "Mexico"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=u1dCGwAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=60&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=u1dCGwAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_medicina_la_terap%C3%A9utica_y_la_higiene.html?hl=&id=u1dCGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u1dCGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sQuItwEACAAJ",
+      "etag": "0fTgakYjDsQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sQuItwEACAAJ",
+      "volumeInfo": {
+        "title": "Cultura maya, caracter y creaciones de esta gran civilización precolombina",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1941",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:978089674"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 142,
+        "printType": "BOOK",
+        "categories": [
+          "Mayas"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=sQuItwEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=61&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=sQuItwEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cultura_maya_caracter_y_creaciones_de_es.html?hl=&id=sQuItwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sQuItwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aLr7QAAACAAJ",
+      "etag": "kqINRKwnOMQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aLr7QAAACAAJ",
+      "volumeInfo": {
+        "title": "Instrucción moral y cívica",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "192?",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:11693951"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 218,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=aLr7QAAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=62&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=aLr7QAAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Instrucci%C3%B3n_moral_y_c%C3%ADvica.html?hl=&id=aLr7QAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aLr7QAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jPOGtgAACAAJ",
+      "etag": "4UcNfuyNZsU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jPOGtgAACAAJ",
+      "volumeInfo": {
+        "title": "Notas broncíneas",
+        "subtitle": "ramillete de odas [con motivo de las] Fiestas de Minerva",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1908",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:14578163"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 41,
+        "printType": "BOOK",
+        "categories": [
+          "Fiesta de Minerva (Guatemala)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jPOGtgAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=63&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jPOGtgAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Notas_bronc%C3%ADneas.html?hl=&id=jPOGtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jPOGtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r-O4GwAACAAJ",
+      "etag": "TO3p6Sd4Ru8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r-O4GwAACAAJ",
+      "volumeInfo": {
+        "title": "Oda",
+        "subtitle": "con motivo de la inauguración del Ferrocarril á Mazatenango",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1903",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:14577802"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 7,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=r-O4GwAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=64&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=r-O4GwAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Oda.html?hl=&id=r-O4GwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r-O4GwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LlUzzwEACAAJ",
+      "etag": "hAGpaADSZyE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LlUzzwEACAAJ",
+      "volumeInfo": {
+        "title": "Oda con motivo de la inaguración del ferrocarril a Mazatenango",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1903",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318319427"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 7,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=LlUzzwEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=65&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LlUzzwEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Oda_con_motivo_de_la_inaguraci%C3%B3n_del_fe.html?hl=&id=LlUzzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LlUzzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kBXaPAAACAAJ",
+      "etag": "p/ySCyyDm6g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kBXaPAAACAAJ",
+      "volumeInfo": {
+        "title": "Amores trágicos",
+        "subtitle": "Poema",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:9521872"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 47,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=kBXaPAAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=66&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=kBXaPAAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Amores_tr%C3%A1gicos.html?hl=&id=kBXaPAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kBXaPAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r9dBHAAACAAJ",
+      "etag": "njSlFTLWCwA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r9dBHAAACAAJ",
+      "volumeInfo": {
+        "title": "Estrada Cabrera, con motivo del nuevo período presidencial",
+        "subtitle": "breve análisis",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1905",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:19287834"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 11,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=r9dBHAAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=67&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=r9dBHAAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estrada_Cabrera_con_motivo_del_nuevo_per.html?hl=&id=r9dBHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r9dBHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LrUjHQAACAAJ",
+      "etag": "zYouorDIrX8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LrUjHQAACAAJ",
+      "volumeInfo": {
+        "title": "A Juárez",
+        "subtitle": "homenaje",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1906",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:19929571"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 9,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=LrUjHQAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=68&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LrUjHQAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Ju%C3%A1rez.html?hl=&id=LrUjHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LrUjHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RXrEtgAACAAJ",
+      "etag": "uJTCzEoUAT0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RXrEtgAACAAJ",
+      "volumeInfo": {
+        "title": "Dijes y bronces",
+        "subtitle": "cuentos y semblanzas, con un proemio de Salvador Rueda",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:18309787"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 97,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RXrEtgAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=69&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RXrEtgAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dijes_y_bronces.html?hl=&id=RXrEtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RXrEtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SgDftAEACAAJ",
+      "etag": "aD5/YJQQV9I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SgDftAEACAAJ",
+      "volumeInfo": {
+        "title": "Dos grandes apóstoles del panamericanismo, Bernardo Monteagudo y José Cecilio del Valle",
+        "subtitle": "Discurso de recepción, 25 de julio de 1926",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651391115"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SgDftAEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=70&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SgDftAEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dos_grandes_ap%C3%B3stoles_del_panamericanis.html?hl=&id=SgDftAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SgDftAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X-8BswEACAAJ",
+      "etag": "Dpd0LIWFd8U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X-8BswEACAAJ",
+      "volumeInfo": {
+        "title": "Monteagudo, colaborador de Bolivar",
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:911775498"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=X-8BswEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=71&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=X-8BswEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Monteagudo_colaborador_de_Bolivar.html?hl=&id=X-8BswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X-8BswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x6mgmgEACAAJ",
+      "etag": "tusqnsYxjuo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x6mgmgEACAAJ",
+      "volumeInfo": {
+        "title": "Curso de geografía americana",
+        "authors": [
+          "Máximo Soto-Hall",
+          "Alfredo C. Rampa"
+        ],
+        "publishedDate": "1952",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253678137"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 542,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=x6mgmgEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=72&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=x6mgmgEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Curso_de_geograf%C3%ADa_americana.html?hl=&id=x6mgmgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x6mgmgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZTzCNAEACAAJ",
+      "etag": "y7tnUx5omdQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZTzCNAEACAAJ",
+      "volumeInfo": {
+        "title": "Un vistado sobre Costa Rica en el siglo XIX",
+        "subtitle": "1800-1900",
+        "authors": [
+          "Máximo Soto Hall"
+        ],
+        "publishedDate": "1901",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432838043"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 302,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZTzCNAEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=73&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZTzCNAEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Un_vistado_sobre_Costa_Rica_en_el_siglo.html?hl=&id=ZTzCNAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZTzCNAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SX6MHAAACAAJ",
+      "etag": "6CHcOoWheig",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SX6MHAAACAAJ",
+      "volumeInfo": {
+        "title": "Fiestas escolares de 1903",
+        "subtitle": "discurso pronunciado en el Templo de Minerva, a nombre del Gobierno",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1903*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:3298311"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 13,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SX6MHAAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=74&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SX6MHAAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fiestas_escolares_de_1903.html?hl=&id=SX6MHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SX6MHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0bUBMwEACAAJ",
+      "etag": "wP1I1jAlNMA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0bUBMwEACAAJ",
+      "volumeInfo": {
+        "title": "Trinidad indo-heroica",
+        "subtitle": "Tecum-Umán, Urraca, Lempira. Minerválias de 1916",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:22025778"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0bUBMwEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=75&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0bUBMwEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Trinidad_indo_heroica.html?hl=&id=0bUBMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0bUBMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LMjxMgEACAAJ",
+      "etag": "hrSw8n10pdk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LMjxMgEACAAJ",
+      "volumeInfo": {
+        "title": "La sombra de la Casa Blanca, etc",
+        "authors": [
+          "Máximo SOTO-HALL"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:503909363"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 316,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=LMjxMgEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=76&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LMjxMgEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_sombra_de_la_Casa_Blanca_etc.html?hl=&id=LMjxMgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LMjxMgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yitaQwAACAAJ",
+      "etag": "90vmX4Amyh0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yitaQwAACAAJ",
+      "volumeInfo": {
+        "title": "Al Benemerito de las Americas Benito Juárez",
+        "subtitle": "Oda",
+        "authors": [
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1910",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:689519807"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 11,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yitaQwAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=77&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yitaQwAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Al_Benemerito_de_las_Americas_Benito_Ju.html?hl=&id=yitaQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yitaQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0CaSmQEACAAJ",
+      "etag": "LRCvKIL53hQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0CaSmQEACAAJ",
+      "volumeInfo": {
+        "title": "Cultura Maya. Carácter Y Creaciones de Esta Gran Civilización Precolombina",
+        "authors": [
+          "Máximo SOTO-HALL"
+        ],
+        "publishedDate": "1941",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:503909288"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=0CaSmQEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=78&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0CaSmQEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cultura_Maya_Car%C3%A1cter_Y_Creaciones_de_E.html?hl=&id=0CaSmQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0CaSmQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JzPgwAEACAAJ",
+      "etag": "mpOu3fKJaEw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JzPgwAEACAAJ",
+      "volumeInfo": {
+        "title": "Un crimen perfecto",
+        "subtitle": "el asesinato del gran mariscal don Agustín Gamarra, presidente de Perú",
+        "authors": [
+          "Alfredo González Prada",
+          "Arthur Dakin",
+          "Máximo Soto-Hall"
+        ],
+        "publishedDate": "1941",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:43014272"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 83,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=JzPgwAEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=79&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JzPgwAEACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Un_crimen_perfecto.html?hl=&id=JzPgwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JzPgwAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vBrdHAAACAAJ",
+      "etag": "tH24axSJRVo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vBrdHAAACAAJ",
+      "volumeInfo": {
+        "title": "De las coquetas",
+        "subtitle": "(estudios).",
+        "authors": [
+          "Máximo Soto Hall"
+        ],
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253328080"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 45,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vBrdHAAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=80&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vBrdHAAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_las_coquetas.html?hl=&id=vBrdHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vBrdHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4YYOPQAACAAJ",
+      "etag": "M9j9yUJgoZY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4YYOPQAACAAJ",
+      "volumeInfo": {
+        "title": "The Guatemalan Special Mission to the United States of America to Express to the President of the United States the Gratitude of the Government and People of Guatemala for the Service Rendered to Humanity in the Successful Prosecution of the War Against Germany",
+        "subtitle": "Ceremonies at Washington, November 21, 1919",
+        "authors": [
+          "Guatemala. Special Mission to the United States",
+          "United States. Department of State"
+        ],
+        "publishedDate": "1919",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:41141411"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=4YYOPQAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&cd=81&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4YYOPQAACAAJ&dq=inauthor:%22M%C3%A1ximo+Soto+Hall%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Guatemalan_Special_Mission_to_the_Un.html?hl=&id=4YYOPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4YYOPQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}
