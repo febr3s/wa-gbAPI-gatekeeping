@@ -253,7 +253,7 @@ import subprocess
 import glob as glob_mod  # avoid conflict with existing glob import
 
 raw_data_dir = os.path.join(OUTPUT_BASE_DIR, "raw_data", f"from_{origin_country}")
-combined_file = os.path.join(OUTPUT_BASE_DIR, "raw_data", "all_books_combined.json")
+combined_file = os.path.join(OUTPUT_BASE_DIR, f"{COUNTRY_ABBREV}_books_from_{origin_country}.json")
 
 # Collect all JSON files from the directory
 json_files = sorted(glob_mod.glob(os.path.join(raw_data_dir, "*.json")))
@@ -273,5 +273,8 @@ if json_files:
         print("❌ 'jq' command not found. Please install jq or adjust PATH.")
 else:
     print("⚠️ No JSON files found to combine.")
+
+
+
 
 
