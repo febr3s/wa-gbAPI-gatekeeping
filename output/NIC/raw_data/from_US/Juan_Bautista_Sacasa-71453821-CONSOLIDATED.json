@@ -1,0 +1,582 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juan%20Bautista%20Sacasa\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Juan%20Bautista%20Sacasa\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 10,
+  "_totalFetchedItems": 10,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "rdppAAAAMAAJ",
+      "etag": "TDeZqQxgVAQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rdppAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Cómo y por qué caí del poder",
+        "authors": [
+          "Juan Bautista Sacasa"
+        ],
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173017257196"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 374,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rdppAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rdppAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=rdppAAAAMAAJ&dq=inauthor:%22Juan+Bautista+Sacasa%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=rdppAAAAMAAJ&dq=inauthor:%22Juan+Bautista+Sacasa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/C%C3%B3mo_y_por_qu%C3%A9_ca%C3%AD_del_poder.html?hl=&id=rdppAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rdppAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y3RqAAAAMAAJ",
+      "etag": "0mQlco1Y1UE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y3RqAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Cómo y por qué caí del poder, julio de 1936",
+        "authors": [
+          "Juan Bautista Sacasa"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018225537"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 130,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=y3RqAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=y3RqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=y3RqAAAAMAAJ&dq=inauthor:%22Juan+Bautista+Sacasa%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=y3RqAAAAMAAJ&dq=inauthor:%22Juan+Bautista+Sacasa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/C%C3%B3mo_y_por_qu%C3%A9_ca%C3%AD_del_poder_julio_de.html?hl=&id=y3RqAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y3RqAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OOoZzwEACAAJ",
+      "etag": "BBbF5gcxUHc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OOoZzwEACAAJ",
+      "volumeInfo": {
+        "title": "Revolución en Nicaragua. Derrocamiento del Gobierno constitucional del Dr. Juan Bautista Sacasa y ascenso del régimen militar del General Anastasio Somoza García. Traducción de documentos oficiales publicados por el Departamento de Estado de Washington, correspondientes a los años de 1935 y 1936 en relación a Nicaragua",
+        "authors": [
+          "United States. Department of State"
+        ],
+        "publishedDate": "1960",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1308616964"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 126,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=OOoZzwEACAAJ&dq=inauthor:%22Juan+Bautista+Sacasa%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=OOoZzwEACAAJ&dq=inauthor:%22Juan+Bautista+Sacasa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Revoluci%C3%B3n_en_Nicaragua_Derrocamiento_d.html?hl=&id=OOoZzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OOoZzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lIGitgAACAAJ",
+      "etag": "+xeE7vUpzFs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lIGitgAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje del Sr. Presidente Constitucional de Nicaragua, doctor don Juan Bautista Sacasa, al clausurar el gobierno legítimo del República establecido en Puerto Cabezas",
+        "authors": [
+          "Juan Bautista Sacasa"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:19024362"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 12,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=lIGitgAACAAJ&dq=inauthor:%22Juan+Bautista+Sacasa%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=lIGitgAACAAJ&dq=inauthor:%22Juan+Bautista+Sacasa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_del_Sr_Presidente_Constitucional.html?hl=&id=lIGitgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lIGitgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PB6ZygAACAAJ",
+      "etag": "Ln4ftG3jSyo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PB6ZygAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje del presidente de la república Dr. Juan B. Sacasa al honorable Congreso Nacional, Managua, D.N., 15 de diciembre, 1935",
+        "authors": [
+          "Nicaragua. President (1933-1936 : Sacasa)"
+        ],
+        "publishedDate": "1935",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54263525"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 27,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=PB6ZygAACAAJ&dq=inauthor:%22Juan+Bautista+Sacasa%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=PB6ZygAACAAJ&dq=inauthor:%22Juan+Bautista+Sacasa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_del_presidente_de_la_rep%C3%BAblica.html?hl=&id=PB6ZygAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PB6ZygAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QgepMwEACAAJ",
+      "etag": "amMC4dDgNfc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QgepMwEACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje del Presidente de la República Juan B. Sacasa al honorable Congreso Nacional",
+        "subtitle": "Managua, D.N., 15, de diciembre 1934",
+        "authors": [
+          "Nicaragua. President (1933-1936 : Sacasa)"
+        ],
+        "publishedDate": "1934",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54263560"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=QgepMwEACAAJ&dq=inauthor:%22Juan+Bautista+Sacasa%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=QgepMwEACAAJ&dq=inauthor:%22Juan+Bautista+Sacasa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_del_Presidente_de_la_Rep%C3%BAblica.html?hl=&id=QgepMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QgepMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mKVLygAACAAJ",
+      "etag": "AmUqJpjyXSY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mKVLygAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje del Presidente de la Rebública doctor Juan B. Sacasa al honorable Congreso Nacional",
+        "subtitle": "Managua, D.N., 15 de diciembre 1933",
+        "authors": [
+          "Nicaragua. President (1933-1936 : Sacasa)"
+        ],
+        "publishedDate": "1933",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54241207"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 14,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=mKVLygAACAAJ&dq=inauthor:%22Juan+Bautista+Sacasa%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=mKVLygAACAAJ&dq=inauthor:%22Juan+Bautista+Sacasa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_del_Presidente_de_la_Reb%C3%BAblica.html?hl=&id=mKVLygAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mKVLygAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6ktmtwAACAAJ",
+      "etag": "0KnpOWB7boM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6ktmtwAACAAJ",
+      "volumeInfo": {
+        "title": "Como y por qué caí del poder",
+        "authors": [
+          "Juan Bautista Sacasa (pres. Nicaragua)"
+        ],
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:760507593"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 362,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=6ktmtwAACAAJ&dq=inauthor:%22Juan+Bautista+Sacasa%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=6ktmtwAACAAJ&dq=inauthor:%22Juan+Bautista+Sacasa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Como_y_por_qu%C3%A9_ca%C3%AD_del_poder.html?hl=&id=6ktmtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6ktmtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5cdbtwAACAAJ",
+      "etag": "vi8lMW+E/vo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5cdbtwAACAAJ",
+      "volumeInfo": {
+        "title": "Cómo y por qué caí del poder",
+        "authors": [
+          "Juan Bautista Sacasa (pres. Nicaragua)"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:760393822"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=5cdbtwAACAAJ&dq=inauthor:%22Juan+Bautista+Sacasa%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=5cdbtwAACAAJ&dq=inauthor:%22Juan+Bautista+Sacasa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/C%C3%B3mo_y_por_qu%C3%A9_ca%C3%AD_del_poder.html?hl=&id=5cdbtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5cdbtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3anwMgEACAAJ",
+      "etag": "jAW7FJejKMU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3anwMgEACAAJ",
+      "volumeInfo": {
+        "title": "Cómo y porqué [sic] caí del poder",
+        "authors": [
+          "Juan Bautista Sacasa"
+        ],
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:803069957"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 363,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=3anwMgEACAAJ&dq=inauthor:%22Juan+Bautista+Sacasa%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=3anwMgEACAAJ&dq=inauthor:%22Juan+Bautista+Sacasa%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/C%C3%B3mo_y_porqu%C3%A9_sic_ca%C3%AD_del_poder.html?hl=&id=3anwMgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3anwMgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

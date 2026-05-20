@@ -1,0 +1,4143 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Pedro%20Joaqu%C3%ADn%20Chamorro\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Pedro%20Joaqu%C3%ADn%20Chamorro\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Pedro%20Joaqu%C3%ADn%20Chamorro\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Pedro%20Joaqu%C3%ADn%20Chamorro\"&maxResults=20&startIndex=40&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Pedro%20Joaqu%C3%ADn%20Chamorro\"&maxResults=20&startIndex=60&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Pedro%20Joaqu%C3%ADn%20Chamorro\"&maxResults=10&startIndex=60&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 70,
+  "_totalRequestsMade": 4,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "y2USAQAAIAAJ",
+      "etag": "Qdi3HFDKt7c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y2USAQAAIAAJ",
+      "volumeInfo": {
+        "title": "La patria de Pedro",
+        "subtitle": "el pensamiento nicaragüense de Pedro Joaquín Chamorro",
+        "authors": [
+          "Pedro Joaquín Chamorro Cardenal"
+        ],
+        "publishedDate": "1981",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105040643848"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 306,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=y2USAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=y2USAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=y2USAQAAIAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=y2USAQAAIAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_patria_de_Pedro.html?hl=&id=y2USAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y2USAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vlYXAAAAIAAJ",
+      "etag": "MPbfQJp3/Cs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vlYXAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Estirpe sangrienta: los Somoza",
+        "authors": [
+          "Pedro Joaquín Chamorro Cardenal"
+        ],
+        "publishedDate": "1957",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105000429055"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 382,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vlYXAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vlYXAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vlYXAAAAIAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vlYXAAAAIAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estirpe_sangrienta_los_Somoza.html?hl=&id=vlYXAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vlYXAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VWYSAQAAIAAJ",
+      "etag": "rMI7qZH/IMM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VWYSAQAAIAAJ",
+      "volumeInfo": {
+        "title": "El periodista",
+        "subtitle": "editoriales sobre libertad de expresión y la república de papel en Nicaragua, 1948-1977",
+        "authors": [
+          "Pedro Joaquín Chamorro Cardenal"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105130518512"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 474,
+        "printType": "BOOK",
+        "categories": [
+          "Censorship"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VWYSAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VWYSAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VWYSAQAAIAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VWYSAQAAIAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_periodista.html?hl=&id=VWYSAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VWYSAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8vQ0AAAAIAAJ",
+      "etag": "Nm+hc0VMIoo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8vQ0AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Los Somoza",
+        "subtitle": "una estirpe sangrienta",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1979",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3625557"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8vQ0AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8vQ0AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8vQ0AAAAIAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8vQ0AAAAIAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_Somoza.html?hl=&id=8vQ0AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8vQ0AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "txZnAAAAMAAJ",
+      "etag": "cwwpDywQbg0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/txZnAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Hacia una acción política clara",
+        "authors": [
+          "Pedro Joaquín Chamorro Cardenal"
+        ],
+        "publishedDate": "1969",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173022921189"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=txZnAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=txZnAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=txZnAAAAMAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=txZnAAAAMAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hacia_una_acci%C3%B3n_pol%C3%ADtica_clara.html?hl=&id=txZnAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=txZnAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "adppAAAAMAAJ",
+      "etag": "tJtQalE075w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/adppAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Diario de un preso",
+        "authors": [
+          "Pedro Joaquín Chamorro Cardenal"
+        ],
+        "publishedDate": "1963",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018226369"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 252,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.8.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=adppAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=adppAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=adppAAAAMAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=adppAAAAMAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Diario_de_un_preso.html?hl=&id=adppAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=adppAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8e0dAAAAMAAJ",
+      "etag": "utzG0hhxzLw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8e0dAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Diario político",
+        "authors": [
+          "Pedro Joaquín Chamorro Cardenal"
+        ],
+        "publishedDate": "1990",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015017896799"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8e0dAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8e0dAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8e0dAAAAMAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8e0dAAAAMAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Diario_pol%C3%ADtico.html?hl=&id=8e0dAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8e0dAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9tQtAAAAIAAJ",
+      "etag": "PTWuBlzueQc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9tQtAAAAIAAJ",
+      "volumeInfo": {
+        "title": "El enigma de las alemanas",
+        "authors": [
+          "Pedro Joaquín Chamorro Cardenal"
+        ],
+        "publishedDate": "1977",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3778900"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9tQtAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9tQtAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9tQtAAAAIAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9tQtAAAAIAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_enigma_de_las_alemanas.html?hl=&id=9tQtAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9tQtAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "t3YSAQAAIAAJ",
+      "etag": "HlFaYEYQID0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t3YSAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Relatos completos",
+        "authors": [
+          "Pedro Joaquín Chamorro Cardenal"
+        ],
+        "publishedDate": "1985",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105040253481"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=t3YSAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=t3YSAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=t3YSAQAAIAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=t3YSAQAAIAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Relatos_completos.html?hl=&id=t3YSAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t3YSAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "m9xpAAAAMAAJ",
+      "etag": "owIWlIJb7E8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m9xpAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Los Somoza",
+        "subtitle": "una estirpe sangrienta",
+        "authors": [
+          "Pedro Joaquín Chamorro Cardenal"
+        ],
+        "publishedDate": "1979",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018226314"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m9xpAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m9xpAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=m9xpAAAAMAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=m9xpAAAAMAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_Somoza.html?hl=&id=m9xpAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m9xpAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OJdGv-iXCHgC",
+      "etag": "M4uLQL/LT2M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OJdGv-iXCHgC",
+      "volumeInfo": {
+        "title": "Fruto Chamorro",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1960",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112041460574"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 490,
+        "printType": "BOOK",
+        "categories": [
+          "Presidents"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OJdGv-iXCHgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OJdGv-iXCHgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=OJdGv-iXCHgC&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=OJdGv-iXCHgC&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fruto_Chamorro.html?hl=&id=OJdGv-iXCHgC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OJdGv-iXCHgC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b64sAAAAMAAJ",
+      "etag": "YBuv61ifrOw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b64sAAAAMAAJ",
+      "volumeInfo": {
+        "title": "5 [i. e. Cinco] p. m",
+        "authors": [
+          "Pedro Joaquín Chamorro Cardenal"
+        ],
+        "publishedDate": "1967",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015022020484"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.11.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=b64sAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=b64sAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=b64sAAAAMAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=b64sAAAAMAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/5_i_e_Cinco_p_m.html?hl=&id=b64sAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b64sAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "f-U-AAAAIAAJ",
+      "etag": "3/k5YDSO/n4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f-U-AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Entre dos filos",
+        "subtitle": "novela nicaragúense",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B158182"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 444,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaraguan fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.8.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=f-U-AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=f-U-AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=f-U-AAAAIAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=f-U-AAAAIAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Entre_dos_filos.html?hl=&id=f-U-AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f-U-AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nWDUAAAAMAAJ",
+      "etag": "ZgxDBypBW68",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nWDUAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Máximo Jérez y sus contemporáneos (estudio histórico-crítico)",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1948",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89096192646"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 452,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nWDUAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nWDUAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nWDUAAAAMAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nWDUAAAAMAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/M%C3%A1ximo_J%C3%A9rez_y_sus_contempor%C3%A1neos_est.html?hl=&id=nWDUAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nWDUAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wdF6AAAAMAAJ",
+      "etag": "YEbnfAhy2GA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wdF6AAAAMAAJ",
+      "volumeInfo": {
+        "title": "Enrique Guzmán y su tiempo",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1965",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015012207695"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 430,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wdF6AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wdF6AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wdF6AAAAMAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wdF6AAAAMAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Enrique_Guzm%C3%A1n_y_su_tiempo.html?hl=&id=wdF6AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wdF6AAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "D4ZKAAAAMAAJ",
+      "etag": "MMle/GWU+uE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/D4ZKAAAAMAAJ",
+      "volumeInfo": {
+        "title": "D. Sofonías Salvatierra y su \"Comentario polémico\"",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1950",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015018035314"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 332,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=D4ZKAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=D4ZKAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=D4ZKAAAAMAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=D4ZKAAAAMAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/D_Sofon%C3%ADas_Salvatierra_y_su_Comentario.html?hl=&id=D4ZKAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=D4ZKAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J3gYM8CWoL0C",
+      "etag": "j5c1/amyzs0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J3gYM8CWoL0C",
+      "volumeInfo": {
+        "title": "El licenciado Jerónimo Pérez, biografía",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1939",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CORNELL:31924021034461"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=J3gYM8CWoL0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=J3gYM8CWoL0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=J3gYM8CWoL0C&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=J3gYM8CWoL0C&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_licenciado_Jer%C3%B3nimo_P%C3%A9rez_biograf%C3%AD.html?hl=&id=J3gYM8CWoL0C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J3gYM8CWoL0C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "43htAAAAMAAJ",
+      "etag": "ssm/Bjq5+Z0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/43htAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Límites de Nicaragua",
+        "subtitle": "su formación histórico geográfica durante la conquista y el período colonial, 1502-1821",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000078382912"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=43htAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=43htAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=43htAAAAMAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=43htAAAAMAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L%C3%ADmites_de_Nicaragua.html?hl=&id=43htAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=43htAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4iQhAQAAIAAJ",
+      "etag": "aVZQKVxi8nQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4iQhAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Obras históricas completas",
+        "authors": [
+          "Jerónimo Pérez"
+        ],
+        "publishedDate": "1977",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B2943272"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 942,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.6.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4iQhAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4iQhAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4iQhAQAAIAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4iQhAQAAIAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_hist%C3%B3ricas_completas.html?hl=&id=4iQhAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4iQhAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GykcAQAAIAAJ",
+      "etag": "aric6DmIIMo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GykcAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Jesús Marchena",
+        "authors": [
+          "Pedro Joaquín Chamorro Cardenal"
+        ],
+        "publishedDate": "1981",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105039423350"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 110,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GykcAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GykcAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GykcAQAAIAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GykcAQAAIAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jes%C3%BAs_Marchena.html?hl=&id=GykcAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GykcAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_uu06x7SFBEC",
+      "etag": "h88pcUfuEyU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_uu06x7SFBEC",
+      "volumeInfo": {
+        "title": "Defensa y refutación contra la obra del lic. Rómulo E. Durón, titulada: \"Límites de Nicaragua",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CORNELL:31924021034362"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 370,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_uu06x7SFBEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_uu06x7SFBEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_uu06x7SFBEC&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_uu06x7SFBEC&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Defensa_y_refutaci%C3%B3n_contra_la_obra_del.html?hl=&id=_uu06x7SFBEC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_uu06x7SFBEC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BS5UAAAAYAAJ",
+      "etag": "7eg+RKroFYY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BS5UAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Nicaragua",
+        "subtitle": "Su pasado. Ojeada retrospectiva",
+        "authors": [
+          "Anselmo Hilario Rivas"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X030790242"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 332,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BS5UAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BS5UAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BS5UAAAAYAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BS5UAAAAYAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nicaragua.html?hl=&id=BS5UAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BS5UAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oNsWAAAAYAAJ",
+      "etag": "62oeOVhngms",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oNsWAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Historia de la Federación de la América Central, 1823-1840",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1951",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X000534350"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 658,
+        "printType": "BOOK",
+        "categories": [
+          "America Central - Historia"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oNsWAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oNsWAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=oNsWAAAAYAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=oNsWAAAAYAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_de_la_Federaci%C3%B3n_de_la_Am%C3%A9ric.html?hl=&id=oNsWAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oNsWAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cLMwAAAAYAAJ",
+      "etag": "PzxkXOrWV10",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cLMwAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Historia de La Prensa",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1951",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018077054"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "categories": [
+          "Prensa (Managua, Nicaragua)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cLMwAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cLMwAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cLMwAAAAYAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cLMwAAAAYAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_de_La_Prensa.html?hl=&id=cLMwAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cLMwAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "c4pnAAAAMAAJ",
+      "etag": "kx/3yHoLXB0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/c4pnAAAAMAAJ",
+      "volumeInfo": {
+        "title": "El patrón",
+        "subtitle": "estudio histórico sobre la personalidad del general Justo Rufino Barrios",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173022899603"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 518,
+        "printType": "BOOK",
+        "categories": [
+          "Presidents"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=c4pnAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=c4pnAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=c4pnAAAAMAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=c4pnAAAAMAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_patr%C3%B3n.html?hl=&id=c4pnAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=c4pnAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iCJCAAAAYAAJ",
+      "etag": "Is3TtgHae3c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iCJCAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Richter 7",
+        "authors": [
+          "Pedro Joaquín Chamorro Cardenal"
+        ],
+        "publishedDate": "1976",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173027951245"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "categories": [
+          "Earthquakes"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iCJCAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iCJCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=iCJCAAAAYAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=iCJCAAAAYAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Richter_7.html?hl=&id=iCJCAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iCJCAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "olRHzQEACAAJ",
+      "etag": "VF8cSyyz/mQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/olRHzQEACAAJ",
+      "volumeInfo": {
+        "title": "El licenciado Jerónomo Pérez, biografía",
+        "subtitle": "la escribe el doctor Pedro Joaquín Chamorro,.",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1939",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1131187465"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 167,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=olRHzQEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=olRHzQEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_licenciado_Jer%C3%B3nomo_P%C3%A9rez_biograf%C3%AD.html?hl=&id=olRHzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=olRHzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ciCIXwAACAAJ",
+      "etag": "usxuqw8lE4U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ciCIXwAACAAJ",
+      "volumeInfo": {
+        "title": "Máximo Jerez y sus contemporáneos, estudio histórico-crítico, por Pedro Joaquín Chamorro,...",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1948",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459186367"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 439,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ciCIXwAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ciCIXwAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/M%C3%A1ximo_Jerez_y_sus_contempor%C3%A1neos_estu.html?hl=&id=ciCIXwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ciCIXwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "F5VDngEACAAJ",
+      "etag": "mvFneh2On+U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/F5VDngEACAAJ",
+      "volumeInfo": {
+        "title": "La democracia de Pedro Joaquín y presidenta Violeta Chamorro",
+        "authors": [
+          "Violeta Barrios de Chamorro",
+          "Cristiana Chamorro Barrios",
+          "Pedro Joaquín Chamorro Cardenal"
+        ],
+        "publishedDate": "2012",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9996487709"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789996487705"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 374,
+        "printType": "BOOK",
+        "categories": [
+          "Democracy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=F5VDngEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=F5VDngEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_democracia_de_Pedro_Joaqu%C3%ADn_y_presid.html?hl=&id=F5VDngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=F5VDngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hq9cHAAACAAJ",
+      "etag": "A/UmO4zXWbE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hq9cHAAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso pronunciado por el señor presidente del Congreso senador Don Pedro Joaquin Chamorro, al entregar el señor Don Fernando Guzman la presidencia de la republica al señor Don Vicente Quadra",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1871",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:19042582"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 4,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hq9cHAAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hq9cHAAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_pronunciado_por_el_se%C3%B1or_presi.html?hl=&id=hq9cHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hq9cHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A71JzQEACAAJ",
+      "etag": "BzSa+WRlaOo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A71JzQEACAAJ",
+      "volumeInfo": {
+        "title": "Máximo Jérez y sus contemporáneso (estudio histórico-crítico",
+        "subtitle": "por Pedro Joaquin Chamorro",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1948",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1131181841"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 436,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=A71JzQEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=A71JzQEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/M%C3%A1ximo_J%C3%A9rez_y_sus_contempor%C3%A1neso_est.html?hl=&id=A71JzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A71JzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cG3VAQAACAAJ",
+      "etag": "sjtDsH0xyO8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cG3VAQAACAAJ",
+      "volumeInfo": {
+        "title": "Richter 7",
+        "authors": [
+          "Pedro Joaquín Chamorro Cardenal"
+        ],
+        "publishedDate": "1981",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:940215363"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "categories": [
+          "Managua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cG3VAQAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cG3VAQAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Richter_7.html?hl=&id=cG3VAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cG3VAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DJ81nQEACAAJ",
+      "etag": "lklYfbjHi5Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DJ81nQEACAAJ",
+      "volumeInfo": {
+        "title": "Estirpa sangrienta",
+        "subtitle": "los Somoza",
+        "authors": [
+          "Pedro Joaquín Chamorro Cardenal"
+        ],
+        "publishedDate": "1959",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:15528276"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 273,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=DJ81nQEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DJ81nQEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estirpa_sangrienta.html?hl=&id=DJ81nQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DJ81nQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0aVbHAAACAAJ",
+      "etag": "Fyjf5gjqCu4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0aVbHAAACAAJ",
+      "volumeInfo": {
+        "title": "Orígenes de la intervención americana en Nicaragua",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1951",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:59054236"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 28,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0aVbHAAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0aVbHAAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Or%C3%ADgenes_de_la_intervenci%C3%B3n_americana.html?hl=&id=0aVbHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0aVbHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0tZ4HAAACAAJ",
+      "etag": "KhCGycHkdpE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0tZ4HAAACAAJ",
+      "volumeInfo": {
+        "title": "Cuentos",
+        "authors": [
+          "Pedro Joaquín Chamorro Cardenal"
+        ],
+        "publishedDate": "1981",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:83160868"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 107,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0tZ4HAAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0tZ4HAAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuentos.html?hl=&id=0tZ4HAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0tZ4HAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5APCtgAACAAJ",
+      "etag": "oCsEdyJe110",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5APCtgAACAAJ",
+      "volumeInfo": {
+        "title": "Recordaciones históricas y tradicionales",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1925",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:11932118"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 186,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5APCtgAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5APCtgAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Recordaciones_hist%C3%B3ricas_y_tradicionale.html?hl=&id=5APCtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5APCtgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zYuGnQEACAAJ",
+      "etag": "AArRWAdzInI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zYuGnQEACAAJ",
+      "volumeInfo": {
+        "title": "Recuerdos de nuestra misión a Roma. Impresiones de viaje",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1925",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:17798054"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+          "Rome (Italy)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=zYuGnQEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zYuGnQEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Recuerdos_de_nuestra_misi%C3%B3n_a_Roma_Impr.html?hl=&id=zYuGnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zYuGnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CxDxPgAACAAJ",
+      "etag": "4PVmFzCrskA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CxDxPgAACAAJ",
+      "volumeInfo": {
+        "title": "D. Sofonías Salvateirra y su \"Comentario polémico\"",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1950",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253092476"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 267,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=CxDxPgAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CxDxPgAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/D_Sofon%C3%ADas_Salvateirra_y_su_Comentario.html?hl=&id=CxDxPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CxDxPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-AcCMwEACAAJ",
+      "etag": "iBNEoVr+/Bw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-AcCMwEACAAJ",
+      "volumeInfo": {
+        "title": "Obras Históricas Completas ... Impresas ... Bajo la Dirección Y Con Notas Del Doctor Pedro Joaquín Chamorro. [With Plates, Including a Portrait.].",
+        "authors": [
+          "Jerónimo PEREZ MARENCO",
+          "Pedro Joaquín CHAMORRO ZELAYA"
+        ],
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:503721725"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 854,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=-AcCMwEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-AcCMwEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_Hist%C3%B3ricas_Completas_Impresas_Baj.html?hl=&id=-AcCMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-AcCMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pQIGogEACAAJ",
+      "etag": "sM2fEmpJSm0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pQIGogEACAAJ",
+      "volumeInfo": {
+        "title": "Fruto Chamorro",
+        "authors": [
+          "Pedro Joaquín Chamorro Celaya"
+        ],
+        "publishedDate": "1960",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:892278438"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 425,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=pQIGogEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=pQIGogEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fruto_Chamorro.html?hl=&id=pQIGogEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pQIGogEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kugQMwEACAAJ",
+      "etag": "+ZPkwz3tvOY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kugQMwEACAAJ",
+      "volumeInfo": {
+        "title": "El Licenciado Jerónimo Pérez. Biografía, etc. [With a portrait.].",
+        "authors": [
+          "Pedro Joaquín CHAMORRO ZELAYA",
+          "Jerónimo PEREZ MARENCO"
+        ],
+        "publishedDate": "1939",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:752949020"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 167,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=kugQMwEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=kugQMwEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Licenciado_Jer%C3%B3nimo_P%C3%A9rez_Biograf%C3%AD.html?hl=&id=kugQMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kugQMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ReVpHQAACAAJ",
+      "etag": "QtLniZxMC4E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ReVpHQAACAAJ",
+      "volumeInfo": {
+        "title": "Don Sinfonías Salvatierra y su \"Comentario polémico.\"",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:48303006"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 267,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ReVpHQAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ReVpHQAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Don_Sinfon%C3%ADas_Salvatierra_y_su_Comentar.html?hl=&id=ReVpHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ReVpHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X5EQMwEACAAJ",
+      "etag": "pbcGU9dyc/8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X5EQMwEACAAJ",
+      "volumeInfo": {
+        "title": "Límites de Nicaragua. Su formación histórico geográfica durante la conquista y el periodo colonial, 1502-1821. [With maps.].",
+        "authors": [
+          "Pedro Joaquín CHAMORRO ZELAYA"
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:557920065"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 127,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=X5EQMwEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=X5EQMwEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L%C3%ADmites_de_Nicaragua_Su_formaci%C3%B3n_hist.html?hl=&id=X5EQMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X5EQMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "g64SvwEACAAJ",
+      "etag": "lSmvVJjjq2Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g64SvwEACAAJ",
+      "volumeInfo": {
+        "title": "D. Sofonías Salvatierra y su \"Comentario Polémico\". (Ampliación de \"Máximo Jerez y sus contemporáneos\".).",
+        "authors": [
+          "Pedro Joaquín CHAMORRO ZELAYA"
+        ],
+        "publishedDate": "1950",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1061962996"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 267,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=g64SvwEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=g64SvwEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/D_Sofon%C3%ADas_Salvatierra_y_su_Comentario.html?hl=&id=g64SvwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g64SvwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2cHwPgAACAAJ",
+      "etag": "V+0Th/Om6HA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2cHwPgAACAAJ",
+      "volumeInfo": {
+        "title": "El ultimo filibuetero",
+        "subtitle": "William Walker ; novela historica",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253267138"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2cHwPgAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=45&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2cHwPgAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_ultimo_filibuetero.html?hl=&id=2cHwPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2cHwPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kwh7swEACAAJ",
+      "etag": "FPGwD96tRR8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kwh7swEACAAJ",
+      "volumeInfo": {
+        "title": "El último filibustero",
+        "subtitle": "(William Walker) : novela histórica",
+        "authors": [
+          "Pedro Joaquin Chamorro"
+        ],
+        "publishedDate": "1933",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1025739571"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 537,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=kwh7swEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=46&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=kwh7swEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_%C3%BAltimo_filibustero.html?hl=&id=kwh7swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kwh7swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eQPrzgEACAAJ",
+      "etag": "YsgSexS+IX0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eQPrzgEACAAJ",
+      "volumeInfo": {
+        "title": "Jesús Marchena",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1975",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1025729630"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 106,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=eQPrzgEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=47&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eQPrzgEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jes%C3%BAs_Marchena.html?hl=&id=eQPrzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eQPrzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h_V4tgAACAAJ",
+      "etag": "4ZtbnwX0F6s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h_V4tgAACAAJ",
+      "volumeInfo": {
+        "title": "Un cauce hacia la democracia",
+        "authors": [
+          "Pedro Joaquín Chamorro Barrios"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:490855190"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=h_V4tgAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=48&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=h_V4tgAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Un_cauce_hacia_la_democracia.html?hl=&id=h_V4tgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h_V4tgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-EXBAQAACAAJ",
+      "etag": "OVCi+rLmpOM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-EXBAQAACAAJ",
+      "volumeInfo": {
+        "title": "Límites de Nicaragua",
+        "subtitle": "su formación histórico geográfica durante la conquista y el período colonial, 1502-1821",
+        "authors": [
+          "Emilio Roig de Leuchsenring",
+          "Fernando Ortiz",
+          "Leo L. Heyn",
+          "Manuel Elizardo Agustín de la Caridad Alonso y Lugo",
+          "Miguel A. Escotet",
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:45016408"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 114,
+        "printType": "BOOK",
+        "categories": [
+          "Cuba"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=-EXBAQAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=49&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-EXBAQAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L%C3%ADmites_de_Nicaragua.html?hl=&id=-EXBAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-EXBAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fwWA0QEACAAJ",
+      "etag": "C0aLnhwycCM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fwWA0QEACAAJ",
+      "volumeInfo": {
+        "title": "Límites de Nicaragua",
+        "subtitle": "su formación histórica geográfica durante la conquista y el periodo colonial ; 1502-1821",
+        "authors": [
+          "Pedro Joaquín Chamorro Zelaya"
+        ],
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:254101355"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=fwWA0QEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=50&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=fwWA0QEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L%C3%ADmites_de_Nicaragua.html?hl=&id=fwWA0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fwWA0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oSrqGwAACAAJ",
+      "etag": "j/AQXHvxX9U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oSrqGwAACAAJ",
+      "volumeInfo": {
+        "title": "Los pies descalzos de Nicaragua",
+        "authors": [
+          "Pedro Joaquín Chamorro Cardenal"
+        ],
+        "publishedDate": "1970*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:5056550"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=oSrqGwAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=51&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=oSrqGwAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_pies_descalzos_de_Nicaragua.html?hl=&id=oSrqGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oSrqGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ixgOjwEACAAJ",
+      "etag": "oBz6EuBbPjk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ixgOjwEACAAJ",
+      "volumeInfo": {
+        "title": "Defensa y refutación contra la obra del Licenciado Rómulo E. Durón titulada \"Límites de Nicaragua\"",
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:912567514"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ixgOjwEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=52&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ixgOjwEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Defensa_y_refutaci%C3%B3n_contra_la_obra_del.html?hl=&id=ixgOjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ixgOjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vo6qPAAACAAJ",
+      "etag": "zAbSwMT9law",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vo6qPAAACAAJ",
+      "volumeInfo": {
+        "title": "La verdad sobre las declaraciones del Dr. Pedro J. Chamorro C. ante la Sociedad Interamericana de Prensa reunión en Sao Paulo, Brasil, del 19 al 25 de octubre de 1975",
+        "authors": [
+          "Nicaragua. Secretaría de Información y Prensa",
+          "Pedro Joaquín Chamorro Cardenal"
+        ],
+        "publishedDate": "1976*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21751058"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "categories": [
+          "Civil rights"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vo6qPAAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=53&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vo6qPAAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_verdad_sobre_las_declaraciones_del_Dr.html?hl=&id=vo6qPAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vo6qPAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y2q_JAAACAAJ",
+      "etag": "vTqyr60vtmI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y2q_JAAACAAJ",
+      "volumeInfo": {
+        "title": "El derecho del trabajo en Nicaragua",
+        "authors": [
+          "Pedro Joaquín Chamorro Cardenal"
+        ],
+        "publishedDate": "1948",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:192041465"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 110,
+        "printType": "BOOK",
+        "categories": [
+          "Labor laws and legislation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=y2q_JAAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=54&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=y2q_JAAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_derecho_del_trabajo_en_Nicaragua.html?hl=&id=y2q_JAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y2q_JAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tGSPnAEACAAJ",
+      "etag": "12v4Ina2pPU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tGSPnAEACAAJ",
+      "volumeInfo": {
+        "title": "Relatos completos",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1985",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:507119028"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 199,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tGSPnAEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=55&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=tGSPnAEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Relatos_completos.html?hl=&id=tGSPnAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tGSPnAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0OrczgEACAAJ",
+      "etag": "h6WoZsSp/vw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0OrczgEACAAJ",
+      "volumeInfo": {
+        "title": "El enigma de las alemanas",
+        "subtitle": "Tolentino Camacho : [tres cuentos negros] y [cuatro cuentos blancos]",
+        "authors": [
+          "Pedro Joaquín Chamorro Cardenal"
+        ],
+        "publishedDate": "1977",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:83197936"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 107,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=0OrczgEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=56&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=0OrczgEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_enigma_de_las_alemanas.html?hl=&id=0OrczgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0OrczgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3KIXjwEACAAJ",
+      "etag": "1R5MvA+VC8k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3KIXjwEACAAJ",
+      "volumeInfo": {
+        "title": "Los pies descalzos de Nicaragua",
+        "subtitle": "1892-1970 Río San Juan",
+        "publishedDate": "1970*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:913073241"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3KIXjwEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=57&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3KIXjwEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Los_pies_descalzos_de_Nicaragua.html?hl=&id=3KIXjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3KIXjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "d79RAQAACAAJ",
+      "etag": "4HTi3tiCH7M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/d79RAQAACAAJ",
+      "volumeInfo": {
+        "title": "Estirpe sangrienta",
+        "subtitle": "los Somoza",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1959",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:637499622"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 273,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=d79RAQAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=58&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=d79RAQAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estirpe_sangrienta.html?hl=&id=d79RAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d79RAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gL3kzgEACAAJ",
+      "etag": "7rpNcNtbmco",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gL3kzgEACAAJ",
+      "volumeInfo": {
+        "title": "Historia de la Federación de la America Central",
+        "subtitle": "1823-1840",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1951",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1113226436"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 644,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=gL3kzgEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=59&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=gL3kzgEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_de_la_Federaci%C3%B3n_de_la_America.html?hl=&id=gL3kzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gL3kzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Pl2IYgEACAAJ",
+      "etag": "6BE2aTSQixE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Pl2IYgEACAAJ",
+      "volumeInfo": {
+        "title": "El patrón",
+        "subtitle": "estudio histórico sobre la personalidad del general Justo Rufino Barrios",
+        "authors": [
+          "Pedro Joaquín Chamorro",
+          "Pedro Joaquín Chamorro Zelaya"
+        ],
+        "publishedDate": "2009",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9992281332"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789992281338"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+          "Presidents"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Pl2IYgEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=60&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Pl2IYgEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_patr%C3%B3n.html?hl=&id=Pl2IYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Pl2IYgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gB0ktwAACAAJ",
+      "etag": "tZW64pQw+0Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gB0ktwAACAAJ",
+      "volumeInfo": {
+        "title": "Defensa y refutación contra la obra del lic. Rómulo E. Durón, titulada: \"Límites de Nicaragua. Rectificaciones al doctor...",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:760531862"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=gB0ktwAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=61&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=gB0ktwAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Defensa_y_refutaci%C3%B3n_contra_la_obra_del.html?hl=&id=gB0ktwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gB0ktwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VjXKGwAACAAJ",
+      "etag": "voLNXUsHANo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VjXKGwAACAAJ",
+      "volumeInfo": {
+        "title": "Nuestra frontera recortada",
+        "authors": [
+          "Pedro Joaquín Chamorro Cardenal"
+        ],
+        "publishedDate": "1970*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:9285411"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 21,
+        "printType": "BOOK",
+        "categories": [
+          "Miskito Indians"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VjXKGwAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=62&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VjXKGwAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nuestra_frontera_recortada.html?hl=&id=VjXKGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VjXKGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eKwyngEACAAJ",
+      "etag": "/08/lXDTYEY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eKwyngEACAAJ",
+      "volumeInfo": {
+        "title": "Maximo Jerez y sus contemporaneos (estudio historico-critico).",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1937",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:13437294"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 436,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=eKwyngEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=63&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eKwyngEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Maximo_Jerez_y_sus_contemporaneos_estudi.html?hl=&id=eKwyngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eKwyngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "T7NJPQAACAAJ",
+      "etag": "700y1dfkVR8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/T7NJPQAACAAJ",
+      "volumeInfo": {
+        "title": "Obras historicas completas del licenciado Jerónimo Pérez",
+        "subtitle": "impresas por disposicion del excelentisimo Sr. presidente de la republica, Don Adolfo Diaz",
+        "authors": [
+          "Jerónimo Pérez",
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:29006055"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 854,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=T7NJPQAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=64&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=T7NJPQAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_historicas_completas_del_licenciad.html?hl=&id=T7NJPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=T7NJPQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gdFDcgAACAAJ",
+      "etag": "4Nu5gSfgHDs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gdFDcgAACAAJ",
+      "volumeInfo": {
+        "title": "Diario político",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1990",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:610618580"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 341,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=gdFDcgAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=65&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=gdFDcgAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Diario_pol%C3%ADtico.html?hl=&id=gdFDcgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gdFDcgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "th0mtQEACAAJ",
+      "etag": "8YRwKNmHPpQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/th0mtQEACAAJ",
+      "volumeInfo": {
+        "title": "Estirpe sangrienta",
+        "subtitle": "los Somoza",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1980",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651202818"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 283,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=th0mtQEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=66&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=th0mtQEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estirpe_sangrienta.html?hl=&id=th0mtQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=th0mtQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OKdSAQAACAAJ",
+      "etag": "XJ0dPEH5QKM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OKdSAQAACAAJ",
+      "volumeInfo": {
+        "title": "La Patria de Pedro",
+        "authors": [
+          "Pedro Joaquín Chamorro Cardenal"
+        ],
+        "publishedDate": "1981",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:760453079"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 253,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=OKdSAQAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=67&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=OKdSAQAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Patria_de_Pedro.html?hl=&id=OKdSAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OKdSAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "I0OYGwAACAAJ",
+      "etag": "e0mfpDPCz6w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/I0OYGwAACAAJ",
+      "volumeInfo": {
+        "title": "Diario de un proceso",
+        "authors": [
+          "Pedro Joaquín Chamorro"
+        ],
+        "publishedDate": "1981",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:65547227"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=I0OYGwAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=68&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=I0OYGwAACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Diario_de_un_proceso.html?hl=&id=I0OYGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=I0OYGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mADd0AEACAAJ",
+      "etag": "eQ3DvGDpEpk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mADd0AEACAAJ",
+      "volumeInfo": {
+        "title": "Buffalo Bill and His Horses",
+        "authors": [
+          "Agnes Wright Spring",
+          "Agustín A. Chazarreta",
+          "Pedro Joaquín Chamorro",
+          "Public Library of Fort Wayne and Allen County"
+        ],
+        "publishedDate": "1951",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:54029252"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Horsemen and horsewomen"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=mADd0AEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=69&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mADd0AEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Buffalo_Bill_and_His_Horses.html?hl=&id=mADd0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mADd0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mmkMjwEACAAJ",
+      "etag": "kE9OUIg50uc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mmkMjwEACAAJ",
+      "volumeInfo": {
+        "title": "Richter 7",
+        "publishedDate": "1972",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:912706811"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 158,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mmkMjwEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&cd=70&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mmkMjwEACAAJ&dq=inauthor:%22Pedro+Joaqu%C3%ADn+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Richter_7.html?hl=&id=mmkMjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mmkMjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

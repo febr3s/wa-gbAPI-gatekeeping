@@ -1,0 +1,1390 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Joaqu%C3%ADn%20Pasos\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Joaqu%C3%ADn%20Pasos\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Joaqu%C3%ADn%20Pasos\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Joaqu%C3%ADn%20Pasos\"&maxResults=3&startIndex=20&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 23,
+  "_totalRequestsMade": 2,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "_sAtAAAAIAAJ",
+      "etag": "zjWjDHQyAmg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_sAtAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Poemas de un joven",
+        "authors": [
+          "Joaquín Pasos"
+        ],
+        "publishedDate": "1986",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3779001"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_sAtAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_sAtAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_sAtAAAAIAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_sAtAAAAIAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poemas_de_un_joven.html?hl=&id=_sAtAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_sAtAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LntUAAAAMAAJ",
+      "etag": "H2ScW7MT/yM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LntUAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Breve suma",
+        "authors": [
+          "Joaquín Pasos"
+        ],
+        "publishedDate": "1945",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173024434611"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 92,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.7.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LntUAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LntUAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=LntUAAAAMAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LntUAAAAMAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Breve_suma.html?hl=&id=LntUAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LntUAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HJM9AQAAIAAJ",
+      "etag": "DEj1068EqAQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HJM9AQAAIAAJ",
+      "volumeInfo": {
+        "title": "Poesía",
+        "authors": [
+          "Joaquín Pasos"
+        ],
+        "publishedDate": "1960",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B457608"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HJM9AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HJM9AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=HJM9AQAAIAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=HJM9AQAAIAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADa.html?hl=&id=HJM9AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HJM9AQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3h1JAAAAYAAJ",
+      "etag": "b8Iv6xG+DVA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3h1JAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Prosas de un joven",
+        "authors": [
+          "Joaquín Pasos"
+        ],
+        "publishedDate": "1995",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173001508264"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 364,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Nicaraguan"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3h1JAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3h1JAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3h1JAAAAYAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3h1JAAAAYAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Prosas_de_un_joven.html?hl=&id=3h1JAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3h1JAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ANAtAAAAIAAJ",
+      "etag": "SN29q1kfivc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ANAtAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Poesías escogidas",
+        "authors": [
+          "Joaquín Pasos"
+        ],
+        "publishedDate": "1974",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B3780613"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 156,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ANAtAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ANAtAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ANAtAAAAIAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ANAtAAAAIAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas_escogidas.html?hl=&id=ANAtAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ANAtAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cbzTAAAAMAAJ",
+      "etag": "w++0tlUAlTc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cbzTAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Sus mejores poemas",
+        "subtitle": "breve antología",
+        "authors": [
+          "Joaquín Pasos"
+        ],
+        "publishedDate": "1962",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000004860440"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 68,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaraguan poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cbzTAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cbzTAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cbzTAAAAMAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cbzTAAAAMAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sus_mejores_poemas.html?hl=&id=cbzTAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cbzTAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ryDFHO5hZpoC",
+      "etag": "yo/BfONJulM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ryDFHO5hZpoC",
+      "volumeInfo": {
+        "title": "Canto de guerra de las cosas y otros poemas",
+        "authors": [
+          "Joaquín Pasos"
+        ],
+        "publishedDate": "1978",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105000301494"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 44,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ryDFHO5hZpoC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ryDFHO5hZpoC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ryDFHO5hZpoC&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ryDFHO5hZpoC&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Canto_de_guerra_de_las_cosas_y_otros_poe.html?hl=&id=ryDFHO5hZpoC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ryDFHO5hZpoC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "saNJAQAACAAJ",
+      "etag": "f5hbOGrp3MA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/saNJAQAACAAJ",
+      "volumeInfo": {
+        "title": "Tres obras teatrales de Nicaragua",
+        "subtitle": "I. Chinfonía burguesa",
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:28606038"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaraguan drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=saNJAQAACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=saNJAQAACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tres_obras_teatrales_de_Nicaragua.html?hl=&id=saNJAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=saNJAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NnC4GwAACAAJ",
+      "etag": "Vtb4LH7waQ8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NnC4GwAACAAJ",
+      "volumeInfo": {
+        "title": "Joaquín Pasos",
+        "subtitle": "antología poética",
+        "authors": [
+          "Joaquín Pasos"
+        ],
+        "publishedDate": "1972",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:75553903"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 51,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NnC4GwAACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NnC4GwAACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Joaqu%C3%ADn_Pasos.html?hl=&id=NnC4GwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NnC4GwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "opQt0QEACAAJ",
+      "etag": "79AyrinHTJI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/opQt0QEACAAJ",
+      "volumeInfo": {
+        "title": "Canto de guerra de las cosas",
+        "subtitle": "War song of the things",
+        "authors": [
+          "Joaquín Pasos"
+        ],
+        "publishedDate": "1972*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1491053122"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Artists' books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=opQt0QEACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=opQt0QEACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Canto_de_guerra_de_las_cosas.html?hl=&id=opQt0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=opQt0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jGylzQEACAAJ",
+      "etag": "K1291+yWREg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jGylzQEACAAJ",
+      "volumeInfo": {
+        "title": "Poemas de un joven",
+        "authors": [
+          "Joaquín Pasos (poète).)"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:491663355"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 175,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jGylzQEACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jGylzQEACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poemas_de_un_joven.html?hl=&id=jGylzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jGylzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mhw2zwEACAAJ",
+      "etag": "GFoKMfNesrs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mhw2zwEACAAJ",
+      "volumeInfo": {
+        "title": "Poema de un joven",
+        "authors": [
+          "José Joaquín Pasos"
+        ],
+        "publishedDate": "1962",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318578584"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 159,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mhw2zwEACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mhw2zwEACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poema_de_un_joven.html?hl=&id=mhw2zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mhw2zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3otGtAEACAAJ",
+      "etag": "b1FExSQA8Fo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3otGtAEACAAJ",
+      "volumeInfo": {
+        "title": "Canto de guerra y de las cosas y otros poemas",
+        "authors": [
+          "Joaquín Pasos"
+        ],
+        "publishedDate": "1988",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651440740"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=3otGtAEACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=3otGtAEACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Canto_de_guerra_y_de_las_cosas_y_otros_p.html?hl=&id=3otGtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3otGtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "73LIzQEACAAJ",
+      "etag": "a6kS2J692Nk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/73LIzQEACAAJ",
+      "volumeInfo": {
+        "title": "Poesía",
+        "authors": [
+          "Joaquín Pasos (poète).)"
+        ],
+        "publishedDate": "1960",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:494606963"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 21,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=73LIzQEACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=73LIzQEACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADa.html?hl=&id=73LIzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=73LIzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QtiFzQEACAAJ",
+      "etag": "p2PA+/08VpE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QtiFzQEACAAJ",
+      "volumeInfo": {
+        "title": "1000 Poemas Clásicos Que Debes Leer",
+        "subtitle": "Volume1 (Golden Deer Classics)",
+        "authors": [
+          "Gonzalo de Berceo"
+        ],
+        "publishedDate": "2018",
+        "description": "ÍNDICE Adelardo López de Ayala Alfonso Álvarez de Villasandino Alfonso Onceno Alfredo Espino Álvaro de Luna Ana María Chouhy Aguirre Anastasio de Ochoa VIII.Andrés Bello IX.Ángel Saavedra, Duque de Rivas X.Antón de Montoro XI.Antonio de Villegas XII.Abu Ahmad ben Hayyun XIII.Adela Zamudio XIV.Alfredo Placencia XV.Almafuerte XVI.Amado Nervo XVII.Andrés Quintana Roo XVIII.Ángel Ganivet XIX.Antonio Machado XX.Armando Chirveches XXI.Alberto Lista XXII.Alfonsina Storni XXIII.Alfonso X el sabio XXIV.Alonso de Ercilla Y Zúñiga XXV.Antonio Hurtado de Mendoza XXVI.Antonio Plaza Llamas XXVII.Atenógenes Segale XXVIII.Baltasar del Alcázar XXIX.Bartolomé Torres Naharro XXX.Bartolomé Leonardo de Argensola XXXI.Ben Suhayd XXXII.Bernardo de Balbuena XXXIII.Bernardo López García XXXIV.Butayna Bint Al-Mu ́Tamid XXXV.Carlos Augusto Salaverry XXXVI.Carlos Guido y Spano XXXVII.Carlos Pezoa Véliz XXXVIII.Carlos Rivas Larrauri XXXIX.Carolina Coronado XL.César Vallejo XLI.Clarinda XLII.Concepción Arenal XLIII.Concepción Estevarena XLIV.Concha Urquiza XLV.Costana XLVI.Cristóbal Suárez de Figueroa XLVII.Cristóbal de Castillejo XLVIII.Delmira Agustini XLIX.Demetrio Fábrega L.Diego de Torres Villaroel LI.Diego Hurtado de Mendoza LII.Dolores Veintimilla de Galindo LIII.Don Sem Tob de Carrión LIV.Duque de Rivas LV.Eduardo Marquina LVI.Efrén Rebolledo LVII.El Abencerraje LVIII.Emilio Carrere LIX.Enrique Díez-Canedo LX.Enrique Fernández Granados LXI.Enrique González Rojo LXII.Epoca Colonial De Guatemala LXIII.Esteban Echeverría LXIV.Estanislao del Campo LXV.Esteban Manuel de Villegas LXVI.Eugenio Gerardo Lobo LXVII.Evaristo Carriego LXVIII.Fabio Fiallo LXIX.Federico Barreto LXX.Federico García Lorca LXXI.Fernando Calderón LXXII.Félix María de Samaniego LXXIII.Fernando de Herrera LXXIV.Fernando Villalón LXXV.Florencia Pinar LXXVI.Francisco A. de Icaza LXXVII.Francisco Bocanegra LXXVIII.Francisco de Aldana",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2378980221"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782378980221"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=QtiFzQEACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=QtiFzQEACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/1000_Poemas_Cl%C3%A1sicos_Que_Debes_Leer.html?hl=&id=QtiFzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QtiFzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ÍNDICE Adelardo López de Ayala Alfonso Álvarez de Villasandino Alfonso Onceno Alfredo Espino Álvaro de Luna Ana María Chouhy Aguirre Anastasio de Ochoa VIII.Andrés Bello IX.Ángel Saavedra, Duque de Rivas X.Antón de Montoro XI ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a6XMoQEACAAJ",
+      "etag": "Wo/bmPjqYDo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a6XMoQEACAAJ",
+      "volumeInfo": {
+        "title": "Tres poetas centroamericanos",
+        "authors": [
+          "Joaquín Pasos",
+          "Otto-Raúl González",
+          "Jorge Debravo"
+        ],
+        "publishedDate": "1987",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:467686172"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 254,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=a6XMoQEACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=a6XMoQEACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tres_poetas_centroamericanos.html?hl=&id=a6XMoQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a6XMoQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rVfc0AEACAAJ",
+      "etag": "AbC3YRE9KAo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rVfc0AEACAAJ",
+      "volumeInfo": {
+        "title": "El viento en el mundo",
+        "subtitle": "Examen de la España actual. En el centenario de Fourier",
+        "authors": [
+          "Aníbal Ponce",
+          "Joaquín Pasos",
+          "Juan Agustín Palazuelos",
+          "University of Ibadan"
+        ],
+        "publishedDate": "1962",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:63001762"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Chilean fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=rVfc0AEACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rVfc0AEACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_viento_en_el_mundo.html?hl=&id=rVfc0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rVfc0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NRv4ZwEACAAJ",
+      "etag": "rZey494GeSw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NRv4ZwEACAAJ",
+      "volumeInfo": {
+        "title": "Poesía completa",
+        "authors": [
+          "Joaquín Pasos"
+        ],
+        "publishedDate": "2010-01-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8492705108"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788492705108"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NRv4ZwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NRv4ZwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=NRv4ZwEACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NRv4ZwEACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADa_completa.html?hl=&id=NRv4ZwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NRv4ZwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "f23jPwAACAAJ",
+      "etag": "ClcJcqBrjaw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f23jPwAACAAJ",
+      "volumeInfo": {
+        "title": "Canto de guerra de las cosas",
+        "subtitle": "",
+        "authors": [
+          "Joaquín Pasos",
+          "Leandro Katz"
+        ],
+        "publishedDate": "1972",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:5198234"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "categories": [
+          "Artists' books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=f23jPwAACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=f23jPwAACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Canto_de_guerra_de_las_cosas.html?hl=&id=f23jPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f23jPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FRysPgAACAAJ",
+      "etag": "Td8iI8iSh2Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FRysPgAACAAJ",
+      "volumeInfo": {
+        "title": "Canto de Guerra de Las Cosas",
+        "authors": [
+          "Joaquín Pasos"
+        ],
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:243494008"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Nicaraguan poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=FRysPgAACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=FRysPgAACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Canto_de_Guerra_de_Las_Cosas.html?hl=&id=FRysPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FRysPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2Q2vzQEACAAJ",
+      "etag": "dL4ZZKzlJ2s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2Q2vzQEACAAJ",
+      "volumeInfo": {
+        "title": "POEM GOES ABOUT ON FOOT",
+        "subtitle": "Twenty-one Poems by Joaquin Pasos",
+        "authors": [
+          "JOAQUIN. PASOS"
+        ],
+        "publishedDate": "2020",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0473535939"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780473535933"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=2Q2vzQEACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2Q2vzQEACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/POEM_GOES_ABOUT_ON_FOOT.html?hl=&id=2Q2vzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2Q2vzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bB5CAAAAYAAJ",
+      "etag": "z4OVWWbdWCE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bB5CAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Antologia poetica",
+        "authors": [
+          "Joaquín Pasos"
+        ],
+        "publishedDate": "1972",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173027950402"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 66,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bB5CAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bB5CAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=bB5CAAAAYAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=bB5CAAAAYAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antologia_poetica.html?hl=&id=bB5CAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bB5CAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xmHezQEACAAJ",
+      "etag": "scRY4qzqvn4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xmHezQEACAAJ",
+      "volumeInfo": {
+        "title": "Chant de guerre des choses",
+        "subtitle": "1942 : poème",
+        "authors": [
+          "Joaquín Pasos"
+        ],
+        "publishedDate": "2020",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9791097210083"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=xmHezQEACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=xmHezQEACAAJ&dq=inauthor:%22Joaqu%C3%ADn+Pasos%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Chant_de_guerre_des_choses.html?hl=&id=xmHezQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xmHezQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

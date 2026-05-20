@@ -1,0 +1,1698 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Diego%20Manuel%20Chamorro\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Diego%20Manuel%20Chamorro\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Diego%20Manuel%20Chamorro\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Diego%20Manuel%20Chamorro\"&maxResults=9&startIndex=20&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 29,
+  "_totalRequestsMade": 2,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "lJZnAAAAMAAJ",
+      "etag": "eLl0xW+HSlk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lJZnAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Lo fundamental del conservatismo y la razón de ser del Partido Conservador",
+        "authors": [
+          "Diego Manuel Chamorro"
+        ],
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173022909183"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "categories": [
+          "Conservatism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lJZnAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lJZnAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lJZnAAAAMAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lJZnAAAAMAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lo_fundamental_del_conservatismo_y_la_ra.html?hl=&id=lJZnAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lJZnAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "g49nAAAAMAAJ",
+      "etag": "HoSRrlXAWdc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g49nAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Discursos, 1907-1921",
+        "authors": [
+          "Diego Manuel Chamorro"
+        ],
+        "publishedDate": "1923",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173017257232"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.9.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=g49nAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=g49nAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=g49nAAAAMAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=g49nAAAAMAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discursos_1907_1921.html?hl=&id=g49nAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g49nAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dnszAQAAMAAJ",
+      "etag": "iCiGJwrwgN4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dnszAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Anexos al Alegato de parte de Nicaragua y mapas",
+        "authors": [
+          "Nicaragua"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:35112102591601"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 356,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dnszAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dnszAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=dnszAQAAMAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=dnszAQAAMAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anexos_al_Alegato_de_parte_de_Nicaragua.html?hl=&id=dnszAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dnszAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cKGDH56UP6AC",
+      "etag": "EmOo2wz5R80",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cKGDH56UP6AC",
+      "volumeInfo": {
+        "title": "La controversia territorial entre Nicaragua y Honduras",
+        "authors": [
+          "Diego Manuel Chamorro"
+        ],
+        "publishedDate": "1938",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015034709801"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.12.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cKGDH56UP6AC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cKGDH56UP6AC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cKGDH56UP6AC&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cKGDH56UP6AC&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_controversia_territorial_entre_Nicara.html?hl=&id=cKGDH56UP6AC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cKGDH56UP6AC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZXszAQAAMAAJ",
+      "etag": "+9WQI6dBT2I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZXszAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Réplica de Nicaragua. Réplica de Nicaragua ante el derecho Contrarréplica de Nicaragua",
+        "authors": [
+          "Nicaragua"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:35112102591619"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 148,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZXszAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZXszAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZXszAQAAMAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZXszAQAAMAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/R%C3%A9plica_de_Nicaragua_R%C3%A9plica_de_Nicara.html?hl=&id=ZXszAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZXszAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pQgwAQAAMAAJ",
+      "etag": "7+xqLdcoYpg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pQgwAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Alegato de parte de Nicaragua",
+        "authors": [
+          "Nicaragua"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:35112102591593"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pQgwAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pQgwAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=pQgwAQAAMAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=pQgwAQAAMAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Alegato_de_parte_de_Nicaragua.html?hl=&id=pQgwAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pQgwAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nBCbHAAACAAJ",
+      "etag": "1+tSEvEwkwc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nBCbHAAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje del señor presidente de la república, Dr. Diego Manuel Chamorro",
+        "subtitle": "dirigido al Congreso Nacional, diciembre de 1921",
+        "authors": [
+          "Nicaragua. President (1921-1923 : Chamorro)"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54263308"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nBCbHAAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nBCbHAAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_del_se%C3%B1or_presidente_de_la_rep.html?hl=&id=nBCbHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nBCbHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nRCbHAAACAAJ",
+      "etag": "gcpIrJff5ko",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nRCbHAAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje del señor presidente de la república Dr. Diego Manuel Chamorro dirigido al Congreso Nacional, diciembre de 1922",
+        "authors": [
+          "Nicaragua. President (1921-1923 : Chamorro)"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54263891"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nRCbHAAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nRCbHAAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_del_se%C3%B1or_presidente_de_la_rep.html?hl=&id=nRCbHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nRCbHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cEebAQAACAAJ",
+      "etag": "0Q9BbTTmTNk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cEebAQAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso de don Diego Manuel Chamorro",
+        "subtitle": "en el solemne acto de la jura de la bandera nacional, en Granada, el 15 de septiembre de 1917, en representación del Ministerio de Instrucción Pública",
+        "authors": [
+          "Diego Manuel Chamorro"
+        ],
+        "publishedDate": "1917",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:nuc87408167"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 10,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=cEebAQAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=cEebAQAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_de_don_Diego_Manuel_Chamorro.html?hl=&id=cEebAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cEebAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sHBmmgEACAAJ",
+      "etag": "X6GZeVqxu5c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sHBmmgEACAAJ",
+      "volumeInfo": {
+        "title": "Discurso de don Diego Manuel Chamorro",
+        "subtitle": "leido por su autor en Granada al inaugurarse la ceremonia de la Jura de la Bandera, el 15 de septiembre de 1917, y arreglado para ser leido en todas las escuelas de la república cada 14 de septiembre, aniversario de la gloriosa batalla de San Jacinto",
+        "authors": [
+          "Diego Manuel Chamorro"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:776457261"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=sHBmmgEACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=sHBmmgEACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_de_don_Diego_Manuel_Chamorro.html?hl=&id=sHBmmgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sHBmmgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nPJ-0QEACAAJ",
+      "etag": "+jPWzNxE564",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nPJ-0QEACAAJ",
+      "volumeInfo": {
+        "title": "Mediacíon del honorable secretario de estado de los Estados Unidos en la controversia de límites entre la república de Nicaragua y la república [d]e Honduras. Alegato de parte de Nicaragua, preparado por don Diego Manuel Chamorro",
+        "authors": [
+          "Nicaragua"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:42030733"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=nPJ-0QEACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=nPJ-0QEACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mediac%C3%ADon_del_honorable_secretario_de_e.html?hl=&id=nPJ-0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nPJ-0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sEN60QEACAAJ",
+      "etag": "8yuFJiREsDU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sEN60QEACAAJ",
+      "volumeInfo": {
+        "title": "Mediacíon del honorable secretario de estado de los Estados Unidos en la controversia de límites entre la república de Nicaragua y la república [d]e Honduras: Alegato de parte de Nicaragua. Preparado por don Diego Manuel Chamorro, presidente de la Comisión de límites de Nicaragua",
+        "authors": [
+          "Nicaragua. Comisión de límites"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:42030733"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=sEN60QEACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=sEN60QEACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mediac%C3%ADon_del_honorable_secretario_de_e.html?hl=&id=sEN60QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sEN60QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WHhHQwAACAAJ",
+      "etag": "QpWyJ8dvurM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WHhHQwAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso de D. Diego Manuel Chamorro leido por su autor en Granada al inaugurar la ceremonia de la Jura de la bandera el 15 de Septiembre de 1917, y arreglado para ser leído en todas las escuelas de la República cada 14 de Septiembre Aniversario de la gloriosa batalla de San Jacinto",
+        "authors": [
+          "Diego Manuel Chamorro"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431308388"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WHhHQwAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WHhHQwAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_de_D_Diego_Manuel_Chamorro_leid.html?hl=&id=WHhHQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WHhHQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "buGqtAEACAAJ",
+      "etag": "iWonivEris8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/buGqtAEACAAJ",
+      "volumeInfo": {
+        "title": "Mediacíon del honorable secretario de estado de los Estados Unidos en la controversia de límites entre la república de Nicaragua y la república [d]e Honduras: Réplica de Nicaragua. Réplica de Nicaragua ante el derecho. Contrarréplica de Nicaragua. Por Diego M. Chamorro, Chandler P. Anderson, consejero legal de Nicaragua, Adolfo Cárdenas, secretario e ingeniero de la Comissión de límites de Nicaragua",
+        "authors": [
+          "Nicaragua. Comisión de límites"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:42030733"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=buGqtAEACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=buGqtAEACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mediac%C3%ADon_del_honorable_secretario_de_e.html?hl=&id=buGqtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=buGqtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lGOMYgEACAAJ",
+      "etag": "CT15IsNu69A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lGOMYgEACAAJ",
+      "volumeInfo": {
+        "title": "Mediación del honorable secretario de estado de los Estados Unidos",
+        "subtitle": "en la controversia de límites entre la república de Nicaragua y la república de Honduras : réplica de Nicaragua : réplica de Nicaragua ante el derecho : contrarréplica de Nicaragua",
+        "authors": [
+          "Nicaragua",
+          "Diego Manuel Chamorro Bolaños",
+          "Chandler Parsons Anderson",
+          "Adolfo Cárdenas"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651345721"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 129,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lGOMYgEACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lGOMYgEACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mediaci%C3%B3n_del_honorable_secretario_de_e.html?hl=&id=lGOMYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lGOMYgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SXs6HQAACAAJ",
+      "etag": "R06NqBrr66M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SXs6HQAACAAJ",
+      "volumeInfo": {
+        "title": "La posición jurídica de Nicaragua y de Honduras ante el laudo del rey de España",
+        "authors": [
+          "Diego Manuel Chamorro"
+        ],
+        "publishedDate": "1937",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:85845820"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SXs6HQAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SXs6HQAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_posici%C3%B3n_jur%C3%ADdica_de_Nicaragua_y_de.html?hl=&id=SXs6HQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SXs6HQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KIKmzQEACAAJ",
+      "etag": "14rbZVA6vt4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KIKmzQEACAAJ",
+      "volumeInfo": {
+        "title": "Mediación del honorable secretario de estado de los Estados Unidos en la controversia de límites entre la república de Nicaragua y la república",
+        "authors": [
+          "Nicaragua. Comisión de límites"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:42030733"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=KIKmzQEACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KIKmzQEACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mediaci%C3%B3n_del_honorable_secretario_de_e.html?hl=&id=KIKmzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KIKmzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WmhgQwAACAAJ",
+      "etag": "iKJwbqCJJgY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WmhgQwAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso de Don Diego Manuel Chamorro en el solemne acto de la Jura de la bandera Nacional en Granada",
+        "authors": [
+          "Diego Manuel Chamorro"
+        ],
+        "publishedDate": "1917",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431308394"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 10,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WmhgQwAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WmhgQwAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_de_Don_Diego_Manuel_Chamorro_en.html?hl=&id=WmhgQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WmhgQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Zk8PGwAACAAJ",
+      "etag": "SCi9ukI6LQk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Zk8PGwAACAAJ",
+      "volumeInfo": {
+        "title": "El panterismo nicaragüense",
+        "authors": [
+          "Diego Manuel Chamorro"
+        ],
+        "publishedDate": "1898",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:2758492"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 47,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Zk8PGwAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Zk8PGwAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_panterismo_nicarag%C3%BCense.html?hl=&id=Zk8PGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Zk8PGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wJN7HAAACAAJ",
+      "etag": "hUW0uQ2emPw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wJN7HAAACAAJ",
+      "volumeInfo": {
+        "title": "Divulgaciones sobre el litigio honduronicaragüense",
+        "authors": [
+          "Diego Manuel Chamorro"
+        ],
+        "publishedDate": "1937",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:84588053"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 15,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=wJN7HAAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=wJN7HAAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Divulgaciones_sobre_el_litigio_honduroni.html?hl=&id=wJN7HAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wJN7HAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LMaiHwAACAAJ",
+      "etag": "OFc/Yj9MceQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LMaiHwAACAAJ",
+      "volumeInfo": {
+        "title": "El matrimonio religiosa y el derecho de administrarlo libremente",
+        "authors": [
+          "Diego Manuel Chamorro"
+        ],
+        "publishedDate": "1945",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:23897961"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 10,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=LMaiHwAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LMaiHwAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_matrimonio_religiosa_y_el_derecho_de.html?hl=&id=LMaiHwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LMaiHwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZQiEGAAACAAJ",
+      "etag": "iZK4zBRRTO8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZQiEGAAACAAJ",
+      "volumeInfo": {
+        "title": "Rubén Darío y la política",
+        "subtitle": "discurso leído el día 30 de abril de 1966 en su recepción pública",
+        "authors": [
+          "René Schick Gutiérrez",
+          "Diego Manuel Chamorro"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:66083307"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 55,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZQiEGAAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZQiEGAAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rub%C3%A9n_Dar%C3%ADo_y_la_pol%C3%ADtica.html?hl=&id=ZQiEGAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZQiEGAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9VmAYgEACAAJ",
+      "etag": "wYiB43n/oUU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9VmAYgEACAAJ",
+      "volumeInfo": {
+        "title": "Mediación del honorable secretario de estado de los Estados Unidos",
+        "subtitle": "en la controversia de límites entre la república de Nicaragua y la república de Honduras : anexos al alegato de parte de Nicaragua y mapas",
+        "authors": [
+          "Nicaragua"
+        ],
+        "publishedDate": "1920",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651449645"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 274,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9VmAYgEACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9VmAYgEACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mediaci%C3%B3n_del_honorable_secretario_de_e.html?hl=&id=9VmAYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9VmAYgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rnBdAQAACAAJ",
+      "etag": "Ptrm/w+6Oxo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rnBdAQAACAAJ",
+      "volumeInfo": {
+        "title": "Reformas constitucionales ...",
+        "authors": [
+          "Buenos Aires (Argentina : Province). Governor (1898-1902 : Bernardo de Irigoyen)",
+          "Clemente Pérez Valdés",
+          "Diego Manuel Chamorro",
+          "Domingo Amunátegui y Solar",
+          "Javier Martín Martínez",
+          "Plutarco Elías Calles",
+          "Raúl Ignacio Ferrando"
+        ],
+        "publishedDate": "1923",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:32030537"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 21,
+        "printType": "BOOK",
+        "categories": [
+          "Chile"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=rnBdAQAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rnBdAQAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Reformas_constitucionales.html?hl=&id=rnBdAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rnBdAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L2uvHAAACAAJ",
+      "etag": "keE/bQzRIuI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L2uvHAAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso al inaugurarse la ceremonia de la jura de la bandera el 15 de Sept. 1917",
+        "authors": [
+          "D. M. Chamorro"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:67244357"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=L2uvHAAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=L2uvHAAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_al_inaugurarse_la_ceremonia_de.html?hl=&id=L2uvHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L2uvHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_AWbzwEACAAJ",
+      "etag": "85nF/DnEeqs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_AWbzwEACAAJ",
+      "volumeInfo": {
+        "title": "El matrimonio y el derecho de administrarlo libremente",
+        "authors": [
+          "Diego Manuel Chamorro"
+        ],
+        "publishedDate": "1945",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1025715530"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_AWbzwEACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_AWbzwEACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_matrimonio_y_el_derecho_de_administra.html?hl=&id=_AWbzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_AWbzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ENWYzwEACAAJ",
+      "etag": "i1whmOZ9H1o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ENWYzwEACAAJ",
+      "volumeInfo": {
+        "title": "Perennidad y universalidad del pensamiento político de Balmes y la política clásica española",
+        "subtitle": "discursos académicos",
+        "authors": [
+          "Diego Manuel Chamorro"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1026270051"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ENWYzwEACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ENWYzwEACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Perennidad_y_universalidad_del_pensamien.html?hl=&id=ENWYzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ENWYzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RoNeHQAACAAJ",
+      "etag": "62gkK+udrOw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RoNeHQAACAAJ",
+      "volumeInfo": {
+        "title": "Manifiesto inaugural",
+        "authors": [
+          "Nicaragua. Presidente (Chamorro)",
+          "Diego Manuel Chamorro"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:78805284"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 28,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RoNeHQAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RoNeHQAACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifiesto_inaugural.html?hl=&id=RoNeHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RoNeHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "n92ItAEACAAJ",
+      "etag": "VzTM8xO3Nt8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/n92ItAEACAAJ",
+      "volumeInfo": {
+        "title": "La controversia territorial entre Nicaragua y Honduras",
+        "subtitle": "analisis del manifiesto de la Sociedad de Abogados de Honduras a los pueblos del continente y sus entidades juridicas",
+        "authors": [
+          "Diego Manuel Chamorro"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:943882074"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=n92ItAEACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=n92ItAEACAAJ&dq=inauthor:%22Diego+Manuel+Chamorro%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_controversia_territorial_entre_Nicara.html?hl=&id=n92ItAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=n92ItAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

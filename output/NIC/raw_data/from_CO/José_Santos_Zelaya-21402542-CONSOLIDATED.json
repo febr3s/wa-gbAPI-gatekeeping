@@ -1,0 +1,2801 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Santos%20Zelaya\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Santos%20Zelaya\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Santos%20Zelaya\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Santos%20Zelaya\"&maxResults=20&startIndex=40&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Santos%20Zelaya\"&maxResults=7&startIndex=40&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 47,
+  "_totalRequestsMade": 3,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ZvMLAQAAIAAJ",
+      "etag": "EYF8d6VgFfE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZvMLAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Epistolario...",
+        "authors": [
+          "Rubén Darío"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105044996853"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 230,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZvMLAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZvMLAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZvMLAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZvMLAQAAIAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Epistolario.html?hl=&id=ZvMLAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZvMLAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WLAWAAAAYAAJ",
+      "etag": "/3kHkcjjHEc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WLAWAAAAYAAJ",
+      "volumeInfo": {
+        "title": "La revolución de Nicaragua y los Estados Unidos",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "publishedDate": "1910",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X000935234"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 182,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.9.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WLAWAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WLAWAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=WLAWAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=WLAWAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_revoluci%C3%B3n_de_Nicaragua_y_los_Estado.html?hl=&id=WLAWAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WLAWAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Fj0-AAAAYAAJ",
+      "etag": "tRoXnPwsuZg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Fj0-AAAAYAAJ",
+      "volumeInfo": {
+        "title": "Liberalismo",
+        "subtitle": "defensa económica",
+        "authors": [
+          "José María Castellón"
+        ],
+        "publishedDate": "1947",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173017257221"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Fj0-AAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Fj0-AAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Fj0-AAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Fj0-AAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Liberalismo.html?hl=&id=Fj0-AAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Fj0-AAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "e5dQAAAAYAAJ",
+      "etag": "P/CXAIFjl90",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/e5dQAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Refutación al presidente Taft ...",
+        "authors": [
+          "José Santos Zelaya (pres. Nicaragua)"
+        ],
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PRNC:32101060423470"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=e5dQAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=e5dQAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=e5dQAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=e5dQAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Refutaci%C3%B3n_al_presidente_Taft.html?hl=&id=e5dQAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=e5dQAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1UIzAQAAMAAJ",
+      "etag": "T/raDpxSfB8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1UIzAQAAMAAJ",
+      "volumeInfo": {
+        "title": "La révolution de Nicaragua et les États-Unis",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "publishedDate": "1910",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B5053256"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1UIzAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1UIzAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=1UIzAQAAMAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1UIzAQAAMAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_r%C3%A9volution_de_Nicaragua_et_les_%C3%89tat.html?hl=&id=1UIzAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1UIzAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jfAwzwEACAAJ",
+      "etag": "Td4WsDZynfg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jfAwzwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta , c.1910 Argentina a José Santos Zelaya",
+        "authors": [
+          "Rubén Darío"
+        ],
+        "publishedDate": "1910",
+        "description": "Piensa en viajar con Blanco-Fombona a Bruselas, para hablar personalmente sobre la autonomía nacional.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1317981946"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jfAwzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jfAwzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_c_1910_Argentina_a_Jos%C3%A9_Santos_Ze.html?hl=&id=jfAwzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jfAwzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Piensa en viajar con Blanco-Fombona a Bruselas, para hablar personalmente sobre la autonomía nacional."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zSTQZwEACAAJ",
+      "etag": "pyEkWZPKUFM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zSTQZwEACAAJ",
+      "volumeInfo": {
+        "title": "Manifiesto que dirige a los nicaragüenses el Señor General Don J. Santos Zelaya al tomar posesión de la Presidencia de la República. Managua, 1o de enero de 1906",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "publishedDate": "1906",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:719422646"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=zSTQZwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zSTQZwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifiesto_que_dirige_a_los_nicarag%C3%BCens.html?hl=&id=zSTQZwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zSTQZwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gTkzzwEACAAJ",
+      "etag": "87KibjRy9Cc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gTkzzwEACAAJ",
+      "volumeInfo": {
+        "title": "Manifiesto del Gral. J. S. Zelaya al pueblo nicaragüense",
+        "authors": [
+          "Nicaragua. Presidente"
+        ],
+        "publishedDate": "1909",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318837735"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 27,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=gTkzzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=gTkzzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifiesto_del_Gral_J_S_Zelaya_al_pueblo.html?hl=&id=gTkzzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gTkzzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "V5g1zwEACAAJ",
+      "etag": "xNybjouZBcE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/V5g1zwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta , c.1910 Bruselas, Bélgica a Rubén Darío",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "publishedDate": "1910",
+        "description": "Defensa de Darío de parte de Debayle y Zelaya con respecto a los ataques de Sedano.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1317954070"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=V5g1zwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=V5g1zwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_c_1910_Bruselas_B%C3%A9lgica_a_Rub%C3%A9n.html?hl=&id=V5g1zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=V5g1zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Defensa de Darío de parte de Debayle y Zelaya con respecto a los ataques de Sedano."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KJ0xzwEACAAJ",
+      "etag": "975PpOKTGXU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KJ0xzwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta , 1911 feb. 24 Bruselas, Bélgica a Rubén Darío",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "publishedDate": "1911",
+        "description": "Celebra el reconocimiento que se le hizo a Gamboa en México.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318595638"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=KJ0xzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KJ0xzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_1911_feb_24_Bruselas_B%C3%A9lgica_a_Ru.html?hl=&id=KJ0xzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KJ0xzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Celebra el reconocimiento que se le hizo a Gamboa en México."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5xgxzwEACAAJ",
+      "etag": "zEon5cnk8pM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5xgxzwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta , 1910 mar. 28 Bruselas, Bélgica a Rubén Darío",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "publishedDate": "1910",
+        "description": "Trata materias políticas, económicas y literarias.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318732281"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=5xgxzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=5xgxzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_1910_mar_28_Bruselas_B%C3%A9lgica_a_Ru.html?hl=&id=5xgxzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5xgxzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Trata materias políticas, económicas y literarias."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KqJrGwAACAAJ",
+      "etag": "v3a9CL97NTg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KqJrGwAACAAJ",
+      "volumeInfo": {
+        "title": "La Corte de Justicia Centro Americana y un perfil del excmo. señor presidente de Nicaragua general don José Santos Zelaya",
+        "subtitle": "conferencia dada en la Asociación de Abogados de Lisboa",
+        "authors": [
+          "Simón Planas Suárez",
+          "José Santos Zelaya (Pres. Nicaragua)"
+        ],
+        "publishedDate": "1909",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:23922059"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 14,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=KqJrGwAACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KqJrGwAACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Corte_de_Justicia_Centro_Americana_y.html?hl=&id=KqJrGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KqJrGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oNOx0AEACAAJ",
+      "etag": "t8RINaF/dIo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oNOx0AEACAAJ",
+      "volumeInfo": {
+        "title": "Epistolario",
+        "subtitle": "I",
+        "authors": [
+          "Rubén Darío"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:919904112"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=oNOx0AEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=oNOx0AEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Epistolario.html?hl=&id=oNOx0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oNOx0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hj8yzwEACAAJ",
+      "etag": "lpHr9XwNH+M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hj8yzwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta , 1911 ene. 10 Bruselas, Bélgica a Rubén Darío",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "publishedDate": "1911",
+        "description": "Agradece pésame por la muerte de su yerno. Se complace de la idea de Darío de fundar un periódico en Paris, para la defensa de los intereses latinoamericanos.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318587911"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hj8yzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hj8yzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_1911_ene_10_Bruselas_B%C3%A9lgica_a_Ru.html?hl=&id=hj8yzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hj8yzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Agradece pésame por la muerte de su yerno. Se complace de la idea de Darío de fundar un periódico en Paris, para la defensa de los intereses latinoamericanos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QX4wzwEACAAJ",
+      "etag": "fYt9Mx7BApc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QX4wzwEACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje leido por el señor Presidente de la República en la apertura de las sesiones de la Asamblea Nacional Legislativa",
+        "authors": [
+          "Nicaragua. Presidente"
+        ],
+        "publishedDate": "1903",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318056869"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 13,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=QX4wzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=QX4wzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_leido_por_el_se%C3%B1or_Presidente_d.html?hl=&id=QX4wzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QX4wzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rUkxzwEACAAJ",
+      "etag": "gtw6TrA3q8Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rUkxzwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta , 1911 dic. 8 Barcelona, España a Rubén Darío",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "publishedDate": "1911",
+        "description": "Trata asuntos de política internacional. Comenta declaraciones aparecidas en el periódico \"El Liberal\" de España.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318348689"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=rUkxzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rUkxzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_1911_dic_8_Barcelona_Espa%C3%B1a_a_Rub.html?hl=&id=rUkxzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rUkxzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Trata asuntos de política internacional. Comenta declaraciones aparecidas en el periódico &quot;El Liberal&quot; de España."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6wk0zwEACAAJ",
+      "etag": "FcKdn6l5M1U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6wk0zwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta , 1910 abr. 18 Bruselas, Bélgica a Rubén Darío",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "publishedDate": "1910",
+        "description": "Solicita algunos periódicos latinoamericanos con información sobre la invasión de EE.UU. a Nicaragua.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318185323"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6wk0zwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6wk0zwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_1910_abr_18_Bruselas_B%C3%A9lgica_a_Ru.html?hl=&id=6wk0zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6wk0zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Solicita algunos periódicos latinoamericanos con información sobre la invasión de EE.UU. a Nicaragua."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yCYvzwEACAAJ",
+      "etag": "VjD+KQhz5ik",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yCYvzwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta , 1911 ene. 28 Bruselas, Bélgica a Rubén Darío",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "publishedDate": "1911",
+        "description": "Recomienda un tratamiento para el reumatismo. Hace comentarios sobre política nicaraguense.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318569559"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yCYvzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yCYvzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_1911_ene_28_Bruselas_B%C3%A9lgica_a_Ru.html?hl=&id=yCYvzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yCYvzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Recomienda un tratamiento para el reumatismo. Hace comentarios sobre política nicaraguense."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2yI2zwEACAAJ",
+      "etag": "KxBXF6S4shQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2yI2zwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta , 1910 abr. 20 Bruselas, Bélgica a Rubén Darío",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "publishedDate": "1910",
+        "description": "Materias políticas sobre invasión de Nicaragua.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1317900610"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2yI2zwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=2yI2zwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_1910_abr_20_Bruselas_B%C3%A9lgica_a_Ru.html?hl=&id=2yI2zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2yI2zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Materias políticas sobre invasión de Nicaragua."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "btA0zwEACAAJ",
+      "etag": "BaRuTgrmJ+E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/btA0zwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta , 1910 mar. 24 Bruselas, Bélgica a Rubén Darío",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "publishedDate": "1910",
+        "description": "Comentario a la respuesta de Darío sobre artículo de Gómez Carrillo.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318782074"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=btA0zwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=btA0zwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_1910_mar_24_Bruselas_B%C3%A9lgica_a_Ru.html?hl=&id=btA0zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=btA0zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Comentario a la respuesta de Darío sobre artículo de Gómez Carrillo."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-BjmAQAACAAJ",
+      "etag": "dssDekKJfb0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-BjmAQAACAAJ",
+      "volumeInfo": {
+        "title": "Discursos del doctor Alonso Reyes-Guerra",
+        "subtitle": "Pronunciados el 14 de julio ultimo, en acto publico y solemne de la \"Academia salvadoreña\" correspondiente de la \"Real academia española, y el 15 de septiembre en curso, en acto publico del \"Partido unionista centroamericano\" de San Salvador, conmemorativo de la independencia de Centro America",
+        "authors": [
+          "Alonso Reyes-Guerra",
+          "Antonio Sánchez de Bustamante y Sirvén",
+          "Arístides Rojas",
+          "Chile. Departamento de Navegación e Hidrografía",
+          "José Santos Zelaya",
+          "Luis Alberto de Herrera"
+        ],
+        "publishedDate": "1879",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:22004148"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "categories": [
+          "Arbitration (International law)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-BjmAQAACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-BjmAQAACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discursos_del_doctor_Alonso_Reyes_Guerra.html?hl=&id=-BjmAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-BjmAQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vOL2ZwEACAAJ",
+      "etag": "zDyjb6SfsGs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vOL2ZwEACAAJ",
+      "volumeInfo": {
+        "title": "Manifiesto del Gral. J. S. Zelaya al pueblo nicaragüense. Managua. Diciembre de 1909",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "publishedDate": "1909",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:719422638"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 27,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vOL2ZwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vOL2ZwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifiesto_del_Gral_J_S_Zelaya_al_pueblo.html?hl=&id=vOL2ZwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vOL2ZwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "31gg0QEACAAJ",
+      "etag": "FjMLgabyd5w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/31gg0QEACAAJ",
+      "volumeInfo": {
+        "title": "Epistolario",
+        "subtitle": "I",
+        "authors": [
+          "Rubén Darío"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:919904112"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=31gg0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=31gg0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Epistolario.html?hl=&id=31gg0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=31gg0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6XmqnQEACAAJ",
+      "etag": "gr3NzTuXBCM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6XmqnQEACAAJ",
+      "volumeInfo": {
+        "title": "Manifiesto del Gral. J.S. Zelaya al pueblo nicaragüense [microform].",
+        "publishedDate": "1909",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:87132694"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 27,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6XmqnQEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6XmqnQEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifiesto_del_Gral_J_S_Zelaya_al_pueblo.html?hl=&id=6XmqnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6XmqnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BFkvzwEACAAJ",
+      "etag": "kQSoMIQ9g9A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BFkvzwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta , 1911 abr. 10 Neuilly, Bélgica a Rubén Darío",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "publishedDate": "1911",
+        "description": "Informa su nuevo domicilio y remite carta de Blanco-Fombona.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318891333"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BFkvzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BFkvzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_1911_abr_10_Neuilly_B%C3%A9lgica_a_Rub.html?hl=&id=BFkvzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BFkvzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Informa su nuevo domicilio y remite carta de Blanco-Fombona."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6R03zwEACAAJ",
+      "etag": "ucgeQQ4tZ20",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6R03zwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta , 1912 abr. 30 Barcelona, España a Rubén Darío",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "publishedDate": "1912",
+        "description": "Le envía clave telegráfica, para que envíe las noticias durante su viaje y copia del poema que Darío dedicó a su esposa.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318633009"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6R03zwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6R03zwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_1912_abr_30_Barcelona_Espa%C3%B1a_a_Ru.html?hl=&id=6R03zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6R03zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Le envía clave telegráfica, para que envíe las noticias durante su viaje y copia del poema que Darío dedicó a su esposa."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZXgyzwEACAAJ",
+      "etag": "0YIXjsaP7oc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZXgyzwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta , 1911 ene. 12 Bruselas, Bélgica a Rubén Darío",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "publishedDate": "1911",
+        "description": "Hace dos acotaciones a artículo de carácter político escrito por Darío.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318363991"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZXgyzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZXgyzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_1911_ene_12_Bruselas_B%C3%A9lgica_a_Ru.html?hl=&id=ZXgyzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZXgyzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Hace dos acotaciones a artículo de carácter político escrito por Darío."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KQg2zwEACAAJ",
+      "etag": "LySuoIvo3nI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KQg2zwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta , 1910 nov. 28 Bruselas, Bélgica a Rubén Darío",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "publishedDate": "1910",
+        "description": "Agradece telegrama de pésame y envía los saludos de su esposa.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318202656"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=KQg2zwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KQg2zwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_1910_nov_28_Bruselas_B%C3%A9lgica_a_Ru.html?hl=&id=KQg2zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KQg2zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Agradece telegrama de pésame y envía los saludos de su esposa."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CkEwzwEACAAJ",
+      "etag": "wjxiUxjHh00",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CkEwzwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta , 1911 feb. 28 Bruselas, Bélgica a Rubén Darío",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "publishedDate": "1911",
+        "description": "Remite carta de Pérez Triana. Menciona problemas entre Cavestany y Gómez Carrillo.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1317918266"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=CkEwzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=CkEwzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_1911_feb_28_Bruselas_B%C3%A9lgica_a_Ru.html?hl=&id=CkEwzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CkEwzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Remite carta de Pérez Triana. Menciona problemas entre Cavestany y Gómez Carrillo."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JRE9yAEACAAJ",
+      "etag": "lT4YtL5IUqM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JRE9yAEACAAJ",
+      "volumeInfo": {
+        "title": "Epistolario",
+        "subtitle": "I",
+        "authors": [
+          "Rubén Darío"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:802930443"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JRE9yAEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JRE9yAEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Epistolario.html?hl=&id=JRE9yAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JRE9yAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "e69nGwAACAAJ",
+      "etag": "Q7X9esoiQ+o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/e69nGwAACAAJ",
+      "volumeInfo": {
+        "title": "La rev. de Nicaragua y los Estados Unidos",
+        "authors": [
+          "J. S. Zelaya"
+        ],
+        "publishedDate": "1910",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:63577168"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=e69nGwAACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=e69nGwAACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_rev_de_Nicaragua_y_los_Estados_Unidos.html?hl=&id=e69nGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=e69nGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i7iyHAAACAAJ",
+      "etag": "ndyLmb1LrmY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i7iyHAAACAAJ",
+      "volumeInfo": {
+        "title": "Manifesto que dirige a los nicaragüenses el Señor General Don J. Santos Zelaya, al tomar posesión de la Presidencia de la República",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "publishedDate": "1906",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:17789549"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 59,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=i7iyHAAACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=i7iyHAAACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifesto_que_dirige_a_los_nicarag%C3%BCense.html?hl=&id=i7iyHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i7iyHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1UWwswEACAAJ",
+      "etag": "c67dv/zM8K0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1UWwswEACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas",
+        "subtitle": "Epistolario I",
+        "authors": [
+          "Rubén Darío"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1025032724"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 212,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1UWwswEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1UWwswEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=1UWwswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1UWwswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JSEXzQEACAAJ",
+      "etag": "CjBtp2XA7ls",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JSEXzQEACAAJ",
+      "volumeInfo": {
+        "title": "Cartas ...",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:660975935"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=JSEXzQEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JSEXzQEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cartas.html?hl=&id=JSEXzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JSEXzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j2F8HAAACAAJ",
+      "etag": "j71hO1uLMFo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j2F8HAAACAAJ",
+      "volumeInfo": {
+        "title": "Manifiesto que dirige a los nicaragüenses el señor general don J. Santos Zelaya",
+        "subtitle": "al tomar posesión de la Presidencia de la Nación, Managua, 1o. de enero de 1906",
+        "authors": [
+          "Nicaragua. President (1906- : Zelaya)"
+        ],
+        "publishedDate": "1906",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54257641"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=j2F8HAAACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=j2F8HAAACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manifiesto_que_dirige_a_los_nicarag%C3%BCens.html?hl=&id=j2F8HAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j2F8HAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6FR1tAEACAAJ",
+      "etag": "yNKjDnknGB0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6FR1tAEACAAJ",
+      "volumeInfo": {
+        "title": "Obras completas ...",
+        "authors": [
+          "José Santos Zelaya",
+          "Félix Rubén García Sarmiento Darío (sous le pseud. de Rubén)"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:459356854"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6FR1tAEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6FR1tAEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obras_completas.html?hl=&id=6FR1tAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6FR1tAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DjjWvQEACAAJ",
+      "etag": "VoqtoC72FUA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DjjWvQEACAAJ",
+      "volumeInfo": {
+        "title": "The Revolution of Nicaragua and the United States",
+        "authors": [
+          "Jose Santos Zelaya"
+        ],
+        "publisher": "Franklin Classics",
+        "publishedDate": "2018-10-14",
+        "description": "This work has been selected by scholars as being culturally important and is part of the knowledge base of civilization as we know it. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. To ensure a quality reading experience, this work has been proofread and republished using a format that seamlessly blends the original graphical elements with text in an easy-to-read typeface. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0342932918"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780342932917"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DjjWvQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DjjWvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=DjjWvQEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=DjjWvQEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Revolution_of_Nicaragua_and_the_Unit.html?hl=&id=DjjWvQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DjjWvQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important and is part of the knowledge base of civilization as we know it. This work is in the public domain in the United States of America, and possibly other nations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ijk0zwEACAAJ",
+      "etag": "fssXw0cC6v4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ijk0zwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta , 1908 jul. 22 Managua, Nicaragua a Rubén Darío",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "publishedDate": "1908",
+        "description": "Comenta las primeras impresiones de Darío como diplomático.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318181206"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ijk0zwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ijk0zwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_1908_jul_22_Managua_Nicaragua_a_Ru.html?hl=&id=ijk0zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ijk0zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Comenta las primeras impresiones de Darío como diplomático."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jFlYzwEACAAJ",
+      "etag": "FA/ntxFylNs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jFlYzwEACAAJ",
+      "volumeInfo": {
+        "title": "Decree of December 22, 1898",
+        "authors": [
+          "José Santos Zelaya (1853)"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1339253079"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Electronic books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=jFlYzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jFlYzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Decree_of_December_22_1898.html?hl=&id=jFlYzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jFlYzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yeUyzwEACAAJ",
+      "etag": "7aRfwDpvKjs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yeUyzwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta , 1910 may. 21 Bruselas, Bélgica a Rubén Darío",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "publishedDate": "1910",
+        "description": "Comunica que suspenderá momentáneamente la subvención que envía Darío.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318130737"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yeUyzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yeUyzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_1910_may_21_Bruselas_B%C3%A9lgica_a_Ru.html?hl=&id=yeUyzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yeUyzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Comunica que suspenderá momentáneamente la subvención que envía Darío."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ByG9MQAACAAJ",
+      "etag": "SJHHHycRu48",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ByG9MQAACAAJ",
+      "volumeInfo": {
+        "title": "Cartas políticas de José Santos Zelaya",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "publishedDate": "1926",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:162194972"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=ByG9MQAACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ByG9MQAACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cartas_pol%C3%ADticas_de_Jos%C3%A9_Santos_Zelaya.html?hl=&id=ByG9MQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ByG9MQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NvhWzwEACAAJ",
+      "etag": "e5rm/IzdB4Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NvhWzwEACAAJ",
+      "volumeInfo": {
+        "title": "Decree of May 16th, 1906",
+        "authors": [
+          "José Santos Zelaya (1853)",
+          "Felix Romero"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1339317606"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Electronic books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=NvhWzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=NvhWzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Decree_of_May_16th_1906.html?hl=&id=NvhWzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NvhWzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Pi9dzwEACAAJ",
+      "etag": "s2yBzSnzRD8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Pi9dzwEACAAJ",
+      "volumeInfo": {
+        "title": "Decree of January 17, 1906 re: Rental of Duties on Fishing and Exportation of Tortoise Shell, Sea Turtles, Sponges, and Mother of Pearl or Shells on the Atlantic Coast and Adjacent Islands",
+        "authors": [
+          "José Santos Zelaya (1853)",
+          "Jose D. Gomez"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1339300971"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Electronic books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=Pi9dzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Pi9dzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Decree_of_January_17_1906_re_Rental_of_D.html?hl=&id=Pi9dzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Pi9dzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UgsB0AEACAAJ",
+      "etag": "i6DBqJjIR6M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UgsB0AEACAAJ",
+      "volumeInfo": {
+        "title": "Refutation of the Statements of President Taft",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1378067127"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=UgsB0AEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=UgsB0AEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Refutation_of_the_Statements_of_Presiden.html?hl=&id=UgsB0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UgsB0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "e_01zwEACAAJ",
+      "etag": "vvlTAwF0j3g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/e_01zwEACAAJ",
+      "volumeInfo": {
+        "title": "Carta , 1909 mar. 13 Managua, Nicaragua, a Rubén Darío",
+        "authors": [
+          "José Santos Zelaya"
+        ],
+        "publishedDate": "1909",
+        "description": "Materias económicas en relación al cargo diplomático de Rubén Darío.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1318566560"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=e_01zwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=45&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=e_01zwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Carta_1909_mar_13_Managua_Nicaragua_a_Ru.html?hl=&id=e_01zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=e_01zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Materias económicas en relación al cargo diplomático de Rubén Darío."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZeddzwEACAAJ",
+      "etag": "BHywgSKTtvc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZeddzwEACAAJ",
+      "volumeInfo": {
+        "title": "Decree of January 28, 1905 re: Nicaraguan Turtle Fisheries",
+        "authors": [
+          "José Santos Zelaya (1853)",
+          "Felix Romero"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1339342475"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Electronic books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=ZeddzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=46&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZeddzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Decree_of_January_28_1905_re_Nicaraguan.html?hl=&id=ZeddzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZeddzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "T_1czwEACAAJ",
+      "etag": "XxbheKqDmLY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/T_1czwEACAAJ",
+      "volumeInfo": {
+        "title": "Decree of January 20th, 1903",
+        "authors": [
+          "José Santos Zelaya (1853)"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1339309006"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Electronic books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=T_1czwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&cd=47&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=T_1czwEACAAJ&dq=inauthor:%22Jos%C3%A9+Santos+Zelaya%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Decree_of_January_20th_1903.html?hl=&id=T_1czwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=T_1czwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

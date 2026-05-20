@@ -1,0 +1,2960 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Mar%C3%ADa%20Moncada\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Mar%C3%ADa%20Moncada\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Mar%C3%ADa%20Moncada\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Mar%C3%ADa%20Moncada\"&maxResults=20&startIndex=40&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Mar%C3%ADa%20Moncada\"&maxResults=10&startIndex=40&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 50,
+  "_totalRequestsMade": 3,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "OB4mAAAAMAAJ",
+      "etag": "4s1RQXwOOd8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OB4mAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Imperialism and the Monroe Doctrine (their Influence in Central America)",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015003845602"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 86,
+        "printType": "BOOK",
+        "categories": [
+          "Imperialism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.15.15.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OB4mAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OB4mAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=OB4mAAAAMAAJ&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OB4mAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OB4mAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=OB4mAAAAMAAJ&rdid=book-OB4mAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Imperialism_and_the_Monroe_Doctrine_thei.epub?id=OB4mAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Imperialism_and_the_Monroe_Doctrine_thei.pdf?id=OB4mAAAAMAAJ&hl=&output=pdf&sig=ACfU3U1OuAOTETgefecT8MZkmipOxjHExA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OB4mAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1-8-AAAAYAAJ",
+      "etag": "15eOB+YtjzI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1-8-AAAAYAAJ",
+      "volumeInfo": {
+        "title": "Social and Political Influence of the United States in Central America",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PRNC:32101067884559"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 58,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1-8-AAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1-8-AAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=1-8-AAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=1-8-AAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Social_and_Political_Influence_of_the_Un.html?hl=&id=1-8-AAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1-8-AAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-sdqAAAAMAAJ",
+      "etag": "2ZY9mNDfDqU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-sdqAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Cosas de Centro América",
+        "subtitle": "(memorias de un testigo ocular de los sucessos) ...",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1908",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018712390"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-sdqAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-sdqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=-sdqAAAAMAAJ&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-sdqAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-sdqAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=-sdqAAAAMAAJ&rdid=book--sdqAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Cosas_de_Centro_Am%C3%A9rica.epub?id=-sdqAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Cosas_de_Centro_Am%C3%A9rica.pdf?id=-sdqAAAAMAAJ&hl=&output=pdf&sig=ACfU3U39WfyrdHhZGLRHYlaPKdUWHXfYaw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-sdqAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r4pnAAAAMAAJ",
+      "etag": "nbK6/C1OTlA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r4pnAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Lo porvenir",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173022908952"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=r4pnAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=r4pnAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=r4pnAAAAMAAJ&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=r4pnAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=r4pnAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=r4pnAAAAMAAJ&rdid=book-r4pnAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Lo_porvenir.epub?id=r4pnAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r4pnAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_hCDR2EJjNMC",
+      "etag": "iN3aKi4KGYE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_hCDR2EJjNMC",
+      "volumeInfo": {
+        "title": "El ideal ciudadano",
+        "subtitle": "obra declarada de texto por el presidente de la república para la clase de lectura en las escuelas elementales, en el cuarto o quinto grados",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSD:31822010611457"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "categories": [
+          "Citizenship"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_hCDR2EJjNMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_hCDR2EJjNMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=_hCDR2EJjNMC&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_hCDR2EJjNMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_hCDR2EJjNMC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=_hCDR2EJjNMC&rdid=book-_hCDR2EJjNMC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/El_ideal_ciudadano.epub?id=_hCDR2EJjNMC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_hCDR2EJjNMC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j64xTjjCTPwC",
+      "etag": "HbjT5LAG7DU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j64xTjjCTPwC",
+      "volumeInfo": {
+        "title": "El gran ideal",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCR:31210006755969"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 194,
+        "printType": "BOOK",
+        "categories": [
+          "Husband and wife"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=j64xTjjCTPwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=j64xTjjCTPwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=j64xTjjCTPwC&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=j64xTjjCTPwC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=j64xTjjCTPwC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=j64xTjjCTPwC&rdid=book-j64xTjjCTPwC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/El_gran_ideal.epub?id=j64xTjjCTPwC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j64xTjjCTPwC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iC8-AAAAYAAJ",
+      "etag": "6O5ANN8UUnk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iC8-AAAAYAAJ",
+      "volumeInfo": {
+        "title": "El mundo social",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1912",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "COLUMBIA:0036680281"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "categories": [
+          "Civilization"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iC8-AAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iC8-AAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=iC8-AAAAYAAJ&printsec=frontcover&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=iC8-AAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=iC8-AAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=iC8-AAAAYAAJ&rdid=book-iC8-AAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/El_mundo_social.epub?id=iC8-AAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/El_mundo_social.pdf?id=iC8-AAAAYAAJ&hl=&output=pdf&sig=ACfU3U3kfSrcF31FTlUL4eTHGBrQQMk4kA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iC8-AAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8zaTzwEACAAJ",
+      "etag": "qHMA1OZxZvk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8zaTzwEACAAJ",
+      "volumeInfo": {
+        "title": "Cosas De Centro América",
+        "subtitle": "(Memorias De Un Testigo Ocular De Los Sucessos) ...",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publisher": "Legare Street Press",
+        "publishedDate": "2022-10-27",
+        "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the \"public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1018361952"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781018361956"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8zaTzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8zaTzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=8zaTzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8zaTzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cosas_De_Centro_Am%C3%A9rica.html?hl=&id=8zaTzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8zaTzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work is in the &quot;public domain in the United States of America, and possibly other nations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qPUpAQAAMAAJ",
+      "etag": "fJmNrjBkyM0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qPUpAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Nicaragua, sangre en sus montañas",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1985",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89015004831"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 414,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qPUpAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qPUpAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=qPUpAQAAMAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=qPUpAQAAMAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nicaragua_sangre_en_sus_monta%C3%B1as.html?hl=&id=qPUpAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qPUpAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "emsXAAAAIAAJ",
+      "etag": "jI7Db5qB3b8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/emsXAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Nicaragua y Honduras",
+        "subtitle": "su antigua cuestión de límites",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1937",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105038886987"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.12.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=emsXAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=emsXAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=emsXAAAAIAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=emsXAAAAIAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nicaragua_y_Honduras.html?hl=&id=emsXAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=emsXAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EoBHAAAAYAAJ",
+      "etag": "GHGYT3qprz4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EoBHAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Escuela de lo porvenir ...",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1912",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "COLUMBIA:CU56371640"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "categories": [
+          "Civilization"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EoBHAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EoBHAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=EoBHAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=EoBHAAAAYAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Escuela_de_lo_porvenir.html?hl=&id=EoBHAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EoBHAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PVT9zwEACAAJ",
+      "etag": "FEy5bP3W6Z8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PVT9zwEACAAJ",
+      "volumeInfo": {
+        "title": "Translation of the Text of a Letter to Sr. Don Adolfo Benard by Gen. José Moncada",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1379200950"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=PVT9zwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=PVT9zwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Translation_of_the_Text_of_a_Letter_to_S.html?hl=&id=PVT9zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PVT9zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "F03HGwAACAAJ",
+      "etag": "uik1V+Pap5A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/F03HGwAACAAJ",
+      "volumeInfo": {
+        "title": "International School: a Letter to the President of the United States of America",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1912",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:82937713"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=F03HGwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=F03HGwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/International_School_a_Letter_to_the_Pre.html?hl=&id=F03HGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=F03HGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "e8EkzwEACAAJ",
+      "etag": "j4ZYvlfRUFk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/e8EkzwEACAAJ",
+      "volumeInfo": {
+        "title": "Imperialism And The Monroe Doctrine (their Influence In Central America)",
+        "authors": [
+          "José María Moncada",
+          "Aloysius C Gahan"
+        ],
+        "publisher": "Sagwan Press",
+        "publishedDate": "2015-08-26",
+        "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "134043637X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781340436377"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 62,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=e8EkzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=e8EkzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=e8EkzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=e8EkzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Imperialism_And_The_Monroe_Doctrine_thei.html?hl=&id=e8EkzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=e8EkzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nGFFtAEACAAJ",
+      "etag": "c2Fnfp+H5RM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nGFFtAEACAAJ",
+      "volumeInfo": {
+        "title": "The Social World",
+        "authors": [
+          "Jose Maria Moncada",
+          "Aloysius C. Gahan"
+        ],
+        "publisher": "Sagwan Press",
+        "publishedDate": "2018-02-07",
+        "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1376896222"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781376896220"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 204,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nGFFtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nGFFtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nGFFtAEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=nGFFtAEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Social_World.html?hl=&id=nGFFtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nGFFtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UgdvGwAACAAJ",
+      "etag": "/1GVXyiRU6g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UgdvGwAACAAJ",
+      "volumeInfo": {
+        "title": "Justice!",
+        "subtitle": "An Appeal to the Executive Power and the Senate of the United States",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54049611"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=UgdvGwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=UgdvGwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Justice.html?hl=&id=UgdvGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UgdvGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "adCWQAAACAAJ",
+      "etag": "cDW7QZxdayM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/adCWQAAACAAJ",
+      "volumeInfo": {
+        "title": "The Social World",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1912",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:12903505"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Sociology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=adCWQAAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=adCWQAAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Social_World.html?hl=&id=adCWQAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=adCWQAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SwgujgEACAAJ",
+      "etag": "a5yxt1ou8CA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SwgujgEACAAJ",
+      "volumeInfo": {
+        "title": "Social and Political Influence of the United States in Central America",
+        "authors": [
+          "Jose Maria Moncada",
+          "Aloysius C Gahan"
+        ],
+        "publisher": "Andesite Press",
+        "publishedDate": "2015-08-12",
+        "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work.As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1297772660"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781297772665"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 58,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SwgujgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SwgujgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=SwgujgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=SwgujgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Social_and_Political_Influence_of_the_Un.html?hl=&id=SwgujgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SwgujgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RWISMQAACAAJ",
+      "etag": "xGJIKq05zXc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RWISMQAACAAJ",
+      "volumeInfo": {
+        "title": "Guatemala",
+        "subtitle": "General Descriptive Data Prepared in June 1909",
+        "authors": [
+          "José María Moncada",
+          "Ángel Nuñez Ortega"
+        ],
+        "publishedDate": "1887",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:11029030"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 23,
+        "printType": "BOOK",
+        "categories": [
+          "Belize"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RWISMQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=RWISMQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Guatemala.html?hl=&id=RWISMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RWISMQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "f7gTHAAACAAJ",
+      "etag": "fSsFTNrJvFs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f7gTHAAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje del excelentísimo señor Presidente de la República General José María Moncada, ante el soberano Congreso Nacional, en su reunión ordinaria del 15 de diciembre de 1929",
+        "authors": [
+          "José María Moncada (Pres. Nicargua)"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:17797789"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 12,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=f7gTHAAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=f7gTHAAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_del_excelent%C3%ADsimo_se%C3%B1or_Presid.html?hl=&id=f7gTHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f7gTHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "U7rGNAEACAAJ",
+      "etag": "cMIoKXuMrIA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U7rGNAEACAAJ",
+      "volumeInfo": {
+        "title": "Mensajes y folletos del presidente de la república general J.M. Moncada, durante su administración",
+        "subtitle": "1929-1932",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1932",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:46029299"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=U7rGNAEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=U7rGNAEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensajes_y_folletos_del_presidente_de_la.html?hl=&id=U7rGNAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U7rGNAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cyFFtwAACAAJ",
+      "etag": "2dW7bmRUHiY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cyFFtwAACAAJ",
+      "volumeInfo": {
+        "title": "Estados Unidos en Nicaragua",
+        "authors": [
+          "José María Moncada (pres. Nicaragua)"
+        ],
+        "publishedDate": "1942",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:760595316"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 206,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=cyFFtwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=cyFFtwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estados_Unidos_en_Nicaragua.html?hl=&id=cyFFtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cyFFtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UIvAPQAACAAJ",
+      "etag": "EjImWAbJSAA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UIvAPQAACAAJ",
+      "volumeInfo": {
+        "title": "Estados Unidos en Nicaragua",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1971",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253148203"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=UIvAPQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=UIvAPQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Estados_Unidos_en_Nicaragua.html?hl=&id=UIvAPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UIvAPQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4ZpvHQAACAAJ",
+      "etag": "oc6vE6PARwc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4ZpvHQAACAAJ",
+      "volumeInfo": {
+        "title": "Historia de ayer",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1944",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:a45001933"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 23,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=4ZpvHQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=4ZpvHQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historia_de_ayer.html?hl=&id=4ZpvHQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4ZpvHQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sGVJYAAACAAJ",
+      "etag": "gfUl9GR6D1A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sGVJYAAACAAJ",
+      "volumeInfo": {
+        "title": "Educación, trabajo y ciencia (método de enseñanza integral), por José María Moncada",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458038639"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=sGVJYAAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=sGVJYAAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Educaci%C3%B3n_trabajo_y_ciencia_m%C3%A9todo_de.html?hl=&id=sGVJYAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sGVJYAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hrjASgAACAAJ",
+      "etag": "x8FpGS62G/k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hrjASgAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje del Presidente de la República dirigido al honorable Congreso Nacional, 1931",
+        "authors": [
+          "Nicaragua. President (1928-1932 : Moncada)"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54263987"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 13,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=hrjASgAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=hrjASgAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_del_Presidente_de_la_Rep%C3%BAblica.html?hl=&id=hrjASgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hrjASgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kUo7QwAACAAJ",
+      "etag": "46b6gZmV6r8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kUo7QwAACAAJ",
+      "volumeInfo": {
+        "title": "Conferencia dictada por el Sr. Presidente Gral. J.M. Moncada ante la Asamblea Obrera la noche del 15 de Julio 1930",
+        "subtitle": "[Tema: El Obrero].",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432652886"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 13,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=kUo7QwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=kUo7QwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Conferencia_dictada_por_el_Sr_Presidente.html?hl=&id=kUo7QwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kUo7QwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IX1v0QEACAAJ",
+      "etag": "tfYjg4pNRhk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IX1v0QEACAAJ",
+      "volumeInfo": {
+        "title": "Cosas de Centro América",
+        "subtitle": "memorias de un testigo ocular de los sucessos",
+        "authors": [
+          "José María Moncada (Pres. de Nicaragua)"
+        ],
+        "publishedDate": "1908",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651354718"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=IX1v0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=IX1v0QEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cosas_de_Centro_Am%C3%A9rica.html?hl=&id=IX1v0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IX1v0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mctZHAAACAAJ",
+      "etag": "dXzarHCqS8k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mctZHAAACAAJ",
+      "volumeInfo": {
+        "title": "El hemisferio de la libertad",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1941",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:45034542"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 204,
+        "printType": "BOOK",
+        "categories": [
+          "America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=mctZHAAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=mctZHAAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_hemisferio_de_la_libertad.html?hl=&id=mctZHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mctZHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KhTzGgAACAAJ",
+      "etag": "IIdLdAFpdx0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KhTzGgAACAAJ",
+      "volumeInfo": {
+        "title": "Mensaje que al Honorable Congreso Nacional presenta el Ciudadano Presidente de la República",
+        "subtitle": "de su ejercicio administrativo durante el año 1930",
+        "authors": [
+          "Nicaragua. President (1928-1932 : Moncada)"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54240617"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 10,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=KhTzGgAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=KhTzGgAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensaje_que_al_Honorable_Congreso_Nacion.html?hl=&id=KhTzGgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KhTzGgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "99aAMwEACAAJ",
+      "etag": "qlGeKvCX8Cw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/99aAMwEACAAJ",
+      "volumeInfo": {
+        "title": "La Inocencia del Dr. P. Bonilla",
+        "authors": [
+          "José María MONCADA",
+          "Policarpo BONILLA (President of the Republic of Honduras.)"
+        ],
+        "publishedDate": "1905",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:563887394"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 75,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=99aAMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=99aAMwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Inocencia_del_Dr_P_Bonilla.html?hl=&id=99aAMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=99aAMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bioJHAAACAAJ",
+      "etag": "NClQPitZ/UY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bioJHAAACAAJ",
+      "volumeInfo": {
+        "title": "El ideal ciudadano",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432652889"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Citizenship"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=bioJHAAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=bioJHAAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_ideal_ciudadano.html?hl=&id=bioJHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bioJHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hW0QMgEACAAJ",
+      "etag": "c+j4PVm4YuU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hW0QMgEACAAJ",
+      "volumeInfo": {
+        "title": "La revolución de 1903 y el golpe de estado del 8 de febrero de 1904",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458038669"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 59,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=hW0QMgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=hW0QMgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_revoluci%C3%B3n_de_1903_y_el_golpe_de_est.html?hl=&id=hW0QMgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hW0QMgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FBSdHAAACAAJ",
+      "etag": "g74fyz3NOM0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FBSdHAAACAAJ",
+      "volumeInfo": {
+        "title": "Pepe Batres",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1910",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:15689498"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 41,
+        "printType": "BOOK",
+        "categories": [
+          "Poets, Guatemalan"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=FBSdHAAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=FBSdHAAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pepe_Batres.html?hl=&id=FBSdHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FBSdHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6KetngEACAAJ",
+      "etag": "vHVUU4kZZsM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6KetngEACAAJ",
+      "volumeInfo": {
+        "title": "Educacion, trabajo y ciencia",
+        "subtitle": "metodo de enseñanza integral",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:604152716"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=6KetngEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=6KetngEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Educacion_trabajo_y_ciencia.html?hl=&id=6KetngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6KetngEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TedctQAACAAJ",
+      "etag": "FV/2pwPR7w4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TedctQAACAAJ",
+      "volumeInfo": {
+        "title": "Educacíon, trabajo y ciencia",
+        "subtitle": "método de enseñanza integral",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:55318271"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 285,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=TedctQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=TedctQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Educac%C3%ADon_trabajo_y_ciencia.html?hl=&id=TedctQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TedctQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9MJAQwAACAAJ",
+      "etag": "TVuVvJOZiLU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9MJAQwAACAAJ",
+      "volumeInfo": {
+        "title": "La revolución de 1903 y el golpe de Estado del 8 de Febrero de 1904. 4 de Marzo de 1904",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:432652894"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 59,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=9MJAQwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=9MJAQwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_revoluci%C3%B3n_de_1903_y_el_golpe_de_Est.html?hl=&id=9MJAQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9MJAQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YQquSgAACAAJ",
+      "etag": "pYPi/FwB5/M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YQquSgAACAAJ",
+      "volumeInfo": {
+        "title": "En mi defensa",
+        "subtitle": "por J. M. Moncada",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1934",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54186893"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "categories": [
+          "Finance, Public"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=YQquSgAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=YQquSgAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/En_mi_defensa.html?hl=&id=YQquSgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YQquSgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FLm9MQAACAAJ",
+      "etag": "DrGwoH+QMYY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FLm9MQAACAAJ",
+      "volumeInfo": {
+        "title": "Conferencia dictada ... ante la asamblea obrera, la noche del 15 de julio 1930",
+        "authors": [
+          "J[osé] M[aría] Moncada"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:187198990"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=FLm9MQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=FLm9MQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Conferencia_dictada_ante_la_asamblea_obr.html?hl=&id=FLm9MQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FLm9MQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vB5RGwAACAAJ",
+      "etag": "kcTjWAs7ZJM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vB5RGwAACAAJ",
+      "volumeInfo": {
+        "title": "La inocencia del dr. Policarpo Bonilla",
+        "subtitle": "Diciembre de 1905",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1905",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:13006106"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 75,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=vB5RGwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=vB5RGwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_inocencia_del_dr_Policarpo_Bonilla.html?hl=&id=vB5RGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vB5RGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PecwGwAACAAJ",
+      "etag": "MgOPWAr/Kqg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PecwGwAACAAJ",
+      "volumeInfo": {
+        "title": "Cultivo del tobaco",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:31010687"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "categories": [
+          "Tobacco"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=PecwGwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=PecwGwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cultivo_del_tobaco.html?hl=&id=PecwGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PecwGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "I8K3ZwEACAAJ",
+      "etag": "uvNs2ncHHlg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/I8K3ZwEACAAJ",
+      "volumeInfo": {
+        "title": "Dos aspectos sobre el tema: Nicaragua y la guerra",
+        "subtitle": "Auspiciado por el Comite de ciudanos de los Estados Unidos",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1942",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:83427632"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 26,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=I8K3ZwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=I8K3ZwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dos_aspectos_sobre_el_tema_Nicaragua_y_l.html?hl=&id=I8K3ZwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=I8K3ZwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1WzXGwAACAAJ",
+      "etag": "fY36+Yc5PR0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1WzXGwAACAAJ",
+      "volumeInfo": {
+        "title": "El terremoto y los socorros de 1931",
+        "subtitle": "por J.M. Moncada",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1935",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:79320876"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "categories": [
+          "Disaster relief"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=1WzXGwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=1WzXGwAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_terremoto_y_los_socorros_de_1931.html?hl=&id=1WzXGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1WzXGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ryylYgEACAAJ",
+      "etag": "8j2JcYNtKtU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ryylYgEACAAJ",
+      "volumeInfo": {
+        "title": "El ideal ciudadano",
+        "authors": [
+          "José María Moncada (Pres. de Nicaragua)"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651485785"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=ryylYgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ryylYgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_ideal_ciudadano.html?hl=&id=ryylYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ryylYgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "T_6nPQAACAAJ",
+      "etag": "w4qMIRvTqZY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/T_6nPQAACAAJ",
+      "volumeInfo": {
+        "title": "Deuda del Ferrocarril de Honduras ...",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:06031868"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 101,
+        "printType": "BOOK",
+        "categories": [
+          "Railroads"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=T_6nPQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=45&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=T_6nPQAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Deuda_del_Ferrocarril_de_Honduras.html?hl=&id=T_6nPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=T_6nPQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XiLhYgEACAAJ",
+      "etag": "hG+pY1L0LUI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XiLhYgEACAAJ",
+      "volumeInfo": {
+        "title": "Cultivo del tabaco",
+        "authors": [
+          "J.M. Moncada"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651448453"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=XiLhYgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=46&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=XiLhYgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cultivo_del_tabaco.html?hl=&id=XiLhYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XiLhYgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7H3vMgEACAAJ",
+      "etag": "K9bRqAzkOr4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7H3vMgEACAAJ",
+      "volumeInfo": {
+        "title": "Educacion, trabajo y ciencia, etc",
+        "authors": [
+          "José María MONCADA"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:563887389"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7H3vMgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=47&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=7H3vMgEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Educacion_trabajo_y_ciencia_etc.html?hl=&id=7H3vMgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7H3vMgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wqSGuAAACAAJ",
+      "etag": "Yr5ijHitMCI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wqSGuAAACAAJ",
+      "volumeInfo": {
+        "title": "Monografía histórica",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1932",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253956537"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=wqSGuAAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=48&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=wqSGuAAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Monograf%C3%ADa_hist%C3%B3rica.html?hl=&id=wqSGuAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wqSGuAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BFX8zwEACAAJ",
+      "etag": "sDw9ggwYLYA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BFX8zwEACAAJ",
+      "volumeInfo": {
+        "title": "Mensajes y folletos del presidente de la república",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1933",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:46029299"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=BFX8zwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=49&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=BFX8zwEACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mensajes_y_folletos_del_presidente_de_la.html?hl=&id=BFX8zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BFX8zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6FP2tgAACAAJ",
+      "etag": "Z3YVANLDx70",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6FP2tgAACAAJ",
+      "volumeInfo": {
+        "title": "Horas de meditación para Nicaragua",
+        "authors": [
+          "José María Moncada"
+        ],
+        "publishedDate": "1932*",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54188869"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 7,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaragua"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=6FP2tgAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&cd=50&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=6FP2tgAACAAJ&dq=inauthor:%22Jos%C3%A9+Mar%C3%ADa+Moncada%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Horas_de_meditaci%C3%B3n_para_Nicaragua.html?hl=&id=6FP2tgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6FP2tgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

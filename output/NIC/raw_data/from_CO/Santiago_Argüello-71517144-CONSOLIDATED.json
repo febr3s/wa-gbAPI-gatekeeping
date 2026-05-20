@@ -1,0 +1,4752 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Santiago%20Arg%C3%BCello\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Santiago%20Arg%C3%BCello\"&maxResults=20&startIndex=0&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Santiago%20Arg%C3%BCello\"&maxResults=20&startIndex=20&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Santiago%20Arg%C3%BCello\"&maxResults=20&startIndex=40&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Santiago%20Arg%C3%BCello\"&maxResults=20&startIndex=60&key=REDACTED",
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Santiago%20Arg%C3%BCello\"&maxResults=19&startIndex=60&key=REDACTED"
+  ],
+  "_totalQueriedItems": 1000000,
+  "_totalFetchedItems": 79,
+  "_totalRequestsMade": 4,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "tNXFOJveVmAC",
+      "etag": "Cfgu8rIkNbw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tNXFOJveVmAC",
+      "volumeInfo": {
+        "title": "Ediciones de Santiago Argüello",
+        "subtitle": "patrocinadas por el excelentisimo señor presidente de Guatemala",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112101532858"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 332,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tNXFOJveVmAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tNXFOJveVmAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tNXFOJveVmAC&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=tNXFOJveVmAC&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ediciones_de_Santiago_Arg%C3%BCello.html?hl=&id=tNXFOJveVmAC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tNXFOJveVmAC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XK9FAQAAMAAJ",
+      "etag": "TejNLpvQgic",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XK9FAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Primeras ráfagas [poemas]",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "SRLF:A0006610240"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XK9FAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XK9FAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=XK9FAQAAMAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=XK9FAQAAMAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Primeras_r%C3%A1fagas_poemas.html?hl=&id=XK9FAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XK9FAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8WASAQAAIAAJ",
+      "etag": "jtDSD+Sdny4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8WASAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Mi Mensaje a la juventud",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105021984666"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8WASAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8WASAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=8WASAQAAIAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=8WASAQAAIAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mi_Mensaje_a_la_juventud.html?hl=&id=8WASAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8WASAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jJ6CnmBhuc0C",
+      "etag": "21yqow2loBU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jJ6CnmBhuc0C",
+      "volumeInfo": {
+        "title": "Ritmo é idea",
+        "subtitle": "(prosa lírica).",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1923",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:31951002130104O"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 230,
+        "printType": "BOOK",
+        "categories": [
+          "Spanish American literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jJ6CnmBhuc0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jJ6CnmBhuc0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jJ6CnmBhuc0C&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jJ6CnmBhuc0C&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ritmo_%C3%A9_idea.html?hl=&id=jJ6CnmBhuc0C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jJ6CnmBhuc0C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TcMfeBuAusIC",
+      "etag": "jaH3XdskjcM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TcMfeBuAusIC",
+      "volumeInfo": {
+        "title": "El alma dolorida de la patria",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1923",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UFL:31262055739691"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TcMfeBuAusIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TcMfeBuAusIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TcMfeBuAusIC&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TcMfeBuAusIC&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_alma_dolorida_de_la_patria.html?hl=&id=TcMfeBuAusIC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TcMfeBuAusIC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "N7spAAAAYAAJ",
+      "etag": "0LY1VcVoLWY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N7spAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Ojo y alma",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1908",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HNLGS1"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=N7spAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=N7spAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=N7spAAAAYAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=N7spAAAAYAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ojo_y_alma.html?hl=&id=N7spAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N7spAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KN6tDen_sBAC",
+      "etag": "3ol/BXmTlRs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KN6tDen_sBAC",
+      "volumeInfo": {
+        "title": "Colección guatemalteca: Modernismo y modernistas",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1935",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:31951002098456W"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 592,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KN6tDen_sBAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KN6tDen_sBAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=KN6tDen_sBAC&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KN6tDen_sBAC&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Colecci%C3%B3n_guatemalteca_Modernismo_y_mod.html?hl=&id=KN6tDen_sBAC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KN6tDen_sBAC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JtQSAAAAYAAJ",
+      "etag": "J7isYRthPN0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JtQSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "La vida en mí",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173025497719"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 222,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JtQSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JtQSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JtQSAAAAYAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JtQSAAAAYAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_vida_en_m%C3%AD.html?hl=&id=JtQSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JtQSAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TtMSAAAAYAAJ",
+      "etag": "tJOgIcMVlXs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TtMSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Poesías escogidas y poesías nuevas",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1935",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173025497661"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 328,
+        "printType": "BOOK",
+        "categories": [
+          "Spanish American poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TtMSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TtMSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TtMSAAAAYAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TtMSAAAAYAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poes%C3%ADas_escogidas_y_poes%C3%ADas_nuevas.html?hl=&id=TtMSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TtMSAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aiT6gzR1CBMC",
+      "etag": "/2uEJ9k0tpw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aiT6gzR1CBMC",
+      "volumeInfo": {
+        "title": "Colección guatemalteca: Poesías escogidas y poesías nuevas",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1935",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:31951002098457U"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aiT6gzR1CBMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aiT6gzR1CBMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=aiT6gzR1CBMC&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=aiT6gzR1CBMC&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Colecci%C3%B3n_guatemalteca_Poes%C3%ADas_escogid.html?hl=&id=aiT6gzR1CBMC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aiT6gzR1CBMC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Gt8dAQAAIAAJ",
+      "etag": "XarRx2aFKrY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Gt8dAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Cuesta arriba",
+        "subtitle": "cuentos",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "2003",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105113657352"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 110,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Gt8dAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Gt8dAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Gt8dAQAAIAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Gt8dAQAAIAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cuesta_arriba.html?hl=&id=Gt8dAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Gt8dAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p6cwuwEACAAJ",
+      "etag": "mzqNtTCgM+I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p6cwuwEACAAJ",
+      "volumeInfo": {
+        "title": "El Poema de la Locura ...",
+        "authors": [
+          "Santiago Arguello"
+        ],
+        "publisher": "Wentworth Press",
+        "publishedDate": "2018-07-25",
+        "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0270053573"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780270053579"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 114,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p6cwuwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p6cwuwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=p6cwuwEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=p6cwuwEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_Poema_de_la_Locura.html?hl=&id=p6cwuwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p6cwuwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_ttVAAAAMAAJ",
+      "etag": "YdISxSCBTSg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_ttVAAAAMAAJ",
+      "volumeInfo": {
+        "title": "El divino Platón",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1934",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023298722"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "categories": [
+          "Platonismo"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_ttVAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_ttVAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=_ttVAAAAMAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=_ttVAAAAMAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_divino_Plat%C3%B3n.html?hl=&id=_ttVAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_ttVAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yRMvAAAAIAAJ",
+      "etag": "LwRvDscL/gs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yRMvAAAAIAAJ",
+      "volumeInfo": {
+        "title": "La fraternidad universal y el centroamericanismo",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1934",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105126750806"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "categories": [
+          "Central America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yRMvAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yRMvAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=yRMvAAAAIAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=yRMvAAAAIAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_fraternidad_universal_y_el_centroamer.html?hl=&id=yRMvAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yRMvAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZhVFAQAAMAAJ",
+      "etag": "Hd/38gReCqY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZhVFAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Ocaso",
+        "subtitle": "drama en tres actos",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1906",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B5517260"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZhVFAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZhVFAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZhVFAQAAMAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZhVFAQAAMAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ocaso.html?hl=&id=ZhVFAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZhVFAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "53ULAAAAYAAJ",
+      "etag": "IzASWW7dnO0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/53ULAAAAYAAJ",
+      "volumeInfo": {
+        "title": "La juventud que yo busco",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173018000650"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "categories": [
+          "Civilization"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.13.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=53ULAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=53ULAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=53ULAAAAYAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=53ULAAAAYAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_juventud_que_yo_busco.html?hl=&id=53ULAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=53ULAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VvsMAAAAYAAJ",
+      "etag": "UruMPWM8SVI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VvsMAAAAYAAJ",
+      "volumeInfo": {
+        "title": "La traición",
+        "subtitle": "sexta conferencia",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1932",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173023773983"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": [
+          "Truth and falsehood"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VvsMAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VvsMAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VvsMAAAAYAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VvsMAAAAYAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_traici%C3%B3n.html?hl=&id=VvsMAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VvsMAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YkdAAAAAYAAJ",
+      "etag": "mxKgSCdCw88",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YkdAAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Lecciones de literatura española",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173026986255"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 342,
+        "printType": "BOOK",
+        "categories": [
+          "Spanish literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YkdAAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YkdAAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=YkdAAAAAYAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=YkdAAAAAYAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lecciones_de_literatura_espa%C3%B1ola.html?hl=&id=YkdAAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YkdAAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iNMSAAAAYAAJ",
+      "etag": "l3a+2VAoZlA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iNMSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Letras apostólicas",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1929",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173025497683"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iNMSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iNMSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=iNMSAAAAYAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=iNMSAAAAYAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Letras_apost%C3%B3licas.html?hl=&id=iNMSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iNMSAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-V_wAAAAIAAJ",
+      "etag": "ko8Tf7BUb4Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-V_wAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Mi mensaje a la juventud, y otras orientaciones",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B4129171"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "categories": [
+          "Social sciences"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-V_wAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-V_wAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=-V_wAAAAIAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=-V_wAAAAIAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mi_mensaje_a_la_juventud_y_otras_orienta.html?hl=&id=-V_wAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-V_wAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ifgLAQAAIAAJ",
+      "etag": "Mbw+GEicbWE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ifgLAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Modernismo y modernistas ...",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1935",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105004722190"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+          "Latin American poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ifgLAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ifgLAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ifgLAQAAIAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ifgLAQAAIAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Modernismo_y_modernistas.html?hl=&id=ifgLAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ifgLAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2syoDwAAQBAJ",
+      "etag": "/kPHiEL7Di0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2syoDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Retórica, filosofía y educación: de la Antigüedad al Medioevo",
+        "subtitle": "Instituciones, cuerpos, discursos",
+        "authors": [
+          "Marta Alesso",
+          "Santiago Argüello",
+          "María Luján Diaz Duckwen",
+          "Paola Druille",
+          "Ricardo M. García",
+          "Juan Manuel Gerardi",
+          "Hermann Gunther Ibach",
+          "Nicolás Jarque",
+          "Juan Cruz López Rasch",
+          "Laura Pérez",
+          "Viviana Suñol",
+          "Lidia Raquel Miranda"
+        ],
+        "publisher": "Miño y Dávila",
+        "publishedDate": "2019-08-09",
+        "description": "Los estudios acerca de la Antigüedad, la Tardoantigüedad y el Medioevo que se ofrecen en este libro contemplan aspectos retóricos, filosóficos y culturales de tan dilatado período que se hallan atravesados por discursos y representaciones en torno a diversas instituciones y personalidades. Los trabajos reunidos en el volumen, lejos de pretender cerrar o encauzar una perspectiva de abordaje y un contenido específico, promueven la apertura de las reflexiones hacia distintas realizaciones o aportes, en el seno de las humanidades, que instalen o, incluso, reinstalen los debates y las especulaciones investigativas. Dada la constelación de temas que surgen de título y subtítulo, la secuencia del libro es cronológica: inicialmente aparecen los capítulos que se ocupan de la Antigüedad grecorromana; a continuación, se ubican las colaboraciones dedicadas a manifestaciones tardoantiguas y medievales y, finalmente, cierra el recorrido un capítulo referido a una fuente filosófica del siglo XX que analiza las épocas que nos interesan. Sin embargo, el cúmulo de fuentes, temas, intereses y ópticas de interpretación puestos en juego permitirá al lector otras formas de agrupación de los capítulos, a la hora de asignar un sentido global al libro, que darán cuenta, sin duda, de una hermenéutica más compleja que la mera sucesión temporal de los textos y discursos a los que cada una de las secciones se aplica.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788417133948"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8417133941"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 195,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2syoDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2syoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=2syoDwAAQBAJ&printsec=frontcover&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=22&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2syoDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2syoDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 27900,
+          "currencyCode": "COP"
+        },
+        "retailPrice": {
+          "amount": 27900,
+          "currencyCode": "COP"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=2syoDwAAQBAJ&rdid=book-2syoDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 27900000000,
+              "currencyCode": "COP"
+            },
+            "retailPrice": {
+              "amountInMicros": 27900000000,
+              "currencyCode": "COP"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Ret%C3%B3rica_filosof%C3%ADa_y_educaci%C3%B3n_de_la-sample-epub.acsm?id=2syoDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.co/books/download/Ret%C3%B3rica_filosof%C3%ADa_y_educaci%C3%B3n_de_la-sample-pdf.acsm?id=2syoDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2syoDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Los estudios acerca de la Antigüedad, la Tardoantigüedad y el Medioevo que se ofrecen en este libro contemplan aspectos retóricos, filosóficos y culturales de tan dilatado período que se hallan atravesados por discursos y ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9NMSAAAAYAAJ",
+      "etag": "jHqgSIRFmFI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9NMSAAAAYAAJ",
+      "volumeInfo": {
+        "title": "El libro de los apólogos y de otras cosas espirituales",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1934",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173025497694"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 366,
+        "printType": "BOOK",
+        "categories": [
+          "Spanish American literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9NMSAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9NMSAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=9NMSAAAAYAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=9NMSAAAAYAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_libro_de_los_ap%C3%B3logos_y_de_otras_cos.html?hl=&id=9NMSAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9NMSAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kIFdAAAAMAAJ",
+      "etag": "QTBUiBPu/Gs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kIFdAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Modernismo y modernistas ...: Rubén Darío, la encarnación del modernismo. Amado Nervo, el misticismo y el amor. El modernismo en Guatemala: Rafael Arévalo Martínez",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1935",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015032025572"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 296,
+        "printType": "BOOK",
+        "categories": [
+          "Modernism (Literature)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kIFdAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kIFdAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=kIFdAAAAMAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=kIFdAAAAMAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Modernismo_y_modernistas_Rub%C3%A9n_Dar%C3%ADo_l.html?hl=&id=kIFdAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kIFdAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BnyVKy8LGlYC",
+      "etag": "ZiBi5Js8jUc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BnyVKy8LGlYC",
+      "volumeInfo": {
+        "title": "Colección guatemalteca: Lecciones de literatura española",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:31951002098459Q"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 612,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BnyVKy8LGlYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BnyVKy8LGlYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BnyVKy8LGlYC&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BnyVKy8LGlYC&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Colecci%C3%B3n_guatemalteca_Lecciones_de_lit.html?hl=&id=BnyVKy8LGlYC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BnyVKy8LGlYC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "M8wwAQAAIAAJ",
+      "etag": "5OWNW7/9BiM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M8wwAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Viaje al país de la decadencia",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B770527"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 266,
+        "printType": "BOOK",
+        "categories": [
+          "Literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.11.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=M8wwAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=M8wwAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=M8wwAQAAIAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=M8wwAQAAIAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Viaje_al_pa%C3%ADs_de_la_decadencia.html?hl=&id=M8wwAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=M8wwAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zWl03YIA0wYC",
+      "etag": "9I/NqobFoEo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zWl03YIA0wYC",
+      "volumeInfo": {
+        "title": "Colección guatemalteca: Mi mensaje a la juventad. 2a ed",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1935",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:31951002098455Y"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 330,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zWl03YIA0wYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zWl03YIA0wYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=zWl03YIA0wYC&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=zWl03YIA0wYC&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Colecci%C3%B3n_guatemalteca_Mi_mensaje_a_la.html?hl=&id=zWl03YIA0wYC"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zWl03YIA0wYC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "E2IHkgAACAAJ",
+      "etag": "zsFTjpCtE5k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/E2IHkgAACAAJ",
+      "volumeInfo": {
+        "title": "El poema de la locura",
+        "subtitle": "El secreto de Melodia ó La odisea de las notas",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:634216083"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 105,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=E2IHkgAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=E2IHkgAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_poema_de_la_locura.html?hl=&id=E2IHkgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=E2IHkgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JGkMgsrX-u4C",
+      "etag": "YgBC20rysX8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JGkMgsrX-u4C",
+      "volumeInfo": {
+        "title": "Colección guatemalteca: El divino Platón",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1934",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:319510020984524"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 600,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JGkMgsrX-u4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JGkMgsrX-u4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=JGkMgsrX-u4C&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=JGkMgsrX-u4C&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Colecci%C3%B3n_guatemalteca_El_divino_Plat%C3%B3.html?hl=&id=JGkMgsrX-u4C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JGkMgsrX-u4C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GAhAAAAAIAAJ",
+      "etag": "1FJb/MKK3WU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GAhAAAAAIAAJ",
+      "volumeInfo": {
+        "title": "La Magia de Leonardo de Vinci",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1935",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B122141"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GAhAAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GAhAAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GAhAAAAAIAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GAhAAAAAIAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Magia_de_Leonardo_de_Vinci.html?hl=&id=GAhAAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GAhAAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "urpHAAAAYAAJ",
+      "etag": "7NG34ndkDe0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/urpHAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Prisiones",
+        "subtitle": "estado de la cuestión",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1991",
+        "description": "Grupos de riesgo.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059172118986441"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 122,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=urpHAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=urpHAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=urpHAAAAYAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=urpHAAAAYAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Prisiones.html?hl=&id=urpHAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=urpHAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Grupos de riesgo."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZBgyAQAAIAAJ",
+      "etag": "n4KbolkjqD0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZBgyAQAAIAAJ",
+      "volumeInfo": {
+        "title": "L'Amérique latine et la guerre européenne",
+        "subtitle": "Première partie",
+        "authors": [
+          "Groupement des universités et grandes écoles de France pour les relations avec L'Amérique latine",
+          "Santiago Argüello",
+          "Cecilio Báez",
+          "Manuel Carlés",
+          "Ezequiel Adeodato Chávez",
+          "Carlos Cuervo Márquez",
+          "Pedro Figari",
+          "Federico García Godoy",
+          "Medeiros e Albuquerque",
+          "Carlos Silva Vildósola",
+          "Carlos A. Villanueva (historien).)",
+          "R.. Wilmart"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B747121"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "categories": [
+          "World War, 1914-1918"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZBgyAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZBgyAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=ZBgyAQAAIAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZBgyAQAAIAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L_Am%C3%A9rique_latine_et_la_guerre_europ%C3%A9e.html?hl=&id=ZBgyAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZBgyAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4kKKDAEACAAJ",
+      "etag": "pdmzOFMdw4o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4kKKDAEACAAJ",
+      "volumeInfo": {
+        "title": "Páginas selectas de Santiago Argüello",
+        "publishedDate": "2015",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:2015521333"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 77,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4kKKDAEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4kKKDAEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/P%C3%A1ginas_selectas_de_Santiago_Arg%C3%BCello.html?hl=&id=4kKKDAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4kKKDAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jaEFuAAACAAJ",
+      "etag": "7ixc6j3CDlk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jaEFuAAACAAJ",
+      "volumeInfo": {
+        "title": "Argüello family papers",
+        "authors": [
+          "Argüello family",
+          "Santiago Argüello",
+          "José Ramón Argüello",
+          "Luis Antonio Argüello"
+        ],
+        "publishedDate": "1820",
+        "description": "Includes papers of Santiago Argüello, many relating to his army career and to his property in Baja California; José Ramón Argüello and Luis A. Argüello.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:26717874"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=jaEFuAAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=jaEFuAAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arg%C3%BCello_family_papers.html?hl=&id=jaEFuAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jaEFuAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Include papers of Santiago Argüello, many relating to his army career and to his property in Baja California; José Ramón Argüello and Luis A. Argüello."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mwsrAAAAIAAJ",
+      "etag": "ReXyv5o1SOQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mwsrAAAAIAAJ",
+      "volumeInfo": {
+        "title": "35 [treinta y cinco] poemas",
+        "authors": [
+          "Rafael Arévalo Martínez"
+        ],
+        "publishedDate": "1944",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105020433129"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 62,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mwsrAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mwsrAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mwsrAAAAIAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mwsrAAAAIAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/35_treinta_y_cinco_poemas.html?hl=&id=mwsrAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mwsrAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RRrOQAAACAAJ",
+      "etag": "9TkFSDpSaf8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RRrOQAAACAAJ",
+      "volumeInfo": {
+        "title": "De tierra-- cálida",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1900",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:85843003"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 229,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaraguan poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=RRrOQAAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=RRrOQAAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_tierra_c%C3%A1lida.html?hl=&id=RRrOQAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RRrOQAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SylrHAAACAAJ",
+      "etag": "u+lWyuXR54Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SylrHAAACAAJ",
+      "volumeInfo": {
+        "title": "La pena de muerte",
+        "subtitle": "discurso y poema",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:10583079"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "categories": [
+          "Capital punishment"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SylrHAAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SylrHAAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_pena_de_muerte.html?hl=&id=SylrHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SylrHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IIOhmgEACAAJ",
+      "etag": "t8p2mGzayyI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IIOhmgEACAAJ",
+      "volumeInfo": {
+        "title": "Siluetas literarias",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1898",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:80436608"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 286,
+        "printType": "BOOK",
+        "categories": [
+          "Nicaraguan literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=IIOhmgEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=IIOhmgEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Siluetas_literarias.html?hl=&id=IIOhmgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IIOhmgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vYb1sgEACAAJ",
+      "etag": "WXH3whlLOSY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vYb1sgEACAAJ",
+      "volumeInfo": {
+        "title": "La Pena de muerte ante el senado de Nicaragua",
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:912318671"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 22,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=vYb1sgEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=vYb1sgEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Pena_de_muerte_ante_el_senado_de_Nica.html?hl=&id=vYb1sgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vYb1sgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TGo2GQAACAAJ",
+      "etag": "eIY1NtuRdLM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TGo2GQAACAAJ",
+      "volumeInfo": {
+        "title": "Hija del viento",
+        "subtitle": "(cuentos)",
+        "authors": [
+          "Santiago Argüello Mejía"
+        ],
+        "publishedDate": "2006",
+        "description": "El autor nació en Quito.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9978453598"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789978453599"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TGo2GQAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TGo2GQAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hija_del_viento.html?hl=&id=TGo2GQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TGo2GQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El autor nació en Quito."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TGo2GQAACAAJ",
+      "etag": "ey8UTELKKEs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TGo2GQAACAAJ",
+      "volumeInfo": {
+        "title": "Hija del viento",
+        "subtitle": "(cuentos)",
+        "authors": [
+          "Santiago Argüello Mejía"
+        ],
+        "publishedDate": "2006",
+        "description": "El autor nació en Quito.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9978453598"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789978453599"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 124,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TGo2GQAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=41&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TGo2GQAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hija_del_viento.html?hl=&id=TGo2GQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TGo2GQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "El autor nació en Quito."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZNlEHAAACAAJ",
+      "etag": "LFiRO+x/4I0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZNlEHAAACAAJ",
+      "volumeInfo": {
+        "title": "Contra la pena de muerte",
+        "subtitle": "discurso pronunciado ante el Senado de Nicaragua con motivo de discutirse la solicitud de commutación de la pena capital introducida en la cámara por el reo Hilario Silva",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:42049945"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "categories": [
+          "Capital punishment"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=ZNlEHAAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=42&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ZNlEHAAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Contra_la_pena_de_muerte.html?hl=&id=ZNlEHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZNlEHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4T6XYgEACAAJ",
+      "etag": "50hb7zVuquc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4T6XYgEACAAJ",
+      "volumeInfo": {
+        "title": "Siluetas literarias",
+        "authors": [
+          "Santiago Argüello Barreto"
+        ],
+        "publishedDate": "1898",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:651226439"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 286,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=4T6XYgEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=43&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=4T6XYgEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Siluetas_literarias.html?hl=&id=4T6XYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4T6XYgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rUIMrUWXKs8C",
+      "etag": "ULJic9efSH8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rUIMrUWXKs8C",
+      "volumeInfo": {
+        "title": "Colección guatemalteca: El libro de los apólogos y de otras cosas espirituales",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1934",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:319510020984532"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 350,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rUIMrUWXKs8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rUIMrUWXKs8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=rUIMrUWXKs8C&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=44&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=rUIMrUWXKs8C&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Colecci%C3%B3n_guatemalteca_El_libro_de_los.html?hl=&id=rUIMrUWXKs8C"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rUIMrUWXKs8C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uD_0HAAACAAJ",
+      "etag": "upa18Xw9+/g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uD_0HAAACAAJ",
+      "volumeInfo": {
+        "title": "La emision simbolica de sellos americanos",
+        "subtitle": "acto de apertura de la exposicion celebrada en el Circulo de bellas artes, el dia 2 de octubre de 1937 ...",
+        "authors": [
+          "Cuba. Previsión y Reformas Sociales, Institution Nacional de",
+          "Santiago Argüello",
+          "José A. Montalvo",
+          "Asociación de Escritores y Artistas Americanos"
+        ],
+        "publishedDate": "1937",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:43099805"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=uD_0HAAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=45&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=uD_0HAAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_emision_simbolica_de_sellos_americano.html?hl=&id=uD_0HAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uD_0HAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "e8hLHAAACAAJ",
+      "etag": "R1GPYTSQ9P8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/e8hLHAAACAAJ",
+      "volumeInfo": {
+        "title": "Mi mensaje de paz a mis hermanos de América",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54168914"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "categories": [
+          "Cuba"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=e8hLHAAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=46&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=e8hLHAAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mi_mensaje_de_paz_a_mis_hermanos_de_Am%C3%A9.html?hl=&id=e8hLHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=e8hLHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SwUhywEACAAJ",
+      "etag": "UkIYDoT3Ljk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SwUhywEACAAJ",
+      "volumeInfo": {
+        "title": "La pena de muerte en el Senado de Nicaragua",
+        "subtitle": "discurso y poema",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1123589293"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 30,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=SwUhywEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=47&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=SwUhywEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_pena_de_muerte_en_el_Senado_de_Nicara.html?hl=&id=SwUhywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SwUhywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iRdeGwAACAAJ",
+      "etag": "y5gkDdbwbkE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iRdeGwAACAAJ",
+      "volumeInfo": {
+        "title": "La revolución francesa",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1931",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:42048575"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=iRdeGwAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=48&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=iRdeGwAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_revoluci%C3%B3n_francesa.html?hl=&id=iRdeGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iRdeGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b_73XwAACAAJ",
+      "etag": "6Ia6f5jKmNU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b_73XwAACAAJ",
+      "volumeInfo": {
+        "title": "Ojo y alma. Con prefación de Vargas Vila",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1908",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458508249"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=b_73XwAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=49&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=b_73XwAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ojo_y_alma_Con_prefaci%C3%B3n_de_Vargas_Vila.html?hl=&id=b_73XwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b_73XwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hx2kPgAACAAJ",
+      "etag": "GCQJvsKU/Fc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hx2kPgAACAAJ",
+      "volumeInfo": {
+        "title": "El libro de los apologos y de obras cosas espirituales",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1934",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253833947"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 317,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=hx2kPgAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=50&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=hx2kPgAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_libro_de_los_apologos_y_de_obras_cosa.html?hl=&id=hx2kPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hx2kPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bXb2zwEACAAJ",
+      "etag": "lZN7buQJ7Hw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bXb2zwEACAAJ",
+      "volumeInfo": {
+        "title": "Primeras ráfagas",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1982",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:687492502"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=bXb2zwEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=51&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=bXb2zwEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Primeras_r%C3%A1fagas.html?hl=&id=bXb2zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bXb2zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qIfKjgEACAAJ",
+      "etag": "9E803PfWYls",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qIfKjgEACAAJ",
+      "volumeInfo": {
+        "title": "La Vida en mi",
+        "publishedDate": "193?",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:912766244"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 195,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=qIfKjgEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=52&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=qIfKjgEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Vida_en_mi.html?hl=&id=qIfKjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qIfKjgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GSrmPgAACAAJ",
+      "etag": "KqbhN3uwSsA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GSrmPgAACAAJ",
+      "volumeInfo": {
+        "title": "Prisiones",
+        "subtitle": "estado de la cuestión",
+        "authors": [
+          "Santiago Argüello Mejía"
+        ],
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:253153709"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 113,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GSrmPgAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=53&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GSrmPgAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Prisiones.html?hl=&id=GSrmPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GSrmPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6SJrmgEACAAJ",
+      "etag": "1FB6X3BGHVI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6SJrmgEACAAJ",
+      "volumeInfo": {
+        "title": "Viaje al país de la decadencia",
+        "authors": [
+          "Santiago Argüello H."
+        ],
+        "publishedDate": "1904",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431161132"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 253,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6SJrmgEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=54&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6SJrmgEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Viaje_al_pa%C3%ADs_de_la_decadencia.html?hl=&id=6SJrmgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6SJrmgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tIoM0AEACAAJ",
+      "etag": "uK3KDUcIcyc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tIoM0AEACAAJ",
+      "volumeInfo": {
+        "title": "De veritate",
+        "subtitle": "la fe. Cuestión 14",
+        "authors": [
+          "Tomás de Aquino (Santo)"
+        ],
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1385248476"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=tIoM0AEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=55&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=tIoM0AEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_veritate.html?hl=&id=tIoM0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tIoM0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PNrc0AEACAAJ",
+      "etag": "ywyXpegZ1Lc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PNrc0AEACAAJ",
+      "volumeInfo": {
+        "title": "Extraño estío",
+        "subtitle": "novela",
+        "authors": [
+          "Juan Bosch",
+          "María Carolina Geel",
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1923",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "LCCN:a48008051"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Dominican fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=PNrc0AEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=56&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PNrc0AEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Extra%C3%B1o_est%C3%ADo.html?hl=&id=PNrc0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PNrc0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Fjg_yAEACAAJ",
+      "etag": "Lg/t5E1TtFM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Fjg_yAEACAAJ",
+      "volumeInfo": {
+        "title": "Retórica, filosofía y educación: de la Antigüedad al Medioevo: Instituciones, cuerpos, discursos",
+        "authors": [
+          "Raquel Miranda",
+          "Marta Alesso",
+          "Santiago Arguello"
+        ],
+        "publisher": "Estudios del Mediterráneo Anti",
+        "publishedDate": "2019-07-30",
+        "description": "Los estudios acerca de la Antigüedad, la Tardoantigüedad y el Medioevo que se ofrecen en este libro contemplan aspectos retóricos, filosóficos y culturales de tan dilatado período que se hallan atravesados por discursos y representaciones en torno a diversas instituciones y personalidades. Los trabajos reunidos en el volumen, lejos de pretender cerrar o encauzar una perspectiva de abordaje y un contenido específico, promueven la apertura de las reflexiones hacia distintas realizaciones o aportes, en el seno de las humanidades, que instalen o, incluso, reinstalen los debates y las especulaciones investigativas.Dada la constelación de temas que surgen de título y subtítulo, la secuencia del libro es cronológica: inicialmente aparecen los capítulos que se ocupan de la Antigüedad grecorromana; a continuación, se ubican las colaboraciones dedicadas a manifestaciones tardoantiguas y medievales y, finalmente, cierra el recorrido un capítulo referido a una fuente filosófica del siglo XX que analiza las épocas que nos interesan. Sin embargo, el cúmulo de fuentes, temas, intereses y ópticas de interpretación puestos en juego permitirá al lector otras formas de agrupación de los capítulos, a la hora de asignar un sentido global al libro, que darán cuenta, sin duda, de una hermenéutica más compleja que la mera sucesión temporal de los textos y discursos a los que cada una de las secciones se aplica.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8417133747"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788417133740"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Fjg_yAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Fjg_yAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Fjg_yAEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=57&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Fjg_yAEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ret%C3%B3rica_filosof%C3%ADa_y_educaci%C3%B3n_de_la.html?hl=&id=Fjg_yAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Fjg_yAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Los estudios acerca de la Antigüedad, la Tardoantigüedad y el Medioevo que se ofrecen en este libro contemplan aspectos retóricos, filosóficos y culturales de tan dilatado período que se hallan atravesados por discursos y ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mmUOYAAACAAJ",
+      "etag": "vlH6Q7giwic",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mmUOYAAACAAJ",
+      "volumeInfo": {
+        "title": "La Guerra europea ante la América latina",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458508244"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 29,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=mmUOYAAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=58&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mmUOYAAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Guerra_europea_ante_la_Am%C3%A9rica_latin.html?hl=&id=mmUOYAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mmUOYAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "drCotgAACAAJ",
+      "etag": "SgeVB1PtgrQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/drCotgAACAAJ",
+      "volumeInfo": {
+        "title": "Barrios y Ubico",
+        "subtitle": "la obra creadora de dos constructores de naciones",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1937",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:10909537"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "categories": [
+          "Guatemala"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=drCotgAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=59&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=drCotgAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Barrios_y_Ubico.html?hl=&id=drCotgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=drCotgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TLHczwEACAAJ",
+      "etag": "UkMKMp2TvRM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TLHczwEACAAJ",
+      "volumeInfo": {
+        "title": "Enrique Gómez Carrillo",
+        "subtitle": "estudio crítico-biográfico; su vida, su obra y su época. ...",
+        "authors": [
+          "Juan M. Mendoza"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:835356173"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=TLHczwEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=60&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=TLHczwEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Enrique_G%C3%B3mez_Carrillo.html?hl=&id=TLHczwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TLHczwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "62u_vQEACAAJ",
+      "etag": "UAXei3x8EM0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/62u_vQEACAAJ",
+      "volumeInfo": {
+        "title": "De veritate, cuestión 14",
+        "subtitle": "la Fe",
+        "authors": [
+          "Tomàs (d'Aquino, sant)"
+        ],
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1043372901"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 121,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=62u_vQEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=61&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=62u_vQEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_veritate_cuesti%C3%B3n_14.html?hl=&id=62u_vQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=62u_vQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1l-wtQEACAAJ",
+      "etag": "unxNtKjvfN0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1l-wtQEACAAJ",
+      "volumeInfo": {
+        "title": "El hilo roto",
+        "authors": [
+          "Santiago Argüello Mejía"
+        ],
+        "publishedDate": "2017",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9942302352"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789942302359"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 106,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=1l-wtQEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=62&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=1l-wtQEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/El_hilo_roto.html?hl=&id=1l-wtQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1l-wtQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VHhJmwEACAAJ",
+      "etag": "yaKXKhe90Og",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VHhJmwEACAAJ",
+      "volumeInfo": {
+        "title": "Lecciones de la literatura española",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1936",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:835319304"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=VHhJmwEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=63&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=VHhJmwEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lecciones_de_la_literatura_espa%C3%B1ola.html?hl=&id=VHhJmwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VHhJmwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "c-RbHAAACAAJ",
+      "etag": "L+18lNb9Rq4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/c-RbHAAACAAJ",
+      "volumeInfo": {
+        "title": "Discurso pronunciado ...",
+        "subtitle": "en el salon consistorial el día 15 de septiembre de 1921, en representación del gobierno de Honduras, en la fecha con que se celebra el centenario de la independencia nacional",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1921",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:15349906"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 13,
+        "printType": "BOOK",
+        "categories": [
+          "Honduras"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=c-RbHAAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=64&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=c-RbHAAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Discurso_pronunciado.html?hl=&id=c-RbHAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=c-RbHAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lJcYswEACAAJ",
+      "etag": "msu/Lbugas8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lJcYswEACAAJ",
+      "volumeInfo": {
+        "title": "Siluetas literarias (los franceses)",
+        "publishedDate": "1898",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:911752464"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 286,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=lJcYswEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=65&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=lJcYswEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Siluetas_literarias_los_franceses.html?hl=&id=lJcYswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lJcYswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BubyzgEACAAJ",
+      "etag": "HC+JoxXUh4U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BubyzgEACAAJ",
+      "volumeInfo": {
+        "title": "Ritmo é idea. Prosa lírica",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1295170138"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=BubyzgEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=66&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=BubyzgEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ritmo_%C3%A9_idea_Prosa_l%C3%ADrica.html?hl=&id=BubyzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BubyzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "V2liswEACAAJ",
+      "etag": "H3WMtrg+wBc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/V2liswEACAAJ",
+      "volumeInfo": {
+        "title": "Ritmo e idea",
+        "subtitle": "(prosa lírica).",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:434325934"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=V2liswEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=67&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=V2liswEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ritmo_e_idea.html?hl=&id=V2liswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=V2liswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "M9_lnQEACAAJ",
+      "etag": "h6Cvc92frPc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M9_lnQEACAAJ",
+      "volumeInfo": {
+        "title": "De tierra... cálida",
+        "subtitle": "[Poesias]",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1909",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:431161128"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 174,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=M9_lnQEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=68&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=M9_lnQEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_tierra_c%C3%A1lida.html?hl=&id=M9_lnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=M9_lnQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IKcoywEACAAJ",
+      "etag": "T9J5+4+PJGY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IKcoywEACAAJ",
+      "volumeInfo": {
+        "title": "La América sajona ante la América española",
+        "subtitle": "discurso y elogio lírico de España",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1922",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1123506187"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 4,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=IKcoywEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=69&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=IKcoywEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Am%C3%A9rica_sajona_ante_la_Am%C3%A9rica_espa.html?hl=&id=IKcoywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IKcoywEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GnC3AAAACAAJ",
+      "etag": "BCZhkHVm2WQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GnC3AAAACAAJ",
+      "volumeInfo": {
+        "title": "Posibilidad y principio de plenitud en Tomás de Aquino",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8431322810"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788431322816"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 387,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GnC3AAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GnC3AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=GnC3AAAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=70&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=GnC3AAAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Posibilidad_y_principio_de_plenitud_en_T.html?hl=&id=GnC3AAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GnC3AAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Kh8hQwAACAAJ",
+      "etag": "snOob//ehP4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Kh8hQwAACAAJ",
+      "volumeInfo": {
+        "title": "\"De veritate\"",
+        "subtitle": "La fe. Cuestión 16",
+        "authors": [
+          "Tomás de Aquino (Santo.)",
+          "Santiago Gelonch",
+          "Santiago Argüello"
+        ],
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:433319582"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 121,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=Kh8hQwAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=71&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=Kh8hQwAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_veritate.html?hl=&id=Kh8hQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Kh8hQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mgcBMwEACAAJ",
+      "etag": "2Rw3TgfIpOc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mgcBMwEACAAJ",
+      "volumeInfo": {
+        "title": "La Vida en Mí. [Poems. With a Portrait.].",
+        "authors": [
+          "Santiago ARGÜELLO"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:556727185"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 195,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=mgcBMwEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=72&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=mgcBMwEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Vida_en_M%C3%AD_Poems_With_a_Portrait.html?hl=&id=mgcBMwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mgcBMwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FAWMPwAACAAJ",
+      "etag": "+AO52R2lfnY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FAWMPwAACAAJ",
+      "volumeInfo": {
+        "title": "Before the Surveyor-general of California",
+        "subtitle": "United States Vs. Santiago Arguello. Argument for the Protestants, Benjamin F. Nudd, and Others",
+        "authors": [
+          "C. P. Taggart",
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1869",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:21703823"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "categories": [
+          "Land titles"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=FAWMPwAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=73&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=FAWMPwAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Before_the_Surveyor_general_of_Californi.html?hl=&id=FAWMPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FAWMPwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LMQHswEACAAJ",
+      "etag": "lWAxnu1HhJA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LMQHswEACAAJ",
+      "volumeInfo": {
+        "title": "De Veritate, Cuestión 14",
+        "subtitle": "la fe",
+        "authors": [
+          "Santiago Gelonch",
+          "Santiago Argü ello"
+        ],
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:912224853"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 121,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=LMQHswEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=74&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=LMQHswEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_Veritate_Cuesti%C3%B3n_14.html?hl=&id=LMQHswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LMQHswEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EMBDOAAACAAJ",
+      "etag": "2kUTvFAIt+s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EMBDOAAACAAJ",
+      "volumeInfo": {
+        "title": "Land transfer affidavit",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1851",
+        "description": "Holograph affidavit transferring land to Manuel Machado, presumably from part of Argüello's Ranchero de Tijuana.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:32334375"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 2,
+        "printType": "BOOK",
+        "categories": [
+          "Land titles"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=EMBDOAAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=75&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=EMBDOAAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Land_transfer_affidavit.html?hl=&id=EMBDOAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EMBDOAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Holograph affidavit transferring land to Manuel Machado, presumably from part of Argüello&#39;s Ranchero de Tijuana."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KbIBYAAACAAJ",
+      "etag": "dhRbkSGy33s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KbIBYAAACAAJ",
+      "volumeInfo": {
+        "title": "De Tierra cálidá",
+        "authors": [
+          "Santiago Argüello H."
+        ],
+        "publishedDate": "1900",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:458508225"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 229,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=KbIBYAAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=76&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=KbIBYAAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_Tierra_c%C3%A1lid%C3%A1.html?hl=&id=KbIBYAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KbIBYAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6Dm3zwEACAAJ",
+      "etag": "LllvUGGUN4Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6Dm3zwEACAAJ",
+      "volumeInfo": {
+        "title": "Colección guatemalteca",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1934",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1371008790"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.co/books?id=6Dm3zwEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=77&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6Dm3zwEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Colecci%C3%B3n_guatemalteca.html?hl=&id=6Dm3zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6Dm3zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PVvmzgEACAAJ",
+      "etag": "2k8NsTe0pGw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PVvmzgEACAAJ",
+      "volumeInfo": {
+        "title": "L'Amérique Latine et la guerre Européenne",
+        "authors": [
+          "Santiago Argüello"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1293129421"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 202,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=PVvmzgEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=78&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=PVvmzgEACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L_Am%C3%A9rique_Latine_et_la_guerre_Europ%C3%A9e.html?hl=&id=PVvmzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PVvmzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6cnCGwAACAAJ",
+      "etag": "sDXQZa3hjK4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6cnCGwAACAAJ",
+      "volumeInfo": {
+        "title": "La Guerre européenne devant l'Amérique latine",
+        "authors": [
+          "Santiago Argüello",
+          "Groupement des universités et grandes écoles de France pour les relations avec la Amerique latine"
+        ],
+        "publishedDate": "1916",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:54168938"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "categories": [
+          "World War, 1914-1918"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.com.co/books?id=6cnCGwAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&cd=79&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=6cnCGwAACAAJ&dq=inauthor:%22Santiago+Arg%C3%BCello%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_Guerre_europ%C3%A9enne_devant_l_Am%C3%A9rique.html?hl=&id=6cnCGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6cnCGwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

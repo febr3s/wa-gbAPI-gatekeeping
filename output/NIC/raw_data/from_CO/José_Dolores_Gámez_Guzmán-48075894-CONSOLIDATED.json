@@ -1,0 +1,134 @@
+{
+  "getRequest": "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Dolores%20G%C3%A1mez%20Guzm%C3%A1n\"&maxResults=20&startIndex=0&key=REDACTED",
+  "_requestUrls": [
+    "https://www.googleapis.com/books/v1/volumes?q=inauthor:\"Jos%C3%A9%20Dolores%20G%C3%A1mez%20Guzm%C3%A1n\"&maxResults=20&startIndex=0&key=REDACTED"
+  ],
+  "_totalQueriedItems": 2,
+  "_totalFetchedItems": 2,
+  "_totalRequestsMade": 1,
+  "_batchSizeUsed": 20,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "ushazwEACAAJ",
+      "etag": "larwZSpTCLA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ushazwEACAAJ",
+      "volumeInfo": {
+        "title": "Correspondence re: Harsh Treatment of Mosquito [Miskito] Indians in Nicaragua, April 10-June 4, 1908",
+        "authors": [
+          "José Dolores Gámez Guzmán (1851)",
+          "Lionel Edward Gresley Carden (1851)",
+          "Louis du Pan Mallet (1864)"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1339588371"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Electronic books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=ushazwEACAAJ&dq=inauthor:%22Jos%C3%A9+Dolores+G%C3%A1mez+Guzm%C3%A1n%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=ushazwEACAAJ&dq=inauthor:%22Jos%C3%A9+Dolores+G%C3%A1mez+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Correspondence_re_Harsh_Treatment_of_Mos.html?hl=&id=ushazwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ushazwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eHZXzwEACAAJ",
+      "etag": "NVFt2i5KQwo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eHZXzwEACAAJ",
+      "volumeInfo": {
+        "title": "Correspondence re: Dues Charged on Turtles Caught in Nicaraguan Waters, September 20-November 12, 1907",
+        "authors": [
+          "José Dolores Gámez Guzmán (1851)",
+          "Lionel Edward Gresley Carden (1851)",
+          "Louis du Pan Mallet (1864)"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1339196272"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Electronic books"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.co/books?id=eHZXzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Dolores+G%C3%A1mez+Guzm%C3%A1n%22&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.co/books?id=eHZXzwEACAAJ&dq=inauthor:%22Jos%C3%A9+Dolores+G%C3%A1mez+Guzm%C3%A1n%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Correspondence_re_Dues_Charged_on_Turtle.html?hl=&id=eHZXzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "CO",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "CO",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eHZXzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}
