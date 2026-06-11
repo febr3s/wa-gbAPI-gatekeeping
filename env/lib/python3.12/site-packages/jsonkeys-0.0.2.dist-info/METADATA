@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: jsonkeys
+Version: 0.0.2
+Summary: A small package to read JSON keys in a tree structure.
+Project-URL: Homepage, https://github.com/4gatepylon/jsonkeys
+Project-URL: Bug Tracker, https://github.com/4gatepylon/jsonkeys
+Author-email: Adriano Hernandez <adrianohernandez2000@gmail.com>
+License-File: LICENSE
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.8
+Requires-Dist: click<9,>=8.0.4
+Description-Content-Type: text/markdown
+
+# jsonkeys
+Script just to have the ability to print the keys of a json in a tree to help understand big JSONs (also supports YAMLs and pickles so long as the underlying object turns into a dict).
+
+WARNING: This is not actively supported.
